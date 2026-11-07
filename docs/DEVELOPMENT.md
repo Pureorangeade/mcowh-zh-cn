@@ -23,7 +23,13 @@ node tests/editor_core.test.js
 4. dist/MCOWH-zh-CN-0.3.0-llm-review/patch.mcpatch：上述玩家ZIP中的差分包。
 5. build/0.3.0-llm-review：用冻结差分包及干净英文副本重建的旧版资源。bundle.prepare提供重建入口，产物不需安装到游戏。
 
-冻结0.3.0发布输入与本机资源不等同于GitHub自动生成的源码ZIP；缺少时应联系维护者补齐已验证的旧发布包，不自行猜造基线。
+Releases中的MCOWH-development-baseline-0.3.0.zip包含第3项的两个冻结旧ZIP，将其解压到dist，再从旧玩家ZIP取出patch.mcpatch到第4项路径。它只包含旧发布差分和源码，不含原游戏BIN；第2项原版资源仍需开发者自行提供。这些输入不等同于GitHub自动生成的源码ZIP，不要自行猜造基线。
+
+重建第5项示例（先确认项目根目录下的work/clean-fixture与profiles基线匹配）：
+
+```powershell
+python -c "import sys; from pathlib import Path; sys.path.insert(0,'tools'); from bundle import prepare; prepare(Path('dist/MCOWH-zh-CN-0.3.0-llm-review/patch.mcpatch'),Path('work/clean-fixture'),Path('build/0.3.0-llm-review'))"
+```
 
 准备完输入后：
 
