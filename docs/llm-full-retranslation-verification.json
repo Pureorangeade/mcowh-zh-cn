@@ -1,0 +1,65 @@
+{
+  "schema": 1,
+  "verified_date": "2026-11-07",
+  "method": "current_online_chat_llm",
+  "separate_api_called": false,
+  "game_files_modified": false,
+  "retranslation_queue_empty": true,
+  "completed_batches": {
+    "range": "0050-0061",
+    "counts": {
+      "0050": 152,
+      "0051": 150,
+      "0052": 147,
+      "0053": 163,
+      "0054": 187,
+      "0055": 173,
+      "0056": 190,
+      "0057": 190,
+      "0058": 212,
+      "0059": 188,
+      "0060": 200,
+      "0061": 397
+    }
+  },
+  "catalogue_status": {
+    "total_entries": 12204,
+    "llm_translated": 12040,
+    "awaiting_retranslation": 0,
+    "awaiting_user": 21,
+    "retained_original": 1,
+    "retained_english": 79,
+    "retained_command": 63
+  },
+  "final_review": {
+    "issue_count": 32,
+    "affected_entry_count": 451
+  },
+  "validation": {
+    "python_unittest": {
+      "passed": 52,
+      "failed": 0
+    },
+    "editor_core": "passed",
+    "editor_browser": "passed",
+    "editor_entries": 12204,
+    "editor_llm_entries": 12040,
+    "editor_japanese_display_entries": 11951,
+    "browser_checks": [
+      "page loads",
+      "English and Japanese panes are read-only",
+      "LLM-only filter",
+      "final-review marking and persistence",
+      "draft recovery after reload",
+      "translation and review decision export",
+      "locked abbreviation preservation",
+      "invalid control rejection",
+      "incremental browser draft storage avoids localStorage quota failure"
+    ]
+  },
+  "notes": [
+    "21 entries remain awaiting an explicit user decision and are not counted as completed.",
+    "The editor now stores only changes relative to embedded translations in localStorage.",
+    "No game launch, patch installation, player-package rebuild, or gameplay acceptance was performed."
+  ]
+}

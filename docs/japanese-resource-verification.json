@@ -1,0 +1,1074 @@
+{
+  "schema": 1,
+  "checked_date": "2026-11-07",
+  "usable": true,
+  "origin": "Steam Japanese content depot 409003",
+  "version": "Steam build 1527978; JP manifest 6676882424485310473",
+  "files": [
+    {
+      "path": "D3D11/Data/archive.bin",
+      "size": 558756,
+      "sha256": "d422311929d310212fb603ac9cebab09a2200795fe114a2a9b01325488f1d680"
+    },
+    {
+      "path": "D3D11/Data/data0100.bin",
+      "size": 17568,
+      "sha256": "59731044f3d2de689eee6f858d52bd680d52b4769b711d36a77e92ccc2365023"
+    },
+    {
+      "path": "D3D11/Data/data0200.bin",
+      "size": 6788208,
+      "sha256": "19880e28e3974803f64652d96539294ad872d5674bc6e1e4b6ce91558dd75859"
+    },
+    {
+      "path": "D3D11/Data/data0500.bin",
+      "size": 635248,
+      "sha256": "031f4b5bf4c93005c03eb7902ec582fd03ed92a92914d2572af2dd070fdecea0"
+    },
+    {
+      "path": "D3D11/Data/data1200.bin",
+      "size": 20288,
+      "sha256": "b7e9f7ad56066210608228f2bf47edbd5a8b0d4c8a5f416341010ff857501536"
+    }
+  ],
+  "resource_index_entries": 3445,
+  "resource_blocks_decompressed": 430,
+  "database_string_fields": 63821,
+  "database_layout_matches": true,
+  "database_tables": 80,
+  "script_alignment": {
+    "d3d11/data/event/event.pack": {
+      "aligned_files": 3145,
+      "Japanese_utf8": 3145
+    },
+    "d3d11/data/uiscript/uiscript.pack": {
+      "aligned_files": 72,
+      "Japanese_utf8": 72
+    }
+  },
+  "aligned_entries": 11951,
+  "by_kind": {
+    "database": 5479,
+    "message": 5661,
+    "choice": 650,
+    "button": 118,
+    "system": 43
+  },
+  "unaligned_entries": 253,
+  "unmatched": [
+    {
+      "id": "db/69/1/2",
+      "reason": "Japanese field is empty"
+    },
+    {
+      "id": "db/69/2/2",
+      "reason": "Japanese field is empty"
+    },
+    {
+      "id": "db/70/170/2",
+      "reason": "Japanese field is empty"
+    },
+    {
+      "id": "choice/data/event/object/udb22_206_goddes_main.txt/1580",
+      "reason": "Internal control directive, not display text"
+    },
+    {
+      "id": "choice/data/event/object/udb22_316_skill_trainer_castle_ev_talk.txt/1748",
+      "reason": "Internal control directive, not display text"
+    },
+    {
+      "id": "choice/data/event/object/udb22_321_bird_ev_talk.txt/2",
+      "reason": "Internal control directive, not display text"
+    },
+    {
+      "id": "choice/data/event/object/udb22_321_bird_ev_talk.txt/431",
+      "reason": "Internal control directive, not display text"
+    },
+    {
+      "id": "choice/data/event/object/udb22_321_bird_ev_talk.txt/779",
+      "reason": "Internal control directive, not display text"
+    },
+    {
+      "id": "choice/data/event/object/udb22_321_bird_ev_talk.txt/1162",
+      "reason": "Internal control directive, not display text"
+    },
+    {
+      "id": "choice/data/event/object/udb22_321_bird_ev_talk.txt/2323",
+      "reason": "Internal control directive, not display text"
+    },
+    {
+      "id": "choice/data/event/object/udb22_321_bird_ev_talk.txt/3211",
+      "reason": "Internal control directive, not display text"
+    },
+    {
+      "id": "choice/data/event/object/udb22_321_bird_ev_talk.txt/3703",
+      "reason": "Internal control directive, not display text"
+    },
+    {
+      "id": "choice/data/event/object/udb22_321_bird_ev_talk.txt/4060",
+      "reason": "Internal control directive, not display text"
+    },
+    {
+      "id": "choice/data/event/object/udb22_321_bird_ev_talk.txt/4458",
+      "reason": "Internal control directive, not display text"
+    },
+    {
+      "id": "choice/data/event/object/udb22_321_bird_ev_talk.txt/4874",
+      "reason": "Internal control directive, not display text"
+    },
+    {
+      "id": "choice/data/event/object/udb22_321_bird_ev_talk.txt/5345",
+      "reason": "Internal control directive, not display text"
+    },
+    {
+      "id": "choice/data/event/object/udb22_321_bird_ev_talk.txt/5786",
+      "reason": "Internal control directive, not display text"
+    },
+    {
+      "id": "choice/data/event/object/udb22_321_bird_ev_talk.txt/6122",
+      "reason": "Internal control directive, not display text"
+    },
+    {
+      "id": "choice/data/event/object/udb22_321_bird_ev_talk.txt/6402",
+      "reason": "Internal control directive, not display text"
+    },
+    {
+      "id": "choice/data/event/object/udb22_321_bird_ev_talk.txt/6650",
+      "reason": "Internal control directive, not display text"
+    },
+    {
+      "id": "choice/data/event/object/udb22_321_bird_ev_talk.txt/6798",
+      "reason": "Internal control directive, not display text"
+    },
+    {
+      "id": "choice/data/event/object/udb22_321_bird_ev_talk.txt/6967",
+      "reason": "Internal control directive, not display text"
+    },
+    {
+      "id": "choice/data/event/object/udb22_321_bird_ev_talk.txt/7284",
+      "reason": "Internal control directive, not display text"
+    },
+    {
+      "id": "choice/data/event/object/udb22_321_bird_ev_talk.txt/7601",
+      "reason": "Internal control directive, not display text"
+    },
+    {
+      "id": "choice/data/event/object/udb22_321_bird_ev_talk.txt/7918",
+      "reason": "Internal control directive, not display text"
+    },
+    {
+      "id": "choice/data/event/object/udb22_321_bird_ev_talk.txt/8235",
+      "reason": "Internal control directive, not display text"
+    },
+    {
+      "id": "choice/data/event/object/udb22_321_bird_ev_talk.txt/8440",
+      "reason": "Internal control directive, not display text"
+    },
+    {
+      "id": "choice/data/event/object/udb22_321_bird_ev_talk.txt/8757",
+      "reason": "Internal control directive, not display text"
+    },
+    {
+      "id": "choice/data/event/object/udb22_321_bird_ev_talk.txt/9074",
+      "reason": "Internal control directive, not display text"
+    },
+    {
+      "id": "choice/data/event/object/udb22_321_bird_ev_talk.txt/9391",
+      "reason": "Internal control directive, not display text"
+    },
+    {
+      "id": "choice/data/event/object/udb22_321_bird_ev_talk.txt/9744",
+      "reason": "Internal control directive, not display text"
+    },
+    {
+      "id": "choice/data/event/object/udb22_321_bird_ev_talk.txt/10052",
+      "reason": "Internal control directive, not display text"
+    },
+    {
+      "id": "choice/data/event/object/udb22_321_bird_ev_talk.txt/10452",
+      "reason": "Internal control directive, not display text"
+    },
+    {
+      "id": "choice/data/event/object/udb22_321_bird_ev_talk.txt/10893",
+      "reason": "Internal control directive, not display text"
+    },
+    {
+      "id": "choice/data/event/object/udb22_321_bird_ev_talk.txt/11193",
+      "reason": "Internal control directive, not display text"
+    },
+    {
+      "id": "choice/data/event/object/udb22_321_bird_ev_talk.txt/11618",
+      "reason": "Internal control directive, not display text"
+    },
+    {
+      "id": "choice/data/event/object/udb22_321_bird_ev_talk.txt/11914",
+      "reason": "Internal control directive, not display text"
+    },
+    {
+      "id": "choice/data/event/object/udb22_321_bird_ev_talk.txt/12343",
+      "reason": "Internal control directive, not display text"
+    },
+    {
+      "id": "choice/data/event/object/udb22_321_bird_ev_talk.txt/12462",
+      "reason": "Internal control directive, not display text"
+    },
+    {
+      "id": "choice/data/event/object/udb22_321_bird_ev_talk.txt/12859",
+      "reason": "Internal control directive, not display text"
+    },
+    {
+      "id": "choice/data/event/object/udb22_321_bird_ev_talk.txt/13170",
+      "reason": "Internal control directive, not display text"
+    },
+    {
+      "id": "choice/data/event/object/udb22_321_bird_ev_talk.txt/13563",
+      "reason": "Internal control directive, not display text"
+    },
+    {
+      "id": "choice/data/event/object/udb22_321_bird_ev_talk.txt/13877",
+      "reason": "Internal control directive, not display text"
+    },
+    {
+      "id": "choice/data/event/object/udb22_321_bird_ev_talk.txt/14103",
+      "reason": "Internal control directive, not display text"
+    },
+    {
+      "id": "choice/data/event/object/udb22_321_bird_ev_talk.txt/14330",
+      "reason": "Internal control directive, not display text"
+    },
+    {
+      "id": "choice/data/event/object/udb22_321_bird_ev_talk.txt/14561",
+      "reason": "Internal control directive, not display text"
+    },
+    {
+      "id": "choice/data/event/object/udb22_321_bird_ev_talk.txt/14800",
+      "reason": "Internal control directive, not display text"
+    },
+    {
+      "id": "choice/data/event/object/udb22_321_bird_ev_talk.txt/14968",
+      "reason": "Internal control directive, not display text"
+    },
+    {
+      "id": "choice/data/event/object/udb22_450_blacksmith_ev_talk.txt/1785",
+      "reason": "Internal control directive, not display text"
+    },
+    {
+      "id": "choice/data/event/object/udb22_474_mystery_woman_ev_talk.txt/928",
+      "reason": "Internal control directive, not display text"
+    },
+    {
+      "id": "choice/data/event/object/udb22_474_mystery_woman_ev_talk.txt/1335",
+      "reason": "Internal control directive, not display text"
+    },
+    {
+      "id": "choice/data/event/object/udb22_720_goddes_main.txt/389",
+      "reason": "Internal control directive, not display text"
+    },
+    {
+      "id": "choice/data/event/object/udb22_720_goddes_main.txt/744",
+      "reason": "Internal control directive, not display text"
+    },
+    {
+      "id": "choice/data/event/skill/udb1_380_marloft_skilltalk.txt/4871",
+      "reason": "Internal control directive, not display text"
+    },
+    {
+      "id": "choice/data/event/skill/udb1_99_fairy_skilltalk.txt/21",
+      "reason": "Internal control directive, not display text"
+    },
+    {
+      "id": "choice/data/event/skill/udb1_99_fairy_skilltalk.txt/2052",
+      "reason": "Internal control directive, not display text"
+    },
+    {
+      "id": "choice/data/event/skill/udb1_99_fairy_skilltalk.txt/2748",
+      "reason": "Internal control directive, not display text"
+    },
+    {
+      "id": "choice/data/event/skill/udb1_99_fairy_skilltalk_chat.txt/87",
+      "reason": "Internal control directive, not display text"
+    },
+    {
+      "id": "choice/data/event/skill/udb1_99_fairy_skilltalk_chat.txt/267",
+      "reason": "Internal control directive, not display text"
+    },
+    {
+      "id": "choice/data/event/skill/udb1_99_fairy_skilltalk_chat.txt/436",
+      "reason": "Internal control directive, not display text"
+    },
+    {
+      "id": "choice/data/event/skill/udb1_99_fairy_skilltalk_chat.txt/1019",
+      "reason": "Internal control directive, not display text"
+    },
+    {
+      "id": "choice/data/event/skill/udb1_99_fairy_skilltalk_chat.txt/1341",
+      "reason": "Internal control directive, not display text"
+    },
+    {
+      "id": "choice/data/event/timer/udb24_42_goddess_message.txt/173",
+      "reason": "Internal control directive, not display text"
+    },
+    {
+      "id": "choice/data/event/timer/udb24_xxx_dlc_levelup_skill.txt/1049",
+      "reason": "Internal control directive, not display text"
+    },
+    {
+      "id": "choice/data/event/timer/udb24_xxx_dlc_levelup_skill.txt/2029",
+      "reason": "Internal control directive, not display text"
+    },
+    {
+      "id": "choice/data/event/timer/udb24_xxx_dlc_levelup_skill.txt/3009",
+      "reason": "Internal control directive, not display text"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/common/text/tx_buy.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/common/text/tx_clear.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/common/text/tx_type.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/common/text/tx_wt_01.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/common/text/tx_turn.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/common/text/tx_performance.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/common/text/tx_details.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/common/text/tx_select.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/common/text/tx_status.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/common/text/tx_perks.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/common/text/tx_return.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/common/text/tx_gift.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/common/text/tx_attention.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/common/text/tx_dialog.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/common/text/tx_sell.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/common/text/tx_ability.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/common/text/tx_platform.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/common/text/tx_new.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/common/text/tx_cost.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/common/text/tx_enchant.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/common/text/tx_world.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/common/text/tx_silver.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/common/text/tx_party.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/common/text/tx_wt.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/common/text/tx_list.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/common/text/tx_equipment.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/common/text/tx_quantity.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/common/text/tx_condition.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ex/class_data/tx_grade_0.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ex/class_data/tx_grade_5.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ex/class_data/tx_grade_4.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ex/class_data/tx_grade_3.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ex/class_data/tx_grade_2.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ex/class_data/tx_grade_1.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/game_main/tx_distance02.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/game_main/tx_km.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/game_main/tx_distance.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/game_main/tx_day.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/game_menu/tx_equip.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/game_menu/tx_buy.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/game_menu/tx_system.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/game_menu/tx_item2.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/game_menu/tx_reward.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/game_menu/tx_foot2.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/game_menu/tx_item.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/game_menu/tx_log.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/game_menu/tx_depot.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/game_menu/tx_status.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/game_menu/tx_not.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/game_menu/tx_foot.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/game_menu/tx_skill.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/game_menu/tx_baggage.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/class_tx/tx_04_b.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/keyboard/tx_cancel_def.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/tx_world_mini.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/class_tx/tx_14_s.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/tx_difficulty.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/tx_demolition.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/class_tx/tx_24_b.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/tx_movie.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/tx_build.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/tx_cross.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/tx_search.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/class_tx/tx_05_b.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/tx_twitter.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/tx_point.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/tx_upload.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/class_tx/tx_15_s.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/class_tx/tx_25_b.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/tx_exchange.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/tx_set.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/tx_playback.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/class_tx/tx_06_b.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/tx_controller.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/tx_download.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/tx_depot.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/class_tx/tx_16_s.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/class_tx/tx_10_b.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/tx_perks.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/tx_ex.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/class_tx/tx_20_s.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/class_tx/tx_07_b.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/tx_record.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/class_tx/tx_01_s.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/class_tx/tx_17_s.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/class_tx/tx_11_b.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/tx_comment.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/tx_operation_b.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/keyboard/tx_random_select.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/tx_replay.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/class_tx/tx_21_s.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/class_tx/tx_08_b.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/keyboard/tx_delete_select.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/class_tx/tx_02_s.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/class_tx/tx_18_s.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/tx_castle.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/class_tx/tx_12_b.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/tx_vs.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/tx_special.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/tx_offcampaign.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/class_tx/tx_22_s.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/tx_special2.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/class_tx/tx_09_b.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/keyboard/tx_delete_def.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/keyboard/tx_fix_def.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/tx_epilogue.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/keyboard/tx_key_small_letter_off.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/tx_sound.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/class_tx/tx_03_s.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/class_tx/tx_19_s.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/tx_operation_a.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/class_tx/tx_13_b.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/tx_system.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/tx_name.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/class_tx/tx_23_s.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/tx_newclass.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/tx_bgm.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/tx_chara.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/class_tx/tx_04_s.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/class_tx/tx_14_b.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/tx_operate.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/tx_load.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/keyboard/tx_key_small_letter.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/tx_appoint.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/tx_history.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/class_tx/tx_24_s.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/tx_wait.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/tx_campaign.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/tx_recorder.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/tx_medal.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/class_tx/tx_05_s.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/tx_option.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/class_tx/tx_15_b.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/tx_resident.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/class_tx/tx_25_s.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/tx_result.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/class_tx/tx_06_s.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/tx_limit.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/tx_keyboard.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/class_tx/tx_16_b.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/tx_ready.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/tx_save.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/class_tx/tx_10_s.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/tx_memory.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/class_tx/tx_20_b.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/class_tx/tx_07_s.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/class_tx/tx_01_b.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/class_tx/tx_17_b.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/tx_data.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/tx_picture.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/class_tx/tx_11_s.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/keyboard/tx_fix_select.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/class_tx/tx_21_b.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/tx_class.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/class_tx/tx_08_s.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/class_tx/tx_02_b.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/class_tx/tx_18_b.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/tx_world.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/tx_random.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/class_tx/tx_12_s.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/keyboard/tx_random_def.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/class_tx/tx_22_b.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/tx_winner.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/keyboard/tx_cancel_select.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/tx_newperks.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/tx_playback02.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/class_tx/tx_09_s.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/tx_vs2.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/class_tx/tx_03_b.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/class_tx/tx_19_b.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/class_tx/tx_13_s.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/tx_replay02.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/ready/class_tx/tx_23_b.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/result/tx_totalget_stone_vs.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/result/tx_stoneunit_s.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/result/tx_stoneunit_l.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/result/tx_totalget_stone.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/title/tx_exit.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/title/tx_start.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/title/tx_press_steam.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/title/tx_new.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/title/tx_press.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/title/tx_option.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/title/tx_vs.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/title/tx_extra.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/title/tx_continue.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/title/tx_playable.png.phyre",
+      "reason": "Image caption requires separate visual extraction"
+    }
+  ],
+  "note": "These are actual Japanese display sources, structurally aligned. Semantic equivalence and English/Japanese differences still require entry-by-entry review.",
+  "game_files_modified": false
+}

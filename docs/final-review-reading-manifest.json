@@ -1,0 +1,246 @@
+{
+  "schema": 1,
+  "snapshot_batch": "0064",
+  "date": "2026-11-07",
+  "review_numbers": [
+    {
+      "review_number": "F01",
+      "issue_id": "abbreviation-sp",
+      "entry_ids": [
+        "db/1/88/0"
+      ],
+      "review_status": "user_confirmed",
+      "reviewed_in_batch": "0065",
+      "user_decision": "Sp.译为“特等”，保持Dosey英文人名。"
+    },
+    {
+      "review_number": "F02",
+      "issue_id": "flame-mine-unclear-phrase",
+      "entry_ids": [
+        "db/6/91/3"
+      ],
+      "review_status": "user_confirmed",
+      "reviewed_in_batch": "0065",
+      "user_decision": "and stop译为“停止移动”。"
+    },
+    {
+      "review_number": "F03",
+      "issue_id": "growth-mist-targets",
+      "entry_ids": [
+        "db/6/164/3"
+      ],
+      "review_status": "user_confirmed",
+      "reviewed_in_batch": "0065",
+      "user_decision": "末句译为“对友方NPC使用有效，对伙伴无用”。"
+    },
+    {
+      "review_number": "F04",
+      "issue_id": "review-concentrate-stationary",
+      "entry_ids": [
+        "db/1/9/1"
+      ],
+      "review_status": "user_confirmed",
+      "reviewed_in_batch": "0065",
+      "user_decision": "按日文：多数魔法需要集中，原地连续使用效果增强。"
+    },
+    {
+      "review_number": "F05",
+      "issue_id": "review-old-lightning-area",
+      "entry_ids": [
+        "db/1/42/1"
+      ],
+      "review_status": "user_confirmed",
+      "reviewed_in_batch": "0065",
+      "user_decision": "用户确认沿用当前版本及现有译文，关闭本项终审疑点。"
+    },
+    {
+      "review_number": "F06",
+      "issue_id": "review-frozen-leaf-hp",
+      "entry_ids": [
+        "db/6/11/3"
+      ],
+      "review_status": "user_confirmed",
+      "reviewed_in_batch": "0065",
+      "user_decision": "用户确认沿用当前版本及现有译文，关闭本项终审疑点。"
+    },
+    {
+      "review_number": "F07",
+      "issue_id": "review-smith-scroll-target",
+      "entry_ids": [
+        "db/6/26/3"
+      ],
+      "review_status": "user_confirmed",
+      "reviewed_in_batch": "0065",
+      "user_decision": "用户确认沿用当前版本及现有译文，关闭本项终审疑点。"
+    },
+    {
+      "review_number": "F08",
+      "issue_id": "review-frozen-gem-consumption",
+      "entry_ids": [
+        "db/6/141/3"
+      ],
+      "review_status": "user_confirmed",
+      "reviewed_in_batch": "0065",
+      "user_decision": "按日文：防止食物腐烂；物品因火焰起火时宝石代为碎裂。"
+    },
+    {
+      "review_number": "F09",
+      "issue_id": "review-permanent-travel-parchments",
+      "entry_ids": [
+        "db/6/162/3",
+        "db/6/163/3"
+      ],
+      "review_status": "user_confirmed",
+      "reviewed_in_batch": "0065",
+      "user_decision": "按日文：浮空与游泳书札的效果不会消失。"
+    },
+    {
+      "review_number": "F10",
+      "issue_id": "review-creation-item-count",
+      "entry_ids": [
+        "db/3/73/1"
+      ],
+      "review_status": "user_confirmed",
+      "reviewed_in_batch": "0065",
+      "user_decision": "用户确认沿用当前版本及现有译文，关闭本项终审疑点。"
+    },
+    {
+      "review_number": "F11",
+      "issue_id": "status-xp-ten-percent",
+      "entry_ids": [
+        "db/13/129/0"
+      ],
+      "review_status": "user_confirmed",
+      "reviewed_in_batch": "0065",
+      "user_decision": "用户确认沿用当前版本及现有译文，关闭本项终审疑点。"
+    },
+    {
+      "review_number": "F12",
+      "issue_id": "usage-counter-label",
+      "entry_ids": [
+        "db/1/409/1",
+        "db/1/433/1"
+      ],
+      "review_status": "user_confirmed",
+      "reviewed_in_batch": "0065",
+      "user_decision": "按日文：变量表示当前已使用次数，不是使用次数上限。"
+    },
+    {
+      "review_number": "F13",
+      "issue_id": "assassinate-excluded-targets",
+      "entry_ids": [
+        "db/1/531/1"
+      ],
+      "review_status": "user_confirmed",
+      "reviewed_in_batch": "0065",
+      "user_decision": "用户确认沿用当前版本及现有译文，关闭本项终审疑点。"
+    },
+    {
+      "review_number": "F14",
+      "issue_id": "kaboom-minimum-damage",
+      "entry_ids": [
+        "db/1/583/1"
+      ],
+      "review_status": "user_confirmed",
+      "reviewed_in_batch": "0065",
+      "user_decision": "按日文：ATK至少为3倍。"
+    },
+    {
+      "review_number": "F15",
+      "issue_id": "aerdou-spec-label",
+      "entry_ids": [
+        "db/1/391/0",
+        "db/1/392/0"
+      ],
+      "review_status": "user_confirmed",
+      "reviewed_in_batch": "0065",
+      "user_decision": "[Spec]改为[特]；不推测缩写英文全称。"
+    },
+    {
+      "review_number": "F16",
+      "issue_id": "phantasm-st-cost",
+      "entry_ids": [
+        "db/1/425/1"
+      ],
+      "review_status": "user_confirmed",
+      "reviewed_in_batch": "0065",
+      "user_decision": "用户确认沿用当前版本及现有译文，关闭本项终审疑点。"
+    },
+    {
+      "review_number": "F17",
+      "issue_id": "name-tonitrus",
+      "entry_ids": [
+        "db/1/488/0"
+      ],
+      "review_status": "user_confirmed",
+      "reviewed_in_batch": "0065",
+      "user_decision": "用户确认沿用当前版本及现有译文，关闭本项终审疑点。"
+    },
+    {
+      "review_number": "F18",
+      "issue_id": "ancient-hand-stat-difference",
+      "entry_ids": [
+        "db/3/155/1"
+      ],
+      "review_status": "deferred_final",
+      "reviewed_in_batch": "0065",
+      "user_decision": "用户再次确认继续待处理；维持当前英文版含义，不自行改用日文。"
+    },
+    {
+      "review_number": "F19",
+      "issue_id": "ring-despair-force-difference",
+      "entry_ids": [
+        "db/5/74/1"
+      ],
+      "review_status": "deferred_final",
+      "reviewed_in_batch": "0065",
+      "user_decision": "用户再次确认继续待处理；维持当前英文版含义，不自行改用日文。"
+    },
+    {
+      "review_number": "F20",
+      "issue_id": "review-shine-raid-speed",
+      "entry_ids": [
+        "db/33/65/1"
+      ],
+      "review_status": "deferred_final",
+      "reviewed_in_batch": "0065",
+      "user_decision": "用户再次确认继续待处理；维持当前英文版含义，不自行改用日文。"
+    },
+    {
+      "review_number": "F21",
+      "issue_id": "review-world-experience-multiplier",
+      "entry_ids": [
+        "db/33/90/1",
+        "db/33/98/1",
+        "db/33/99/1",
+        "db/33/100/1"
+      ],
+      "review_status": "deferred_final",
+      "reviewed_in_batch": "0065",
+      "user_decision": "用户再次确认继续待处理；维持当前英文版含义，不自行改用日文。"
+    }
+  ],
+  "personal_names_skipped": [
+    "name-zeukrees",
+    "name-pluton",
+    "name-auris",
+    "name-baldur",
+    "name-draco",
+    "name-koppa",
+    "name-albert",
+    "name-nami",
+    "name-cole",
+    "name-merril",
+    "name-aerdou",
+    "name-coco",
+    "name-olga",
+    "name-creatoire",
+    "name-lilith",
+    "name-lillith",
+    "name-aria",
+    "name-monomi"
+  ],
+  "reviewed_in_batch": "0065",
+  "reviewed_date": "2026-11-08",
+  "note": "F01-F21 numbering remains bound to the original 0064 snapshot; do not renumber remaining F18-F21."
+}

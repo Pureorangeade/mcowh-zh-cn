@@ -1,0 +1,4 @@
+lz4==4.3.2
+Pillow==12.3.0
+fonttools==4.60.1
+pyinstaller==6.22.3

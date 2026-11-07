@@ -1,0 +1,176 @@
+{
+  "schema": 1,
+  "status": "user_confirmed",
+  "date": "2026-11-08",
+  "baseline": "0.3.0-llm-review",
+  "user_instruction": "从0.3.0重新开始，只修改列出的19项；MOV为移速。",
+  "terms": {
+    "STR": "力量",
+    "VIT": "体质",
+    "AGI": "敏捷",
+    "INT": "智力",
+    "WIL": "意志",
+    "CHR": "魅力",
+    "LOK": "开锁",
+    "CLM": "登山",
+    "SWM": "游泳",
+    "ATK": "攻击",
+    "FOR": "魔力",
+    "ARM": "护甲",
+    "RED": "减伤率",
+    "ACC": "命中率",
+    "MOV": "移速",
+    "EVA": "闪避率",
+    "COM": "连击率",
+    "CRI": "暴击率",
+    "ID": "鉴定率"
+  },
+  "scope": "Exact character-panel labels and pure listed-term panel templates only. No images, HUD labels, adjustment labels, level-up text, HP/ST/EN/Lv/Exp/WT or other strings.",
+  "fields": {
+    "db/58/140/1": {
+      "source": "STR",
+      "source_sha256": "e1bad657cc0ddd36f29241b98e87efbe8c0342f684711d6e725dd28c2bf52704",
+      "translation": "力量"
+    },
+    "db/58/141/1": {
+      "source": "VIT",
+      "source_sha256": "8d1783f5216d63800ae537bccde05afc1bb676882d1e75363485eb63c8dbfad8",
+      "translation": "体质"
+    },
+    "db/58/142/1": {
+      "source": "AGI",
+      "source_sha256": "6a8b1f7a132c893adf19721c93f5183696a41dc23d294c9987e3e697e072b550",
+      "translation": "敏捷"
+    },
+    "db/58/143/1": {
+      "source": "INT",
+      "source_sha256": "370fbb51f069ddc08e23504f7f3a8d85d629664229f8b77f85eed5b8f5a267ed",
+      "translation": "智力"
+    },
+    "db/58/144/1": {
+      "source": "WIL",
+      "source_sha256": "f2d0c5a346f738db76b5eee8ba3c68c7687563f77457b3c65c4ca36a0d38cb99",
+      "translation": "意志"
+    },
+    "db/58/145/1": {
+      "source": "CHR",
+      "source_sha256": "4088d23b5d7ed18499a1bee2e1222b223a5a874b5daf635952d33bf54aad9861",
+      "translation": "魅力"
+    },
+    "db/58/146/1": {
+      "source": "LOK",
+      "source_sha256": "7dc6e412c73ab25552a5cb6ed107a7984166e7646fecb39f5e5b920e563c74f0",
+      "translation": "开锁"
+    },
+    "db/58/147/1": {
+      "source": "CLM",
+      "source_sha256": "ec5e94972bb29f3a218fe1212c4de4676494520232d8c49684f90a605848498a",
+      "translation": "登山"
+    },
+    "db/58/148/1": {
+      "source": "SWM",
+      "source_sha256": "dd2ca4b8af06ebc1a3969a4004abaccab6ccfb27c7ac46efbc4b35ba4cfc4f66",
+      "translation": "游泳"
+    },
+    "db/58/150/1": {
+      "source": "ATK",
+      "source_sha256": "ad5b433f01b517ddc7ce7ce3b91cf713962acf1f4d88fe044fb880adb1ede83c",
+      "translation": "攻击"
+    },
+    "db/58/151/1": {
+      "source": "FOR",
+      "source_sha256": "e8150c40ae29372dabb70316675db4e855ed6c4f4d879c8d43573a65d94dd78b",
+      "translation": "魔力"
+    },
+    "db/58/152/1": {
+      "source": "ARM",
+      "source_sha256": "316dddc5a44e6bf789862edca92140b61a6da73425ca91fcd369a30979b9c0a1",
+      "translation": "护甲"
+    },
+    "db/58/153/1": {
+      "source": "RED",
+      "source_sha256": "65cbe1e19791d49b023800b3e22714e2589b6339bef5e660b628dd1023506ebd",
+      "translation": "减伤率"
+    },
+    "db/58/154/1": {
+      "source": "ACC",
+      "source_sha256": "2dde6d03ddaa287e3ac95b4befe8f38e8766a35092fc01e47e28d86c7a29e412",
+      "translation": "命中率"
+    },
+    "db/58/155/1": {
+      "source": "MOV",
+      "source_sha256": "3098b1708ea4f0f6e5b57ffbea417e9eb07603b930ae79265951af92fe1bf732",
+      "translation": "移速"
+    },
+    "db/58/156/1": {
+      "source": "EVA",
+      "source_sha256": "5517bab653668facef67e08f959d3af9f63e80a0570411d1f4f7c6b0460bc24e",
+      "translation": "闪避率"
+    },
+    "db/58/157/1": {
+      "source": "COM",
+      "source_sha256": "fc331d1cee889b52b060ca982297b6227261df71ca3cb35eaae2d06776b93f42",
+      "translation": "连击率"
+    },
+    "db/58/158/1": {
+      "source": "CRI",
+      "source_sha256": "e355a192cf018e537b7474deefd4663a431de7c92139c3e382b84822fb8c3384",
+      "translation": "暴击率"
+    },
+    "db/58/159/1": {
+      "source": "ID",
+      "source_sha256": "3843971dcfdee5083e6289e1bbdbb003e538b5a8a668fc43ae4f19d415ac18a2",
+      "translation": "鉴定率"
+    },
+    "db/58/18/1": {
+      "source": "STR \\mx[30]\\cself[10]\r\nVIT \\mx[30]\\cself[11]\r\nAGI \\mx[30]\\cself[12]\r\nINT \\mx[30]\\cself[13]\r\nWIL \\mx[30]\\cself[14]\r\nCHR \\mx[30]\\cself[15]",
+      "source_sha256": "97137b9ebdc5726dd0eddc407823386da95ab4cd4a27ae7abb87bc32f41a5fb8",
+      "translation": "力量 \\mx[30]\\cself[10]\r\n体质 \\mx[30]\\cself[11]\r\n敏捷 \\mx[30]\\cself[12]\r\n智力 \\mx[30]\\cself[13]\r\n意志 \\mx[30]\\cself[14]\r\n魅力 \\mx[30]\\cself[15]"
+    },
+    "db/58/19/1": {
+      "source": "LOK \\mx[30]\\cself[10]\r\nCLM \\mx[30]\\cself[11]\r\nSWM \\mx[30]\\cself[12]",
+      "source_sha256": "c2cf4cc3d921337cbf5723355ce324f81e781de1bd6caeb8755469c43553f969",
+      "translation": "开锁 \\mx[30]\\cself[10]\r\n登山 \\mx[30]\\cself[11]\r\n游泳 \\mx[30]\\cself[12]"
+    },
+    "db/62/171/1": {
+      "source": "\\font[2]\\f[16]\\c[16]STR\r\n\\font[2]\\f[16]\\c[16]VIT\r\n\\font[2]\\f[16]\\c[16]AGI\r\n\\font[2]\\f[16]\\c[16]INT\r\n\\font[2]\\f[16]\\c[16]WIL\r\n\\font[2]\\f[16]\\c[16]CHR\r\n\\font[2]\\f[16]\\c[16]LOK\r\n\\font[2]\\f[16]\\c[16]CLM\r\n\\font[2]\\f[16]\\c[16]SWM\r\n\\font[2]\\f[16]\\c[16]ATK\r\n\\font[2]\\f[16]\\c[16]FOR\r\n\\font[2]\\f[16]\\c[16]ARM\r\n\\font[2]\\f[16]\\c[16]RED\r\n\\font[2]\\f[16]\\c[16]ACC\r\n\\font[2]\\f[16]\\c[16]MOV\r\n\\font[2]\\f[16]\\c[16]EVA\r\n\\font[2]\\f[16]\\c[16]COM\r\n\\font[2]\\f[16]\\c[16]CRI\r\n\\font[2]\\f[16]\\c[16]ID",
+      "source_sha256": "e81566521f97a1ee55649cb05e6fc0d7146b7dffccfe6f0b7ea1d3f6654a23bc",
+      "translation": "\\font[2]\\f[16]\\c[16]力量\r\n\\font[2]\\f[16]\\c[16]体质\r\n\\font[2]\\f[16]\\c[16]敏捷\r\n\\font[2]\\f[16]\\c[16]智力\r\n\\font[2]\\f[16]\\c[16]意志\r\n\\font[2]\\f[16]\\c[16]魅力\r\n\\font[2]\\f[16]\\c[16]开锁\r\n\\font[2]\\f[16]\\c[16]登山\r\n\\font[2]\\f[16]\\c[16]游泳\r\n\\font[2]\\f[16]\\c[16]攻击\r\n\\font[2]\\f[16]\\c[16]魔力\r\n\\font[2]\\f[16]\\c[16]护甲\r\n\\font[2]\\f[16]\\c[16]减伤率\r\n\\font[2]\\f[16]\\c[16]命中率\r\n\\font[2]\\f[16]\\c[16]移速\r\n\\font[2]\\f[16]\\c[16]闪避率\r\n\\font[2]\\f[16]\\c[16]连击率\r\n\\font[2]\\f[16]\\c[16]暴击率\r\n\\font[2]\\f[16]\\c[16]鉴定率"
+    },
+    "db/62/246/1": {
+      "source": "\\font[2]\\f[16]STR\r\n\\font[2]\\f[16]VIT\r\n\\font[2]\\f[16]AGI\r\n\\font[2]\\f[16]INT\r\n\\font[2]\\f[16]WIL\r\n\\font[2]\\f[16]CHR\r\n\\font[2]\\f[16]LOK\r\n\\font[2]\\f[16]CLM\r\n\\font[2]\\f[16]SWM",
+      "source_sha256": "64ccdbc8917e80daaf095918c85830f4d141c073ee47a11296f136f6ea399a99",
+      "translation": "\\font[2]\\f[16]力量\r\n\\font[2]\\f[16]体质\r\n\\font[2]\\f[16]敏捷\r\n\\font[2]\\f[16]智力\r\n\\font[2]\\f[16]意志\r\n\\font[2]\\f[16]魅力\r\n\\font[2]\\f[16]开锁\r\n\\font[2]\\f[16]登山\r\n\\font[2]\\f[16]游泳"
+    },
+    "db/62/120/1": {
+      "source": "STR",
+      "source_sha256": "e1bad657cc0ddd36f29241b98e87efbe8c0342f684711d6e725dd28c2bf52704",
+      "translation": "力量"
+    },
+    "db/62/121/1": {
+      "source": "VIT",
+      "source_sha256": "8d1783f5216d63800ae537bccde05afc1bb676882d1e75363485eb63c8dbfad8",
+      "translation": "体质"
+    },
+    "db/62/122/1": {
+      "source": "AGI",
+      "source_sha256": "6a8b1f7a132c893adf19721c93f5183696a41dc23d294c9987e3e697e072b550",
+      "translation": "敏捷"
+    },
+    "db/62/123/1": {
+      "source": "INT",
+      "source_sha256": "370fbb51f069ddc08e23504f7f3a8d85d629664229f8b77f85eed5b8f5a267ed",
+      "translation": "智力"
+    },
+    "db/62/124/1": {
+      "source": "WIL",
+      "source_sha256": "f2d0c5a346f738db76b5eee8ba3c68c7687563f77457b3c65c4ca36a0d38cb99",
+      "translation": "意志"
+    },
+    "db/62/125/1": {
+      "source": "CHR",
+      "source_sha256": "4088d23b5d7ed18499a1bee2e1222b223a5a874b5daf635952d33bf54aad9861",
+      "translation": "魅力"
+    }
+  }
+}

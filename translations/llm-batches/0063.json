@@ -1,0 +1,466 @@
+{
+  "schema": 1,
+  "project": "mcowh-zh",
+  "batch": "0063",
+  "authored_text_sha256": "f09575ed019697a4876c48f64b93d4c8aedae7ffcef2d85d9dd37c509c94a60f",
+  "entries": [
+    {
+      "id": "db/3/94/0",
+      "source_sha256": "53d2d22dc48fc2d3bb7bcd654510e92ace3044afdc80a56d9eb34e6ddca6c4f4",
+      "source": "Lilith Rod",
+      "translation": "Lilith之杖",
+      "previous_translation": "丽莉丝罗德",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0063",
+      "japanese_check": {
+        "text": "リリスロッド",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "[K]武器_基本性能 / 名前",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "user_decision_scope": {
+        "review_number": "04",
+        "decision": "各自保留Lilith／Lillith，标记终审",
+        "note": "The user approved this wording/version or retention decision; this is not a claim of full human line-by-line acceptance."
+      }
+    },
+    {
+      "id": "db/3/94/1",
+      "source_sha256": "2f1a11255e942c107367cd4f4e3c3ea71114d70430bdcc5f75b2bc8c0e4979ac",
+      "source": "The staff used by Lilith. Makes \\c[61]Force\\c[0] stronger,\r\nand gives \\c[61]Concentrate\\c[0] \\c[60]+1\\c[0]. However its\r\nDurability is low.",
+      "translation": "Lilith使用的法杖。能增强\\c[61]魔力\\c[0]，\r\n并赋予\\c[61]集中\\c[0]\\c[60]+1\\c[0]的效果，但耐久度较低。",
+      "previous_translation": "莉莉斯用过的工作人员 创造 \\c[61]理力\\c[0] 更强壮\r\n并给 \\c[61]集中\\c[0] \\c[60]+1\\c[0]. 不过,\r\n易腐性低。",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0063",
+      "japanese_check": {
+        "text": "リリスが持っていた杖。\r\n\\c[61]理力\\c[0]を強化し、\\c[61]集中\\c[0]\\c[60]+1\\c[0]の効果もある。\r\nしかし耐久度は低い。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "[K]武器_基本性能 / 説明文",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "user_decision_scope": {
+        "review_number": "04",
+        "decision": "各自保留Lilith／Lillith，标记终审",
+        "note": "The user approved this wording/version or retention decision; this is not a claim of full human line-by-line acceptance."
+      }
+    },
+    {
+      "id": "db/3/160/1",
+      "source_sha256": "634e39e75047701e31c0a3bd320c84968541eb384d6d09169929fdbb4d96a7e6",
+      "source": "A war-spear made with the secret skills of\r\nthe Samurai Country. Long! Big! Heavy!\r\n\\c[61]Crit\\c[0] \\c[60]+50%\\c[0], \\c[61]Combo\\c[0] \\c[60]-40%\\c[0].",
+      "translation": "以武士之国秘传技艺打造的战场用刀剑。\r\n长！大！重！\r\n\\c[61]暴击率\\c[0]\\c[60]+50%\\c[0]，\\c[61]连击率\\c[0]\\c[60]-40%\\c[0]。",
+      "previous_translation": "以秘密技巧制造的战利品\r\n武士国家 长! 大块头! 重点!\r\n\\c[61]克里特语Name\\c[0] \\c[60]+50%\\c[0], \\c[61]组合\\c[0] \\c[60]-40%\\c[0].",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0063",
+      "japanese_check": {
+        "text": "和の国秘伝の技術で作られた、戦場用の刀剣。\r\n長い！でかい！重い！\r\n\\c[61]必殺率\\c[0]\\c[60]+50％\\c[0]、\\c[61]連続攻撃率\\c[0]\\c[60]-40％\\c[0]。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "[K]武器_基本性能 / 説明文",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "user_decision_scope": {
+        "review_number": "01",
+        "decision": "采用日文：战场用刀剑",
+        "note": "The user approved this wording/version or retention decision; this is not a claim of full human line-by-line acceptance."
+      }
+    },
+    {
+      "id": "db/3/197/1",
+      "source_sha256": "ce6d6007001f0e5ef847d278ca4723408933b154316e3084ec9f8c23d7256f46",
+      "source": "A wooden stick picked up by Monomi.\r\n\\c[61]Attack\\c[0] and \\c[61]Force\\c[0] increase very slightly.",
+      "translation": "Monomi捡来的木棍。\r\n能小幅提升\\c[61]攻击力\\c[0]与\\c[61]魔力\\c[0]。",
+      "previous_translation": "木棍被莫尼米捡起来了\r\n\\c[61]攻击\\c[0] 财务报告和已审计财务报表 \\c[61]理力\\c[0] 增长幅度非常小。",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0063",
+      "japanese_check": {
+        "text": "モノミが拾ってきた木の棒。\r\nほんの少しだけ\\c[61]攻撃力\\c[0]、\\c[61]理力\\c[0]が上昇する。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "[K]武器_基本性能 / 説明文",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "user_decision_scope": {
+        "review_number": "06",
+        "decision": "保留Monomi，标记终审",
+        "note": "The user approved this wording/version or retention decision; this is not a claim of full human line-by-line acceptance."
+      }
+    },
+    {
+      "id": "db/3/198/1",
+      "source_sha256": "6f4ff8aa7926a799f653692db41d3e01febad3d7d6d4bd37ebedf2529be5142d",
+      "source": "A mysterious cane brought by Monomi.\r\nIt's a well made with quite high\r\n\\c[61]Attack\\c[0], \\c[61]Force\\c[0], and \\c[61]Durability\\c[0].",
+      "translation": "Monomi带来的神奇手杖。\r\n制作精良，\\c[61]攻击力\\c[0]、\\c[61]魔力\\c[0]和\\c[61]耐久度\\c[0]都相当高。",
+      "previous_translation": "由莫尼米带来的神秘拐杖\r\n高高的油井造的\r\n\\c[61]攻击\\c[0], \\c[61]理力\\c[0],并且 \\c[61]易腐性\\c[0].",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0063",
+      "japanese_check": {
+        "text": "モノミが持ってきてくれた不思議なステッキ。\r\n\\c[61]攻撃力\\c[0]、\\c[61]理力\\c[0]、\\c[61]耐久値\\c[0]がかなり高い優れモノ。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "[K]武器_基本性能 / 説明文",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "user_decision_scope": {
+        "review_number": "06",
+        "decision": "保留Monomi，标记终审",
+        "note": "The user approved this wording/version or retention decision; this is not a claim of full human line-by-line acceptance."
+      }
+    },
+    {
+      "id": "db/4/10/0",
+      "source_sha256": "efaa90dd2e4c2789bed2fc388c034387437f106bd9e1cd6190ca935abb29cc52",
+      "source": "Convict's Armor",
+      "translation": "断罪者圣铠",
+      "previous_translation": "犯人的盔甲",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0063",
+      "japanese_check": {
+        "text": "断罪者の聖鎧",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "[K]防具_基本性能 / 大地の鎧 / 名前",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "user_decision_scope": {
+        "review_number": "02",
+        "decision": "采用日文：断罪者圣铠",
+        "note": "The user approved this wording/version or retention decision; this is not a claim of full human line-by-line acceptance."
+      }
+    },
+    {
+      "id": "db/4/16/0",
+      "source_sha256": "835b5fa045527e945a016776e57daf6c20c5959e9decb09f76d4510e283d33cd",
+      "source": "Aria's Robe",
+      "translation": "Aria的长袍",
+      "previous_translation": "阿里亚的Robe",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0063",
+      "japanese_check": {
+        "text": "アーリアのローブ",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "[K]防具_基本性能 / 太陽のローブ / 名前",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "user_decision_scope": {
+        "review_number": "05",
+        "decision": "保留Aria，标记终审",
+        "note": "The user approved this wording/version or retention decision; this is not a claim of full human line-by-line acceptance."
+      }
+    },
+    {
+      "id": "db/4/16/1",
+      "source_sha256": "f9b047928b59d0d7a953d0d4f18be92504ae5cb115e578aab6022f14cfb77945",
+      "source": "The robe worn by the \\c[51]Fortuneteller Aria\\c[0].\r\n\\c[61]ATK\\c[0] \\c[60]-25%\\c[0], \\c[61]Force Dmg Reduction\\c[0] \\c[60]+60%\\c[0].",
+      "translation": "\\c[51]占卜师Aria\\c[0]穿过的长袍。\r\n\\c[61]ATK\\c[0]\\c[60]-25%\\c[0]，\\c[61]魔法伤害减免\\c[0]\\c[60]+60%\\c[0]。",
+      "previous_translation": "穿长袍的人 \\c[51]福图内特勒·阿里亚(Fortuneteller Aria)\\c[0].\r\n\\c[61]攻击\\c[0] \\c[60]-25%\\c[0], \\c[61]部队Dmg\\c[0] \\c[60]+60%\\c[0].",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0063",
+      "japanese_check": {
+        "text": "\\c[51]占い師アーリア\\c[0]が持っていたローブ。\r\n\\c[61]攻撃力\\c[0]\\c[60]-25％\\c[0]、\r\n\\c[61]理力ダメージ軽減率\\c[0]\\c[60]+60％\\c[0]。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "[K]防具_基本性能 / 太陽のローブ / 説明文",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "user_decision_scope": {
+        "review_number": "05",
+        "decision": "保留Aria，标记终审",
+        "note": "The user approved this wording/version or retention decision; this is not a claim of full human line-by-line acceptance."
+      }
+    },
+    {
+      "id": "db/5/15/1",
+      "source_sha256": "46cec5ace2790113e2522e2d9436fd8c227c01f822725cc6a559cd4ca40fa985",
+      "source": "The proof of having risen to Knight Captain. \r\n\\c[61]Activates\\c[0] \\c[60]+50%\\c[0] of the time.\r\nWhen active, \\c[61]Armor\\c[0] \\c[60]+18\\c[0], \\c[61]Dmg Reduction\\c[0] \\c[60]+35%\\c[0].",
+      "translation": "晋升骑士长的证明。\r\n\\c[61]格挡几率\\c[0]\\c[60]+50%\\c[0]。\r\n格挡时，\\c[61]护甲\\c[0]\\c[60]+18\\c[0]，\\c[61]伤害减免\\c[0]\\c[60]+35%\\c[0]。",
+      "previous_translation": "向骑士上尉证明 \r\n\\c[61]激活\\c[0] \\c[60]+50%\\c[0] 时间。\r\n当激活时, \\c[61]防御\\c[0] \\c[60]+18\\c[0], \\c[61]伤害减免\\c[0] \\c[60]+35%\\c[0].",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0063",
+      "japanese_check": {
+        "text": "騎士長に勝利した証。性能もさることながら値段も\r\nなかなかな高級品。　\\c[61]防御発動率\\c[0]\\c[60]+50％\\c[0]。\r\n発動時は\\c[61]装甲\\c[0]\\c[60]+18\\c[0]、\\c[61]ダメージ軽減率\\c[0]\\c[60]+35％\\c[0]。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "[K]装飾品_基本性能 / 説明文",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "user_decision_scope": {
+        "review_number": "03",
+        "decision": "采用英文：晋升骑士长的证明",
+        "note": "The user approved this wording/version or retention decision; this is not a claim of full human line-by-line acceptance."
+      }
+    },
+    {
+      "id": "db/33/21/1",
+      "source_sha256": "d06ae5a33f1f94b6cb2cc480e7af97440c24eb1c9bbfa81e656b23ac94217784",
+      "source": "The Dark Knight is watching\r\nin <WORLD>.\r\nHe is in the top right near the castle. Enemies are\r\nstronger. Is there a Dream Vault item that can help?",
+      "translation": "暗黑骑士正在<WORLD>中注视着你。\r\n他会出现在起点附近的左上方。敌人会更强大。\r\n梦幻仓库中是否藏有帮助你的物品？",
+      "previous_translation": "黑暗骑士在看着\r\n内 <WORLD>.\r\n他在城堡的顶部 敌人是\r\n更强壮 有没有一个梦幻洞能帮上忙?",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0063",
+      "japanese_check": {
+        "text": "黒騎士さまが見てる\r\n<WORLD>の旅\r\n　開始地点すぐ左上に黒騎士が出現。夢幻倉庫にアレがあれば……？\r\n　ちょっとだけ敵が強いのはご愛敬。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "[K]ワールド別キャンペーン / 表示メッセージ",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "user_decision_scope": {
+        "review_number": "08",
+        "decision": "采用日文：起点附近左上方",
+        "note": "The user approved this wording/version or retention decision; this is not a claim of full human line-by-line acceptance."
+      }
+    },
+    {
+      "id": "db/33/65/1",
+      "source_sha256": "f7f7b6bc7222e8325215820df827cdcce4b834c044dbe01776db1b4dc0c00562",
+      "source": "The Shine Raid progresses rapidly\r\nin <WORLD>.\r\nThe insatiable light of despair is 3 times faster\r\nbut items are slightly better to compensate.",
+      "translation": "光之灾厄正在<WORLD>中迅速推进。\r\n贪得无厌的绝望之光速度提高至3倍，\r\n但物品会稍好一些作为补偿。",
+      "previous_translation": "光辉突袭迅速发展\r\n内 <WORLD>.\r\n无法满足的绝望之光 3 较快倍数\r\n但有些东西比较好补偿",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0063",
+      "japanese_check": {
+        "text": "シャインレイド急進\r\n絶望の<WORLD>\r\n　絶望の光は無慈悲に世界を飲み込む。3割増しの速度で滅ぶ世界で、\r\n　出現するアイテムの少しの優秀さが、あなたの助けとなるだろう。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "[K]ワールド別キャンペーン / 闇が速い世界 / 表示メッセージ",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "user_decision_scope": {
+        "review_number": "09",
+        "decision": "暂不改动，沿用现英文3倍口径，标记终审",
+        "note": "The user approved this wording/version or retention decision; this is not a claim of full human line-by-line acceptance."
+      }
+    },
+    {
+      "id": "db/33/90/1",
+      "source_sha256": "85622d8f7e74d99173751654ac31d76d93676efb85006a035e5341e39fad5e8a",
+      "source": "Gain levels quickly\r\nin <WORLD>.\r\nYou gain 3x experience\r\nbut enemies are likewise stronger.",
+      "translation": "在<WORLD>中快速升级。\r\n获得3倍经验，\r\n但敌人也会相应变强。",
+      "previous_translation": "收益水平迅速\r\n内 <WORLD>.\r\n你赢了 3x 经验\r\n但敌人也同样强大",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0063",
+      "japanese_check": {
+        "text": "経験から大きく成長できる\r\nレベルが上がりやすい<WORLD>\r\n　この世界では、あなたは3割増しで経験を得て成長することができる。\r\n　強敵の待ち受ける世界でも、その力で戦っていけるだろう。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "[K]ワールド別キャンペーン / 経験値1.3倍 / 表示メッセージ",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "user_decision_scope": {
+        "review_number": "10",
+        "decision": "沿用现英文3倍经验，标记终审",
+        "note": "The user approved this wording/version or retention decision; this is not a claim of full human line-by-line acceptance."
+      }
+    },
+    {
+      "id": "db/33/98/1",
+      "source_sha256": "85622d8f7e74d99173751654ac31d76d93676efb85006a035e5341e39fad5e8a",
+      "source": "Gain levels quickly\r\nin <WORLD>.\r\nYou gain 3x experience\r\nbut enemies are likewise stronger.",
+      "translation": "在<WORLD>中快速升级。\r\n获得3倍经验，\r\n但敌人也会相应变强。",
+      "previous_translation": "收益水平迅速\r\n内 <WORLD>.\r\n你赢了 3x 经验\r\n但敌人也同样强大",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0063",
+      "japanese_check": {
+        "text": "経験から大きく成長できる\r\nレベルが上がりやすい<WORLD>\r\n　この世界では、あなたは3割増しで経験を得て成長することができる。\r\n　強敵の待ち受ける世界でも、その力で戦っていけるだろう。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "[K]ワールド別キャンペーン / 表示メッセージ",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "user_decision_scope": {
+        "review_number": "10",
+        "decision": "沿用现英文3倍经验，标记终审",
+        "note": "The user approved this wording/version or retention decision; this is not a claim of full human line-by-line acceptance."
+      }
+    },
+    {
+      "id": "db/33/99/1",
+      "source_sha256": "6f965b11939c8df99f5046d8eef75361bab7745f8c886175159638c0f6afe108",
+      "source": "An unseen menace awaits\r\nin <WORLD>.\r\nDangerous traps are set all over the world.\r\n3x EXP should help you survive.",
+      "translation": "在<WORLD>中，看不见的威胁正在等待。\r\n危险陷阱遍布全世界。\r\n3倍EXP应当能帮助你生存。",
+      "previous_translation": "看不见的威胁等待着\r\n内 <WORLD>.\r\n危险的陷阱遍布世界各地。\r\n3X EXP应该能帮助你生存",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0063",
+      "japanese_check": {
+        "text": "不可視の敵意が待ち受ける\r\n罠だらけの<WORLD>\r\n　危険な罠が世界中に多数設置されている。3割増しで得られる経験と、\r\n　出現するアイテムの少しの優秀さが、あなたの助けとなるだろう。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "[K]ワールド別キャンペーン / 表示メッセージ",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "user_decision_scope": {
+        "review_number": "10",
+        "decision": "沿用现英文3倍经验，标记终审",
+        "note": "The user approved this wording/version or retention decision; this is not a claim of full human line-by-line acceptance."
+      }
+    },
+    {
+      "id": "db/33/100/1",
+      "source_sha256": "bc9ded43e687baad686d1b5cf16d95491628c93b0df5f91ae6d293dfcb26e702",
+      "source": "Offense is the best defense\r\nin <WORLD>.\r\nArmor is rare. 3x EXP and strong items should help you survive.",
+      "translation": "在<WORLD>中，进攻就是最好的防御。\r\n护甲很稀有。3倍EXP与强力物品应当能帮助你生存。",
+      "previous_translation": "防守是最好的防御\r\n内 <WORLD>.\r\n盔甲很少见 3x EXP 和强项应该能帮助您生存。",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0063",
+      "japanese_check": {
+        "text": "攻撃は最大の防御\r\n防具が希少な<WORLD>\r\n　あなたを守る防具を拾うことは難しい。3割増しで得られる経験と、\r\n　出現する武器の少しの優秀さが、あなたの助けとなるだろう。\r\n",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "[K]ワールド別キャンペーン / 表示メッセージ",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "user_decision_scope": {
+        "review_number": "10",
+        "decision": "沿用现英文3倍经验，标记终审",
+        "note": "The user approved this wording/version or retention decision; this is not a claim of full human line-by-line acceptance."
+      }
+    }
+  ],
+  "scope_summary": {
+    "new_model_entry_records": 15,
+    "previous_existing_model_drafts_unblocked": 33,
+    "explicit_original_retentions_in_separate_file": 6,
+    "reviewed_record_total": 54,
+    "new_final_review_issues": 6,
+    "game_files_modified": false
+  }
+}

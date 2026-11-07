@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1-text-draft",
+  "browser": "Microsoft Edge headless, isolated profile",
+  "entries": 12204,
+  "checks": [
+    "page loads",
+    "English read-only",
+    "edit and export JSON",
+    "browser draft reload",
+    "abbreviation locked",
+    "invalid controls blocked",
+    "unfinished draft retained after reload"
+  ],
+  "screenshot": "editor.png"
+}

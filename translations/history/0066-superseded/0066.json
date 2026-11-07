@@ -1,0 +1,1540 @@
+{
+  "schema": 1,
+  "project": "mcowh-zh",
+  "batch": "0066",
+  "authored_text_sha256": "a797636e692c50815b0c2ee3d381eb2394af91176381f5772610980275dcd7ac",
+  "entries": [
+    {
+      "id": "db/58/140/1",
+      "source_sha256": "e1bad657cc0ddd36f29241b98e87efbe8c0342f684711d6e725dd28c2bf52704",
+      "source": "STR",
+      "translation": "力量",
+      "previous_translation": "STR",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0066",
+      "japanese_check": {
+        "text": "筋力",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "文章追い出し担当Ａ / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Current chat-model translation applies user-approved panel terminology to exact EN source-bound display fields and reviewed native caption assets. No separate model API or local MT. Whole sentences are not labelled human-proofread.",
+      "user_decision_date": "2026-11-08",
+      "user_confirmed_choice": "全部采用，进行翻译，更新补丁版本",
+      "revision_reason": "User approved all 25 panel labels; source-bound display-field overrides and eleven dedicated/composite caption assets. Other identifier abbreviations remain unchanged."
+    },
+    {
+      "id": "db/58/141/1",
+      "source_sha256": "8d1783f5216d63800ae537bccde05afc1bb676882d1e75363485eb63c8dbfad8",
+      "source": "VIT",
+      "translation": "体质",
+      "previous_translation": "VIT",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0066",
+      "japanese_check": {
+        "text": "生命",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "文章追い出し担当Ａ / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Current chat-model translation applies user-approved panel terminology to exact EN source-bound display fields and reviewed native caption assets. No separate model API or local MT. Whole sentences are not labelled human-proofread.",
+      "user_decision_date": "2026-11-08",
+      "user_confirmed_choice": "全部采用，进行翻译，更新补丁版本",
+      "revision_reason": "User approved all 25 panel labels; source-bound display-field overrides and eleven dedicated/composite caption assets. Other identifier abbreviations remain unchanged."
+    },
+    {
+      "id": "db/58/142/1",
+      "source_sha256": "6a8b1f7a132c893adf19721c93f5183696a41dc23d294c9987e3e697e072b550",
+      "source": "AGI",
+      "translation": "敏捷",
+      "previous_translation": "AGI",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0066",
+      "japanese_check": {
+        "text": "敏捷",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "文章追い出し担当Ａ / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Current chat-model translation applies user-approved panel terminology to exact EN source-bound display fields and reviewed native caption assets. No separate model API or local MT. Whole sentences are not labelled human-proofread.",
+      "user_decision_date": "2026-11-08",
+      "user_confirmed_choice": "全部采用，进行翻译，更新补丁版本",
+      "revision_reason": "User approved all 25 panel labels; source-bound display-field overrides and eleven dedicated/composite caption assets. Other identifier abbreviations remain unchanged."
+    },
+    {
+      "id": "db/58/143/1",
+      "source_sha256": "370fbb51f069ddc08e23504f7f3a8d85d629664229f8b77f85eed5b8f5a267ed",
+      "source": "INT",
+      "translation": "智力",
+      "previous_translation": "INT",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0066",
+      "japanese_check": {
+        "text": "知力",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "文章追い出し担当Ａ / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Current chat-model translation applies user-approved panel terminology to exact EN source-bound display fields and reviewed native caption assets. No separate model API or local MT. Whole sentences are not labelled human-proofread.",
+      "user_decision_date": "2026-11-08",
+      "user_confirmed_choice": "全部采用，进行翻译，更新补丁版本",
+      "revision_reason": "User approved all 25 panel labels; source-bound display-field overrides and eleven dedicated/composite caption assets. Other identifier abbreviations remain unchanged."
+    },
+    {
+      "id": "db/58/144/1",
+      "source_sha256": "f2d0c5a346f738db76b5eee8ba3c68c7687563f77457b3c65c4ca36a0d38cb99",
+      "source": "WIL",
+      "translation": "意志",
+      "previous_translation": "WIL",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0066",
+      "japanese_check": {
+        "text": "意志",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "文章追い出し担当Ａ / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Current chat-model translation applies user-approved panel terminology to exact EN source-bound display fields and reviewed native caption assets. No separate model API or local MT. Whole sentences are not labelled human-proofread.",
+      "user_decision_date": "2026-11-08",
+      "user_confirmed_choice": "全部采用，进行翻译，更新补丁版本",
+      "revision_reason": "User approved all 25 panel labels; source-bound display-field overrides and eleven dedicated/composite caption assets. Other identifier abbreviations remain unchanged."
+    },
+    {
+      "id": "db/58/145/1",
+      "source_sha256": "4088d23b5d7ed18499a1bee2e1222b223a5a874b5daf635952d33bf54aad9861",
+      "source": "CHR",
+      "translation": "魅力",
+      "previous_translation": "CHR",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0066",
+      "japanese_check": {
+        "text": "魅力",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "文章追い出し担当Ａ / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Current chat-model translation applies user-approved panel terminology to exact EN source-bound display fields and reviewed native caption assets. No separate model API or local MT. Whole sentences are not labelled human-proofread.",
+      "user_decision_date": "2026-11-08",
+      "user_confirmed_choice": "全部采用，进行翻译，更新补丁版本",
+      "revision_reason": "User approved all 25 panel labels; source-bound display-field overrides and eleven dedicated/composite caption assets. Other identifier abbreviations remain unchanged."
+    },
+    {
+      "id": "db/58/146/1",
+      "source_sha256": "7dc6e412c73ab25552a5cb6ed107a7984166e7646fecb39f5e5b920e563c74f0",
+      "source": "LOK",
+      "translation": "开锁",
+      "previous_translation": "LOK",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0066",
+      "japanese_check": {
+        "text": "開錠",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "文章追い出し担当Ａ / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Current chat-model translation applies user-approved panel terminology to exact EN source-bound display fields and reviewed native caption assets. No separate model API or local MT. Whole sentences are not labelled human-proofread.",
+      "user_decision_date": "2026-11-08",
+      "user_confirmed_choice": "全部采用，进行翻译，更新补丁版本",
+      "revision_reason": "User approved all 25 panel labels; source-bound display-field overrides and eleven dedicated/composite caption assets. Other identifier abbreviations remain unchanged."
+    },
+    {
+      "id": "db/58/147/1",
+      "source_sha256": "ec5e94972bb29f3a218fe1212c4de4676494520232d8c49684f90a605848498a",
+      "source": "CLM",
+      "translation": "登山",
+      "previous_translation": "CLM",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0066",
+      "japanese_check": {
+        "text": "登山",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "文章追い出し担当Ａ / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Current chat-model translation applies user-approved panel terminology to exact EN source-bound display fields and reviewed native caption assets. No separate model API or local MT. Whole sentences are not labelled human-proofread.",
+      "user_decision_date": "2026-11-08",
+      "user_confirmed_choice": "全部采用，进行翻译，更新补丁版本",
+      "revision_reason": "User approved all 25 panel labels; source-bound display-field overrides and eleven dedicated/composite caption assets. Other identifier abbreviations remain unchanged."
+    },
+    {
+      "id": "db/58/148/1",
+      "source_sha256": "dd2ca4b8af06ebc1a3969a4004abaccab6ccfb27c7ac46efbc4b35ba4cfc4f66",
+      "source": "SWM",
+      "translation": "游泳",
+      "previous_translation": "SWM",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0066",
+      "japanese_check": {
+        "text": "水泳",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "文章追い出し担当Ａ / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Current chat-model translation applies user-approved panel terminology to exact EN source-bound display fields and reviewed native caption assets. No separate model API or local MT. Whole sentences are not labelled human-proofread.",
+      "user_decision_date": "2026-11-08",
+      "user_confirmed_choice": "全部采用，进行翻译，更新补丁版本",
+      "revision_reason": "User approved all 25 panel labels; source-bound display-field overrides and eleven dedicated/composite caption assets. Other identifier abbreviations remain unchanged."
+    },
+    {
+      "id": "db/58/150/1",
+      "source_sha256": "ad5b433f01b517ddc7ce7ce3b91cf713962acf1f4d88fe044fb880adb1ede83c",
+      "source": "ATK",
+      "translation": "攻击",
+      "previous_translation": "ATK",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0066",
+      "japanese_check": {
+        "text": "攻撃",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "文章追い出し担当Ａ / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Current chat-model translation applies user-approved panel terminology to exact EN source-bound display fields and reviewed native caption assets. No separate model API or local MT. Whole sentences are not labelled human-proofread.",
+      "user_decision_date": "2026-11-08",
+      "user_confirmed_choice": "全部采用，进行翻译，更新补丁版本",
+      "revision_reason": "User approved all 25 panel labels; source-bound display-field overrides and eleven dedicated/composite caption assets. Other identifier abbreviations remain unchanged."
+    },
+    {
+      "id": "db/58/151/1",
+      "source_sha256": "e8150c40ae29372dabb70316675db4e855ed6c4f4d879c8d43573a65d94dd78b",
+      "source": "FOR",
+      "translation": "魔力",
+      "previous_translation": "FOR",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0066",
+      "japanese_check": {
+        "text": "理力",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "文章追い出し担当Ａ / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Current chat-model translation applies user-approved panel terminology to exact EN source-bound display fields and reviewed native caption assets. No separate model API or local MT. Whole sentences are not labelled human-proofread.",
+      "user_decision_date": "2026-11-08",
+      "user_confirmed_choice": "全部采用，进行翻译，更新补丁版本",
+      "revision_reason": "User approved all 25 panel labels; source-bound display-field overrides and eleven dedicated/composite caption assets. Other identifier abbreviations remain unchanged."
+    },
+    {
+      "id": "db/58/152/1",
+      "source_sha256": "316dddc5a44e6bf789862edca92140b61a6da73425ca91fcd369a30979b9c0a1",
+      "source": "ARM",
+      "translation": "护甲",
+      "previous_translation": "ARM",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0066",
+      "japanese_check": {
+        "text": "装甲",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "文章追い出し担当Ａ / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Current chat-model translation applies user-approved panel terminology to exact EN source-bound display fields and reviewed native caption assets. No separate model API or local MT. Whole sentences are not labelled human-proofread.",
+      "user_decision_date": "2026-11-08",
+      "user_confirmed_choice": "全部采用，进行翻译，更新补丁版本",
+      "revision_reason": "User approved all 25 panel labels; source-bound display-field overrides and eleven dedicated/composite caption assets. Other identifier abbreviations remain unchanged."
+    },
+    {
+      "id": "db/58/153/1",
+      "source_sha256": "65cbe1e19791d49b023800b3e22714e2589b6339bef5e660b628dd1023506ebd",
+      "source": "RED",
+      "translation": "减伤率",
+      "previous_translation": "RED",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0066",
+      "japanese_check": {
+        "text": "軽減",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "文章追い出し担当Ａ / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Current chat-model translation applies user-approved panel terminology to exact EN source-bound display fields and reviewed native caption assets. No separate model API or local MT. Whole sentences are not labelled human-proofread.",
+      "user_decision_date": "2026-11-08",
+      "user_confirmed_choice": "全部采用，进行翻译，更新补丁版本",
+      "revision_reason": "User approved all 25 panel labels; source-bound display-field overrides and eleven dedicated/composite caption assets. Other identifier abbreviations remain unchanged."
+    },
+    {
+      "id": "db/58/154/1",
+      "source_sha256": "2dde6d03ddaa287e3ac95b4befe8f38e8766a35092fc01e47e28d86c7a29e412",
+      "source": "ACC",
+      "translation": "命中率",
+      "previous_translation": "ACC",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0066",
+      "japanese_check": {
+        "text": "命中",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "文章追い出し担当Ａ / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Current chat-model translation applies user-approved panel terminology to exact EN source-bound display fields and reviewed native caption assets. No separate model API or local MT. Whole sentences are not labelled human-proofread.",
+      "user_decision_date": "2026-11-08",
+      "user_confirmed_choice": "全部采用，进行翻译，更新补丁版本",
+      "revision_reason": "User approved all 25 panel labels; source-bound display-field overrides and eleven dedicated/composite caption assets. Other identifier abbreviations remain unchanged."
+    },
+    {
+      "id": "db/58/155/1",
+      "source_sha256": "3098b1708ea4f0f6e5b57ffbea417e9eb07603b930ae79265951af92fe1bf732",
+      "source": "MOV",
+      "translation": "行动速度",
+      "previous_translation": "MOV",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0066",
+      "japanese_check": {
+        "text": "速度",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "文章追い出し担当Ａ / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Current chat-model translation applies user-approved panel terminology to exact EN source-bound display fields and reviewed native caption assets. No separate model API or local MT. Whole sentences are not labelled human-proofread.",
+      "user_decision_date": "2026-11-08",
+      "user_confirmed_choice": "全部采用，进行翻译，更新补丁版本",
+      "revision_reason": "User approved all 25 panel labels; source-bound display-field overrides and eleven dedicated/composite caption assets. Other identifier abbreviations remain unchanged."
+    },
+    {
+      "id": "db/58/156/1",
+      "source_sha256": "5517bab653668facef67e08f959d3af9f63e80a0570411d1f4f7c6b0460bc24e",
+      "source": "EVA",
+      "translation": "闪避率",
+      "previous_translation": "EVA",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0066",
+      "japanese_check": {
+        "text": "回避",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "文章追い出し担当Ａ / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Current chat-model translation applies user-approved panel terminology to exact EN source-bound display fields and reviewed native caption assets. No separate model API or local MT. Whole sentences are not labelled human-proofread.",
+      "user_decision_date": "2026-11-08",
+      "user_confirmed_choice": "全部采用，进行翻译，更新补丁版本",
+      "revision_reason": "User approved all 25 panel labels; source-bound display-field overrides and eleven dedicated/composite caption assets. Other identifier abbreviations remain unchanged."
+    },
+    {
+      "id": "db/58/157/1",
+      "source_sha256": "fc331d1cee889b52b060ca982297b6227261df71ca3cb35eaae2d06776b93f42",
+      "source": "COM",
+      "translation": "连击率",
+      "previous_translation": "COM",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0066",
+      "japanese_check": {
+        "text": "連続",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "文章追い出し担当Ａ / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Current chat-model translation applies user-approved panel terminology to exact EN source-bound display fields and reviewed native caption assets. No separate model API or local MT. Whole sentences are not labelled human-proofread.",
+      "user_decision_date": "2026-11-08",
+      "user_confirmed_choice": "全部采用，进行翻译，更新补丁版本",
+      "revision_reason": "User approved all 25 panel labels; source-bound display-field overrides and eleven dedicated/composite caption assets. Other identifier abbreviations remain unchanged."
+    },
+    {
+      "id": "db/58/158/1",
+      "source_sha256": "e355a192cf018e537b7474deefd4663a431de7c92139c3e382b84822fb8c3384",
+      "source": "CRI",
+      "translation": "暴击率",
+      "previous_translation": "CRI",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0066",
+      "japanese_check": {
+        "text": "必殺",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "文章追い出し担当Ａ / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Current chat-model translation applies user-approved panel terminology to exact EN source-bound display fields and reviewed native caption assets. No separate model API or local MT. Whole sentences are not labelled human-proofread.",
+      "user_decision_date": "2026-11-08",
+      "user_confirmed_choice": "全部采用，进行翻译，更新补丁版本",
+      "revision_reason": "User approved all 25 panel labels; source-bound display-field overrides and eleven dedicated/composite caption assets. Other identifier abbreviations remain unchanged."
+    },
+    {
+      "id": "db/58/159/1",
+      "source_sha256": "3843971dcfdee5083e6289e1bbdbb003e538b5a8a668fc43ae4f19d415ac18a2",
+      "source": "ID",
+      "translation": "鉴定率",
+      "previous_translation": "ID",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0066",
+      "japanese_check": {
+        "text": "識別",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "文章追い出し担当Ａ / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Current chat-model translation applies user-approved panel terminology to exact EN source-bound display fields and reviewed native caption assets. No separate model API or local MT. Whole sentences are not labelled human-proofread.",
+      "user_decision_date": "2026-11-08",
+      "user_confirmed_choice": "全部采用，进行翻译，更新补丁版本",
+      "revision_reason": "User approved all 25 panel labels; source-bound display-field overrides and eleven dedicated/composite caption assets. Other identifier abbreviations remain unchanged."
+    },
+    {
+      "id": "db/58/18/1",
+      "source_sha256": "97137b9ebdc5726dd0eddc407823386da95ab4cd4a27ae7abb87bc32f41a5fb8",
+      "source": "STR \\mx[30]\\cself[10]\r\nVIT \\mx[30]\\cself[11]\r\nAGI \\mx[30]\\cself[12]\r\nINT \\mx[30]\\cself[13]\r\nWIL \\mx[30]\\cself[14]\r\nCHR \\mx[30]\\cself[15]",
+      "translation": "力量 \\mx[30]\\cself[10]\r\n体质 \\mx[30]\\cself[11]\r\n敏捷 \\mx[30]\\cself[12]\r\n智力 \\mx[30]\\cself[13]\r\n意志 \\mx[30]\\cself[14]\r\n魅力 \\mx[30]\\cself[15]",
+      "previous_translation": "STR \\mx[30]\\cself[10]\r\nVIT \\mx[30]\\cself[11]\r\nAGI \\mx[30]\\cself[12]\r\nINT \\mx[30]\\cself[13]\r\nWIL \\mx[30]\\cself[14]\r\nCHR \\mx[30]\\cself[15]",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0066",
+      "japanese_check": {
+        "text": "筋力\\mx[30]\\cself[10]\r\n生命\\mx[30]\\cself[11]\r\n敏捷\\mx[30]\\cself[12]\r\n知力\\mx[30]\\cself[13]\r\n意志\\mx[30]\\cself[14]\r\n魅力\\mx[30]\\cself[15]",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "文章追い出し担当Ａ / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Current chat-model translation applies user-approved panel terminology to exact EN source-bound display fields and reviewed native caption assets. No separate model API or local MT. Whole sentences are not labelled human-proofread.",
+      "user_decision_date": "2026-11-08",
+      "user_confirmed_choice": "全部采用，进行翻译，更新补丁版本",
+      "revision_reason": "User approved all 25 panel labels; source-bound display-field overrides and eleven dedicated/composite caption assets. Other identifier abbreviations remain unchanged."
+    },
+    {
+      "id": "db/58/19/1",
+      "source_sha256": "c2cf4cc3d921337cbf5723355ce324f81e781de1bd6caeb8755469c43553f969",
+      "source": "LOK \\mx[30]\\cself[10]\r\nCLM \\mx[30]\\cself[11]\r\nSWM \\mx[30]\\cself[12]",
+      "translation": "开锁 \\mx[30]\\cself[10]\r\n登山 \\mx[30]\\cself[11]\r\n游泳 \\mx[30]\\cself[12]",
+      "previous_translation": "LOK \\mx[30]\\cself[10]\r\nCLM \\mx[30]\\cself[11]\r\nSWM \\mx[30]\\cself[12]",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0066",
+      "japanese_check": {
+        "text": "開錠\\mx[30]\\cself[10]\r\n登山\\mx[30]\\cself[11]\r\n水泳\\mx[30]\\cself[12]",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "文章追い出し担当Ａ / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Current chat-model translation applies user-approved panel terminology to exact EN source-bound display fields and reviewed native caption assets. No separate model API or local MT. Whole sentences are not labelled human-proofread.",
+      "user_decision_date": "2026-11-08",
+      "user_confirmed_choice": "全部采用，进行翻译，更新补丁版本",
+      "revision_reason": "User approved all 25 panel labels; source-bound display-field overrides and eleven dedicated/composite caption assets. Other identifier abbreviations remain unchanged."
+    },
+    {
+      "id": "db/58/20/1",
+      "source_sha256": "20a169a32709996b0203b7bd8614c7b079b9473ea68826a78f3186e415e96973",
+      "source": "ATK \\mx[30]\\cself[10]\r\nFOR \\mx[30]\\cself[11]\r\nDEF \\mx[30]\\cself[12]% +\\cself[13]\r\nACC \\mx[30]\\cself[14]%\r\nMOV \\mx[30]\\cself[15]%\r\nEVA \\mx[30]\\cself[16]%\r\nCOM \\mx[30]\\cself[17]%\r\nCRI \\mx[30]\\cself[18]%\r\nID \\mx[30]\\cself[19]%",
+      "translation": "攻击 \\mx[30]\\cself[10]\r\n魔力 \\mx[30]\\cself[11]\r\nDEF \\mx[30]\\cself[12]% +\\cself[13]\r\n命中率 \\mx[30]\\cself[14]%\r\n行动速度 \\mx[30]\\cself[15]%\r\n闪避率 \\mx[30]\\cself[16]%\r\n连击率 \\mx[30]\\cself[17]%\r\n暴击率 \\mx[30]\\cself[18]%\r\n鉴定率 \\mx[30]\\cself[19]%",
+      "previous_translation": "ATK \\mx[30]\\cself[10]\r\nFOR \\mx[30]\\cself[11]\r\nDEF \\mx[30]\\cself[12]% +\\cself[13]\r\nACC \\mx[30]\\cself[14]%\r\nMOV \\mx[30]\\cself[15]%\r\nEVA \\mx[30]\\cself[16]%\r\nCOM \\mx[30]\\cself[17]%\r\nCRI \\mx[30]\\cself[18]%\r\nID \\mx[30]\\cself[19]%",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0066",
+      "japanese_check": {
+        "text": "攻撃\\mx[30]\\cself[10]\r\n理力\\mx[30]\\cself[11]\r\n防御\\mx[30]\\cself[12]%+\\cself[13]\r\n命中\\mx[30]\\cself[14]%\r\n速度\\mx[30]\\cself[15]%\r\n回避\\mx[30]\\cself[16]%\r\n連続\\mx[30]\\cself[17]%\r\n必殺\\mx[30]\\cself[18]%\r\n識別\\mx[30]\\cself[19]%",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "文章追い出し担当Ａ / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Current chat-model translation applies user-approved panel terminology to exact EN source-bound display fields and reviewed native caption assets. No separate model API or local MT. Whole sentences are not labelled human-proofread.",
+      "user_decision_date": "2026-11-08",
+      "user_confirmed_choice": "全部采用，进行翻译，更新补丁版本",
+      "revision_reason": "User approved all 25 panel labels; source-bound display-field overrides and eleven dedicated/composite caption assets. Other identifier abbreviations remain unchanged."
+    },
+    {
+      "id": "db/62/171/1",
+      "source_sha256": "e81566521f97a1ee55649cb05e6fc0d7146b7dffccfe6f0b7ea1d3f6654a23bc",
+      "source": "\\font[2]\\f[16]\\c[16]STR\r\n\\font[2]\\f[16]\\c[16]VIT\r\n\\font[2]\\f[16]\\c[16]AGI\r\n\\font[2]\\f[16]\\c[16]INT\r\n\\font[2]\\f[16]\\c[16]WIL\r\n\\font[2]\\f[16]\\c[16]CHR\r\n\\font[2]\\f[16]\\c[16]LOK\r\n\\font[2]\\f[16]\\c[16]CLM\r\n\\font[2]\\f[16]\\c[16]SWM\r\n\\font[2]\\f[16]\\c[16]ATK\r\n\\font[2]\\f[16]\\c[16]FOR\r\n\\font[2]\\f[16]\\c[16]ARM\r\n\\font[2]\\f[16]\\c[16]RED\r\n\\font[2]\\f[16]\\c[16]ACC\r\n\\font[2]\\f[16]\\c[16]MOV\r\n\\font[2]\\f[16]\\c[16]EVA\r\n\\font[2]\\f[16]\\c[16]COM\r\n\\font[2]\\f[16]\\c[16]CRI\r\n\\font[2]\\f[16]\\c[16]ID",
+      "translation": "\\font[2]\\f[16]\\c[16]力量\r\n\\font[2]\\f[16]\\c[16]体质\r\n\\font[2]\\f[16]\\c[16]敏捷\r\n\\font[2]\\f[16]\\c[16]智力\r\n\\font[2]\\f[16]\\c[16]意志\r\n\\font[2]\\f[16]\\c[16]魅力\r\n\\font[2]\\f[16]\\c[16]开锁\r\n\\font[2]\\f[16]\\c[16]登山\r\n\\font[2]\\f[16]\\c[16]游泳\r\n\\font[2]\\f[16]\\c[16]攻击\r\n\\font[2]\\f[16]\\c[16]魔力\r\n\\font[2]\\f[16]\\c[16]护甲\r\n\\font[2]\\f[16]\\c[16]减伤率\r\n\\font[2]\\f[16]\\c[16]命中率\r\n\\font[2]\\f[16]\\c[16]行动速度\r\n\\font[2]\\f[16]\\c[16]闪避率\r\n\\font[2]\\f[16]\\c[16]连击率\r\n\\font[2]\\f[16]\\c[16]暴击率\r\n\\font[2]\\f[16]\\c[16]鉴定率",
+      "previous_translation": "\\font[2]\\f[16]\\c[16]STR\r\n\\font[2]\\f[16]\\c[16]VIT\r\n\\font[2]\\f[16]\\c[16]AGI\r\n\\font[2]\\f[16]\\c[16]INT\r\n\\font[2]\\f[16]\\c[16]WIL\r\n\\font[2]\\f[16]\\c[16]CHR\r\n\\font[2]\\f[16]\\c[16]LOK\r\n\\font[2]\\f[16]\\c[16]CLM\r\n\\font[2]\\f[16]\\c[16]SWM\r\n\\font[2]\\f[16]\\c[16]ATK\r\n\\font[2]\\f[16]\\c[16]FOR\r\n\\font[2]\\f[16]\\c[16]ARM\r\n\\font[2]\\f[16]\\c[16]RED\r\n\\font[2]\\f[16]\\c[16]ACC\r\n\\font[2]\\f[16]\\c[16]MOV\r\n\\font[2]\\f[16]\\c[16]EVA\r\n\\font[2]\\f[16]\\c[16]COM\r\n\\font[2]\\f[16]\\c[16]CRI\r\n\\font[2]\\f[16]\\c[16]ID",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0066",
+      "japanese_check": {
+        "text": "\\font[2]\\f[16]\\c[16]筋力\r\n\\font[2]\\f[16]\\c[16]生命\r\n\\font[2]\\f[16]\\c[16]敏捷\r\n\\font[2]\\f[16]\\c[16]知力\r\n\\font[2]\\f[16]\\c[16]意思\r\n\\font[2]\\f[16]\\c[16]魅力\r\n\\font[2]\\f[16]\\c[16]開錠\r\n\\font[2]\\f[16]\\c[16]登山\r\n\\font[2]\\f[16]\\c[16]水泳\r\n\\font[2]\\f[16]\\c[16]攻撃\r\n\\font[2]\\f[16]\\c[16]理力\r\n\\font[2]\\f[16]\\c[16]装甲\r\n\\font[2]\\f[16]\\c[16]軽減\r\n\\font[2]\\f[16]\\c[16]命中\r\n\\font[2]\\f[16]\\c[16]速度\r\n\\font[2]\\f[16]\\c[16]回避\r\n\\font[2]\\f[16]\\c[16]連続\r\n\\font[2]\\f[16]\\c[16]必殺\r\n\\font[2]\\f[16]\\c[16]識別",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "文章追い出し担当Ｅ / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Current chat-model translation applies user-approved panel terminology to exact EN source-bound display fields and reviewed native caption assets. No separate model API or local MT. Whole sentences are not labelled human-proofread.",
+      "user_decision_date": "2026-11-08",
+      "user_confirmed_choice": "全部采用，进行翻译，更新补丁版本",
+      "revision_reason": "User approved all 25 panel labels; source-bound display-field overrides and eleven dedicated/composite caption assets. Other identifier abbreviations remain unchanged."
+    },
+    {
+      "id": "db/62/246/1",
+      "source_sha256": "64ccdbc8917e80daaf095918c85830f4d141c073ee47a11296f136f6ea399a99",
+      "source": "\\font[2]\\f[16]STR\r\n\\font[2]\\f[16]VIT\r\n\\font[2]\\f[16]AGI\r\n\\font[2]\\f[16]INT\r\n\\font[2]\\f[16]WIL\r\n\\font[2]\\f[16]CHR\r\n\\font[2]\\f[16]LOK\r\n\\font[2]\\f[16]CLM\r\n\\font[2]\\f[16]SWM",
+      "translation": "\\font[2]\\f[16]力量\r\n\\font[2]\\f[16]体质\r\n\\font[2]\\f[16]敏捷\r\n\\font[2]\\f[16]智力\r\n\\font[2]\\f[16]意志\r\n\\font[2]\\f[16]魅力\r\n\\font[2]\\f[16]开锁\r\n\\font[2]\\f[16]登山\r\n\\font[2]\\f[16]游泳",
+      "previous_translation": "\\font[2]\\f[16]STR\r\n\\font[2]\\f[16]VIT\r\n\\font[2]\\f[16]AGI\r\n\\font[2]\\f[16]INT\r\n\\font[2]\\f[16]WIL\r\n\\font[2]\\f[16]CHR\r\n\\font[2]\\f[16]LOK\r\n\\font[2]\\f[16]CLM\r\n\\font[2]\\f[16]SWM",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0066",
+      "japanese_check": {
+        "text": "\\font[2]\\f[16]筋力\r\n\\font[2]\\f[16]生命\r\n\\font[2]\\f[16]敏捷\r\n\\font[2]\\f[16]知力\r\n\\font[2]\\f[16]意思\r\n\\font[2]\\f[16]魅力\r\n\\font[2]\\f[16]開錠\r\n\\font[2]\\f[16]登山\r\n\\font[2]\\f[16]水泳",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "文章追い出し担当Ｅ / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Current chat-model translation applies user-approved panel terminology to exact EN source-bound display fields and reviewed native caption assets. No separate model API or local MT. Whole sentences are not labelled human-proofread.",
+      "user_decision_date": "2026-11-08",
+      "user_confirmed_choice": "全部采用，进行翻译，更新补丁版本",
+      "revision_reason": "User approved all 25 panel labels; source-bound display-field overrides and eleven dedicated/composite caption assets. Other identifier abbreviations remain unchanged."
+    },
+    {
+      "id": "db/62/120/1",
+      "source_sha256": "e1bad657cc0ddd36f29241b98e87efbe8c0342f684711d6e725dd28c2bf52704",
+      "source": "STR",
+      "translation": "力量",
+      "previous_translation": "STR",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0066",
+      "japanese_check": {
+        "text": "筋力",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "文章追い出し担当Ｅ / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Current chat-model translation applies user-approved panel terminology to exact EN source-bound display fields and reviewed native caption assets. No separate model API or local MT. Whole sentences are not labelled human-proofread.",
+      "user_decision_date": "2026-11-08",
+      "user_confirmed_choice": "全部采用，进行翻译，更新补丁版本",
+      "revision_reason": "User approved all 25 panel labels; source-bound display-field overrides and eleven dedicated/composite caption assets. Other identifier abbreviations remain unchanged."
+    },
+    {
+      "id": "db/62/121/1",
+      "source_sha256": "8d1783f5216d63800ae537bccde05afc1bb676882d1e75363485eb63c8dbfad8",
+      "source": "VIT",
+      "translation": "体质",
+      "previous_translation": "VIT",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0066",
+      "japanese_check": {
+        "text": "生命",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "文章追い出し担当Ｅ / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Current chat-model translation applies user-approved panel terminology to exact EN source-bound display fields and reviewed native caption assets. No separate model API or local MT. Whole sentences are not labelled human-proofread.",
+      "user_decision_date": "2026-11-08",
+      "user_confirmed_choice": "全部采用，进行翻译，更新补丁版本",
+      "revision_reason": "User approved all 25 panel labels; source-bound display-field overrides and eleven dedicated/composite caption assets. Other identifier abbreviations remain unchanged."
+    },
+    {
+      "id": "db/62/122/1",
+      "source_sha256": "6a8b1f7a132c893adf19721c93f5183696a41dc23d294c9987e3e697e072b550",
+      "source": "AGI",
+      "translation": "敏捷",
+      "previous_translation": "AGI",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0066",
+      "japanese_check": {
+        "text": "敏捷",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "文章追い出し担当Ｅ / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Current chat-model translation applies user-approved panel terminology to exact EN source-bound display fields and reviewed native caption assets. No separate model API or local MT. Whole sentences are not labelled human-proofread.",
+      "user_decision_date": "2026-11-08",
+      "user_confirmed_choice": "全部采用，进行翻译，更新补丁版本",
+      "revision_reason": "User approved all 25 panel labels; source-bound display-field overrides and eleven dedicated/composite caption assets. Other identifier abbreviations remain unchanged."
+    },
+    {
+      "id": "db/62/123/1",
+      "source_sha256": "370fbb51f069ddc08e23504f7f3a8d85d629664229f8b77f85eed5b8f5a267ed",
+      "source": "INT",
+      "translation": "智力",
+      "previous_translation": "INT",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0066",
+      "japanese_check": {
+        "text": "知力",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "文章追い出し担当Ｅ / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Current chat-model translation applies user-approved panel terminology to exact EN source-bound display fields and reviewed native caption assets. No separate model API or local MT. Whole sentences are not labelled human-proofread.",
+      "user_decision_date": "2026-11-08",
+      "user_confirmed_choice": "全部采用，进行翻译，更新补丁版本",
+      "revision_reason": "User approved all 25 panel labels; source-bound display-field overrides and eleven dedicated/composite caption assets. Other identifier abbreviations remain unchanged."
+    },
+    {
+      "id": "db/62/124/1",
+      "source_sha256": "f2d0c5a346f738db76b5eee8ba3c68c7687563f77457b3c65c4ca36a0d38cb99",
+      "source": "WIL",
+      "translation": "意志",
+      "previous_translation": "WIL",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0066",
+      "japanese_check": {
+        "text": "意志",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "文章追い出し担当Ｅ / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Current chat-model translation applies user-approved panel terminology to exact EN source-bound display fields and reviewed native caption assets. No separate model API or local MT. Whole sentences are not labelled human-proofread.",
+      "user_decision_date": "2026-11-08",
+      "user_confirmed_choice": "全部采用，进行翻译，更新补丁版本",
+      "revision_reason": "User approved all 25 panel labels; source-bound display-field overrides and eleven dedicated/composite caption assets. Other identifier abbreviations remain unchanged."
+    },
+    {
+      "id": "db/62/125/1",
+      "source_sha256": "4088d23b5d7ed18499a1bee2e1222b223a5a874b5daf635952d33bf54aad9861",
+      "source": "CHR",
+      "translation": "魅力",
+      "previous_translation": "CHR",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0066",
+      "japanese_check": {
+        "text": "魅力",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "文章追い出し担当Ｅ / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Current chat-model translation applies user-approved panel terminology to exact EN source-bound display fields and reviewed native caption assets. No separate model API or local MT. Whole sentences are not labelled human-proofread.",
+      "user_decision_date": "2026-11-08",
+      "user_confirmed_choice": "全部采用，进行翻译，更新补丁版本",
+      "revision_reason": "User approved all 25 panel labels; source-bound display-field overrides and eleven dedicated/composite caption assets. Other identifier abbreviations remain unchanged."
+    },
+    {
+      "id": "db/58/280/1",
+      "source_sha256": "56b0e05fdfe76c7503f88161bf85df00d0581c03010e82c9efa070297a25e3ed",
+      "source": "ATK Adj.",
+      "translation": "攻击修正",
+      "previous_translation": "ATK Adj.",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0066",
+      "japanese_check": {
+        "text": "攻撃補正値",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "文章追い出し担当Ａ / 装備性能表示用：攻撃補正値 / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Current chat-model translation applies user-approved panel terminology to exact EN source-bound display fields and reviewed native caption assets. No separate model API or local MT. Whole sentences are not labelled human-proofread.",
+      "user_decision_date": "2026-11-08",
+      "user_confirmed_choice": "全部采用，进行翻译，更新补丁版本",
+      "revision_reason": "User approved all 25 panel labels; source-bound display-field overrides and eleven dedicated/composite caption assets. Other identifier abbreviations remain unchanged."
+    },
+    {
+      "id": "db/58/282/1",
+      "source_sha256": "7e53632d9950b564f88ca609c9dc6646add7d5896d9ef35669ef5174cd5932de",
+      "source": "FOR Adj.",
+      "translation": "魔力修正",
+      "previous_translation": "FOR Adj.",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0066",
+      "japanese_check": {
+        "text": "理力補正値",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "文章追い出し担当Ａ / 装備性能表示用：理力補正値 / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Current chat-model translation applies user-approved panel terminology to exact EN source-bound display fields and reviewed native caption assets. No separate model API or local MT. Whole sentences are not labelled human-proofread.",
+      "user_decision_date": "2026-11-08",
+      "user_confirmed_choice": "全部采用，进行翻译，更新补丁版本",
+      "revision_reason": "User approved all 25 panel labels; source-bound display-field overrides and eleven dedicated/composite caption assets. Other identifier abbreviations remain unchanged."
+    },
+    {
+      "id": "db/58/283/1",
+      "source_sha256": "09b7a4946eb9acd485ade9c2a73d0854022f6af9bb06ac9028ceda50583eb48c",
+      "source": "ARM Adj.",
+      "translation": "护甲修正",
+      "previous_translation": "ARM Adj.",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0066",
+      "japanese_check": {
+        "text": "装甲補正値",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "文章追い出し担当Ａ / 装備性能表示用：装甲補正値 / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Current chat-model translation applies user-approved panel terminology to exact EN source-bound display fields and reviewed native caption assets. No separate model API or local MT. Whole sentences are not labelled human-proofread.",
+      "user_decision_date": "2026-11-08",
+      "user_confirmed_choice": "全部采用，进行翻译，更新补丁版本",
+      "revision_reason": "User approved all 25 panel labels; source-bound display-field overrides and eleven dedicated/composite caption assets. Other identifier abbreviations remain unchanged."
+    },
+    {
+      "id": "db/58/284/1",
+      "source_sha256": "3947bdced974efabc50179f88c36d336e67532ef333f3bc20a8a638409ea1de8",
+      "source": "RED Adj.",
+      "translation": "减伤率修正",
+      "previous_translation": "RED Adj.",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0066",
+      "japanese_check": {
+        "text": "軽減補正値",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "文章追い出し担当Ａ / 装備性能表示用：軽減補正値 / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Current chat-model translation applies user-approved panel terminology to exact EN source-bound display fields and reviewed native caption assets. No separate model API or local MT. Whole sentences are not labelled human-proofread.",
+      "user_decision_date": "2026-11-08",
+      "user_confirmed_choice": "全部采用，进行翻译，更新补丁版本",
+      "revision_reason": "User approved all 25 panel labels; source-bound display-field overrides and eleven dedicated/composite caption assets. Other identifier abbreviations remain unchanged."
+    },
+    {
+      "id": "db/58/285/1",
+      "source_sha256": "f72d2ddf802cf725423228a46af2c434d8819cf1e07decba27e9e2fe702b9a0a",
+      "source": "ACC Adj.",
+      "translation": "命中率修正",
+      "previous_translation": "ACC Adj.",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0066",
+      "japanese_check": {
+        "text": "命中補正値",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "文章追い出し担当Ａ / 装備性能表示用：命中補正値 / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Current chat-model translation applies user-approved panel terminology to exact EN source-bound display fields and reviewed native caption assets. No separate model API or local MT. Whole sentences are not labelled human-proofread.",
+      "user_decision_date": "2026-11-08",
+      "user_confirmed_choice": "全部采用，进行翻译，更新补丁版本",
+      "revision_reason": "User approved all 25 panel labels; source-bound display-field overrides and eleven dedicated/composite caption assets. Other identifier abbreviations remain unchanged."
+    },
+    {
+      "id": "db/58/286/1",
+      "source_sha256": "2e6792bd8b5b3b3c4982dfa369588fb502f23519c7e0c237fc279866a399a316",
+      "source": "MOV Adj.",
+      "translation": "行动速度修正",
+      "previous_translation": "MOV Adj.",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0066",
+      "japanese_check": {
+        "text": "速度補正値",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "文章追い出し担当Ａ / 装備性能表示用：速度補正値 / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Current chat-model translation applies user-approved panel terminology to exact EN source-bound display fields and reviewed native caption assets. No separate model API or local MT. Whole sentences are not labelled human-proofread.",
+      "user_decision_date": "2026-11-08",
+      "user_confirmed_choice": "全部采用，进行翻译，更新补丁版本",
+      "revision_reason": "User approved all 25 panel labels; source-bound display-field overrides and eleven dedicated/composite caption assets. Other identifier abbreviations remain unchanged."
+    },
+    {
+      "id": "db/58/287/1",
+      "source_sha256": "abb97e3f7b857dd5ebd3eedb66cc1caf0307d4358fb2e6695d3fb0d10e09f68f",
+      "source": "EVA Adj.",
+      "translation": "闪避率修正",
+      "previous_translation": "EVA Adj.",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0066",
+      "japanese_check": {
+        "text": "回避補正値",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "文章追い出し担当Ａ / 装備性能表示用：回避補正値 / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Current chat-model translation applies user-approved panel terminology to exact EN source-bound display fields and reviewed native caption assets. No separate model API or local MT. Whole sentences are not labelled human-proofread.",
+      "user_decision_date": "2026-11-08",
+      "user_confirmed_choice": "全部采用，进行翻译，更新补丁版本",
+      "revision_reason": "User approved all 25 panel labels; source-bound display-field overrides and eleven dedicated/composite caption assets. Other identifier abbreviations remain unchanged."
+    },
+    {
+      "id": "db/58/288/1",
+      "source_sha256": "e2bf7b32d050c32fcbb4b08cc40a59891f6ac5633911ab9d1d07e3b40b623f7b",
+      "source": "COM Adj.",
+      "translation": "连击率修正",
+      "previous_translation": "COM Adj.",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0066",
+      "japanese_check": {
+        "text": "連続補正値",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "文章追い出し担当Ａ / 装備性能表示用：連続補正値 / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Current chat-model translation applies user-approved panel terminology to exact EN source-bound display fields and reviewed native caption assets. No separate model API or local MT. Whole sentences are not labelled human-proofread.",
+      "user_decision_date": "2026-11-08",
+      "user_confirmed_choice": "全部采用，进行翻译，更新补丁版本",
+      "revision_reason": "User approved all 25 panel labels; source-bound display-field overrides and eleven dedicated/composite caption assets. Other identifier abbreviations remain unchanged."
+    },
+    {
+      "id": "db/58/289/1",
+      "source_sha256": "e9f6449d40fb9c892dac808066b5ae980c3714804196d632d9ba9365e2174f54",
+      "source": "CRI Adj.",
+      "translation": "暴击率修正",
+      "previous_translation": "CRI Adj.",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0066",
+      "japanese_check": {
+        "text": "必殺補正値",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "文章追い出し担当Ａ / 装備性能表示用：必殺補正値 / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Current chat-model translation applies user-approved panel terminology to exact EN source-bound display fields and reviewed native caption assets. No separate model API or local MT. Whole sentences are not labelled human-proofread.",
+      "user_decision_date": "2026-11-08",
+      "user_confirmed_choice": "全部采用，进行翻译，更新补丁版本",
+      "revision_reason": "User approved all 25 panel labels; source-bound display-field overrides and eleven dedicated/composite caption assets. Other identifier abbreviations remain unchanged."
+    },
+    {
+      "id": "db/54/90/0",
+      "source_sha256": "bb1e6c76c178daba37fbc45d1bd4baff4d47be80c22ed2715c539d36e33cc65f",
+      "source": "ST",
+      "translation": "耐力",
+      "previous_translation": "ST",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0066",
+      "japanese_check": {
+        "text": "ST",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "文章追い出し / リプレイ：ST / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Current chat-model translation applies user-approved panel terminology to exact EN source-bound display fields and reviewed native caption assets. No separate model API or local MT. Whole sentences are not labelled human-proofread.",
+      "user_decision_date": "2026-11-08",
+      "user_confirmed_choice": "全部采用，进行翻译，更新补丁版本",
+      "revision_reason": "User approved all 25 panel labels; source-bound display-field overrides and eleven dedicated/composite caption assets. Other identifier abbreviations remain unchanged."
+    },
+    {
+      "id": "db/54/91/0",
+      "source_sha256": "69374b09b1681162ba2d6bba92d6a167ea5ca5921eb172eb173e999e3be5d8ba",
+      "source": "EN",
+      "translation": "精力",
+      "previous_translation": "EN",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0066",
+      "japanese_check": {
+        "text": "EN",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "文章追い出し / リプレイ：元気 / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Current chat-model translation applies user-approved panel terminology to exact EN source-bound display fields and reviewed native caption assets. No separate model API or local MT. Whole sentences are not labelled human-proofread.",
+      "user_decision_date": "2026-11-08",
+      "user_confirmed_choice": "全部采用，进行翻译，更新补丁版本",
+      "revision_reason": "User approved all 25 panel labels; source-bound display-field overrides and eleven dedicated/composite caption assets. Other identifier abbreviations remain unchanged."
+    },
+    {
+      "id": "db/55/141/0",
+      "source_sha256": "bb1e6c76c178daba37fbc45d1bd4baff4d47be80c22ed2715c539d36e33cc65f",
+      "source": "ST",
+      "translation": "耐力",
+      "previous_translation": "ST",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0066",
+      "japanese_check": {
+        "text": "ST",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "文章追い出し / ステータス表示：ST / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Current chat-model translation applies user-approved panel terminology to exact EN source-bound display fields and reviewed native caption assets. No separate model API or local MT. Whole sentences are not labelled human-proofread.",
+      "user_decision_date": "2026-11-08",
+      "user_confirmed_choice": "全部采用，进行翻译，更新补丁版本",
+      "revision_reason": "User approved all 25 panel labels; source-bound display-field overrides and eleven dedicated/composite caption assets. Other identifier abbreviations remain unchanged."
+    },
+    {
+      "id": "db/55/142/0",
+      "source_sha256": "69374b09b1681162ba2d6bba92d6a167ea5ca5921eb172eb173e999e3be5d8ba",
+      "source": "EN",
+      "translation": "精力",
+      "previous_translation": "EN",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0066",
+      "japanese_check": {
+        "text": "EN",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "文章追い出し / ステータス表示：元気度 / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Current chat-model translation applies user-approved panel terminology to exact EN source-bound display fields and reviewed native caption assets. No separate model API or local MT. Whole sentences are not labelled human-proofread.",
+      "user_decision_date": "2026-11-08",
+      "user_confirmed_choice": "全部采用，进行翻译，更新补丁版本",
+      "revision_reason": "User approved all 25 panel labels; source-bound display-field overrides and eleven dedicated/composite caption assets. Other identifier abbreviations remain unchanged."
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/common/text/tx_wt_01.png.phyre",
+      "source_sha256": "098af1920685d21296257a1e950f6fe92ae383984a1b78ee9db3cb335ca9abfb",
+      "source": "WT",
+      "translation": "负重",
+      "previous_translation": "WT",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0066",
+      "japanese_check": {
+        "text": "",
+        "availability": "missing",
+        "origin": "",
+        "version": "",
+        "alignment": {},
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "暂无可核验的对应日文显示文本。"
+      },
+      "provenance": "Current chat-model translation applies user-approved panel terminology to exact EN source-bound display fields and reviewed native caption assets. No separate model API or local MT. Whole sentences are not labelled human-proofread.",
+      "supersedes_batch": "0061",
+      "user_decision_date": "2026-11-08",
+      "user_confirmed_choice": "全部采用，进行翻译，更新补丁版本",
+      "revision_reason": "User approved all 25 panel labels; source-bound display-field overrides and eleven dedicated/composite caption assets. Other identifier abbreviations remain unchanged."
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/common/icon/ic_st.png.phyre",
+      "source_sha256": "bb1e6c76c178daba37fbc45d1bd4baff4d47be80c22ed2715c539d36e33cc65f",
+      "source": "ST",
+      "translation": "耐力",
+      "previous_translation": "耐力",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0066",
+      "japanese_check": {
+        "text": "",
+        "availability": "missing",
+        "origin": "",
+        "version": "",
+        "alignment": {},
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "暂无可核验的对应日文显示文本。"
+      },
+      "provenance": "Current chat-model translation applies user-approved panel terminology to exact EN source-bound display fields and reviewed native caption assets. No separate model API or local MT. Whole sentences are not labelled human-proofread.",
+      "user_decision_date": "2026-11-08",
+      "user_confirmed_choice": "全部采用，进行翻译，更新补丁版本",
+      "revision_reason": "User approved all 25 panel labels; source-bound display-field overrides and eleven dedicated/composite caption assets. Other identifier abbreviations remain unchanged."
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/common/icon/ic_en.png.phyre",
+      "source_sha256": "69374b09b1681162ba2d6bba92d6a167ea5ca5921eb172eb173e999e3be5d8ba",
+      "source": "EN",
+      "translation": "精力",
+      "previous_translation": "精力",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0066",
+      "japanese_check": {
+        "text": "",
+        "availability": "missing",
+        "origin": "",
+        "version": "",
+        "alignment": {},
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "暂无可核验的对应日文显示文本。"
+      },
+      "provenance": "Current chat-model translation applies user-approved panel terminology to exact EN source-bound display fields and reviewed native caption assets. No separate model API or local MT. Whole sentences are not labelled human-proofread.",
+      "user_decision_date": "2026-11-08",
+      "user_confirmed_choice": "全部采用，进行翻译，更新补丁版本",
+      "revision_reason": "User approved all 25 panel labels; source-bound display-field overrides and eleven dedicated/composite caption assets. Other identifier abbreviations remain unchanged."
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/common/icon/ic_hp.png.phyre",
+      "source_sha256": "9449a7aaa80c99ead5ca08d4c72f0905780cb5008036127b26fe20da07419ac0",
+      "source": "HP",
+      "translation": "生命",
+      "previous_translation": "生命",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0066",
+      "japanese_check": {
+        "text": "",
+        "availability": "missing",
+        "origin": "",
+        "version": "",
+        "alignment": {},
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "暂无可核验的对应日文显示文本。"
+      },
+      "provenance": "Current chat-model translation applies user-approved panel terminology to exact EN source-bound display fields and reviewed native caption assets. No separate model API or local MT. Whole sentences are not labelled human-proofread.",
+      "user_decision_date": "2026-11-08",
+      "user_confirmed_choice": "全部采用，进行翻译，更新补丁版本",
+      "revision_reason": "User approved all 25 panel labels; source-bound display-field overrides and eleven dedicated/composite caption assets. Other identifier abbreviations remain unchanged."
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/common/icon/ic_st_02.png.phyre",
+      "source_sha256": "bb1e6c76c178daba37fbc45d1bd4baff4d47be80c22ed2715c539d36e33cc65f",
+      "source": "ST",
+      "translation": "耐力",
+      "previous_translation": "耐力",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0066",
+      "japanese_check": {
+        "text": "",
+        "availability": "missing",
+        "origin": "",
+        "version": "",
+        "alignment": {},
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "暂无可核验的对应日文显示文本。"
+      },
+      "provenance": "Current chat-model translation applies user-approved panel terminology to exact EN source-bound display fields and reviewed native caption assets. No separate model API or local MT. Whole sentences are not labelled human-proofread.",
+      "user_decision_date": "2026-11-08",
+      "user_confirmed_choice": "全部采用，进行翻译，更新补丁版本",
+      "revision_reason": "User approved all 25 panel labels; source-bound display-field overrides and eleven dedicated/composite caption assets. Other identifier abbreviations remain unchanged."
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/common/icon/ic_en_02.png.phyre",
+      "source_sha256": "69374b09b1681162ba2d6bba92d6a167ea5ca5921eb172eb173e999e3be5d8ba",
+      "source": "EN",
+      "translation": "精力",
+      "previous_translation": "精力",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0066",
+      "japanese_check": {
+        "text": "",
+        "availability": "missing",
+        "origin": "",
+        "version": "",
+        "alignment": {},
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "暂无可核验的对应日文显示文本。"
+      },
+      "provenance": "Current chat-model translation applies user-approved panel terminology to exact EN source-bound display fields and reviewed native caption assets. No separate model API or local MT. Whole sentences are not labelled human-proofread.",
+      "user_decision_date": "2026-11-08",
+      "user_confirmed_choice": "全部采用，进行翻译，更新补丁版本",
+      "revision_reason": "User approved all 25 panel labels; source-bound display-field overrides and eleven dedicated/composite caption assets. Other identifier abbreviations remain unchanged."
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/common/icon/ic_hp_02.png.phyre",
+      "source_sha256": "9449a7aaa80c99ead5ca08d4c72f0905780cb5008036127b26fe20da07419ac0",
+      "source": "HP",
+      "translation": "生命",
+      "previous_translation": "生命",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0066",
+      "japanese_check": {
+        "text": "",
+        "availability": "missing",
+        "origin": "",
+        "version": "",
+        "alignment": {},
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "暂无可核验的对应日文显示文本。"
+      },
+      "provenance": "Current chat-model translation applies user-approved panel terminology to exact EN source-bound display fields and reviewed native caption assets. No separate model API or local MT. Whole sentences are not labelled human-proofread.",
+      "user_decision_date": "2026-11-08",
+      "user_confirmed_choice": "全部采用，进行翻译，更新补丁版本",
+      "revision_reason": "User approved all 25 panel labels; source-bound display-field overrides and eleven dedicated/composite caption assets. Other identifier abbreviations remain unchanged."
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/common/icon/ic_exp.png.phyre",
+      "source_sha256": "da8a9b93366b2b17b13c547c0d7d492b923597ad9ccd574ec33acfc1548db56f",
+      "source": "Exp",
+      "translation": "经验",
+      "previous_translation": "经验",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0066",
+      "japanese_check": {
+        "text": "",
+        "availability": "missing",
+        "origin": "",
+        "version": "",
+        "alignment": {},
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "暂无可核验的对应日文显示文本。"
+      },
+      "provenance": "Current chat-model translation applies user-approved panel terminology to exact EN source-bound display fields and reviewed native caption assets. No separate model API or local MT. Whole sentences are not labelled human-proofread.",
+      "user_decision_date": "2026-11-08",
+      "user_confirmed_choice": "全部采用，进行翻译，更新补丁版本",
+      "revision_reason": "User approved all 25 panel labels; source-bound display-field overrides and eleven dedicated/composite caption assets. Other identifier abbreviations remain unchanged."
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/common/icon/ic_lv.png.phyre",
+      "source_sha256": "ab6378f0885bfb609ed5b30a54423f8d6cfafe27f2e27afa2e5cd9b29f01e2f3",
+      "source": "Lv",
+      "translation": "等级",
+      "previous_translation": "等级",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0066",
+      "japanese_check": {
+        "text": "",
+        "availability": "missing",
+        "origin": "",
+        "version": "",
+        "alignment": {},
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "暂无可核验的对应日文显示文本。"
+      },
+      "provenance": "Current chat-model translation applies user-approved panel terminology to exact EN source-bound display fields and reviewed native caption assets. No separate model API or local MT. Whole sentences are not labelled human-proofread.",
+      "user_decision_date": "2026-11-08",
+      "user_confirmed_choice": "全部采用，进行翻译，更新补丁版本",
+      "revision_reason": "User approved all 25 panel labels; source-bound display-field overrides and eleven dedicated/composite caption assets. Other identifier abbreviations remain unchanged."
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/common/text/tx_wt.png.phyre",
+      "source_sha256": "098af1920685d21296257a1e950f6fe92ae383984a1b78ee9db3cb335ca9abfb",
+      "source": "WT",
+      "translation": "负重",
+      "previous_translation": "WT",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0066",
+      "japanese_check": {
+        "text": "",
+        "availability": "missing",
+        "origin": "",
+        "version": "",
+        "alignment": {},
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "暂无可核验的对应日文显示文本。"
+      },
+      "provenance": "Current chat-model translation applies user-approved panel terminology to exact EN source-bound display fields and reviewed native caption assets. No separate model API or local MT. Whole sentences are not labelled human-proofread.",
+      "supersedes_batch": "0061",
+      "user_decision_date": "2026-11-08",
+      "user_confirmed_choice": "全部采用，进行翻译，更新补丁版本",
+      "revision_reason": "User approved all 25 panel labels; source-bound display-field overrides and eleven dedicated/composite caption assets. Other identifier abbreviations remain unchanged."
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/game_main/base_06_2.png.phyre",
+      "source_sha256": "3bad3b343b693d16ae2f8ecb388c399ba91fda4eaf91e1997582fb510bafb649",
+      "source": "Lv / HP / ST / EN",
+      "translation": "等级 / 生命 / 耐力 / 精力",
+      "previous_translation": "等级 / 生命 / 耐力 / 精力",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0066",
+      "japanese_check": {
+        "text": "",
+        "availability": "missing",
+        "origin": "",
+        "version": "",
+        "alignment": {},
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "暂无可核验的对应日文显示文本。"
+      },
+      "provenance": "Current chat-model translation applies user-approved panel terminology to exact EN source-bound display fields and reviewed native caption assets. No separate model API or local MT. Whole sentences are not labelled human-proofread.",
+      "user_decision_date": "2026-11-08",
+      "user_confirmed_choice": "全部采用，进行翻译，更新补丁版本",
+      "revision_reason": "User approved all 25 panel labels; source-bound display-field overrides and eleven dedicated/composite caption assets. Other identifier abbreviations remain unchanged."
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/game_main/base_03.png.phyre",
+      "source_sha256": "098af1920685d21296257a1e950f6fe92ae383984a1b78ee9db3cb335ca9abfb",
+      "source": "WT",
+      "translation": "负重",
+      "previous_translation": "负重",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0066",
+      "japanese_check": {
+        "text": "",
+        "availability": "missing",
+        "origin": "",
+        "version": "",
+        "alignment": {},
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "暂无可核验的对应日文显示文本。"
+      },
+      "provenance": "Current chat-model translation applies user-approved panel terminology to exact EN source-bound display fields and reviewed native caption assets. No separate model API or local MT. Whole sentences are not labelled human-proofread.",
+      "user_decision_date": "2026-11-08",
+      "user_confirmed_choice": "全部采用，进行翻译，更新补丁版本",
+      "revision_reason": "User approved all 25 panel labels; source-bound display-field overrides and eleven dedicated/composite caption assets. Other identifier abbreviations remain unchanged."
+    },
+    {
+      "id": "image/d3d11/data/systemgra/sc_ui/game_main/tx_lv.png.phyre",
+      "source_sha256": "ab6378f0885bfb609ed5b30a54423f8d6cfafe27f2e27afa2e5cd9b29f01e2f3",
+      "source": "Lv",
+      "translation": "等级",
+      "previous_translation": "等级",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0066",
+      "japanese_check": {
+        "text": "",
+        "availability": "missing",
+        "origin": "",
+        "version": "",
+        "alignment": {},
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "暂无可核验的对应日文显示文本。"
+      },
+      "provenance": "Current chat-model translation applies user-approved panel terminology to exact EN source-bound display fields and reviewed native caption assets. No separate model API or local MT. Whole sentences are not labelled human-proofread.",
+      "user_decision_date": "2026-11-08",
+      "user_confirmed_choice": "全部采用，进行翻译，更新补丁版本",
+      "revision_reason": "User approved all 25 panel labels; source-bound display-field overrides and eleven dedicated/composite caption assets. Other identifier abbreviations remain unchanged."
+    }
+  ],
+  "revision_reason": "User approved all 25 panel labels; source-bound display-field overrides and eleven dedicated/composite caption assets. Other identifier abbreviations remain unchanged."
+}

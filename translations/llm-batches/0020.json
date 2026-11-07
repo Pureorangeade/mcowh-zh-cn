@@ -1,0 +1,3488 @@
+{
+  "schema": 1,
+  "project": "mcowh-zh",
+  "batch": "0020",
+  "authored_text_sha256": "1f0de3c433358f1410905f1ffe16f3058c58389fbf09486176d9799f884bcf97",
+  "entries": [
+    {
+      "id": "message/data/event/group/udb37_100_keyton_damage.txt/0",
+      "source_sha256": "5046ff854b7e647f030e44fc234cb881dc1ce260cdb02574a77c0cf23a6b5a6c",
+      "source": "Eeeeeeek?!",
+      "translation": "咿咿咿？！",
+      "previous_translation": "爱伊克?",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "くっ……。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_100_keyton_damage.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "8861d208f09bd99d28c279e559f6f27af0053fde448e8e4896c5a29004797d11"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_100_keyton_damage.txt/1",
+      "source_sha256": "4c1beb4f665b9d2e78d15dedd333ea67c46345fb6f4c23d28ca6d3cd70334bd0",
+      "source": "This is rough...!",
+      "translation": "太难应付了……！",
+      "previous_translation": "这是粗糙的... !",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "キツい……！",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_100_keyton_damage.txt",
+          "slot": 1,
+          "japanese_slot_index": 1,
+          "command_signature_sha256": "8861d208f09bd99d28c279e559f6f27af0053fde448e8e4896c5a29004797d11"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_100_keyton_damage.txt/2",
+      "source_sha256": "a17e1d70296f5419f3fe15928727c20890c5db8dd8b2a894a5a8d168ce4656f5",
+      "source": "Oh no... Is this it?!",
+      "translation": "糟了……我要死了吗？！",
+      "previous_translation": "Oh no... 是这个吗?",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "まずい、死ぬ！？",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_100_keyton_damage.txt",
+          "slot": 2,
+          "japanese_slot_index": 2,
+          "command_signature_sha256": "8861d208f09bd99d28c279e559f6f27af0053fde448e8e4896c5a29004797d11"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_100_keyton_damage_m.txt/0",
+      "source_sha256": "69034c560116073e244136f68d46ae0087de9b00821fd9a8962daa1b10e6f103",
+      "source": "Argh!",
+      "translation": "呃啊！",
+      "previous_translation": "摆!",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "おぅう！",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_100_keyton_damage_m.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "ad444cc99f8b0bbb314509b5319de351f08e14ee2bb65f941cfe891462e1fa0a"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_100_keyton_dead.txt/0",
+      "source_sha256": "817127a6b474017f7619f8be6b1ce885e71f93e5047a8c8cbcf02bd42f08e3b5",
+      "source": "Keyton\r\nhas died...",
+      "translation": "凯顿\r\n死了……",
+      "previous_translation": "键\r\n已经死了...",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "キタンが\r\n死んでしまった……。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_100_keyton_dead.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "eac5b1051639f34b18036321f86dbd49d43450a2613e4e35d9bedd27c5c38ce9"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_100_keyton_like.txt/0",
+      "source_sha256": "5fdd9b95837803b73b3ca89cf7f5f7468efdcd516a87b6c16d63407f70af5c16",
+      "source": "We're getting stronger!\r\n(Friendship UP!)",
+      "translation": "我们正在变强！\r\n（好感度提升！）",
+      "previous_translation": "我们越来越强了!\r\n(朋友起来! )",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "俺達、成長している！\r\n(好感度UP！)",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_100_keyton_like.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "c7ef9839d4d7004fba5535566f94ec7462f179d47954c2b2aadd10782c5c2530"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_100_keyton_like.txt/1",
+      "source_sha256": "61ad9aa96aea2b3cde4aa13ded8060a72504e5fd2b28e7c200555d4f45a71c86",
+      "source": "Need...more strength!\r\n(Friendship UP!)",
+      "translation": "还需要……更强的力量！\r\n（好感度提升！）",
+      "previous_translation": "需要... 更多力量!\r\n(朋友起来! )",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "まだまだ…強くなる！\r\n(好感度UP！)",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_100_keyton_like.txt",
+          "slot": 1,
+          "japanese_slot_index": 1,
+          "command_signature_sha256": "c7ef9839d4d7004fba5535566f94ec7462f179d47954c2b2aadd10782c5c2530"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_100_keyton_like.txt/2",
+      "source_sha256": "34ad9955bd041bcbd2f80c1db485237135ac601a8d0591b4e86ab969cc4dcb9d",
+      "source": "Need...more power...\r\n(Friendship UP!)",
+      "translation": "还需要……更多力量……\r\n（好感度提升！）",
+      "previous_translation": "需要... 更多动力...\r\n(朋友起来! )",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "もっと……力を……。\r\n(好感度UP！)",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_100_keyton_like.txt",
+          "slot": 2,
+          "japanese_slot_index": 2,
+          "command_signature_sha256": "c7ef9839d4d7004fba5535566f94ec7462f179d47954c2b2aadd10782c5c2530"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_101_nami_damage.txt/0",
+      "source_sha256": "acb1d522f775ef1d6d873d5f911fafaaf1eb8fe3418495feb83204a117666960",
+      "source": "Gh...",
+      "translation": "唔……",
+      "previous_translation": "唉哟...",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "くっ……。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_101_nami_damage.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "78a3cbd3ea9c0c028aa8a4c535615cff65e1abeda78519071dc922f61decceb0"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_101_nami_damage.txt/1",
+      "source_sha256": "1ad106446c86a14d97fb58bffbf889553541c64bbb8bb3b966ae4e82c9957723",
+      "source": "Oof...!",
+      "translation": "呃呜……！",
+      "previous_translation": "呜... !",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "っぐぅう……！",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_101_nami_damage.txt",
+          "slot": 1,
+          "japanese_slot_index": 1,
+          "command_signature_sha256": "78a3cbd3ea9c0c028aa8a4c535615cff65e1abeda78519071dc922f61decceb0"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_101_nami_damage.txt/2",
+      "source_sha256": "5046ff854b7e647f030e44fc234cb881dc1ce260cdb02574a77c0cf23a6b5a6c",
+      "source": "Eeeeeeek?!",
+      "translation": "不要啊啊！？",
+      "previous_translation": "爱伊克?",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "いやぁああ！？",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_101_nami_damage.txt",
+          "slot": 2,
+          "japanese_slot_index": 2,
+          "command_signature_sha256": "78a3cbd3ea9c0c028aa8a4c535615cff65e1abeda78519071dc922f61decceb0"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_101_nami_damage_m.txt/0",
+      "source_sha256": "0899ac6f9c435c505abd45c2383965ddcc62b054341f5277a591726a46645ab6",
+      "source": "aaAaanh...",
+      "translation": "啊嗯……♪",
+      "previous_translation": "啊嗯……",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "アンッ……♪",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_101_nami_damage_m.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "e05dbafd4e5b64accdf993a9552d9493176cdcb464a1a0b32a55c59fbcc9c43b"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_101_nami_dead.txt/0",
+      "source_sha256": "817e867702851a9f1eadff67aaf3aedb867c9022609859e86dcc25ec7cf0f379",
+      "source": "Nami\r\nhas died...",
+      "translation": "Nami\r\n死了……",
+      "previous_translation": "纳米\r\n已经死了...",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "ナミィが\r\n死んでしまった……。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_101_nami_dead.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "05fdc757a5ffc6d4834b0299978597707112f84206ed990db36b5c27b34472ca"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_101_nami_like.txt/0",
+      "source_sha256": "acea0f20030b5d864cf0397770f444358396fd8cceee188fc9c3bffb72b23170",
+      "source": "We did it!\r\n(Friendship UP!)",
+      "translation": "成功了！\r\n（好感度提升！）",
+      "previous_translation": "我们成功了!\r\n(朋友起来! )",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "やった！\r\n(好感度UP！)",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_101_nami_like.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "e64020ffd369548f050b9e1af781f1bc0402502f616b25924f59fc4c3dab2473"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_101_nami_like.txt/1",
+      "source_sha256": "6b31583fdd5cfe6a52c818fdc273efeb5a56c0d4e30f3924d9ae3e5508aeae46",
+      "source": "Bit by bit I'm getting stronger!\r\n(Friendship UP!)",
+      "translation": "我会一点点……成长起来！\r\n（好感度提升！）",
+      "previous_translation": "我越来越强壮了!\r\n(朋友起来! )",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "少しずつ……成長するんだ！\r\n(好感度UP！)",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_101_nami_like.txt",
+          "slot": 1,
+          "japanese_slot_index": 1,
+          "command_signature_sha256": "e64020ffd369548f050b9e1af781f1bc0402502f616b25924f59fc4c3dab2473"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_101_nami_like.txt/2",
+      "source_sha256": "419c7e996592c36fdd346784e690b3d2f70faebb04cf280d016ace56d8b0bf26",
+      "source": "You never disappoint!\r\n(Friendship UP!)",
+      "translation": "果然了不起！\r\n（好感度提升！）",
+      "previous_translation": "你从不失望!\r\n(朋友起来! )",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "流石です！\r\n(好感度UP！)",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_101_nami_like.txt",
+          "slot": 2,
+          "japanese_slot_index": 2,
+          "command_signature_sha256": "e64020ffd369548f050b9e1af781f1bc0402502f616b25924f59fc4c3dab2473"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_102_cole_damage.txt/0",
+      "source_sha256": "06291b224a144910230c82e405033b9c44430e653d65e3e83990a7a1576c2cdd",
+      "source": "Ugh...",
+      "translation": "呃……",
+      "previous_translation": "额...",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "っでぇ……。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_102_cole_damage.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "fca51a94d35e3e12b42eb86332aadaff6aa8cb466b74c8d30d274d452761efba"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_102_cole_damage.txt/1",
+      "source_sha256": "4c1beb4f665b9d2e78d15dedd333ea67c46345fb6f4c23d28ca6d3cd70334bd0",
+      "source": "This is rough...!",
+      "translation": "太难应付了……！",
+      "previous_translation": "这是粗糙的... !",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "キツい……！",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_102_cole_damage.txt",
+          "slot": 1,
+          "japanese_slot_index": 1,
+          "command_signature_sha256": "fca51a94d35e3e12b42eb86332aadaff6aa8cb466b74c8d30d274d452761efba"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_102_cole_damage.txt/2",
+      "source_sha256": "012748045c5539bfc505491b060776d3c9b3e0d6167332f8e916b6468988f903",
+      "source": "Oh no... is this it?!",
+      "translation": "糟了……我要死了吗？！",
+      "previous_translation": "Oh no... 是这个吗?",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "まずい、死ぬ！？",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_102_cole_damage.txt",
+          "slot": 2,
+          "japanese_slot_index": 2,
+          "command_signature_sha256": "fca51a94d35e3e12b42eb86332aadaff6aa8cb466b74c8d30d274d452761efba"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_102_cole_damage_m.txt/0",
+      "source_sha256": "b4a5de2304871ef9f69d2a88af21fbc1b52c979f33f208cf260f168eaa252637",
+      "source": "Uaagh...",
+      "translation": "呃哈……♪",
+      "previous_translation": "乌阿格...",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "ぐっは……♪",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_102_cole_damage_m.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "cfe9d195bf9c2d1af9ec126c10500fbb0567c4cf6bdc16bb5d90f3991f05a151"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_102_cole_dead.txt/0",
+      "source_sha256": "3b5987c1889699bd51cab5bd2ddb84c104ef2989a0f57cd017320402fee61c86",
+      "source": "Cole\r\nhas died...",
+      "translation": "Cole\r\n死了……",
+      "previous_translation": "科尔\r\n已经死了...",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "コールが\r\n死んでしまった……。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_102_cole_dead.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "a864264477651f998a28b8c61c34c6a94934cc884bf88bd3391abfdaa95cc094"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_102_cole_like.txt/0",
+      "source_sha256": "e0dbdf4bbc0c8e4292eb19fe237d019677ff19835fc767da83d9c680e5b6e606",
+      "source": "Nice!\r\n(Friendship UP!)",
+      "translation": "干得好！\r\n（好感度提升！）",
+      "previous_translation": "不错!\r\n(朋友起来! )",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "いいぞぉ！\r\n(好感度UP！)",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_102_cole_like.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "1937a5dbe28387ad80fb6f3686f18b6fa189e0dff9ef3f8c3d3311484dfd8ac5"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_103_draco_damage.txt/0",
+      "source_sha256": "a7a5a2c94577520de9ac9909773460ad6a89c8e36e08f19fb86ee25eb516f788",
+      "source": "Nghf!",
+      "translation": "啾！",
+      "previous_translation": "纳夫!",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "ピャ！",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_103_draco_damage.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "749a66798dbe0a92fc80588131e4f2e7967f030ebf730496651736d23a70d896"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_103_draco_damage.txt/1",
+      "source_sha256": "3aef87fbd7c6e23ab6612818cca22f351de68aac96987cf321553118fcfe431e",
+      "source": "Nghf?!",
+      "translation": "啾！？",
+      "previous_translation": "纳夫?",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "ピャ！？",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_103_draco_damage.txt",
+          "slot": 1,
+          "japanese_slot_index": 1,
+          "command_signature_sha256": "749a66798dbe0a92fc80588131e4f2e7967f030ebf730496651736d23a70d896"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_103_draco_damage.txt/2",
+      "source_sha256": "757d98f3529efdb4243908280c2cd3ff00c5ba32a4358f94752b0dfbb9d1c1fd",
+      "source": "Nghoof?!",
+      "translation": "啾呀——！？",
+      "previous_translation": "吴霍夫?",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "ピャヤ～～！？",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_103_draco_damage.txt",
+          "slot": 2,
+          "japanese_slot_index": 2,
+          "command_signature_sha256": "749a66798dbe0a92fc80588131e4f2e7967f030ebf730496651736d23a70d896"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_103_draco_damage_m.txt/0",
+      "source_sha256": "dec78748e88fab12b426de0d00445defe0af81b50750fe0f9ca8f1b5128cd484",
+      "source": "Ngoooooooooooh!",
+      "translation": "啾呀啊啊——",
+      "previous_translation": "呜呜呜呜!",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "ピヤァア～～",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_103_draco_damage_m.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "47b5b20faa39c83ba7b8f5e6423664e0656c68aa48645191fc33c5840133a436"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_103_draco_dead.txt/0",
+      "source_sha256": "f146e261605d230333373992b6473e453474719a41d2ff053b596e81a11a8bd1",
+      "source": "Draco\r\nhas died...",
+      "translation": "Draco\r\n死了……",
+      "previous_translation": "德拉科语Name\r\n已经死了...",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "ドラコが\r\n死んでしまった……。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_103_draco_dead.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "8e58bdfe9db7d9a7a41721373e24b84cd6c48142b8300a5f6ef46d3e0347d788"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_103_draco_like.txt/0",
+      "source_sha256": "7ed1357bd4b92f0b089da39b6346f2bc3d41c87ac9e7f9ec1263c10eec3c3bb8",
+      "source": "Ngh-hah!\r\n(Friendship UP!)",
+      "translation": "啾呀！\r\n（好感度提升！）",
+      "previous_translation": "嘘 -哈!\r\n(朋友起来! )",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "ピヤァア！\r\n(好感度UP！)",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_103_draco_like.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "b72dea17bfc7db4b51ed1afd70fc9ce19e942cce60e7a6c189e4802f71718cb5"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_103_draco_likesp.txt/0",
+      "source_sha256": "7e7bbc4ad99d92899400090640dd00013fd0ca93a0610afc1f281a9e2f545862",
+      "source": "(Friendship UP!)",
+      "translation": "（好感度提升！）",
+      "previous_translation": "(朋友起来! )",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "(好感度UP！)",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_103_draco_likesp.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "50b2447c5422c2cc6834190fc38121cf6a6186a64b205ae0f5add0a979d13997"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_104_merril_damage.txt/0",
+      "source_sha256": "8d199397fabdbf49b489426623c6221b83862337e4799856f6e4b17cdbdc39be",
+      "source": "Tch...",
+      "translation": "啧……",
+      "previous_translation": "谢...",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "っつ……。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_104_merril_damage.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "b33a5a738d7d924828840a83e811dcf77c80b964cbca83e46b4ed85b4a30d193"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_104_merril_damage.txt/1",
+      "source_sha256": "5c435dbe910908fa3eea75195b197d88e0ae37d9b2705676be64a2f42d3d4549",
+      "source": "Brutal!",
+      "translation": "真糟糕……！",
+      "previous_translation": "野蛮!",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "まずっ……！",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_104_merril_damage.txt",
+          "slot": 1,
+          "japanese_slot_index": 1,
+          "command_signature_sha256": "b33a5a738d7d924828840a83e811dcf77c80b964cbca83e46b4ed85b4a30d193"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_104_merril_damage.txt/2",
+      "source_sha256": "12c31896eb20fce89388a4905bf1d33370e59a641604999dd813c510684b0a3c",
+      "source": "Damn!",
+      "translation": "不妙！？",
+      "previous_translation": "该死!",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "ヤバイ！？",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_104_merril_damage.txt",
+          "slot": 2,
+          "japanese_slot_index": 2,
+          "command_signature_sha256": "b33a5a738d7d924828840a83e811dcf77c80b964cbca83e46b4ed85b4a30d193"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_104_merril_damage_m.txt/0",
+      "source_sha256": "3ae9264056715f46b39779346471bc2ea9ddc1343c5ab3c654ac4eac831cac14",
+      "source": "Aah...",
+      "translation": "啊……♪",
+      "previous_translation": "摆...",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "アッ……♪",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_104_merril_damage_m.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "872e0009449759371d62f10b0d233d5b2082f85f18ac5038a7a245abcfc72dcf"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_104_merril_dead.txt/0",
+      "source_sha256": "b8f81e8c95459e681941bec067d8c187e696216e61bed5ffdeb073a7c271f9b5",
+      "source": "Merril\r\nhas died...",
+      "translation": "Merril\r\n死了……",
+      "previous_translation": "梅里尔\r\n已经死了...",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "メアルが\r\n死んでしまった……。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_104_merril_dead.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "b55d8bdac00026d3ef5ce682b3790151a48a3b3797fce1249955ecfc99bec3d5"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_104_merril_like.txt/0",
+      "source_sha256": "0a3ca39b13bcac3dbea92844eaf3801bf47a707514f16d2a7f444452a7152171",
+      "source": "Heh heh... Goin' great!\r\n(Friendship UP!)",
+      "translation": "呵呵……状态真好！\r\n（好感度提升！）",
+      "previous_translation": "呵呵,呵呵,呵呵。 呵呵,呵呵,呵呵。 开得好!\r\n(朋友起来! )",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "フフッ……いい調子！\r\n(好感度UP！)",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_104_merril_like.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "227ed0b328765771d290dfd7bbeabb4a8d323e6ba554ec688598e5e0c63de184"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_105_baldur_damage.txt/0",
+      "source_sha256": "9c3d5254a70643a038cb30074f805942cb46fa74de195f24b0552e55071de017",
+      "source": "Ughh...",
+      "translation": "唔……",
+      "previous_translation": "唉哟...",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "うっ……。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_105_baldur_damage.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "42740133121652a6838e59eb8c02d2ee9956f98b51a1598f7c7fdf3803704d71"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_105_baldur_damage.txt/1",
+      "source_sha256": "02d74dfad25ba300e404b57e05d5e3da2abcf3a7aaf0a7d96f97ecb39f0ada67",
+      "source": "Graah!",
+      "translation": "呃啊……！",
+      "previous_translation": "格拉亚!",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "っぐあ……！",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_105_baldur_damage.txt",
+          "slot": 1,
+          "japanese_slot_index": 1,
+          "command_signature_sha256": "42740133121652a6838e59eb8c02d2ee9956f98b51a1598f7c7fdf3803704d71"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_105_baldur_damage.txt/2",
+      "source_sha256": "fc7f55f4f1f99000a48545785eb06298a79933fbcbe1345a7dba9142d07ce1fb",
+      "source": "Inconceivable!",
+      "translation": "这不可能！！",
+      "previous_translation": "不可思议!",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "まずい！！",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_105_baldur_damage.txt",
+          "slot": 2,
+          "japanese_slot_index": 2,
+          "command_signature_sha256": "42740133121652a6838e59eb8c02d2ee9956f98b51a1598f7c7fdf3803704d71"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_105_baldur_damage_m.txt/0",
+      "source_sha256": "63cf3ad894eb04da3951e01420eeff4d1cc092f8d36b00ce7013c45bb2b9621b",
+      "source": "Owwwooooo...",
+      "translation": "噢呜……♪",
+      "previous_translation": "呜呜...",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "っはう……♪",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_105_baldur_damage_m.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "070cfc8d40171f0106df7fa7f6672359d30739239d5c83d75ec41da2cb0124e7"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_105_baldur_dead.txt/0",
+      "source_sha256": "bd10a5448f1e2e2389fa4a750c471ea8f2ebbe5b56ffbcaff757d452e969f502",
+      "source": "Baldur\r\nhas died...",
+      "translation": "Baldur\r\n死了……",
+      "previous_translation": "巴尔杜尔\r\n已经死了...",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "バルドフが\r\n死んでしまった……。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_105_baldur_dead.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "3c3c3bf61a6a4b3c78e83ff6dff1eb0c9568e6eb0e6072ae93fa0ea7fd35c555"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_105_baldur_like.txt/0",
+      "source_sha256": "639a2e0b0c9221beca3092c4c72e379cd1b4b6bebf3e7bb52de136bbe985a6c4",
+      "source": "What a wonderful journey!\r\n(Friendship UP!)",
+      "translation": "多么美妙的旅程！！\r\n（好感度提升！）",
+      "previous_translation": "多么美妙的旅程!\r\n(朋友起来! )",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "すばらしぃ旅です！！\r\n(好感度UP！)",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_105_baldur_like.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "b2547a4013dcba68363d0a448cdc57b7b2fb861cdbdda540a038141232e38977"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_105_baldur_like.txt/1",
+      "source_sha256": "ebf7e82b244289a516adc6804d4705f262735b9f4b7dfe359cd20a6f8475a3be",
+      "source": "I'm inspired to write a new verse!\r\n(Friendship UP!)",
+      "translation": "我想到了一首好诗！\r\n（好感度提升！）",
+      "previous_translation": "我受启发写了首新诗!\r\n(朋友起来! )",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "良い詩を思いつきました！\r\n(好感度UP！)",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_105_baldur_like.txt",
+          "slot": 1,
+          "japanese_slot_index": 1,
+          "command_signature_sha256": "b2547a4013dcba68363d0a448cdc57b7b2fb861cdbdda540a038141232e38977"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_105_baldur_likesp.txt/0",
+      "source_sha256": "8fc7c5ad5fe9a0949f563db24f97d17f242cbd034fb323c1f1be846daf5c2c6f",
+      "source": "What a meal!\r\n(Friendship UP!)",
+      "translation": "多谢款待！\r\n（好感度提升！）",
+      "previous_translation": "好顿饭啊!\r\n(朋友起来! )",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "ごちそうさまです！\r\n(好感度UP！)",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_105_baldur_likesp.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "177b45a74e4f9a88ff3d89f7965260a4c66dbcf158cc149238d10fa38fd4e99c"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_106_albert_damage.txt/0",
+      "source_sha256": "1afccadf384f17b0b66d3acccf8ecd6101e6786cf850f00c0e0af6b04707f92e",
+      "source": "At this rate...",
+      "translation": "这种程度……",
+      "previous_translation": "以这种速度...",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "この程度っ……。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_106_albert_damage.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "285103b7bccc593ee6f85278ca9bf622b925c4d0e2b5854fe84cc7c99c92ac0e"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_106_albert_damage.txt/1",
+      "source_sha256": "09b894546f88d0d6db9417df47748efe512379625755feeb19392c5b92207243",
+      "source": "Ghh...",
+      "translation": "呃……！",
+      "previous_translation": "嘘...",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "っぐ……！",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_106_albert_damage.txt",
+          "slot": 1,
+          "japanese_slot_index": 1,
+          "command_signature_sha256": "285103b7bccc593ee6f85278ca9bf622b925c4d0e2b5854fe84cc7c99c92ac0e"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_106_albert_damage.txt/2",
+      "source_sha256": "5c465c94a0607263733de323d4c4ca741ff546d0b04511c04efdfc4ce6c97d6f",
+      "source": "Is this where it ends...",
+      "translation": "就到此为止了吗……",
+      "previous_translation": "这是它结束的地方...",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "ここまでか……。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_106_albert_damage.txt",
+          "slot": 2,
+          "japanese_slot_index": 2,
+          "command_signature_sha256": "285103b7bccc593ee6f85278ca9bf622b925c4d0e2b5854fe84cc7c99c92ac0e"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_106_albert_damage_m.txt/0",
+      "source_sha256": "76c2881834bbe6fed82a7ba922d0e4dc055c439448ae4789b15096be0627fe20",
+      "source": "Not like this!",
+      "translation": "竟敢这样！！",
+      "previous_translation": "不是这样的!",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "これはぁ！！",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_106_albert_damage_m.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "0f2811a630d81d74859f64f84db634242b238002eee9a868e25540845a7247f4"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_106_albert_dead.txt/0",
+      "source_sha256": "c4d8fea5f08f0d4c755fc13b52b34d2dce7a83cc92f1ad77cb7d9a67c4ad4453",
+      "source": "Aerdou\r\nhas died...",
+      "translation": "Aerdou\r\n死了……",
+      "previous_translation": "奥尔杜\r\n已经死了...",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "エアドーが\r\n死んでしまった……。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_106_albert_dead.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "1256b3488787045c90c237dfce0afe84d63b7166b4b5fd3815227a8242ad8d2c"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_106_albert_like.txt/0",
+      "source_sha256": "027df947a0873696fd5c8da1d913771b3c0195fdad4cce02507403ec0fbb7997",
+      "source": "Niiiiiiiiice!\r\n(Friendship UP!)",
+      "translation": "不错！\r\n（好感度提升！）",
+      "previous_translation": "亚历克斯!\r\n(朋友起来! )",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "イイゾォ！\r\n(好感度UP！)",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_106_albert_like.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "63d5770c8d24a9d9505465f98b949ccaf707d6b84f39776ad511b078936943f1"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_107_coco_muddy_damage.txt/0",
+      "source_sha256": "6b8aa4fb552217286e4e8d989c58de40a6a011eb96dc2f175ee6de08baea1ad5",
+      "source": "Hmm?",
+      "translation": "嗯？",
+      "previous_translation": "是吗?",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "ンッ？",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_107_coco_muddy_damage.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "3abf05e9db2a7c95c299e314f1e651f3c116b41318b73d73602d5028769b9903"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_107_coco_muddy_damage.txt/1",
+      "source_sha256": "49aa15ee351ed0fbad30018bc5519f9ff4195b28b6d385b44867174afa4f564c",
+      "source": "HmMMm?!",
+      "translation": "嗯嗯！？",
+      "previous_translation": "垛 垛 垛",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "ンンッ！？",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_107_coco_muddy_damage.txt",
+          "slot": 1,
+          "japanese_slot_index": 1,
+          "command_signature_sha256": "3abf05e9db2a7c95c299e314f1e651f3c116b41318b73d73602d5028769b9903"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_107_coco_muddy_damage.txt/2",
+      "source_sha256": "93fa2e64ba9d1b9d82ea2d7a7920cd03efcf0c594f264ddba75177d7ad56f0d9",
+      "source": "Ooghf... No!",
+      "translation": "呜咕……不妙！",
+      "previous_translation": "呜... 没有!",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "ウグ…マズイ！",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_107_coco_muddy_damage.txt",
+          "slot": 2,
+          "japanese_slot_index": 2,
+          "command_signature_sha256": "3abf05e9db2a7c95c299e314f1e651f3c116b41318b73d73602d5028769b9903"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_107_coco_muddy_damage_m.txt/0",
+      "source_sha256": "00e87210d1e9206f669b5e6fb7448ce9935ba78451f75d76b9af8aa7903c7a19",
+      "source": "HmMMmmm!",
+      "translation": "嗯嗯……♪",
+      "previous_translation": "嗯——！",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "ンンッ♪",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_107_coco_muddy_damage_m.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "471295c6e729f0cf09634412370588dcd36c10f36d19f2d5e9c9656b35809f55"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_107_coco_muddy_dead.txt/0",
+      "source_sha256": "16da7bf83541b1ae15203bcfd246b318d78798e90f3c37eb15a0693ccbec485e",
+      "source": "Coco and Muddy\r\nhave died...",
+      "translation": "Coco与泥泥\r\n死了……",
+      "previous_translation": "可可和泥土\r\n已经死了...",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "ココとツチクレが\r\n死んでしまった……。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_107_coco_muddy_dead.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "71bc69548c4738ec36cd0162b089cbbd756d0c47f16ef1d2a9a22f52c42740c0"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_107_coco_muddy_like.txt/0",
+      "source_sha256": "e4591395f599c51fef9420147b085650906c0a5ba9db91462debcd69b145e06d",
+      "source": "Awooooooo!!\r\n(Friendship UP!)",
+      "translation": "呜噢噢噢噢！！\r\n（好感度提升！）",
+      "previous_translation": "呜呜!\r\n(朋友起来! )",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "ウオオオオオ！！\r\n(好感度UP！)",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_107_coco_muddy_like.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "9b335aa12e43bd8b4b3e6485a35dd83cefd21098a2aceb254d32ed2e9a596aac"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_108_nellie_damage.txt/0",
+      "source_sha256": "388065079fa6a06354e87c53e4dc14869c4ca538aa0bcc3bedf691691265409f",
+      "source": "'Tch, I'm fine.",
+      "translation": "唔，我没事……",
+      "previous_translation": "\"Tch, 我没事.",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "っつ、大丈夫です……。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_108_nellie_damage.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "e37c6f29b1b963c2174fcd31d0f01cd22f7629a5664331fdcf4b52b19fb0edd4"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_108_nellie_damage.txt/1",
+      "source_sha256": "90ad9265242ef93ff69d951aa0f4c8e7b46fc3b9856360e9283fffbb5b6d31d3",
+      "source": "This...could...be a problem.",
+      "translation": "这……可能……有点麻烦。",
+      "previous_translation": "这... 可能是个问题",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "まずい……かも。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_108_nellie_damage.txt",
+          "slot": 1,
+          "japanese_slot_index": 1,
+          "command_signature_sha256": "e37c6f29b1b963c2174fcd31d0f01cd22f7629a5664331fdcf4b52b19fb0edd4"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_108_nellie_damage.txt/2",
+      "source_sha256": "c0c2f27cdc2db1fe238f8fe5f842ac143c99f6b9b78db6e797148b9f8962905f",
+      "source": "This...could...be it.",
+      "translation": "这……可能……不行了。",
+      "previous_translation": "这... 可能是...",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "もうだめ……かも。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_108_nellie_damage.txt",
+          "slot": 2,
+          "japanese_slot_index": 2,
+          "command_signature_sha256": "e37c6f29b1b963c2174fcd31d0f01cd22f7629a5664331fdcf4b52b19fb0edd4"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_108_nellie_damage_m.txt/0",
+      "source_sha256": "855ba8d6c3c942134ed22e4dae0494fb64523afa4f6e2fc61a79625e5415e700",
+      "source": "Aungh...!",
+      "translation": "啊嗯……！",
+      "previous_translation": "阿昂... !",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "はんっ……♪",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_108_nellie_damage_m.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "395545d93767a6ea667f166174fca62ee351bd83a002ce88919e2bde9ce2fd5b"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_108_nellie_dead.txt/0",
+      "source_sha256": "c7453334bd2d0e20bb2ef96778e3fd111d72a2f76ef1e41879b3dfdb81b55cef",
+      "source": "Dosey\r\nhas died...",
+      "translation": "多西\r\n死了……",
+      "previous_translation": "多西岛\r\n已经死了...",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "ネムリが\r\n死んでしまった……。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_108_nellie_dead.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "01699bc4d76c25d37249b6a519931ad8286f14f33213539e9898c6e2071cf92a"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_108_nellie_like.txt/0",
+      "source_sha256": "ba13628558ee88b7b51c8a48890ee8036200fdb71c32c23772d50dc6f4b941d5",
+      "source": "Yeah!\r\n(Friendship UP!)",
+      "translation": "成功了！\r\n（好感度提升！）",
+      "previous_translation": "对!\r\n(朋友起来! )",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "やったっ！\r\n(好感度UP！)",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_108_nellie_like.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "4d217cdb2aff03f55eb7e3e38c1f0eddae86408323295ad2e9c622c12586a784"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_108_nellie_likesp.txt/0",
+      "source_sha256": "7e7bbc4ad99d92899400090640dd00013fd0ca93a0610afc1f281a9e2f545862",
+      "source": "(Friendship UP!)",
+      "translation": "（好感度提升！）",
+      "previous_translation": "(朋友起来! )",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "(好感度UP！)",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_108_nellie_likesp.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "0d56ce2cdba69d1760d79f82828427479ab597dfe6876dece7875c59227f60e2"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_109_olga_damage.txt/0",
+      "source_sha256": "d9fab4ef975b0b403696047926dacaad9fddaf39c5f37c8c64cc841823d2ef39",
+      "source": "Ouch!",
+      "translation": "好痛！",
+      "previous_translation": "哎哟!",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "あいたっ！",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_109_olga_damage.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "98976f5b955f4bb87a466611bf11e250b13f4ece277cd2df830ab3b6d87aa807"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_109_olga_damage.txt/1",
+      "source_sha256": "0c26accc7e53dcdc2d3df38519413a42eafb29e626404c5733bca88a79500732",
+      "source": "Yikes, that hurts!",
+      "translation": "唔，真难受！",
+      "previous_translation": "唉,这伤害!",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "うっ、キツい！",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_109_olga_damage.txt",
+          "slot": 1,
+          "japanese_slot_index": 1,
+          "command_signature_sha256": "98976f5b955f4bb87a466611bf11e250b13f4ece277cd2df830ab3b6d87aa807"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_109_olga_damage.txt/2",
+      "source_sha256": "5bd2115eabf215c6dade6e07c43c33d6bf46cf47846a04804bfc4ee93da024e5",
+      "source": "Gh, this is no good...",
+      "translation": "呃，这可不太妙啊……",
+      "previous_translation": "啊,这可不好...",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "っぐ、こりゃまずいね……。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_109_olga_damage.txt",
+          "slot": 2,
+          "japanese_slot_index": 2,
+          "command_signature_sha256": "98976f5b955f4bb87a466611bf11e250b13f4ece277cd2df830ab3b6d87aa807"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_109_olga_damage_m.txt/0",
+      "source_sha256": "b76e148c2984ce392cb7845a0311bd7dc5dd39eef95a59a2b565b8fc7c4f1885",
+      "source": "Aaah!",
+      "translation": "呜啊！",
+      "previous_translation": "摆!",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "ほぁ！",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_109_olga_damage_m.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "6aa588aa04d2e9fe52027b0423a6338447daa042bbb9cc20f6d19e95b4949988"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_109_olga_dead.txt/0",
+      "source_sha256": "de965c8dbe847f016f4be902c7ad25fc25ee772d53005a88cfc7a59907187f85",
+      "source": "Olga\r\nhas died...",
+      "translation": "Olga\r\n死了……",
+      "previous_translation": "奥尔加\r\n已经死了...",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "オールが\r\n死んでしまった……。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_109_olga_dead.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "8f9f05124f2065a553f9ed1a8d3feac197883b930757de3fcd69cc9a26f2be0e"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_109_olga_dead.txt/1",
+      "source_sha256": "e5d5e6ca8a089acbe0ae0cecc7fba2683647ddbdbf09375889b37a59f12ef2b0",
+      "source": "Ungh...\r\nGuess you messed up bringin' me along, huh?\r\nLooks like this is curtains.",
+      "translation": "唔……\r\n让你带上我真是失策啊。\r\n看来我只能陪你们到这里了。",
+      "previous_translation": "呜...\r\n我猜你把我带大了,是吧?\r\n看起来像是窗帘",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "うっ………………。\r\nあたしとしたことが、ドジ踏んじまったね。\r\nどうやらあたしはここまでみたいだ。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_109_olga_dead.txt",
+          "slot": 1,
+          "japanese_slot_index": 1,
+          "command_signature_sha256": "8f9f05124f2065a553f9ed1a8d3feac197883b930757de3fcd69cc9a26f2be0e"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_109_olga_dead.txt/2",
+      "source_sha256": "77b25fb0a31e4d5ee5a57282a5cbd09ac3ea6c5cd60f0c554f75926d16f1e856",
+      "source": "Hey! Aren't you gonna save the world?\r\nHurry up and git!",
+      "translation": "喂！你们不是还要拯救世界吗？\r\n快走！",
+      "previous_translation": "喂！ 你不拯救世界吗?\r\n快点走!",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "ほらっ！　アンタ達は世界を救うんだろう！\r\nはやく行くんだよ！",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_109_olga_dead.txt",
+          "slot": 2,
+          "japanese_slot_index": 2,
+          "command_signature_sha256": "8f9f05124f2065a553f9ed1a8d3feac197883b930757de3fcd69cc9a26f2be0e"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_109_olga_dead.txt/3",
+      "source_sha256": "d43749dc20f09ca9b5f65454b3aa2de50a2e8d34d0e111b31284546f3a418a77",
+      "source": "Know I'm mighty thankful.\r\nYou're kind to bring such an old lady along for the ride.\r\nHere...take this...",
+      "translation": "真的很感谢你们。\r\n愿意带上我这样的老太婆同行。\r\n来……把这个拿去吧……",
+      "previous_translation": "知道我非常感激你们\r\n你带一个老太婆来兜风真好\r\n拿着... 拿着...",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "アンタ達には感謝してるよ。\r\nこんなばぁさんを連れて行ってくれてね。\r\nほら……これでも持って行きな…………。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_109_olga_dead.txt",
+          "slot": 3,
+          "japanese_slot_index": 3,
+          "command_signature_sha256": "8f9f05124f2065a553f9ed1a8d3feac197883b930757de3fcd69cc9a26f2be0e"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_109_olga_dead.txt/4",
+      "source_sha256": "8db3117a11f409788899702191067b270d185a7580272d0ee02e47ec005c473b",
+      "source": "You have received\r\n\\c[52]Healing Salve\r\nArea Map\r\nKey of Seals\\c[0].",
+      "translation": "获得了\r\n\\c[52]治疗精华\r\n区域地图\r\n封印钥匙\\c[0]。",
+      "previous_translation": "你已经收到\r\n\\c[52]疗伤\r\n面积图\r\n印章密钥\\c[0].",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "　\\c[52]ヒーリングエキス\r\n　エリアマップ\r\n　封印のカギ\\c[0]\r\n　　を譲り受けた。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_109_olga_dead.txt",
+          "slot": 4,
+          "japanese_slot_index": 4,
+          "command_signature_sha256": "8f9f05124f2065a553f9ed1a8d3feac197883b930757de3fcd69cc9a26f2be0e"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_109_olga_dead.txt/5",
+      "source_sha256": "f7071e3a7f0e829891fee10e25808ef9f028af4f1f026e51086c9e222310ef0c",
+      "source": "You have received\r\n\\c[52]Gold ingot\r\nSmuggler's Charm\r\nLicense of Darkness\\c[0].",
+      "translation": "获得了\r\n\\c[52]金条\r\n召唤符“走私者凭证”\r\n黑暗执照\\c[0]。",
+      "previous_translation": "你已经收到\r\n\\c[52]黄金\r\n走私者的魅力\r\n黑暗许可证\\c[0].",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "　\\c[52]金の延べ棒\r\n　召喚札『運び屋の証文』\r\n　闇のライセンス\\c[0]\r\n　　を譲り受けた。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_109_olga_dead.txt",
+          "slot": 5,
+          "japanese_slot_index": 5,
+          "command_signature_sha256": "8f9f05124f2065a553f9ed1a8d3feac197883b930757de3fcd69cc9a26f2be0e"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_109_olga_dead.txt/6",
+      "source_sha256": "5496c87b6e6f5c1d0cec0cc9e67345eb33fce13ebd9286c1db8d666b1e3a4986",
+      "source": "You have received\r\n\\c[52]Vow of Purity\r\nMerchant's Charm\r\nLicense of Darkness\\c[0].",
+      "translation": "获得了\r\n\\c[52]净化誓约\r\n召唤符“商人凭证”\r\n魅力宝石\\c[0]。",
+      "previous_translation": "你已经收到\r\n\\c[52]圣洁之光\r\n商家的魅力\r\n黑暗许可证\\c[0].",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "　\\c[52]浄化の誓約\r\n　召喚札『商人の証文』\r\n　カリスマジェム\\c[0]\r\n　　を譲り受けた。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_109_olga_dead.txt",
+          "slot": 6,
+          "japanese_slot_index": 6,
+          "command_signature_sha256": "8f9f05124f2065a553f9ed1a8d3feac197883b930757de3fcd69cc9a26f2be0e"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_109_olga_dead.txt/7",
+      "source_sha256": "de965c8dbe847f016f4be902c7ad25fc25ee772d53005a88cfc7a59907187f85",
+      "source": "Olga\r\nhas died...",
+      "translation": "Olga\r\n死了……",
+      "previous_translation": "奥尔加\r\n已经死了...",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "オールが\r\n死んでしまった……。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_109_olga_dead.txt",
+          "slot": 7,
+          "japanese_slot_index": 7,
+          "command_signature_sha256": "8f9f05124f2065a553f9ed1a8d3feac197883b930757de3fcd69cc9a26f2be0e"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_109_olga_like.txt/0",
+      "source_sha256": "3b7b5b8ca9dda15bf465be652c72eb244a73430ce562d4ec0ded5981ba074ecc",
+      "source": "Isn't this nice!\r\n(Friendship UP!)",
+      "translation": "这不是很好嘛！\r\n（好感度提升！）",
+      "previous_translation": "这是不是很好!\r\n(朋友起来! )",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "いいじゃないか！\r\n(好感度UP！)",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_109_olga_like.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "6cf57df615f09264a4dce09b2409f51372638119634817ef8defcc8e4c2fa510"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_110_marloft_damage.txt/0",
+      "source_sha256": "acb1d522f775ef1d6d873d5f911fafaaf1eb8fe3418495feb83204a117666960",
+      "source": "Gh...",
+      "translation": "唔……",
+      "previous_translation": "唉哟...",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "くっ……。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_110_marloft_damage.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "4482927c07a3b6b61d41ee3842f7f9b1b93d5c8d6ef03a8ffb7e0e742bcb020e"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_110_marloft_damage.txt/1",
+      "source_sha256": "2190449382be499f319c3e0d0dedcb28d99c67ea674c26f78d6136535cec4e76",
+      "source": "Quite an attack...",
+      "translation": "真厉害啊……",
+      "previous_translation": "相当的攻击...",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "やりますね……。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_110_marloft_damage.txt",
+          "slot": 1,
+          "japanese_slot_index": 1,
+          "command_signature_sha256": "4482927c07a3b6b61d41ee3842f7f9b1b93d5c8d6ef03a8ffb7e0e742bcb020e"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_110_marloft_damage.txt/2",
+      "source_sha256": "add951d638e6bc08133d99cc1a6036a6de1576cb1408dfc82a9aaff6df7dc34f",
+      "source": "Is this my limit...?",
+      "translation": "这就是我的极限了吗……",
+      "previous_translation": "这是我的极限吗?",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "ここまででしょうか……。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_110_marloft_damage.txt",
+          "slot": 2,
+          "japanese_slot_index": 2,
+          "command_signature_sha256": "4482927c07a3b6b61d41ee3842f7f9b1b93d5c8d6ef03a8ffb7e0e742bcb020e"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_110_marloft_damage_m.txt/0",
+      "source_sha256": "11ebe7b8c17b73f69613d862e09d1bfa58c94de823efe9ffb0214ff5f1da3bc2",
+      "source": "G'aaaah...!",
+      "translation": "呃啊……♪",
+      "previous_translation": "唉哟...",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "ックア……♪",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_110_marloft_damage_m.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "75e5b2f62a72a767104705c726683334eafb433338e5878d398c029e0953131b"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_110_marloft_dead.txt/0",
+      "source_sha256": "2940199956c8691a20a1f93ec7ee697e58d8c43fbb2a12509b6d948176cdb5e8",
+      "source": "Alma\r\nhas died...",
+      "translation": "阿尔玛\r\n死了……",
+      "previous_translation": "阿尔马\r\n已经死了...",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "アルマが\r\n死んでしまった……。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_110_marloft_dead.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "1924a4a40f113bfb1bd52a14f5b1c42c4839fe7937e341bedba7c1a46741f43b"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_110_marloft_like.txt/0",
+      "source_sha256": "ef20932dd551cb43546e86dceeab4c52f5e6af94dd33ce0d74eabcd2c3c0693f",
+      "source": "Just like expected...\r\n(Friendship UP!)",
+      "translation": "果然了不起……\r\n（好感度提升！）",
+      "previous_translation": "和预期的一样...\r\n(朋友起来! )",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "流石です……。\r\n(好感度UP！)",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_110_marloft_like.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "0c4d265d115c14497c7e10cc86d450f4dbab09ee6fe50845628c26d32608eafc"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_111_nellie_damage.txt/0",
+      "source_sha256": "388065079fa6a06354e87c53e4dc14869c4ca538aa0bcc3bedf691691265409f",
+      "source": "'Tch, I'm fine.",
+      "translation": "唔，我没事……",
+      "previous_translation": "\"Tch, 我没事.",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "っつ、大丈夫です……。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_111_nellie_damage.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "e37c6f29b1b963c2174fcd31d0f01cd22f7629a5664331fdcf4b52b19fb0edd4"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_111_nellie_damage.txt/1",
+      "source_sha256": "90ad9265242ef93ff69d951aa0f4c8e7b46fc3b9856360e9283fffbb5b6d31d3",
+      "source": "This...could...be a problem.",
+      "translation": "这……可能……有点麻烦。",
+      "previous_translation": "这... 可能是个问题",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "まずい……かも。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_111_nellie_damage.txt",
+          "slot": 1,
+          "japanese_slot_index": 1,
+          "command_signature_sha256": "e37c6f29b1b963c2174fcd31d0f01cd22f7629a5664331fdcf4b52b19fb0edd4"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_111_nellie_damage.txt/2",
+      "source_sha256": "c0c2f27cdc2db1fe238f8fe5f842ac143c99f6b9b78db6e797148b9f8962905f",
+      "source": "This...could...be it.",
+      "translation": "这……可能……不行了。",
+      "previous_translation": "这... 可能是...",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "もうだめ……かも。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_111_nellie_damage.txt",
+          "slot": 2,
+          "japanese_slot_index": 2,
+          "command_signature_sha256": "e37c6f29b1b963c2174fcd31d0f01cd22f7629a5664331fdcf4b52b19fb0edd4"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_111_nellie_damage_m.txt/0",
+      "source_sha256": "855ba8d6c3c942134ed22e4dae0494fb64523afa4f6e2fc61a79625e5415e700",
+      "source": "Aungh...!",
+      "translation": "啊嗯……！",
+      "previous_translation": "阿昂... !",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "はんっ……♪",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_111_nellie_damage_m.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "395545d93767a6ea667f166174fca62ee351bd83a002ce88919e2bde9ce2fd5b"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_111_nellie_dead.txt/0",
+      "source_sha256": "c7453334bd2d0e20bb2ef96778e3fd111d72a2f76ef1e41879b3dfdb81b55cef",
+      "source": "Dosey\r\nhas died...",
+      "translation": "多西\r\n死了……",
+      "previous_translation": "多西岛\r\n已经死了...",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "ネムリが\r\n死んでしまった……。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_111_nellie_dead.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "02ba9b491d22cbed6a123536fc7f7d54fc30d3a6e740a6d9faf4040713010738"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_111_nellie_like.txt/0",
+      "source_sha256": "52da6f40207d073d1b4a878732b7ea9bcdbeb1c0cacc097f43fd48ac84063471",
+      "source": "Yes!\r\n(Friendship UP!)",
+      "translation": "太好了！\r\n（好感度提升！）",
+      "previous_translation": "没错!\r\n(朋友起来! )",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "やったっ！\r\n(好感度UP！)",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_111_nellie_like.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "50cb97a63eb411d2b90b5b37fe87e5252706a515aae7e94d838394cb0477fa96"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_120_princess_damage.txt/0",
+      "source_sha256": "cea5d81cf856fe54a5fa388618ec2ca98e39942959e54210f2337a79336606e3",
+      "source": "Ow...",
+      "translation": "好痛……",
+      "previous_translation": "呜...",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "いたっ……。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_120_princess_damage.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "605ccf6825a7fd48c7716ed14aed3130034b719459b120f7d5c75cf8369e294c"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_120_princess_damage.txt/1",
+      "source_sha256": "43f55a56748e18f751a9d851ecbd09f1b9e20c88392a7e604484f21411f49edc",
+      "source": "How dare you!",
+      "translation": "怎么可以这样！",
+      "previous_translation": "你竟敢这样!",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "そんなっ！",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_120_princess_damage.txt",
+          "slot": 1,
+          "japanese_slot_index": 1,
+          "command_signature_sha256": "605ccf6825a7fd48c7716ed14aed3130034b719459b120f7d5c75cf8369e294c"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_120_princess_damage.txt/2",
+      "source_sha256": "de0ae00260947a98d0bf1a2aa4552d0a5026d98485dace5125e85ba14eac4c12",
+      "source": "To have it happen like this...",
+      "translation": "竟然在这种地方……",
+      "previous_translation": "发生这样的事...",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "こんなところでは……。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_120_princess_damage.txt",
+          "slot": 2,
+          "japanese_slot_index": 2,
+          "command_signature_sha256": "605ccf6825a7fd48c7716ed14aed3130034b719459b120f7d5c75cf8369e294c"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_120_princess_dead.txt/0",
+      "source_sha256": "55943ff57f0d5fa1cfd92b68c192e18198c5c27d761e8e35f43090d15e95301e",
+      "source": "The princess has died...",
+      "translation": "公主死了……",
+      "previous_translation": "公主已经去世了",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "姫が死んでしまった…",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_120_princess_dead.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "933d0c548431544f36554523a9f0fbfb9fff8708ce5ef7b85cc62e48834f8074"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_125_baron_damage.txt/0",
+      "source_sha256": "acb1d522f775ef1d6d873d5f911fafaaf1eb8fe3418495feb83204a117666960",
+      "source": "Gh...",
+      "translation": "唔……",
+      "previous_translation": "唉哟...",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "くっ……。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_125_baron_damage.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "0ac9be6769c52fd1aae55ec9c57cb781afed94de588287658d69b1f798c82ada"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_125_baron_damage.txt/1",
+      "source_sha256": "3ac34830bd1869761621235dcabe206db403f5dbfd2e9de03ba73883a1922610",
+      "source": "You're strong...",
+      "translation": "真有本事……",
+      "previous_translation": "你很坚强...",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "やるなっ……。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_125_baron_damage.txt",
+          "slot": 1,
+          "japanese_slot_index": 1,
+          "command_signature_sha256": "0ac9be6769c52fd1aae55ec9c57cb781afed94de588287658d69b1f798c82ada"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_125_baron_damage.txt/2",
+      "source_sha256": "02ccccfe0d02edf33e202cf64e67af0a3e8e78ce26f5f45f2826940c6d143199",
+      "source": "So...this is where it ends, huh...",
+      "translation": "所以……就到此为止了吗……",
+      "previous_translation": "所以... 这就是结局,呵呵...",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "ここまでか……。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_125_baron_damage.txt",
+          "slot": 2,
+          "japanese_slot_index": 2,
+          "command_signature_sha256": "0ac9be6769c52fd1aae55ec9c57cb781afed94de588287658d69b1f798c82ada"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_125_baron_dead.txt/0",
+      "source_sha256": "cc1e6d5993aa8586b392bc1cc75d5aa1d9231bf56274436ec00b5427518378d0",
+      "source": "The Demon Lord has died...",
+      "translation": "魔王\r\n死了……",
+      "previous_translation": "恶魔之王死了...",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "魔王が\r\n死んでしまった……。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_125_baron_dead.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "c5d294bcf401628c1ef0a93a002311af0dcab49615b8f5a6ff9f43d6870abbba"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_2_soldier_d_damage.txt/0",
+      "source_sha256": "18b5415b6717c82373b114d2be57a4f496ac79ca63647b0bcf938b945ad79aba",
+      "source": "Gwaahhh!",
+      "translation": "呃啊啊！",
+      "previous_translation": "呜呜!",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "ぐはっ！",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_2_soldier_d_damage.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "0ac9be6769c52fd1aae55ec9c57cb781afed94de588287658d69b1f798c82ada"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_2_soldier_d_damage.txt/1",
+      "source_sha256": "934fb3f5e37182c5ea4358d4fe0fe6b099f4e541421cd6d850c773411265d110",
+      "source": "Hraah...!",
+      "translation": "可恶……！",
+      "previous_translation": "摆... !",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "くうっ……！",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_2_soldier_d_damage.txt",
+          "slot": 1,
+          "japanese_slot_index": 1,
+          "command_signature_sha256": "0ac9be6769c52fd1aae55ec9c57cb781afed94de588287658d69b1f798c82ada"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_2_soldier_d_damage.txt/2",
+      "source_sha256": "2731ed414eaccf839084f7afed6af23f4aab8695325a77ef089558a784a0a012",
+      "source": "Death...!?",
+      "translation": "会死……！？",
+      "previous_translation": "死亡吗?",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "死ぬ……！？",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_2_soldier_d_damage.txt",
+          "slot": 2,
+          "japanese_slot_index": 2,
+          "command_signature_sha256": "0ac9be6769c52fd1aae55ec9c57cb781afed94de588287658d69b1f798c82ada"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_2_soldier_d_dead.txt/0",
+      "source_sha256": "a5100f59d57b39c5d41c6a83d922cfebc3c7d7b7b930449c12eeedac3b8779a1",
+      "source": "Gaaahhhh!",
+      "translation": "啊啊啊啊！",
+      "previous_translation": "摆摆!",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "ぎゃあああああ！",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_2_soldier_d_dead.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "839ce1a9d4e33e77e95558b730e35f10258ebc3417d99ba2bd0edd5c92fd8a18"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_3_bravery_soldier_damage.txt/0",
+      "source_sha256": "cbec7fc8215d3f82146c8b7887ffc3c765fd79ba98e3d01066d2ca986b9f5b4d",
+      "source": "Gh!!",
+      "translation": "呃！！",
+      "previous_translation": "嘘!",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "っく！！",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_3_bravery_soldier_damage.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "873e14944958e1a1128d4dc0e5686b169b067cbaea71611f9ab848edffbe2ee0"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_3_bravery_soldier_damage.txt/1",
+      "source_sha256": "8d199397fabdbf49b489426623c6221b83862337e4799856f6e4b17cdbdc39be",
+      "source": "Tch...",
+      "translation": "唔！",
+      "previous_translation": "谢...",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "っつ！",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_3_bravery_soldier_damage.txt",
+          "slot": 1,
+          "japanese_slot_index": 1,
+          "command_signature_sha256": "873e14944958e1a1128d4dc0e5686b169b067cbaea71611f9ab848edffbe2ee0"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_3_bravery_soldier_dead.txt/0",
+      "source_sha256": "43f55a56748e18f751a9d851ecbd09f1b9e20c88392a7e604484f21411f49edc",
+      "source": "How dare you!",
+      "translation": "怎么会这样！",
+      "previous_translation": "你竟敢这样!",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "そんなっ！",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_3_bravery_soldier_dead.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "839ce1a9d4e33e77e95558b730e35f10258ebc3417d99ba2bd0edd5c92fd8a18"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_4_retire_soldier_damage.txt/0",
+      "source_sha256": "46e46b19dcad5cc769529a1c5a809d799ae3b9cf6e947035cbac184878d3f3e5",
+      "source": "Ggh!",
+      "translation": "呃！",
+      "previous_translation": "唉哟!",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "ッグ！",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_4_retire_soldier_damage.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "873e14944958e1a1128d4dc0e5686b169b067cbaea71611f9ab848edffbe2ee0"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_4_retire_soldier_damage.txt/1",
+      "source_sha256": "b03357809c4cc74f868a97750cbd68330148926ef290c5246355e816d1838765",
+      "source": "Wha--?!",
+      "translation": "什么？！",
+      "previous_translation": "什麽?",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "ナニ？！",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_4_retire_soldier_damage.txt",
+          "slot": 1,
+          "japanese_slot_index": 1,
+          "command_signature_sha256": "873e14944958e1a1128d4dc0e5686b169b067cbaea71611f9ab848edffbe2ee0"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_4_retire_soldier_dead.txt/0",
+      "source_sha256": "9c3d5254a70643a038cb30074f805942cb46fa74de195f24b0552e55071de017",
+      "source": "Ughh...",
+      "translation": "呜……",
+      "previous_translation": "唉哟...",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "うっ…",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_4_retire_soldier_dead.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "839ce1a9d4e33e77e95558b730e35f10258ebc3417d99ba2bd0edd5c92fd8a18"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_5_summon_beast_damage.txt/0",
+      "source_sha256": "c1fa2cf67f591ba061d35af6a748a34bd813859a3afe672e96d2524a19f3d675",
+      "source": "Gwoh!",
+      "translation": "咕哦！",
+      "previous_translation": "呜呜!",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "グオッ！",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_5_summon_beast_damage.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "839ce1a9d4e33e77e95558b730e35f10258ebc3417d99ba2bd0edd5c92fd8a18"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_5_summon_beast_dead.txt/0",
+      "source_sha256": "4647f95bb8190d967c86371cedc1356654272095b29d0950361719cfc6b86496",
+      "source": "Awooo!",
+      "translation": "嗷呜！",
+      "previous_translation": "阿呜!",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "アオーン！",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_5_summon_beast_dead.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "839ce1a9d4e33e77e95558b730e35f10258ebc3417d99ba2bd0edd5c92fd8a18"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_9_pet_damage.txt/0",
+      "source_sha256": "6fc000af2d0ec27f69e329051db97628aca5f2bb05b2170bb18863ddd3c31513",
+      "source": "Grawwr?!",
+      "translation": "汪！？",
+      "previous_translation": "格劳尔?",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "ガゥ？！",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_9_pet_damage.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "1ef4512432b52317a5648e0e33ead0172858c9a7cfb6f70a63b1a0f8b1c4459a"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_9_pet_damage.txt/1",
+      "source_sha256": "f747a97898fc4ba9fbb1abc703a2afad08d2bf842aa2fadf4007363696e6a75b",
+      "source": "Grrrrrr...",
+      "translation": "呜噜噜噜……",
+      "previous_translation": "格鲁尔...",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "グルルルル………。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_9_pet_damage.txt",
+          "slot": 1,
+          "japanese_slot_index": 1,
+          "command_signature_sha256": "1ef4512432b52317a5648e0e33ead0172858c9a7cfb6f70a63b1a0f8b1c4459a"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_9_pet_damage.txt/2",
+      "source_sha256": "9db1a90d34f8285be866497e2057bb4a5f0185443bd1fe9fb2c850b717a94bec",
+      "source": "Hrraaurh!",
+      "translation": "呜嗷！",
+      "previous_translation": "呜呜呜!",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "キャゥン！！",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_9_pet_damage.txt",
+          "slot": 2,
+          "japanese_slot_index": 2,
+          "command_signature_sha256": "1ef4512432b52317a5648e0e33ead0172858c9a7cfb6f70a63b1a0f8b1c4459a"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_9_pet_damage.txt/3",
+      "source_sha256": "1cf1032e5abd7b6a89c3521b7b01ac0c529aa5eade1df33c10e89b4772e8c246",
+      "source": "Meow?!",
+      "translation": "喵？！",
+      "previous_translation": "?",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "ニャ？！",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_9_pet_damage.txt",
+          "slot": 3,
+          "japanese_slot_index": 3,
+          "command_signature_sha256": "1ef4512432b52317a5648e0e33ead0172858c9a7cfb6f70a63b1a0f8b1c4459a"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_9_pet_damage.txt/4",
+      "source_sha256": "4cc86ddc777a0332dadd097a487a7fb36142996650b6f35bfa7218858285c3e7",
+      "source": "Khhssss!",
+      "translation": "哈嘶——！！",
+      "previous_translation": "嘘!",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "シャーー！！",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_9_pet_damage.txt",
+          "slot": 4,
+          "japanese_slot_index": 4,
+          "command_signature_sha256": "1ef4512432b52317a5648e0e33ead0172858c9a7cfb6f70a63b1a0f8b1c4459a"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_9_pet_damage.txt/5",
+      "source_sha256": "424382d2bf4cb95e5529c487af749bd26a85f51dbc6171caded9d0d9ec31bedb",
+      "source": "Me...meow...",
+      "translation": "喵……喵……",
+      "previous_translation": "我... 哟...",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "ニャ…ニャア……。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_9_pet_damage.txt",
+          "slot": 5,
+          "japanese_slot_index": 5,
+          "command_signature_sha256": "1ef4512432b52317a5648e0e33ead0172858c9a7cfb6f70a63b1a0f8b1c4459a"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_9_pet_dead.txt/0",
+      "source_sha256": "1e7b863dd24e33f278e0204c83963d26285c26c63e7d313e737f55843eb9747a",
+      "source": "Poochie returned to his home planet.",
+      "translation": "小布奇回到了他的母星。",
+      "previous_translation": "Poochie回到了自己的星球。",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "ポチが死んでしまった………。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_9_pet_dead.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "0ce239637172948e163963a51df8f5ff72a0c0b271528182b9f565024cd97a06"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/group/udb37_9_pet_dead.txt/1",
+      "source_sha256": "dbfd10e2cdbff393e0cf4066ed145db5bcf1dd6d60f33185b8a1cf124b9bed0e",
+      "source": "Snowball has died...",
+      "translation": "雪球死了……",
+      "previous_translation": "雪球已经死了...",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "タマが死んでしまった………。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_9_pet_dead.txt",
+          "slot": 1,
+          "japanese_slot_index": 1,
+          "command_signature_sha256": "0ce239637172948e163963a51df8f5ff72a0c0b271528182b9f565024cd97a06"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/item/udb6_101_sword_scroll_anger.txt/0",
+      "source_sha256": "f115b350da02ea63446ccbf9df7f4b9f764a016ee475dffa4bba7ce95399f9eb",
+      "source": "<PLAYER> opened\r\nBattle Scroll $str!",
+      "translation": "<PLAYER>打开了\r\n武力卷轴“$str”！",
+      "previous_translation": "<PLAYER> 打开\r\n战斗滚动 $str!",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "<PLAYER>は武力の巻物『$str』を開いた！",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/item/udb6_101_sword_scroll_anger.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "a4cc36e9d4d9488b55e9164370a7107ac2d81e1ed04ade25735921dba38abffb"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/item/udb6_102_sword_scroll_sturdy.txt/0",
+      "source_sha256": "f115b350da02ea63446ccbf9df7f4b9f764a016ee475dffa4bba7ce95399f9eb",
+      "source": "<PLAYER> opened\r\nBattle Scroll $str!",
+      "translation": "<PLAYER>打开了\r\n武力卷轴“$str”！",
+      "previous_translation": "<PLAYER> 打开\r\n战斗滚动 $str!",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "<PLAYER>は武力の巻物『$str』を開いた！",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/item/udb6_102_sword_scroll_sturdy.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "f6125000eeb815e401224503a96b23a83922df5d2fc77d59c106acbe4267138d"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/item/udb6_103_sword_scroll_expensive.txt/0",
+      "source_sha256": "f115b350da02ea63446ccbf9df7f4b9f764a016ee475dffa4bba7ce95399f9eb",
+      "source": "<PLAYER> opened\r\nBattle Scroll $str!",
+      "translation": "<PLAYER>打开了\r\n武力卷轴“$str”！",
+      "previous_translation": "<PLAYER> 打开\r\n战斗滚动 $str!",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "<PLAYER>は武力の巻物『$str』を開いた！",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/item/udb6_103_sword_scroll_expensive.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "6c7702dbc3912c0153c809753ada6829686420fab1562e7da17a3d6d43e08b97"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/item/udb6_104_sword_scroll_sharp.txt/0",
+      "source_sha256": "f115b350da02ea63446ccbf9df7f4b9f764a016ee475dffa4bba7ce95399f9eb",
+      "source": "<PLAYER> opened\r\nBattle Scroll $str!",
+      "translation": "<PLAYER>打开了\r\n武力卷轴“$str”！",
+      "previous_translation": "<PLAYER> 打开\r\n战斗滚动 $str!",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "<PLAYER>は武力の巻物『$str』を開いた！",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/item/udb6_104_sword_scroll_sharp.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "faf25e4d023005b7206d17dcd22d996359e04dae1f2284d90351e4f621432a35"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/item/udb6_105_sword_scroll_destruction.txt/0",
+      "source_sha256": "f115b350da02ea63446ccbf9df7f4b9f764a016ee475dffa4bba7ce95399f9eb",
+      "source": "<PLAYER> opened\r\nBattle Scroll $str!",
+      "translation": "<PLAYER>打开了\r\n武力卷轴“$str”！",
+      "previous_translation": "<PLAYER> 打开\r\n战斗滚动 $str!",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0020",
+      "japanese_check": {
+        "text": "<PLAYER>は武力の巻物『$str』を開いた！",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/item/udb6_105_sword_scroll_destruction.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "ec685cd2a385d14385fa49de9266d9cae058292a79dec5f2fe3a090cd4f1e285"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    }
+  ]
+}

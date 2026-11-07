@@ -1,0 +1,2100 @@
+{
+  "status": {
+    "schema": 1,
+    "method": "current_online_chat_llm",
+    "separate_api_called": false,
+    "total_entries": 12204,
+    "counts": {
+      "llm_translated": 12007,
+      "retained_original": 1,
+      "awaiting_user": 54,
+      "retained_english": 79,
+      "retained_command": 63
+    },
+    "llm_batches": {
+      "0001": 117,
+      "0002": 148,
+      "0003": 138,
+      "0004": 41,
+      "0005": 122,
+      "0006": 129,
+      "0007": 159,
+      "0008": 207,
+      "0009": 37,
+      "0010": 259,
+      "0011": 502,
+      "0012": 485,
+      "0013": 500,
+      "0014": 500,
+      "0015": 494,
+      "0016": 500,
+      "0017": 500,
+      "0018": 500,
+      "0019": 43,
+      "0020": 119,
+      "0021": 120,
+      "0022": 120,
+      "0023": 240,
+      "0024": 120,
+      "0025": 120,
+      "0026": 150,
+      "0027": 150,
+      "0028": 150,
+      "0029": 150,
+      "0030": 100,
+      "0031": 250,
+      "0032": 150,
+      "0033": 139,
+      "0034": 127,
+      "0035": 120,
+      "0036": 120,
+      "0037": 120,
+      "0038": 120,
+      "0039": 120,
+      "0040": 120,
+      "0041": 150,
+      "0042": 150,
+      "0043": 150,
+      "0044": 150,
+      "0045": 150,
+      "0046": 150,
+      "0047": 150,
+      "0048": 150,
+      "0049": 150,
+      "0050": 152,
+      "0051": 150,
+      "0052": 147,
+      "0053": 163,
+      "0054": 180,
+      "0055": 173,
+      "0056": 190,
+      "0057": 190,
+      "0058": 212,
+      "0059": 188,
+      "0060": 200,
+      "0061": 397,
+      "0062": 42
+    },
+    "unresolved_questions": [
+      {
+        "id": "batch0012-equipment-wording",
+        "status": "awaiting_user",
+        "scope": "source_difference",
+        "entry_ids": [
+          "db/3/160/1",
+          "db/4/10/0",
+          "db/5/15/1"
+        ],
+        "question": "野太刀：战矛/刀剑；Convict铠甲：囚犯/断罪者；骑士长之盾：晋升/战胜骑士长证明，等待用户指定。",
+        "review_batch": "0012",
+        "source_sha256s": {
+          "db/3/160/1": "634e39e75047701e31c0a3bd320c84968541eb384d6d09169929fdbb4d96a7e6",
+          "db/4/10/0": "efaa90dd2e4c2789bed2fc388c034387437f106bd9e1cd6190ca935abb29cc52",
+          "db/5/15/1": "46cec5ace2790113e2522e2d9436fd8c227c01f822725cc6a559cd4ca40fa985"
+        },
+        "verified_japanese_evidence": [
+          {
+            "id": "db/3/160/1",
+            "english": "A war-spear made with the secret skills of\r\nthe Samurai Country. Long! Big! Heavy!\r\n\\c[61]Crit\\c[0] \\c[60]+50%\\c[0], \\c[61]Combo\\c[0] \\c[60]-40%\\c[0].",
+            "source_sha256": "634e39e75047701e31c0a3bd320c84968541eb384d6d09169929fdbb4d96a7e6",
+            "text": "和の国秘伝の技術で作られた、戦場用の刀剣。\r\n長い！でかい！重い！\r\n\\c[61]必殺率\\c[0]\\c[60]+50％\\c[0]、\\c[61]連続攻撃率\\c[0]\\c[60]-40％\\c[0]。",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          },
+          {
+            "id": "db/4/10/0",
+            "english": "Convict's Armor",
+            "source_sha256": "efaa90dd2e4c2789bed2fc388c034387437f106bd9e1cd6190ca935abb29cc52",
+            "text": "断罪者の聖鎧",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          },
+          {
+            "id": "db/5/15/1",
+            "english": "The proof of having risen to Knight Captain. \r\n\\c[61]Activates\\c[0] \\c[60]+50%\\c[0] of the time.\r\nWhen active, \\c[61]Armor\\c[0] \\c[60]+18\\c[0], \\c[61]Dmg Reduction\\c[0] \\c[60]+35%\\c[0].",
+            "source_sha256": "46cec5ace2790113e2522e2d9436fd8c227c01f822725cc6a559cd4ca40fa985",
+            "text": "騎士長に勝利した証。性能もさることながら値段も\r\nなかなかな高級品。　\\c[61]防御発動率\\c[0]\\c[60]+50％\\c[0]。\r\n発動時は\\c[61]装甲\\c[0]\\c[60]+18\\c[0]、\\c[61]ダメージ軽減率\\c[0]\\c[60]+35％\\c[0]。",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          }
+        ]
+      },
+      {
+        "id": "batch0012-new-names-markers",
+        "status": "awaiting_user",
+        "scope": "source_difference",
+        "entry_ids": [
+          "db/3/94/0",
+          "db/3/94/1",
+          "db/4/16/0",
+          "db/4/16/1",
+          "db/3/197/1",
+          "db/3/198/1",
+          "db/1/638/0",
+          "db/1/639/0",
+          "db/1/640/0",
+          "db/1/641/0",
+          "db/1/642/0",
+          "db/1/643/0",
+          "db/22/155/0",
+          "db/22/396/0",
+          "db/22/705/0",
+          "db/22/706/0",
+          "db/42/42/0",
+          "db/42/42/2",
+          "db/42/42/3",
+          "db/70/57/2",
+          "message/data/event/mes/dlc/dl02001/dl02001c01-04.txt/0",
+          "message/data/event/mes/dlc/dl02001/dl02001c03-01.txt/0",
+          "message/data/event/mes/dlc/dl02001/dl02001c06-02.txt/0",
+          "message/data/event/mes/dlc/dl02002/dl02002c01-01.txt/0",
+          "message/data/event/mes/dlc/dl02002/dl02002c03-01.txt/0",
+          "message/data/event/mes/dlc/dl02002/dl02002c04-01.txt/0",
+          "message/data/event/mes/dlc/dl02002/dl02002c04-02.txt/0",
+          "message/data/event/mes/dlc/dl02002/dl02002c04-03.txt/0",
+          "message/data/event/mes/dlc/dl02002/dl02002c04-04.txt/0",
+          "message/data/event/mes/dlc/dl02002/dl02002c04-05.txt/0",
+          "message/data/event/mes/dlc/dl02002/dl02002c04-06.txt/0",
+          "message/data/event/mes/dlc/dl02002/dl02002c04-07.txt/0",
+          "message/data/event/mes/dlc/dl02002/dl02002c04-08.txt/0",
+          "message/data/event/mes/dlc/dl02002/dl02002c04-09.txt/0",
+          "message/data/event/mes/dlc/dl02002/dl02002c04-10.txt/0",
+          "message/data/event/mes/dlc/dl02002/dl02002c04-11.txt/0",
+          "message/data/event/mes/dlc/dl02002/dl02002c04-12.txt/0",
+          "message/data/event/mes/dlc/dl02002/dl02002c04-13.txt/0",
+          "message/data/event/mes/dlc/dl02002/dl02002c04-14.txt/0",
+          "message/data/event/mes/dlc/dl02002/dl02002c04-15.txt/0",
+          "message/data/event/mes/dlc/dl02002/dl02002c04-16.txt/0",
+          "message/data/event/mes/dlc/dl02002/dl02002c04-17.txt/0",
+          "message/data/event/object/udb22_155_learn_force_aryan_ev_talk.txt/3",
+          "message/data/event/object/udb22_155_learn_force_aryan_ev_talk.txt/5",
+          "message/data/event/object/udb22_155_learn_force_aryan_ev_talk.txt/6"
+        ],
+        "question": "Lilith/Aria/Monomi新专名与南斗 DE 5MEN系列标记，已对照日文，等待用户指定。",
+        "review_batch": "0012",
+        "source_sha256s": {
+          "db/3/94/0": "53d2d22dc48fc2d3bb7bcd654510e92ace3044afdc80a56d9eb34e6ddca6c4f4",
+          "db/3/94/1": "2f1a11255e942c107367cd4f4e3c3ea71114d70430bdcc5f75b2bc8c0e4979ac",
+          "db/4/16/0": "835b5fa045527e945a016776e57daf6c20c5959e9decb09f76d4510e283d33cd",
+          "db/4/16/1": "f9b047928b59d0d7a953d0d4f18be92504ae5cb115e578aab6022f14cfb77945",
+          "db/3/197/1": "ce6d6007001f0e5ef847d278ca4723408933b154316e3084ec9f8c23d7256f46",
+          "db/3/198/1": "6f4ff8aa7926a799f653692db41d3e01febad3d7d6d4bd37ebedf2529be5142d",
+          "db/1/638/0": "919a28991618678c580fe07e026f008a88258cda6cc7c684ab17f9895ee35ccf",
+          "db/1/639/0": "66fd3b0b0a204f3ff8ba4c3ef64179ac66942373920544bbba193a20b92bd933",
+          "db/1/640/0": "3c96343d2fd11db46edd9fa98a589d9e7829d4347a3c6446977bd3fb1bf648c6",
+          "db/1/641/0": "1d82530515adb99d44d25b480aa370220da315da9144511e61b4a2952e470f1b",
+          "db/1/642/0": "a94b3b62e67039eab3bb0152185033afa77537d0d8b7bb94497d8c2f7887a1ad",
+          "db/1/643/0": "077617f2cc0445f2090830aeef293dcf5de9b3d52c5153a0bf3b83a7962d5622",
+          "db/22/155/0": "d0291886d8f24a391a8c68e533547e11c3e5f290857a91a411c116bd922752a2",
+          "db/22/396/0": "451734efa6ae5f17d36de8a533ccf809c2362281e61c8efb0d7563e2a10b7b36",
+          "db/22/705/0": "8e9fbf94f1f2ba5c2ee9e62600e28c63183401ed6575738734303eecf198d6a0",
+          "db/22/706/0": "8e9fbf94f1f2ba5c2ee9e62600e28c63183401ed6575738734303eecf198d6a0",
+          "db/42/42/0": "8e9fbf94f1f2ba5c2ee9e62600e28c63183401ed6575738734303eecf198d6a0",
+          "db/42/42/2": "f796aea96031ee54bf9aafea2d8e2d49f9ab87db878b2e72c1ad4ae929a494c5",
+          "db/42/42/3": "622644178b4b1ef7085a1e874d230aa3f72c0c24e96760c1039444fa65130f3e",
+          "db/70/57/2": "58ba3195a3526f3917eb8f9e214a1ab796b172f3cc76bb46733f7c08ccb5570a",
+          "message/data/event/mes/dlc/dl02001/dl02001c01-04.txt/0": "6aa7500a5fbc692d47134853cdc9983d2cd691c90736c3d312a9e7044bebdcee",
+          "message/data/event/mes/dlc/dl02001/dl02001c03-01.txt/0": "98145a6a477fc0524c315bc433bfa49671bf5fc27026106fe90990de5228f20d",
+          "message/data/event/mes/dlc/dl02001/dl02001c06-02.txt/0": "b5e6e0b9c89d31bd90df0a6d45f90638e6cde18757121ab460eaa6838a0ae972",
+          "message/data/event/mes/dlc/dl02002/dl02002c01-01.txt/0": "f5530868ca24f7fdf93e5cf04cd0acc2a92a49aa098994ecda7ebdd4592d07b5",
+          "message/data/event/mes/dlc/dl02002/dl02002c03-01.txt/0": "71a364bfe7231f59f0b838898068b66d085c6ce0478248d6ad764b327a729daa",
+          "message/data/event/mes/dlc/dl02002/dl02002c04-01.txt/0": "8b02163a57992d0e03ef438fd0c90ec688855cabf1468d2b365941fd03066ee7",
+          "message/data/event/mes/dlc/dl02002/dl02002c04-02.txt/0": "1948d23657f3c23894b8c54d47ab6b650368bb413c4263b5af6cf8f20539b3e8",
+          "message/data/event/mes/dlc/dl02002/dl02002c04-03.txt/0": "4c3264bb1bcae4a2744304aac6fe0b39b21b7b271ec7366f863e35266ee91aad",
+          "message/data/event/mes/dlc/dl02002/dl02002c04-04.txt/0": "a66f2b7d413777ea77f3f4d5b1630292c67a32b2081c3160590785187adf4cb2",
+          "message/data/event/mes/dlc/dl02002/dl02002c04-05.txt/0": "d8b333a8964e47f966b28fe39f9598efd920ea70355c5c95e0de7767717fe7aa",
+          "message/data/event/mes/dlc/dl02002/dl02002c04-06.txt/0": "02f7cd2cda391446d226cf8f8074c1b2c94e65a865280b34cc1732670a6b928c",
+          "message/data/event/mes/dlc/dl02002/dl02002c04-07.txt/0": "f9e4f34ad8692787f041480a48e0509e6f3061d2ca604f8457cb00564c8bc674",
+          "message/data/event/mes/dlc/dl02002/dl02002c04-08.txt/0": "4e2ee12af86745cc86b72db585c1a0852eb719cff46fbb435aaad251cdb26a08",
+          "message/data/event/mes/dlc/dl02002/dl02002c04-09.txt/0": "ea53ec9dd4e1261fe2ddb444deddb76b59d4ca03f222bfc540e48b12c46ddd21",
+          "message/data/event/mes/dlc/dl02002/dl02002c04-10.txt/0": "8ab263fdce37467b5d6a78568c44c2bd9fd219a5a85885d003d67316ec20c637",
+          "message/data/event/mes/dlc/dl02002/dl02002c04-11.txt/0": "fd63a11c3d6e7b0e700048006c74e1df0bdf5e6baa06d7a35de587966c0cba47",
+          "message/data/event/mes/dlc/dl02002/dl02002c04-12.txt/0": "25fbc2d2b4c9106d6c54521bb7643986928111028a4452df3effc95688350882",
+          "message/data/event/mes/dlc/dl02002/dl02002c04-13.txt/0": "caa5dec53aa7363e1bc4cbe7653f5caba1ed1f08f4e6e1e8ddb5206ae7a7dca8",
+          "message/data/event/mes/dlc/dl02002/dl02002c04-14.txt/0": "6907240379c85a71637d29b62000cd0bd6a0b39d1ad9c3d688437a0d7267ad4b",
+          "message/data/event/mes/dlc/dl02002/dl02002c04-15.txt/0": "26aae400b826dee785ba9d0e99bc21d53b53c6ba45ea21b9bb1e198b6508d4b1",
+          "message/data/event/mes/dlc/dl02002/dl02002c04-16.txt/0": "93783a3af4107442374b9da11649c83530a672b388359d3c1f172a0710ee36b6",
+          "message/data/event/mes/dlc/dl02002/dl02002c04-17.txt/0": "0e6ca08b07abded6477ada5e477525dc0b437568529d0029daa9d140bc23814c",
+          "message/data/event/object/udb22_155_learn_force_aryan_ev_talk.txt/3": "8efe77ff2bae3daec4c41471060bf74f29f49d4f529e43c31d1ab2d39a5039ca",
+          "message/data/event/object/udb22_155_learn_force_aryan_ev_talk.txt/5": "8efe77ff2bae3daec4c41471060bf74f29f49d4f529e43c31d1ab2d39a5039ca",
+          "message/data/event/object/udb22_155_learn_force_aryan_ev_talk.txt/6": "107ace833187f7556354023fa99f7c88cfdc5a39c89be230b92a1b8db81be650"
+        },
+        "verified_japanese_evidence": [
+          {
+            "id": "db/3/94/0",
+            "english": "Lilith Rod",
+            "source_sha256": "53d2d22dc48fc2d3bb7bcd654510e92ace3044afdc80a56d9eb34e6ddca6c4f4",
+            "text": "リリスロッド",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          },
+          {
+            "id": "db/3/94/1",
+            "english": "The staff used by Lilith. Makes \\c[61]Force\\c[0] stronger,\r\nand gives \\c[61]Concentrate\\c[0] \\c[60]+1\\c[0]. However its\r\nDurability is low.",
+            "source_sha256": "2f1a11255e942c107367cd4f4e3c3ea71114d70430bdcc5f75b2bc8c0e4979ac",
+            "text": "リリスが持っていた杖。\r\n\\c[61]理力\\c[0]を強化し、\\c[61]集中\\c[0]\\c[60]+1\\c[0]の効果もある。\r\nしかし耐久度は低い。",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          },
+          {
+            "id": "db/4/16/0",
+            "english": "Aria's Robe",
+            "source_sha256": "835b5fa045527e945a016776e57daf6c20c5959e9decb09f76d4510e283d33cd",
+            "text": "アーリアのローブ",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          },
+          {
+            "id": "db/4/16/1",
+            "english": "The robe worn by the \\c[51]Fortuneteller Aria\\c[0].\r\n\\c[61]ATK\\c[0] \\c[60]-25%\\c[0], \\c[61]Force Dmg Reduction\\c[0] \\c[60]+60%\\c[0].",
+            "source_sha256": "f9b047928b59d0d7a953d0d4f18be92504ae5cb115e578aab6022f14cfb77945",
+            "text": "\\c[51]占い師アーリア\\c[0]が持っていたローブ。\r\n\\c[61]攻撃力\\c[0]\\c[60]-25％\\c[0]、\r\n\\c[61]理力ダメージ軽減率\\c[0]\\c[60]+60％\\c[0]。",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          },
+          {
+            "id": "db/3/197/1",
+            "english": "A wooden stick picked up by Monomi.\r\n\\c[61]Attack\\c[0] and \\c[61]Force\\c[0] increase very slightly.",
+            "source_sha256": "ce6d6007001f0e5ef847d278ca4723408933b154316e3084ec9f8c23d7256f46",
+            "text": "モノミが拾ってきた木の棒。\r\nほんの少しだけ\\c[61]攻撃力\\c[0]、\\c[61]理力\\c[0]が上昇する。",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          },
+          {
+            "id": "db/3/198/1",
+            "english": "A mysterious cane brought by Monomi.\r\nIt's a well made with quite high\r\n\\c[61]Attack\\c[0], \\c[61]Force\\c[0], and \\c[61]Durability\\c[0].",
+            "source_sha256": "6f4ff8aa7926a799f653692db41d3e01febad3d7d6d4bd37ebedf2529be5142d",
+            "text": "モノミが持ってきてくれた不思議なステッキ。\r\n\\c[61]攻撃力\\c[0]、\\c[61]理力\\c[0]、\\c[61]耐久値\\c[0]がかなり高い優れモノ。",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          },
+          {
+            "id": "db/1/638/0",
+            "english": "南斗 DE 5MEN",
+            "source_sha256": "919a28991618678c580fe07e026f008a88258cda6cc7c684ab17f9895ee35ccf",
+            "text": "南斗 DE 5MEN",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          },
+          {
+            "id": "db/1/639/0",
+            "english": "南斗 DE 5MEN1",
+            "source_sha256": "66fd3b0b0a204f3ff8ba4c3ef64179ac66942373920544bbba193a20b92bd933",
+            "text": "南斗 DE 5MEN1",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          },
+          {
+            "id": "db/1/640/0",
+            "english": "南斗 DE 5MEN2",
+            "source_sha256": "3c96343d2fd11db46edd9fa98a589d9e7829d4347a3c6446977bd3fb1bf648c6",
+            "text": "南斗 DE 5MEN2",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          },
+          {
+            "id": "db/1/641/0",
+            "english": "南斗 DE 5MEN3",
+            "source_sha256": "1d82530515adb99d44d25b480aa370220da315da9144511e61b4a2952e470f1b",
+            "text": "南斗 DE 5MEN3",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          },
+          {
+            "id": "db/1/642/0",
+            "english": "南斗 DE 5MEN4",
+            "source_sha256": "a94b3b62e67039eab3bb0152185033afa77537d0d8b7bb94497d8c2f7887a1ad",
+            "text": "南斗 DE 5MEN4",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          },
+          {
+            "id": "db/1/643/0",
+            "english": "南斗 DE 5MEN5",
+            "source_sha256": "077617f2cc0445f2090830aeef293dcf5de9b3d52c5153a0bf3b83a7962d5622",
+            "text": "南斗 DE 5MEN5",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          },
+          {
+            "id": "db/22/155/0",
+            "english": "Aria of the Sun",
+            "source_sha256": "d0291886d8f24a391a8c68e533547e11c3e5f290857a91a411c116bd922752a2",
+            "text": "太陽のアーリア",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          },
+          {
+            "id": "db/22/396/0",
+            "english": "Lillith",
+            "source_sha256": "451734efa6ae5f17d36de8a533ccf809c2362281e61c8efb0d7563e2a10b7b36",
+            "text": "リリス",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          },
+          {
+            "id": "db/22/705/0",
+            "english": "Monomi",
+            "source_sha256": "8e9fbf94f1f2ba5c2ee9e62600e28c63183401ed6575738734303eecf198d6a0",
+            "text": "モノミ",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          },
+          {
+            "id": "db/22/706/0",
+            "english": "Monomi",
+            "source_sha256": "8e9fbf94f1f2ba5c2ee9e62600e28c63183401ed6575738734303eecf198d6a0",
+            "text": "モノミ",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          },
+          {
+            "id": "db/42/42/0",
+            "english": "Monomi",
+            "source_sha256": "8e9fbf94f1f2ba5c2ee9e62600e28c63183401ed6575738734303eecf198d6a0",
+            "text": "モノミ",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          },
+          {
+            "id": "db/42/42/2",
+            "english": "Monomi may be a stuffed\r\nrabbit but she can help\r\non your adventures.\r\nBring some Lapis and try talking\r\nto her!",
+            "source_sha256": "f796aea96031ee54bf9aafea2d8e2d49f9ab87db878b2e72c1ad4ae929a494c5",
+            "text": "うさぎ型のぬいぐるみ、モノミです。\r\n何か冒険に役立つ手伝いを\r\nしてくれるようです。\r\nラピスを所持し話しかけてみましょう！",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          },
+          {
+            "id": "db/42/42/3",
+            "english": "It's Monomi, a stuffed animal\r\nbunny.\r\nClear the adventure with the\r\nUlt. Student class to unlock.",
+            "source_sha256": "622644178b4b1ef7085a1e874d230aa3f72c0c24e96760c1039444fa65130f3e",
+            "text": "うさぎ型のぬいぐるみ、モノミです。\r\n超高校級クラスで冒険を\r\nクリアすることで解放されます。",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          },
+          {
+            "id": "db/70/57/2",
+            "english": "Call Monomi",
+            "source_sha256": "58ba3195a3526f3917eb8f9e214a1ab796b172f3cc76bb46733f7c08ccb5570a",
+            "text": "モノミ呼び出し",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          },
+          {
+            "id": "message/data/event/mes/dlc/dl02001/dl02001c01-04.txt/0",
+            "english": "Me...?\r\nCall me \\c[51]Monomi\\c[0], please!",
+            "source_sha256": "6aa7500a5fbc692d47134853cdc9983d2cd691c90736c3d312a9e7044bebdcee",
+            "text": "あちしは……\r\nまぁ\\c[51]モノミ\\c[0]と呼んでくだちゃい。",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          },
+          {
+            "id": "message/data/event/mes/dlc/dl02001/dl02001c03-01.txt/0",
+            "english": "Give \\c[51]Monomi\\c[0] \\c[52]$tmp1 Lapis\\c[0] to go out on\r\nan errand? You can meet \\c[51]Monomi\\c[0]\r\nagain after a few days.",
+            "source_sha256": "98145a6a477fc0524c315bc433bfa49671bf5fc27026106fe90990de5228f20d",
+            "text": "\\c[51]モノミ\\c[0]に\\c[52]$tmp1ラピス\\c[0]渡して\r\nおつかいに出しますか？\r\n\\c[51]モノミ\\c[0]とは数日後に出会うことができます。",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          },
+          {
+            "id": "message/data/event/mes/dlc/dl02001/dl02001c06-02.txt/0",
+            "english": "\\c[51]Monomi\\c[0] took \\c[52]$tmp1 Lapis\\c[0]\r\nand ran out of the castle.",
+            "source_sha256": "b5e6e0b9c89d31bd90df0a6d45f90638e6cde18757121ab460eaa6838a0ae972",
+            "text": "\\c[51]モノミ\\c[0]は\\c[52]$tmp1ラピス\\c[0]を握りしめ\r\n城を走って出て行った。",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          },
+          {
+            "id": "message/data/event/mes/dlc/dl02002/dl02002c01-01.txt/0",
+            "english": "You feel like \\c[51]Monomi\\c[0] is nearby.\r\nMaybe the errand went well?",
+            "source_sha256": "f5530868ca24f7fdf93e5cf04cd0acc2a92a49aa098994ecda7ebdd4592d07b5",
+            "text": "\\c[51]モノミ\\c[0]が近くにいる気がする。\r\nおつかいは上手くいったのだろうか？",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          },
+          {
+            "id": "message/data/event/mes/dlc/dl02002/dl02002c03-01.txt/0",
+            "english": "\\c[50]<PLAYER>\\c[0]! Fairy!\r\nLong time no see. It's me, \\c[51]Monomi\\c[0]!!",
+            "source_sha256": "71a364bfe7231f59f0b838898068b66d085c6ce0478248d6ad764b327a729daa",
+            "text": "\\c[50]<PLAYER>\\c[0]さん！　妖精さん！\r\nお久しぶりです。\\c[51]モノミ\\c[0]でちゅ！！",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          },
+          {
+            "id": "message/data/event/mes/dlc/dl02002/dl02002c04-01.txt/0",
+            "english": "Got \\c[52]3\\c[0] \\c[52]Nayuta\\c[0]\r\nfrom \\c[51]Monomi\\c[0].",
+            "source_sha256": "8b02163a57992d0e03ef438fd0c90ec688855cabf1468d2b365941fd03066ee7",
+            "text": "\\c[51]モノミ\\c[0]から\r\n「\\c[52]ナユタの実\\c[0]」\\c[52]3個\\c[0]を受け取った。",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          },
+          {
+            "id": "message/data/event/mes/dlc/dl02002/dl02002c04-02.txt/0",
+            "english": "Got \\c[52]3\\c[0] \\c[52]Dark Nayuta\\c[0]\r\nfrom \\c[51]Monomi\\c[0].",
+            "source_sha256": "1948d23657f3c23894b8c54d47ab6b650368bb413c4263b5af6cf8f20539b3e8",
+            "text": "\\c[51]モノミ\\c[0]から\r\n「\\c[52]黒ずんだナユタの実\\c[0]」\\c[52]3個\\c[0]を受け取った。",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          },
+          {
+            "id": "message/data/event/mes/dlc/dl02002/dl02002c04-03.txt/0",
+            "english": "Got \\c[52]Charisma Gem\\c[0]\r\nfrom \\c[51]Monomi\\c[0].",
+            "source_sha256": "4c3264bb1bcae4a2744304aac6fe0b39b21b7b271ec7366f863e35266ee91aad",
+            "text": "\\c[51]モノミ\\c[0]から\r\n「\\c[52]カリスマジェム\\c[0]」を受け取った。",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          },
+          {
+            "id": "message/data/event/mes/dlc/dl02002/dl02002c04-04.txt/0",
+            "english": "Got \\c[52]Attack Gem\\c[0]\r\nfrom \\c[51]Monomi\\c[0].",
+            "source_sha256": "a66f2b7d413777ea77f3f4d5b1630292c67a32b2081c3160590785187adf4cb2",
+            "text": "\\c[51]モノミ\\c[0]から\r\n「\\c[52]アタックジェム\\c[0]」を受け取った。",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          },
+          {
+            "id": "message/data/event/mes/dlc/dl02002/dl02002c04-05.txt/0",
+            "english": "Got \\c[52]Cheer Gem\\c[0]\r\nfrom \\c[51]Monomi\\c[0].",
+            "source_sha256": "d8b333a8964e47f966b28fe39f9598efd920ea70355c5c95e0de7767717fe7aa",
+            "text": "\\c[51]モノミ\\c[0]から\r\n「\\c[52]チアージェム\\c[0]」を受け取った。",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          },
+          {
+            "id": "message/data/event/mes/dlc/dl02002/dl02002c04-06.txt/0",
+            "english": "Got \\c[52]Charisma Gem\\c[0],\r\n\\c[52]Attack Gem\\c[0] and \\c[52]Cheer Gem\\c[0]\r\nfrom \\c[51]Monomi\\c[0].",
+            "source_sha256": "02f7cd2cda391446d226cf8f8074c1b2c94e65a865280b34cc1732670a6b928c",
+            "text": "\\c[51]モノミ\\c[0]から\r\n「\\c[52]カリスマジェム\\c[0]」「\\c[52]アタックジェム\\c[0]」\r\nそして「\\c[52]チアージェム\\c[0]」を受け取った。",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          },
+          {
+            "id": "message/data/event/mes/dlc/dl02002/dl02002c04-07.txt/0",
+            "english": "Got \\c[52]Necklace of Despair\\c[0]\r\nfrom \\c[51]Monomi\\c[0].",
+            "source_sha256": "f9e4f34ad8692787f041480a48e0509e6f3061d2ca604f8457cb00564c8bc674",
+            "text": "\\c[51]モノミ\\c[0]から\r\n「\\c[52]絶望の首飾り\\c[0]」を受け取った。",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          },
+          {
+            "id": "message/data/event/mes/dlc/dl02002/dl02002c04-08.txt/0",
+            "english": "Got \\c[52]Earring of Despair\\c[0]\r\nfrom \\c[51]Monomi\\c[0].",
+            "source_sha256": "4e2ee12af86745cc86b72db585c1a0852eb719cff46fbb435aaad251cdb26a08",
+            "text": "\\c[51]モノミ\\c[0]から\r\n「\\c[52]絶望の耳飾り\\c[0]」を受け取った。",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          },
+          {
+            "id": "message/data/event/mes/dlc/dl02002/dl02002c04-09.txt/0",
+            "english": "Got \\c[52]Band of Despair\\c[0]\r\nfrom \\c[51]Monomi\\c[0].",
+            "source_sha256": "ea53ec9dd4e1261fe2ddb444deddb76b59d4ca03f222bfc540e48b12c46ddd21",
+            "text": "\\c[51]モノミ\\c[0]から\r\n「\\c[52]絶望の腰帯\\c[0]」を受け取った。",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          },
+          {
+            "id": "message/data/event/mes/dlc/dl02002/dl02002c04-10.txt/0",
+            "english": "Got \\c[52]Cross of Despair\\c[0]\r\nfrom \\c[51]Monomi\\c[0].",
+            "source_sha256": "8ab263fdce37467b5d6a78568c44c2bd9fd219a5a85885d003d67316ec20c637",
+            "text": "\\c[51]モノミ\\c[0]から\r\n「\\c[52]絶望の十字架\\c[0]」を受け取った。",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          },
+          {
+            "id": "message/data/event/mes/dlc/dl02002/dl02002c04-11.txt/0",
+            "english": "Got \\c[52]Ring of Despair\\c[0]\r\nfrom \\c[51]Monomi\\c[0].",
+            "source_sha256": "fd63a11c3d6e7b0e700048006c74e1df0bdf5e6baa06d7a35de587966c0cba47",
+            "text": "\\c[51]モノミ\\c[0]から\r\n「\\c[52]絶望の指輪\\c[0]」を受け取った。",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          },
+          {
+            "id": "message/data/event/mes/dlc/dl02002/dl02002c04-12.txt/0",
+            "english": "Got \\c[52]Worn-out Clothes\\c[0]\r\nfrom \\c[51]Monomi\\c[0].",
+            "source_sha256": "25fbc2d2b4c9106d6c54521bb7643986928111028a4452df3effc95688350882",
+            "text": "\\c[51]モノミ\\c[0]から\r\n「\\c[52]朽ちた服\\c[0]」を受け取った。",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          },
+          {
+            "id": "message/data/event/mes/dlc/dl02002/dl02002c04-13.txt/0",
+            "english": "Got \\c[52]Enchanted Cape\\c[0]\r\nfrom \\c[51]Monomi\\c[0].",
+            "source_sha256": "caa5dec53aa7363e1bc4cbe7653f5caba1ed1f08f4e6e1e8ddb5206ae7a7dca8",
+            "text": "\\c[51]モノミ\\c[0]から\r\n「\\c[52]エンシェントマント\\c[0]」を受け取った。",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          },
+          {
+            "id": "message/data/event/mes/dlc/dl02002/dl02002c04-14.txt/0",
+            "english": "Got \\c[52]Rusted Small Sword\\c[0]\r\nfrom \\c[51]Monomi\\c[0].",
+            "source_sha256": "6907240379c85a71637d29b62000cd0bd6a0b39d1ad9c3d688437a0d7267ad4b",
+            "text": "\\c[51]モノミ\\c[0]から\r\n「\\c[52]朽ちた小剣\\c[0]」を受け取った。",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          },
+          {
+            "id": "message/data/event/mes/dlc/dl02002/dl02002c04-15.txt/0",
+            "english": "Got \\c[52]Enchanted Dagger\\c[0]\r\nfrom \\c[51]Monomi\\c[0].",
+            "source_sha256": "26aae400b826dee785ba9d0e99bc21d53b53c6ba45ea21b9bb1e198b6508d4b1",
+            "text": "\\c[51]モノミ\\c[0]から\r\n「\\c[52]エンシェントダガー\\c[0]」を受け取った。",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          },
+          {
+            "id": "message/data/event/mes/dlc/dl02002/dl02002c04-16.txt/0",
+            "english": "Got \\c[52]Magical Staff\\c[0]\r\nfrom \\c[51]Monomi\\c[0].",
+            "source_sha256": "93783a3af4107442374b9da11649c83530a672b388359d3c1f172a0710ee36b6",
+            "text": "\\c[51]モノミ\\c[0]から\r\n「\\c[52]マジカルステッキ\\c[0]」を受け取った。",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          },
+          {
+            "id": "message/data/event/mes/dlc/dl02002/dl02002c04-17.txt/0",
+            "english": "Got \\c[52]Simple Wooden Stick\\c[0]\r\nfrom \\c[51]Monomi\\c[0].",
+            "source_sha256": "0e6ca08b07abded6477ada5e477525dc0b437568529d0029daa9d140bc23814c",
+            "text": "\\c[51]モノミ\\c[0]から\r\n「\\c[52]ただの木の棒\\c[0]」を受け取った。",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          },
+          {
+            "id": "message/data/event/object/udb22_155_learn_force_aryan_ev_talk.txt/3",
+            "english": "Oops, sorry. I am called Aria\r\nof the Sun. I can teach you\r\nthe way of the Affection Force.",
+            "source_sha256": "8efe77ff2bae3daec4c41471060bf74f29f49d4f529e43c31d1ab2d39a5039ca",
+            "text": "おっと、すみません。\r\n私は太陽のアーリアと申します。\r\nあなたに慈愛のフォースをお教えできます。",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          },
+          {
+            "id": "message/data/event/object/udb22_155_learn_force_aryan_ev_talk.txt/5",
+            "english": "Oops, sorry. I am called Aria\r\nof the Sun. I can teach you\r\nthe way of the Affection Force.",
+            "source_sha256": "8efe77ff2bae3daec4c41471060bf74f29f49d4f529e43c31d1ab2d39a5039ca",
+            "text": "おっと、すみません。\r\n私は太陽のアーリアと申します。\r\nあなたに慈愛のフォースをお教えできます。",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          },
+          {
+            "id": "message/data/event/object/udb22_155_learn_force_aryan_ev_talk.txt/6",
+            "english": "Welcome Hero.. I am called Aria\r\nof the Sun. I can teach you\r\nthe power of the Force.",
+            "source_sha256": "107ace833187f7556354023fa99f7c88cfdc5a39c89be230b92a1b8db81be650",
+            "text": "よくぞいらっしゃいました、勇者様。\r\n私は太陽のアーリアと申します。\r\nあなたにフォースの力をお教えできます。",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          }
+        ],
+        "tracked_terms": [
+          "Lilith",
+          "Lillith",
+          "Aria",
+          "Monomi"
+        ],
+        "tracking_update": {
+          "date": "2026-11-07",
+          "previous_entry_count": 12,
+          "current_entry_count": 45,
+          "newly_associated_entries": 33,
+          "note": "Lillith has the same Japanese display spelling as Lilith; identity/name choice still unconfirmed. All occurrences now share the existing pending question. Candidate English retention is not a user-confirmed deferral."
+        }
+      },
+      {
+        "id": "batch0015-source-differences",
+        "status": "awaiting_user",
+        "scope": "source_difference",
+        "entry_ids": [
+          "db/33/21/1",
+          "db/33/65/1",
+          "db/33/90/1",
+          "db/33/98/1",
+          "db/33/99/1",
+          "db/33/100/1"
+        ],
+        "question": "暗黑骑士位置，以及五个世界修改规则存在英日数值差异，等待用户指定采用英文版还是日文版。",
+        "review_batch": "0015",
+        "source_sha256s": {
+          "db/33/21/1": "d06ae5a33f1f94b6cb2cc480e7af97440c24eb1c9bbfa81e656b23ac94217784",
+          "db/33/65/1": "f7f7b6bc7222e8325215820df827cdcce4b834c044dbe01776db1b4dc0c00562",
+          "db/33/90/1": "85622d8f7e74d99173751654ac31d76d93676efb85006a035e5341e39fad5e8a",
+          "db/33/98/1": "85622d8f7e74d99173751654ac31d76d93676efb85006a035e5341e39fad5e8a",
+          "db/33/99/1": "6f965b11939c8df99f5046d8eef75361bab7745f8c886175159638c0f6afe108",
+          "db/33/100/1": "bc9ded43e687baad686d1b5cf16d95491628c93b0df5f91ae6d293dfcb26e702"
+        },
+        "verified_japanese_evidence": [
+          {
+            "id": "db/33/21/1",
+            "english": "Dark Knight is in the top right near the castle.",
+            "text": "開始地点すぐ左上に黒騎士が出現。",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          },
+          {
+            "id": "db/33/65/1",
+            "english": "The insatiable light of despair is 3 times faster.",
+            "text": "3割増しの速度で滅ぶ世界。",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          },
+          {
+            "id": "db/33/90/1",
+            "english": "You gain 3x experience but enemies are likewise stronger.",
+            "text": "この世界では、あなたは3割増しで経験を得て成長することができる。",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          },
+          {
+            "id": "db/33/98/1",
+            "english": "You gain 3x experience but enemies are likewise stronger.",
+            "text": "この世界では、あなたは3割増しで経験を得て成長することができる。",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          },
+          {
+            "id": "db/33/99/1",
+            "english": "3x EXP should help you survive.",
+            "text": "3割増しで得られる経験。",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          },
+          {
+            "id": "db/33/100/1",
+            "english": "3x EXP and strong items should help you survive.",
+            "text": "3割増しで得られる経験。",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          }
+        ],
+        "evidence_note": "英文的 3 times / 3x 与日文的 3割増し（增加30%，即约1.3倍）不一致；暗黑骑士英文称城堡附近右上，日文称起点附近左上。候选草稿暂按英文含义保存，未合入。"
+      }
+    ],
+    "final_review_issue_count": 33,
+    "final_review_entry_count": 457,
+    "deferred_final_issues": [
+      {
+        "id": "name-zeukrees",
+        "status": "deferred_final",
+        "term": "Zeukrees",
+        "entry_ids": [
+          "db/3/33/0",
+          "db/3/33/1",
+          "db/5/14/0",
+          "db/5/14/1",
+          "db/22/130/0",
+          "db/58/103/1",
+          "db/70/112/3",
+          "db/71/90/1",
+          "db/72/11/0",
+          "db/72/11/4",
+          "db/72/32/0",
+          "db/72/32/4",
+          "db/78/4/0",
+          "message/data/event/mes/main/ms003c04/ms003c04-12.txt/0",
+          "message/data/event/mes/main/ms003c04/ms003c04-13.txt/0",
+          "message/data/event/mes/main/ms003c04/ms003c04-17.txt/0",
+          "message/data/event/mes/main/ms003c07p02/ms003c07p02-02.txt/0",
+          "message/data/event/mes/main/ms003c07p03/ms003c07p03-01.txt/0",
+          "message/data/event/mes/main/ms003c07p03/ms003c07p03-03.txt/0",
+          "message/data/event/mes/main/ms003c08p01/ms003c08p01-09.txt/0",
+          "message/data/event/mes/main/ms004c01p01/ms004c01p01-02.txt/0",
+          "message/data/event/mes/main/ms007c04/ms007c04-04.txt/0",
+          "message/data/event/object/udb22_328_dimension_pundit_ev_talk.txt/18",
+          "choice/data/event/skill/udb1_99_fairy_skilltalk.txt/877",
+          "message/data/event/skill/udb1_99_fairy_skilltalk_sp_wepon.txt/9",
+          "message/data/event/skill/udb1_99_fairy_skilltalk_zeukrees.txt/6",
+          "message/data/event/skill/udb1_99_fairy_skilltalk_zeukrees.txt/9",
+          "message/data/event/skill/udb1_99_fairy_skilltalk_zeukrees.txt/14"
+        ],
+        "context": "Zeukrees, the giant of light; sword made from a part of its body.",
+        "question": "光之巨人 Zeukrees 的中文专名如何处理？未经确认不自行音译。",
+        "decision": "暂保留英文专名",
+        "scope": "term",
+        "deferred_by": "User requested final review of temporarily retained uncertain terms; earlier temporary decision preserved.",
+        "verified_japanese_evidence": [
+          {
+            "id": "db/3/33/0",
+            "source_sha256": "00ef981b350ac0011ff8bfe44bae83d45f9afb4f8df01ffe863a0d3b186cb055",
+            "text": "シュクリスの剣",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          },
+          {
+            "id": "db/3/33/1",
+            "source_sha256": "b082593fb041fc8d3ef378ec320e7585d22315e044bf5275be677046e8fea530",
+            "text": "光の巨人シュクリスの体の一部から練成された剣。\r\n高い\\c[61]攻撃力\\c[0]と\\c[61]耐久度\\c[0]を誇る。\r\nさらに\\c[61]理力\\c[0]も上昇する。",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          }
+        ],
+        "evidence_note": "日文显示正文现已可用；仍执行用户暂留英文、最后终审的决定，不自动展开或清除标记。"
+      },
+      {
+        "id": "name-pluton",
+        "status": "deferred_final",
+        "term": "Pluton",
+        "entry_ids": [
+          "db/1/245/0",
+          "db/1/550/0",
+          "db/1/551/0",
+          "db/1/552/0",
+          "db/1/553/0",
+          "db/3/70/1",
+          "db/3/71/1",
+          "db/3/72/1",
+          "db/22/296/0",
+          "db/22/297/0",
+          "db/28/72/4",
+          "db/32/28/1",
+          "db/40/133/0",
+          "db/40/140/0",
+          "db/58/105/1",
+          "db/59/183/1",
+          "db/59/325/1",
+          "db/70/109/3",
+          "db/70/114/2",
+          "db/70/132/2",
+          "db/71/91/1",
+          "db/72/12/0",
+          "db/72/12/4",
+          "db/72/33/0",
+          "db/72/33/4",
+          "db/78/5/0",
+          "db/78/6/0",
+          "message/data/event/mes/main/ms003c04/ms003c04-05.txt/0",
+          "message/data/event/mes/main/ms003c04/ms003c04-12.txt/0",
+          "message/data/event/mes/main/ms003c04/ms003c04-17.txt/0",
+          "message/data/event/mes/main/ms003c06/ms003c06-02.txt/0",
+          "message/data/event/mes/main/ms003c07p02/ms003c07p02-01.txt/0",
+          "message/data/event/mes/main/ms003c07p03/ms003c07p03-01.txt/0",
+          "message/data/event/mes/main/ms003c09/ms003c09-02.txt/0",
+          "message/data/event/mes/main/ms004c01p01/ms004c01p01-01.txt/0",
+          "message/data/event/mes/main/ms004c01p01/ms004c01p01-02.txt/0",
+          "message/data/event/mes/main/ms004c01p01/ms004c01p01-04.txt/0",
+          "message/data/event/mes/main/ms004c01p01/ms004c01p01-06.txt/0",
+          "message/data/event/mes/main/ms004c01p02/ms004c01p02-01.txt/0",
+          "message/data/event/mes/main/ms004c02/ms004c02-01.txt/0",
+          "message/data/event/mes/main/ms005c01p01/ms005c01p01-01.txt/0",
+          "message/data/event/mes/main/ms006c01/ms006c01-02.txt/0",
+          "message/data/event/mes/main/ms006c03/ms006c03-02.txt/0",
+          "message/data/event/mes/main/ms006c03/ms006c03-05.txt/0",
+          "message/data/event/mes/main/ms007c04/ms007c04-03.txt/0",
+          "message/data/event/mes/main/ms007c05/ms007c05-03.txt/0",
+          "message/data/event/object/udb22_297_dimension_lord_ev_appear.txt/0",
+          "choice/data/event/skill/udb1_380_marloft_skilltalk.txt/4889",
+          "message/data/event/timer/udb24_100_dimension_lord_delete_1h.txt/0",
+          "message/data/event/timer/udb24_117_dimension_lord_before_3h.txt/0",
+          "message/data/event/timer/udb24_80_dimension_area_start.txt/2",
+          "message/data/event/timer/udb24_97_dimension_lord_delete_3h.txt/0"
+        ],
+        "context": "Wings made into Lightwing Spear; Dream Sword was created to defeat Pluton.",
+        "question": "Pluton 的角色或怪物中文名如何处理？",
+        "decision": "暂保留英文专名",
+        "scope": "term",
+        "deferred_by": "User requested final review of temporarily retained uncertain terms; earlier temporary decision preserved.",
+        "verified_japanese_evidence": [
+          {
+            "id": "db/3/70/1",
+            "source_sha256": "877619ce902cb41eaa9b7be3ec9de4e0504361b9e1b505537d7ef83362cc03e4",
+            "text": "冥王の羽が硬化してできた槍。\r\n\\c[60]2マス\\c[0]先まで攻撃でき、結界にも有効。\r\n連続攻撃は出ないが、\\c[61]必殺率\\c[0]\\c[60]+100％\\c[0]。",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          },
+          {
+            "id": "db/3/71/1",
+            "source_sha256": "c3eaa26b7dd1ddfb3f796996dae3ce5fd3399b5cbae8885211142eae30558f46",
+            "text": "冥王を倒すために生み出された剣。\r\n\\c[61]命中率\\c[0]\\c[60]-25％\\c[0]、\\c[61]連続攻撃率\\c[0]\\c[60]+200％\\c[0]。",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          }
+        ],
+        "evidence_note": "日文显示正文现已可用；仍执行用户暂留英文、最后终审的决定，不自动展开或清除标记。"
+      },
+      {
+        "id": "name-auris",
+        "status": "deferred_final",
+        "term": "Auris",
+        "entry_ids": [
+          "db/3/75/0",
+          "db/3/75/1",
+          "db/22/156/0",
+          "message/data/event/object/udb22_155_learn_force_aryan_ev_talk.txt/9",
+          "message/data/event/object/udb22_156_learn_force_auris_ev_talk.txt/3",
+          "message/data/event/object/udb22_156_learn_force_auris_ev_talk.txt/5",
+          "message/data/event/object/udb22_156_learn_force_auris_ev_talk.txt/6"
+        ],
+        "context": "Fortuneteller Auris, owner of a crystal ball.",
+        "question": "占卜师 Auris 的中文名如何处理？",
+        "decision": "暂保留英文专名",
+        "scope": "term",
+        "deferred_by": "User requested final review of temporarily retained uncertain terms; earlier temporary decision preserved.",
+        "verified_japanese_evidence": [
+          {
+            "id": "db/3/75/0",
+            "source_sha256": "084ece77dc8944a43574df6936a8a8fc3d7599da58f5eb3fc89dc46efcf18221",
+            "text": "アウリスの水晶球",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          },
+          {
+            "id": "db/3/75/1",
+            "source_sha256": "ef0364d4139b9a7915a622cf59ffcd60eb794de9175301d6080005bc8823068c",
+            "text": "\\c[51]占い師アウリス\\c[0]が持っていた水晶球。\r\n\\c[61]攻撃力\\c[0]/\\c[61]理力\\c[0]\\c[60]-50％\\c[0]、\\c[61]速度低下\\c[0]し\r\n\\c[61]回避低下\\c[0]、しかし常に\\c[61]集中\\c[0]\\c[60]+2\\c[0]。",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          }
+        ],
+        "evidence_note": "日文显示正文现已可用；仍执行用户暂留英文、最后终审的决定，不自动展开或清除标记。"
+      },
+      {
+        "id": "abbreviation-sp",
+        "term": "Sp.",
+        "status": "deferred_final",
+        "scope": "term",
+        "entry_ids": [
+          "db/1/88/0"
+        ],
+        "question": "Sp. 的完整含义尚未确认，是否保留缩写或另定译法？",
+        "context": "Dosey's Sp. Healing Herb",
+        "decision": "多西的Sp.疗伤草；缩写暂不展开",
+        "verified_japanese_evidence": [
+          {
+            "id": "db/1/88/0",
+            "source_sha256": "0a144a43e57dd4ec0b24105ee9e694fbf8e76ea74d9e54b82714efdb8259c8cf",
+            "text": "ネムリの(特)ヒーリングハーブ",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          }
+        ],
+        "evidence_note": "日文显示正文现已可用；仍执行用户暂留英文、最后终审的决定，不自动展开或清除标记。"
+      },
+      {
+        "id": "flame-mine-unclear-phrase",
+        "status": "deferred_final",
+        "scope": "phrase",
+        "term": "and stop",
+        "entry_ids": [
+          "db/6/91/3"
+        ],
+        "question": "Flame Mine 的 and stop 指什么停止？待最终核对或用户游戏验证。",
+        "context": "When stepped on 3x3 tiles take damage, and stop. Internal Japanese label: 火遁地雷, not a Japanese display description.",
+        "decision": "先译明确部分，保留 and stop 并标记",
+        "verified_japanese_evidence": [
+          {
+            "id": "db/6/91/3",
+            "source_sha256": "6c6e27b9be5943194f3474c7d45bf7fae90122b1fddeb579ff2c806a8ff91f9c",
+            "text": "炎の理力を込めた、地面に設置して使う兵器。\r\n踏ませると\\c[60]3x3マス\\c[0]にダメージ、移動停止させる。\r\n所有時に炎攻撃を受けると引火する。",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          }
+        ],
+        "evidence_note": "日文显示正文现已可用；仍执行用户暂留英文、最后终审的决定，不自动展开或清除标记。"
+      },
+      {
+        "id": "growth-mist-targets",
+        "scope": "phrase",
+        "status": "deferred_final",
+        "entry_ids": [
+          "db/6/164/3"
+        ],
+        "term": "Effective to use on ally NPCs but not allies.",
+        "question": "ally NPCs 与 allies 指哪些不同身份？取得日文正文后或由用户验证再定。",
+        "decision": "保留末句英文，明确部分照常翻译",
+        "verified_japanese_evidence": [
+          {
+            "id": "db/6/164/3",
+            "source_sha256": "1bc23140f0a60c392b4cd89304b7186e721a417a2ccb9b58283dc03b8330d0b3",
+            "text": "賢者の経験のごく一部を理力に乗せて込めた薬品。\r\n浴びた者は\\c[61]レベル\\c[0]\\c[60]+5\\c[0]。\r\n協力NPCに使用すると効果的。仲間には意味がない。",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          }
+        ],
+        "evidence_note": "日文显示正文现已可用；仍执行用户暂留英文、最后终审的决定，不自动展开或清除标记。"
+      },
+      {
+        "id": "review-concentrate-stationary",
+        "status": "deferred_final",
+        "scope": "source_difference",
+        "entry_ids": [
+          "db/1/9/1"
+        ],
+        "source_sha256s": {
+          "db/1/9/1": "9534babc0754cb9ece2b59b4689d34574b9c9305c259de575308e31ba651efe7"
+        },
+        "question": "集中：英文只说重复使用增强效果；日文限定不移动、连续使用。",
+        "decision": "按用户选择暂沿用英文版表述/含义，标记终审；不擅自改成日文效果。",
+        "deferred_by": "用户于2026-11-07逐组选择暂保留英文并标记终审；创世之书明确选择保留英文含义。",
+        "review_batch": "0009"
+      },
+      {
+        "id": "review-old-lightning-area",
+        "status": "deferred_final",
+        "scope": "source_difference",
+        "entry_ids": [
+          "db/1/42/1"
+        ],
+        "source_sha256s": {
+          "db/1/42/1": "1230bfe23ba958a7d8843203c4e9aa325db1e4f31947a4fbe68fe432e4204eb8"
+        },
+        "question": "旧技能雷光：英文为施法者周围3x3格；日文[旧仕様]为面前3x3格。",
+        "decision": "按用户选择暂沿用英文版表述/含义，标记终审；不擅自改成日文效果。",
+        "deferred_by": "用户于2026-11-07逐组选择暂保留英文并标记终审；创世之书明确选择保留英文含义。",
+        "review_batch": "0009"
+      },
+      {
+        "id": "review-frozen-leaf-hp",
+        "status": "deferred_final",
+        "scope": "source_difference",
+        "entry_ids": [
+          "db/6/11/3"
+        ],
+        "source_sha256s": {
+          "db/6/11/3": "e97e6b934fc82c25e64b1c2f5cf3e139bf3dfe57798126f28bae666259e72d92"
+        },
+        "question": "冰冻叶：英文HP+25%；日文HP+25，恢复单位不同。",
+        "decision": "按用户选择暂沿用英文版表述/含义，标记终审；不擅自改成日文效果。",
+        "deferred_by": "用户于2026-11-07逐组选择暂保留英文并标记终审；创世之书明确选择保留英文含义。",
+        "review_batch": "0009"
+      },
+      {
+        "id": "review-smith-scroll-target",
+        "status": "deferred_final",
+        "scope": "source_difference",
+        "entry_ids": [
+          "db/6/26/3"
+        ],
+        "source_sha256s": {
+          "db/6/26/3": "a56bb628adb2a99ef80b58fa5849e87ea81b7ab0878f9442a78144d372f58b89"
+        },
+        "question": "锻冶精灵的卷轴：英文末句Does not stack；日文为对追加装备无效。",
+        "decision": "按用户选择暂沿用英文版表述/含义，标记终审；不擅自改成日文效果。",
+        "deferred_by": "用户于2026-11-07逐组选择暂保留英文并标记终审；创世之书明确选择保留英文含义。",
+        "review_batch": "0009"
+      },
+      {
+        "id": "review-frozen-gem-consumption",
+        "status": "deferred_final",
+        "scope": "source_difference",
+        "entry_ids": [
+          "db/6/141/3"
+        ],
+        "source_sha256s": {
+          "db/6/141/3": "2a6130cfff3f0c5ae94beb932515f473532c541e2f22eed4f86b74f22a48e362"
+        },
+        "question": "冰冻宝石：英文只说防止物品被烧；日文明确在物品起火时代替碎裂。",
+        "decision": "按用户选择暂沿用英文版表述/含义，标记终审；不擅自改成日文效果。",
+        "deferred_by": "用户于2026-11-07逐组选择暂保留英文并标记终审；创世之书明确选择保留英文含义。",
+        "review_batch": "0009"
+      },
+      {
+        "id": "review-permanent-travel-parchments",
+        "status": "deferred_final",
+        "scope": "source_difference",
+        "entry_ids": [
+          "db/6/162/3",
+          "db/6/163/3"
+        ],
+        "source_sha256s": {
+          "db/6/162/3": "35ba714de44337e4d90b0d1949173fde7156f6421c0bdca8a5784729c8e2d150",
+          "db/6/163/3": "2b47b7468ee0025792e1f54c6c3a122601f47fa079740583430193507f720efd"
+        },
+        "question": "浮空书札与游泳书札：英文未写持续时间；日文明确效果不会消失。",
+        "decision": "按用户选择暂沿用英文版表述/含义，标记终审；不擅自改成日文效果。",
+        "deferred_by": "用户于2026-11-07逐组选择暂保留英文并标记终审；创世之书明确选择保留英文含义。",
+        "review_batch": "0009"
+      },
+      {
+        "id": "review-creation-item-count",
+        "status": "deferred_final",
+        "scope": "source_difference",
+        "entry_ids": [
+          "db/3/73/1"
+        ],
+        "source_sha256s": {
+          "db/3/73/1": "b4321a17219a941adc943af8a6f7c351e568bee52a916cabb09ac4e1a60aea71"
+        },
+        "question": "创世之书：英文为周围地图上的物品数量；日文列周边地图、敌人HP、所持物品数，持有者未明确。",
+        "decision": "按用户选择暂沿用英文版表述/含义，标记终审；不擅自改成日文效果。",
+        "deferred_by": "用户于2026-11-07逐组选择暂保留英文并标记终审；创世之书明确选择保留英文含义。",
+        "review_batch": "0009"
+      },
+      {
+        "id": "name-baldur",
+        "scope": "term",
+        "term": "Baldur",
+        "status": "deferred_final",
+        "entry_ids": [
+          "db/1/375/0",
+          "db/13/160/0",
+          "db/13/161/0",
+          "db/22/506/0",
+          "db/37/105/0",
+          "db/40/172/0",
+          "db/40/173/0",
+          "db/40/174/0",
+          "db/40/175/0",
+          "db/40/176/0",
+          "db/40/177/0",
+          "db/40/178/0",
+          "db/40/179/0",
+          "db/59/142/1",
+          "db/71/81/1",
+          "db/72/46/0",
+          "db/72/46/4",
+          "db/78/36/0",
+          "message/data/event/group/udb37_105_baldur_dead.txt/0",
+          "message/data/event/mes/friend/fs016c02/fs016c02-08.txt/0",
+          "message/data/event/mes/friend/fs016c03/fs016c03-05.txt/0",
+          "message/data/event/mes/friend/fs016c04/fs016c04-09.txt/0",
+          "message/data/event/mes/friend/fs016c06/fs016c06-01.txt/0",
+          "message/data/event/mes/friend/fs017c01/fs017c01-01.txt/0",
+          "message/data/event/mes/friend/fs017c02/fs017c02-01.txt/0",
+          "message/data/event/mes/friend/fs017c02/fs017c02-03.txt/0",
+          "message/data/event/mes/friend/fs017c04/fs017c04-02.txt/0",
+          "message/data/event/mes/friend/fs017c05/fs017c05-02.txt/0",
+          "message/data/event/mes/friend/fs017c05/fs017c05-08.txt/0",
+          "message/data/event/mes/friend/fs017c05/fs017c05-24.txt/0",
+          "choice/data/event/object/udb22_74_cheated_altar_ev_talk.txt/2192",
+          "message/data/event/skill/udb1_375_baldur_skilltalk.txt/0",
+          "message/data/event/skill/udb1_375_baldur_skilltalk_gossip.txt/4",
+          "message/data/event/skill/udb1_375_baldur_skilltalk_gossip.txt/9",
+          "message/data/event/skill/udb1_375_baldur_skilltalk_gossip.txt/11",
+          "message/data/event/skill/udb1_375_baldur_skilltalk_gossip.txt/14",
+          "message/data/event/skill/udb1_99_fairy_skilltalk_friend.txt/11",
+          "message/data/event/timer/udb24_165_baldur_timerev.txt/0"
+        ],
+        "question": "Baldur 的中文角色名如何处理？已核对实际日文バルドフ。",
+        "decision": "用户选择暂保留英文专名，标记最后终审。",
+        "review_batch": "0010",
+        "verified_japanese_evidence": [
+          {
+            "id": "db/13/160/0",
+            "source_sha256": "681183ebe639f8e70f1a28eee993a556402034332416bf19ea5d26ebcf6c20ec",
+            "text": "バルドフの詩",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          },
+          {
+            "id": "db/13/161/0",
+            "source_sha256": "681183ebe639f8e70f1a28eee993a556402034332416bf19ea5d26ebcf6c20ec",
+            "text": "バルドフの詩",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          }
+        ],
+        "proposed_but_not_approved": "巴尔杜尔"
+      },
+      {
+        "id": "name-draco",
+        "scope": "term",
+        "term": "Draco",
+        "status": "deferred_final",
+        "entry_ids": [
+          "db/1/373/0",
+          "db/1/387/0",
+          "db/1/398/0",
+          "db/1/398/1",
+          "db/1/398/5",
+          "db/13/248/0",
+          "db/13/248/3",
+          "db/22/504/0",
+          "db/37/103/0",
+          "db/71/79/1",
+          "db/72/44/0",
+          "db/72/44/4",
+          "db/72/61/4",
+          "db/78/34/0",
+          "db/78/58/0",
+          "message/data/event/group/udb37_103_draco_dead.txt/0",
+          "message/data/event/mes/class/cs008c22/cs004c22-10.txt/0",
+          "message/data/event/mes/class/cs008c32/cs008c32-04.txt/0",
+          "message/data/event/mes/friend/fs010c02/fs010c02-08.txt/0",
+          "message/data/event/mes/friend/fs010c02/fs010c02-10.txt/0",
+          "message/data/event/mes/friend/fs010c02/fs010c02-19.txt/0",
+          "message/data/event/mes/friend/fs010c04/fs010c04-01.txt/0",
+          "message/data/event/mes/friend/fs011c03/fs011c03-10.txt/0",
+          "message/data/event/mes/friend/fs011c04/fs011c04-01.txt/0",
+          "message/data/event/mes/friend/fs011c05/fs011c05-02.txt/0",
+          "message/data/event/mes/friend/fs011c05/fs011c05-12.txt/0",
+          "choice/data/event/object/udb22_74_cheated_altar_ev_talk.txt/1696",
+          "message/data/event/skill/udb1_373_draco_skilltalk.txt/0",
+          "message/data/event/skill/udb1_373_draco_skilltalk.txt/1",
+          "message/data/event/skill/udb1_373_draco_skilltalk_gossip.txt/2",
+          "message/data/event/skill/udb1_373_draco_skilltalk_gossip.txt/7",
+          "message/data/event/skill/udb1_373_draco_skilltalk_gossip.txt/10",
+          "message/data/event/skill/udb1_373_draco_skilltalk_gossip.txt/15",
+          "message/data/event/skill/udb1_373_draco_skilltalk_gossip.txt/21",
+          "message/data/event/skill/udb1_99_fairy_skilltalk_friend.txt/6",
+          "message/data/event/timer/udb24_163_draco_timerev.txt/0"
+        ],
+        "question": "Draco 的中文角色名如何处理？已核对实际日文ドラコ。",
+        "decision": "用户选择暂保留英文专名，标记最后终审。",
+        "review_batch": "0010",
+        "verified_japanese_evidence": [
+          {
+            "id": "db/13/248/0",
+            "source_sha256": "0a2972288068716013a4cae27b86fe9ef518aaa180afbc611df0098075ee1e41",
+            "text": "ドラコがんばる",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          },
+          {
+            "id": "db/13/248/3",
+            "source_sha256": "75c33f9dfa384bb7de762373cd32c02d03e455b3d2a0aeb1fa6b61de613bbd24",
+            "text": "ドラコは限界みたい…",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          }
+        ],
+        "proposed_but_not_approved": "德拉科"
+      },
+      {
+        "id": "name-koppa",
+        "scope": "term",
+        "term": "Koppa",
+        "status": "deferred_final",
+        "entry_ids": [
+          "db/1/581/0",
+          "db/1/582/0",
+          "db/1/582/1",
+          "db/1/633/0",
+          "db/1/634/0",
+          "db/13/287/0",
+          "db/13/288/0",
+          "db/13/288/1",
+          "db/22/701/0",
+          "db/37/131/0",
+          "message/data/event/mes/dlc/dl01001/dl01001c01-02.txt/0",
+          "message/data/event/mes/dlc/dl01005/dl01005c01-01.txt/0"
+        ],
+        "question": "Koppa 的中文角色名如何处理？已核对实际日文コッパ。",
+        "decision": "用户选择暂保留英文专名，标记最后终审。",
+        "review_batch": "0010",
+        "verified_japanese_evidence": [
+          {
+            "id": "db/13/287/0",
+            "source_sha256": "818774ec9212e0926f17616cc4f3e126f0708b966338424f6dcbd7ad78643a0d",
+            "text": "コッパ出撃中",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          },
+          {
+            "id": "db/13/288/0",
+            "source_sha256": "79b7c643146f1b79cc36161433eb0d9cd47b1d7a65f2b1dbdb5896fd158bd1a5",
+            "text": "コッパ休憩中",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          },
+          {
+            "id": "db/13/288/1",
+            "source_sha256": "3ef6936ac950716c95ab8661e93087385c284b3b0843623d5ed1c4622a7d5736",
+            "text": "コッパは戦いの疲れを癒している最中です。\r\nこの状態が終わるまでコッパに手伝ってもらうことは出来ません。",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          }
+        ],
+        "proposed_but_not_approved": "库帕"
+      },
+      {
+        "id": "status-xp-ten-percent",
+        "status": "deferred_final",
+        "scope": "source_difference",
+        "entry_ids": [
+          "db/13/129/0"
+        ],
+        "source_sha256s": {
+          "db/13/129/0": "cda2446414d83c3d82098e59755cd991459593fd3c5003f28a34a412e440a8d4"
+        },
+        "question": "英文状态名XP +10%与日文経験値10%化的加号不同；该条没有效果正文可确认是增加还是变为10%。",
+        "decision": "用户选择保留XP +10%，标记最后终审，不擅自改动加号和数值。",
+        "review_batch": "0010"
+      },
+      {
+        "id": "usage-counter-label",
+        "status": "deferred_final",
+        "scope": "source_difference",
+        "entry_ids": [
+          "db/1/409/1",
+          "db/1/433/1"
+        ],
+        "question": "使用次数变量表示上限还是当前使用次数？英文Limited to，日文現在の使用数。",
+        "review_batch": "0011",
+        "source_sha256s": {
+          "db/1/409/1": "7378692471df16735da5de74db0e96e4bef0e3c48f3395e7cb5c223794d5ecda",
+          "db/1/433/1": "77fd76d0ed1536de4a4a28461b2f014560d2d12fe80bf72eee6d63f23572d9e7"
+        },
+        "decision": "用户选择保留英文版含义、标记最后终审；本次不按日文改变效果或变量含义。",
+        "verified_japanese_evidence": [
+          {
+            "id": "db/1/409/1",
+            "english": "Brain wash 1 Monster to fight for you. Range is\r\n3 tiles. No effect on story monsters or Bosses.\r\n\\c[1]Reduce CHR Lvl. by[5x (No. of times used +1)]\\c[0]\r\n[Limited to \\c[1]\\cdb[25:51:0]\\c[0] uses]",
+            "source_sha256": "7378692471df16735da5de74db0e96e4bef0e3c48f3395e7cb5c223794d5ecda",
+            "text": "離れた「魔物」1体を洗脳して戦わせる。\r\n射程3マス｡物語に関わる魔物やボスには\r\n無効。\\c[1]魅力Lvを[5x(使用数+1)]だけ消費\\c[0]｡\r\n[ 現在の使用数 \\c[1]\\cdb[25:51:0]\\c[0] 回 ]",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          },
+          {
+            "id": "db/1/433/1",
+            "english": "Make \\c[60]1\\c[0] monster fight as your subordinate.\r\n\\c[61]Range\\c[0] is \\c[60]3 tiles\\c[0], and it's ineffective against Bosses.\r\nReduce \\c[61]Charisma Lvl.\\c[0] by \\c[60][5x (number used +1)]\\c[0].\r\n[Limited to \\c[1]\\cdb[25:51:0]\\c[0] uses]",
+            "source_sha256": "77fd76d0ed1536de4a4a28461b2f014560d2d12fe80bf72eee6d63f23572d9e7",
+            "text": "魔物\\c[60]1体\\c[0]を配下として戦わせる。\r\n\\c[61]射程\\c[0]は\\c[60]3マス\\c[0]で、ボスには無効。\r\n\\c[61]魅力Lv\\c[0]を\\c[60][5x(使用数+1)]\\c[0]消費する｡\r\n[ 現在の使用数 \\c[1]\\cdb[25:51:0]\\c[0] 回 ]",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          }
+        ],
+        "decision_date": "2026-11-07"
+      },
+      {
+        "id": "assassinate-excluded-targets",
+        "status": "deferred_final",
+        "scope": "source_difference",
+        "entry_ids": [
+          "db/1/531/1"
+        ],
+        "question": "暗杀的例外目标：英文某些怪物与野兽，日文某些怪物与物体。",
+        "review_batch": "0011",
+        "source_sha256s": {
+          "db/1/531/1": "3420e064a9249335e830374d47f569fc15b3d1bac5e4ac5b5d13c1eeb3c52ba7"
+        },
+        "decision": "用户选择保留英文版含义、标记最后终审；本次不按日文改变效果或变量含义。",
+        "verified_japanese_evidence": [
+          {
+            "id": "db/1/531/1",
+            "english": "A secret assassin technique. Small chance\r\nto defeat your opponent in a single blow.\r\nHas no effect against certain monsters and beasts.",
+            "source_sha256": "3420e064a9249335e830374d47f569fc15b3d1bac5e4ac5b5d13c1eeb3c52ba7",
+            "text": "アサシンの奥義。\r\n低確率だが当たれば一撃で相手を倒すことができる。\r\n一部モンスターや物体には効果がない。",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          }
+        ],
+        "decision_date": "2026-11-07"
+      },
+      {
+        "id": "kaboom-minimum-damage",
+        "status": "deferred_final",
+        "scope": "source_difference",
+        "entry_ids": [
+          "db/1/583/1"
+        ],
+        "question": "轰隆弹英文ATK x3，日文3倍以上，是否按日文补明至少？",
+        "review_batch": "0011",
+        "source_sha256s": {
+          "db/1/583/1": "db647f59c5cafc779faccbf436546e764c5d56a2c4c2f9ed40beb25a0ce30421"
+        },
+        "decision": "用户选择保留英文版含义、标记最后终审；本次不按日文改变效果或变量含义。",
+        "verified_japanese_evidence": [
+          {
+            "id": "db/1/583/1",
+            "english": "A special skill that can only be used at night.\r\nUnleash an attack with \\c[61]ATK\\c[0] \\c[60]x3\\c[0].\r\n\\c[61]Weapon durability is reduced\\c[0] by \\c[62]3\\c[0].",
+            "source_sha256": "db647f59c5cafc779faccbf436546e764c5d56a2c4c2f9ed40beb25a0ce30421",
+            "text": "夜しか使えない特殊な技。\r\n\\c[61]攻撃力\\c[0]\\c[60]3倍\\c[0]以上の一撃を放つ。\r\n\\c[61]武器消耗\\c[0]\\c[62]3回分\\c[0]。",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          }
+        ],
+        "decision_date": "2026-11-07"
+      },
+      {
+        "id": "aerdou-spec-label",
+        "status": "deferred_final",
+        "scope": "phrase",
+        "entry_ids": [
+          "db/1/391/0",
+          "db/1/392/0"
+        ],
+        "question": "[Spec]的展开含义未确认；日文仅为特。",
+        "review_batch": "0011",
+        "source_sha256s": {
+          "db/1/391/0": "c52fa8362819e143ba49cfe21f999ec85346625f7b8f1407c1e79bc689c289a2",
+          "db/1/392/0": "4b3a8219ef888798e39bdbfe4a5031a763eb92b669da4837cb28e852fa922ed3"
+        },
+        "term": "Spec",
+        "decision": "用户选择保留这处英文并标记终审，其余明确部分正常翻译。",
+        "verified_japanese_evidence": [
+          {
+            "id": "db/1/391/0",
+            "english": "Aerdou's Spear Attack [Spec] (Sprung)",
+            "source_sha256": "c52fa8362819e143ba49cfe21f999ec85346625f7b8f1407c1e79bc689c289a2",
+            "text": "エアドー槍攻撃【特】（発動）",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          },
+          {
+            "id": "db/1/392/0",
+            "english": "Aerdou's Spear Attack [Spec]",
+            "source_sha256": "4b3a8219ef888798e39bdbfe4a5031a763eb92b669da4837cb28e852fa922ed3",
+            "text": "エアドー槍攻撃【特】",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          }
+        ],
+        "decision_date": "2026-11-07"
+      },
+      {
+        "id": "phantasm-st-cost",
+        "status": "deferred_final",
+        "scope": "phrase",
+        "entry_ids": [
+          "db/1/425/1"
+        ],
+        "question": "Max HP & ST与最大HPとST均未充分明确ST是否为上限。",
+        "review_batch": "0011",
+        "source_sha256s": {
+          "db/1/425/1": "e6c40240dd53530d83ad0b9ee656ef3f70ebe874fcf29f176dcaa03246ecc7ea"
+        },
+        "term": "Max HP & ST",
+        "decision": "用户选择保留这处英文并标记终审，其余明确部分正常翻译。",
+        "verified_japanese_evidence": [
+          {
+            "id": "db/1/425/1",
+            "english": "A secret technique unleashed at the cost of\r\n\\c[61]Max HP & ST\\c[0]. Your weapon will break\r\nfrom the furious onslaught.",
+            "source_sha256": "e6c40240dd53530d83ad0b9ee656ef3f70ebe874fcf29f176dcaa03246ecc7ea",
+            "text": "\\c[61]最大HPとST\\c[0]を消費して放つ奥義。\r\n凄まじい乱撃の負荷で、武器も壊れてしまう。",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          }
+        ],
+        "decision_date": "2026-11-07"
+      },
+      {
+        "id": "name-albert",
+        "status": "deferred_final",
+        "scope": "term",
+        "entry_ids": [
+          "db/1/229/0",
+          "db/1/231/0",
+          "db/1/232/0",
+          "db/33/26/1",
+          "db/33/26/2"
+        ],
+        "question": "Albert的新专名译法，已对照实际日文。",
+        "review_batch": "0011",
+        "source_sha256s": {
+          "db/1/229/0": "c95a5b420d3e68a3084bf1a0ab92a3960d20ed6d0c0e795013fd87175d75f057",
+          "db/1/231/0": "a58e29bb14246c1c378e6d0680284385064eb6dee263b42fa499110326d9d37d",
+          "db/1/232/0": "d1f46d7785e6e6d9ed998ba001e9eaa2230532e0fa5e0539c47f917dd2b44910"
+        },
+        "term": "Albert",
+        "decision": "用户选择本批新专名全部暂留英文，标记最后终审；未采用建议中文名。",
+        "verified_japanese_evidence": [
+          {
+            "id": "db/1/229/0",
+            "english": "Albert's Shot",
+            "source_sha256": "c95a5b420d3e68a3084bf1a0ab92a3960d20ed6d0c0e795013fd87175d75f057",
+            "text": "アルバート射撃",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          },
+          {
+            "id": "db/1/231/0",
+            "english": "Albert's Gun Shot",
+            "source_sha256": "a58e29bb14246c1c378e6d0680284385064eb6dee263b42fa499110326d9d37d",
+            "text": "アルバートの銃の射撃",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          },
+          {
+            "id": "db/1/232/0",
+            "english": "Albert's Double Shot (229)",
+            "source_sha256": "d1f46d7785e6e6d9ed998ba001e9eaa2230532e0fa5e0539c47f917dd2b44910",
+            "text": "アルバート2連射(229)",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          }
+        ],
+        "decision_date": "2026-11-07"
+      },
+      {
+        "id": "name-nami",
+        "status": "deferred_final",
+        "scope": "term",
+        "entry_ids": [
+          "db/1/371/0",
+          "db/1/385/0",
+          "db/1/397/1",
+          "db/1/397/5",
+          "db/3/95/0",
+          "db/3/95/1",
+          "db/22/502/0",
+          "db/37/101/0",
+          "db/71/77/1",
+          "db/72/42/0",
+          "db/72/42/4",
+          "db/78/32/0",
+          "message/data/event/group/udb37_101_nami_dead.txt/0",
+          "message/data/event/mes/friend/fs001c01/fs001c01-08.txt/0",
+          "message/data/event/mes/friend/fs001c01/fs001c01-09.txt/0",
+          "message/data/event/mes/friend/fs001c05/fs001c05-01.txt/0",
+          "message/data/event/mes/friend/fs002c01/fs002c01-01.txt/0",
+          "message/data/event/mes/friend/fs002c01/fs002c01-02.txt/0",
+          "message/data/event/mes/friend/fs002c01/fs002c01-04.txt/0",
+          "message/data/event/mes/friend/fs002c01/fs002c01-06.txt/0",
+          "message/data/event/mes/friend/fs002c01/fs002c01-07.txt/0",
+          "message/data/event/mes/friend/fs002c01/fs002c01-10.txt/0",
+          "message/data/event/mes/friend/fs002c03/fs002c03-05.txt/0",
+          "message/data/event/mes/friend/fs002c03/fs002c03-08.txt/0",
+          "message/data/event/mes/friend/fs002c03/fs002c03-10.txt/0",
+          "message/data/event/mes/friend/fs002c03/fs002c03-11.txt/0",
+          "message/data/event/mes/friend/fs002c03/fs002c03-13.txt/0",
+          "message/data/event/mes/friend/fs002c03/fs002c03-15.txt/0",
+          "message/data/event/mes/friend/fs002c03/fs002c03-16.txt/0",
+          "message/data/event/mes/friend/fs002c03/fs002c03-17.txt/0",
+          "message/data/event/mes/friend/fs002c05/fs002c05-05.txt/0",
+          "message/data/event/mes/friend/fs002c05/fs002c05-13.txt/0",
+          "message/data/event/mes/friend/fs002c05/fs002c05-18.txt/0",
+          "message/data/event/mes/friend/fs002c05/fs002c05-19.txt/0",
+          "message/data/event/mes/friend/fs002c05/fs002c05-20.txt/0",
+          "message/data/event/mes/friend/fs002c05/fs002c05-23.txt/0",
+          "message/data/event/mes/friend/fs002c05/fs002c05-24.txt/0",
+          "message/data/event/mes/friend/fs002c05/fs002c05-26.txt/0",
+          "message/data/event/mes/friend/fs002c05/fs002c05-27.txt/0",
+          "message/data/event/mes/friend/fs002c05/fs002c05-28.txt/0",
+          "message/data/event/mes/friend/fs004c02/fs004c02-03.txt/0",
+          "message/data/event/mes/friend/fs004c03/fs004c03-02.txt/0",
+          "message/data/event/mes/friend/fs004c04/fs004c04-01.txt/0",
+          "message/data/event/mes/friend/fs005c01/fs005c01-02.txt/0",
+          "message/data/event/mes/friend/fs005c01/fs005c01-17.txt/0",
+          "message/data/event/mes/friend/fs005c03/fs005c03-01.txt/0",
+          "message/data/event/mes/friend/fs005c03/fs005c03-07.txt/0",
+          "message/data/event/mes/friend/fs005c03/fs005c03-13.txt/0",
+          "message/data/event/mes/friend/fs005c05/fs005c05-10.txt/0",
+          "message/data/event/mes/friend/fs005c05/fs005c05-17.txt/0",
+          "message/data/event/object/udb22_501_keyton_ev_darkness.txt/0",
+          "choice/data/event/object/udb22_74_cheated_altar_ev_talk.txt/1204",
+          "message/data/event/skill/udb1_370_keyton_skilltalk_gossip.txt/11",
+          "message/data/event/skill/udb1_370_keyton_skilltalk_gossip.txt/13",
+          "message/data/event/skill/udb1_371_nami_skilltalk.txt/0",
+          "message/data/event/skill/udb1_371_nami_skilltalk_gossip.txt/0",
+          "message/data/event/skill/udb1_371_nami_skilltalk_gossip.txt/5",
+          "message/data/event/skill/udb1_99_fairy_skilltalk_friend.txt/2",
+          "message/data/event/timer/udb24_161_nami_timerev.txt/0"
+        ],
+        "question": "Nami的新专名译法，已对照实际日文。",
+        "review_batch": "0011",
+        "source_sha256s": {
+          "db/1/371/0": "27388923b94c9d62e17c15e77b8674e2a0bd3982272d1b8eac49cd582b1c64a7",
+          "db/1/385/0": "97ac1d860e6813af0f5f692cebfe0bf0bd673a793f4602aebfcb7741f9314468",
+          "db/1/397/1": "ebd67b4e45d6d23f0a333d2017ff063f5f112195f41d96abb7a41006e0ad4435",
+          "db/1/397/5": "11facf71ce97c09c5878cf020bfc0e9e5a1af9d595768c6e23b90603cf0d284f"
+        },
+        "term": "Nami",
+        "decision": "用户选择本批新专名全部暂留英文，标记最后终审；未采用建议中文名。",
+        "verified_japanese_evidence": [
+          {
+            "id": "db/1/371/0",
+            "english": "Talk to Nami",
+            "source_sha256": "27388923b94c9d62e17c15e77b8674e2a0bd3982272d1b8eac49cd582b1c64a7",
+            "text": "ナミィと話す",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          },
+          {
+            "id": "db/1/385/0",
+            "english": "Nami's Magic Attack",
+            "source_sha256": "97ac1d860e6813af0f5f692cebfe0bf0bd673a793f4602aebfcb7741f9314468",
+            "text": "ナミィ魔法攻撃",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          },
+          {
+            "id": "db/1/397/1",
+            "english": "A combined attack born from the deep trust you\r\nhave with Nami. Anyone \\c[60]2 tiles\\c[0] in front\r\nof you is burnt up. Can be cast without\r\n\\c[61]Concentrate\\c[0]. \\c[61]Weapon durability is reduced\\c[0] by \\c[62]1\\c[0].",
+            "source_sha256": "ebd67b4e45d6d23f0a333d2017ff063f5f112195f41d96abb7a41006e0ad4435",
+            "text": "ナミィとの深い信頼から生まれた合体攻撃。\r\n前方の直線\\c[60]2マス\\c[0]にいる者を焼き尽くす。\r\n「\\c[61]集中\\c[0]」なしで使える。\r\n\\c[61]武器消耗\\c[0]は\\c[62]1回分\\c[0]。",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          },
+          {
+            "id": "db/1/397/5",
+            "english": "<PLAYER> and Nami's trust!",
+            "source_sha256": "11facf71ce97c09c5878cf020bfc0e9e5a1af9d595768c6e23b90603cf0d284f",
+            "text": "<PLAYER>とナミィの信頼！",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          }
+        ],
+        "decision_date": "2026-11-07"
+      },
+      {
+        "id": "name-cole",
+        "status": "deferred_final",
+        "scope": "term",
+        "entry_ids": [
+          "db/1/372/0",
+          "db/22/503/0",
+          "db/37/102/0",
+          "db/71/78/1",
+          "db/72/43/0",
+          "db/72/43/4",
+          "db/78/33/0",
+          "message/data/event/group/udb37_102_cole_dead.txt/0",
+          "message/data/event/mes/friend/fs007c01/fs007c01-09.txt/0",
+          "message/data/event/mes/friend/fs007c02/fs007c02-04.txt/0",
+          "message/data/event/mes/friend/fs007c04/fs007c04-01.txt/0",
+          "message/data/event/mes/friend/fs008c02/fs008c02-01.txt/0",
+          "message/data/event/mes/friend/fs008c05/fs008c05-01.txt/0",
+          "choice/data/event/object/udb22_74_cheated_altar_ev_talk.txt/1450",
+          "message/data/event/skill/udb1_372_cole_skillaction.txt/0",
+          "message/data/event/skill/udb1_372_cole_skilltalk.txt/0",
+          "message/data/event/skill/udb1_372_cole_skilltalk_gossip.txt/0",
+          "message/data/event/skill/udb1_372_cole_skilltalk_gossip.txt/4",
+          "message/data/event/skill/udb1_372_cole_skilltalk_gossip.txt/8",
+          "message/data/event/skill/udb1_372_cole_skilltalk_gossip.txt/13",
+          "message/data/event/skill/udb1_99_fairy_skilltalk_friend.txt/4",
+          "message/data/event/timer/udb24_162_cole_timerev.txt/0"
+        ],
+        "question": "Cole的新专名译法，已对照实际日文。",
+        "review_batch": "0011",
+        "source_sha256s": {
+          "db/1/372/0": "2b324474e05777c0c7aefa6c884cb5ea348cb3dc4222dadf5d505e9d10498ea1"
+        },
+        "term": "Cole",
+        "decision": "用户选择本批新专名全部暂留英文，标记最后终审；未采用建议中文名。",
+        "verified_japanese_evidence": [
+          {
+            "id": "db/1/372/0",
+            "english": "Talk to Cole",
+            "source_sha256": "2b324474e05777c0c7aefa6c884cb5ea348cb3dc4222dadf5d505e9d10498ea1",
+            "text": "コールと話す",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          }
+        ],
+        "decision_date": "2026-11-07"
+      },
+      {
+        "id": "name-merril",
+        "status": "deferred_final",
+        "scope": "term",
+        "entry_ids": [
+          "db/1/374/0",
+          "db/1/388/0",
+          "db/1/400/0",
+          "db/3/164/1",
+          "db/22/505/0",
+          "db/37/104/0",
+          "db/40/150/0",
+          "db/40/151/0",
+          "db/40/152/0",
+          "db/40/153/0",
+          "db/40/154/0",
+          "db/40/155/0",
+          "db/40/156/0",
+          "db/71/80/1",
+          "db/72/45/0",
+          "db/72/45/4",
+          "db/78/35/0",
+          "message/data/event/group/udb37_104_merril_dead.txt/0",
+          "message/data/event/mes/friend/fs013c01/fs013c01-11.txt/0",
+          "message/data/event/mes/friend/fs013c02/fs013c02-03.txt/0",
+          "message/data/event/mes/friend/fs013c04/fs013c04-01.txt/0",
+          "message/data/event/mes/friend/fs014c03/fs014c03-01.txt/0",
+          "message/data/event/mes/friend/fs014c04/fs014c04-12.txt/0",
+          "message/data/event/mes/friend/fs014c04/fs014c04-13.txt/0",
+          "choice/data/event/object/udb22_74_cheated_altar_ev_talk.txt/1943",
+          "message/data/event/skill/udb1_374_merril_skilltalk.txt/0",
+          "message/data/event/skill/udb1_374_merril_skilltalk_gossip.txt/0",
+          "message/data/event/skill/udb1_99_fairy_skilltalk_friend.txt/9",
+          "message/data/event/timer/udb24_164_merril_timerev.txt/0"
+        ],
+        "question": "Merril的新专名译法，已对照实际日文。",
+        "review_batch": "0011",
+        "source_sha256s": {
+          "db/1/374/0": "7d7d65f776dd041568377be0d5f283895f1dabc3aa5157756772aa921c865953",
+          "db/1/388/0": "330214104ab37dfc92928f158694cd5a6ffe39f422e1a19391f3addc2e43f9f5",
+          "db/1/400/0": "9b87a0bf68b047fbe198d324d7403d5b124741a392c4a502c1b47f970e64eca4"
+        },
+        "term": "Merril",
+        "decision": "用户选择本批新专名全部暂留英文，标记最后终审；未采用建议中文名。",
+        "verified_japanese_evidence": [
+          {
+            "id": "db/1/374/0",
+            "english": "Talk to Merril",
+            "source_sha256": "7d7d65f776dd041568377be0d5f283895f1dabc3aa5157756772aa921c865953",
+            "text": "メアルと話す",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          },
+          {
+            "id": "db/1/388/0",
+            "english": "Merril's Combo",
+            "source_sha256": "330214104ab37dfc92928f158694cd5a6ffe39f422e1a19391f3addc2e43f9f5",
+            "text": "メアルの連続攻撃",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          },
+          {
+            "id": "db/1/400/0",
+            "english": "Merril's Combo [Sprung]",
+            "source_sha256": "9b87a0bf68b047fbe198d324d7403d5b124741a392c4a502c1b47f970e64eca4",
+            "text": "メアルの連続攻撃【発動】",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          }
+        ],
+        "decision_date": "2026-11-07"
+      },
+      {
+        "id": "name-aerdou",
+        "status": "deferred_final",
+        "scope": "term",
+        "entry_ids": [
+          "db/1/376/0",
+          "db/1/390/0",
+          "db/1/391/0",
+          "db/1/392/0",
+          "db/1/401/0",
+          "db/3/163/0",
+          "db/3/163/1",
+          "db/22/507/0",
+          "db/22/513/0",
+          "db/37/106/0",
+          "db/71/82/1",
+          "db/72/47/0",
+          "db/72/47/4",
+          "db/78/37/0",
+          "message/data/event/group/udb37_106_albert_dead.txt/0",
+          "message/data/event/mes/class/cs012c21/cs012c21-05.txt/0",
+          "message/data/event/mes/class/cs012c21/cs012c21-14.txt/0",
+          "message/data/event/mes/class/cs012c21/cs012c21-28.txt/0",
+          "message/data/event/mes/friend/fs019c01/fs019c01-03.txt/0",
+          "message/data/event/mes/friend/fs019c01/fs019c01-08.txt/0",
+          "message/data/event/mes/friend/fs019c02/fs019c02-03.txt/0",
+          "message/data/event/mes/friend/fs019c04/fs019c04-01.txt/0",
+          "message/data/event/mes/friend/fs020c01/fs020c01-10.txt/0",
+          "message/data/event/mes/friend/fs020c01/fs020c01-16.txt/0",
+          "message/data/event/mes/friend/fs020c02/fs020c02-12.txt/0",
+          "message/data/event/mes/friend/fs020c03/fs020c03-05.txt/0",
+          "message/data/event/mes/friend/fs020c04/fs020c04-09.txt/0",
+          "message/data/event/mes/friend/fs020c04/fs020c04-23.txt/0",
+          "message/data/event/mes/friend/fs020c05/fs020c05-13.txt/0",
+          "message/data/event/object/udb22_513_albert_ev_dead.txt/0",
+          "choice/data/event/object/udb22_74_cheated_altar_ev_talk.txt/2441",
+          "message/data/event/skill/udb1_376_albert_skilltalk.txt/0",
+          "message/data/event/skill/udb1_376_albert_skilltalk_gossip.txt/1",
+          "message/data/event/skill/udb1_376_albert_skilltalk_gossip.txt/10",
+          "message/data/event/skill/udb1_99_fairy_skilltalk_friend.txt/13",
+          "message/data/event/timer/udb24_166_albert_timerev.txt/0"
+        ],
+        "question": "Aerdou的新专名译法，已对照实际日文。",
+        "review_batch": "0011",
+        "source_sha256s": {
+          "db/1/376/0": "95e75355374cf93bdb10fbb7314348aefcde75f643458a3fae264a7e8873eb46",
+          "db/1/390/0": "4c068fc39703da700cb48341199ee1de5a208bb55e1cd9b0b63eb7cda592dc5b",
+          "db/1/391/0": "c52fa8362819e143ba49cfe21f999ec85346625f7b8f1407c1e79bc689c289a2",
+          "db/1/392/0": "4b3a8219ef888798e39bdbfe4a5031a763eb92b669da4837cb28e852fa922ed3",
+          "db/1/401/0": "88d69b5cb0d9ea9437d682a9c0374122adbf57c1eb8119ff8b656d7962e84278"
+        },
+        "term": "Aerdou",
+        "decision": "用户选择本批新专名全部暂留英文，标记最后终审；未采用建议中文名。",
+        "verified_japanese_evidence": [
+          {
+            "id": "db/1/376/0",
+            "english": "Talk to Aerdou",
+            "source_sha256": "95e75355374cf93bdb10fbb7314348aefcde75f643458a3fae264a7e8873eb46",
+            "text": "エアドーと話す",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          },
+          {
+            "id": "db/1/390/0",
+            "english": "Aerdou's Spear Attack",
+            "source_sha256": "4c068fc39703da700cb48341199ee1de5a208bb55e1cd9b0b63eb7cda592dc5b",
+            "text": "エアドー槍攻撃",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          },
+          {
+            "id": "db/1/391/0",
+            "english": "Aerdou's Spear Attack [Spec] (Sprung)",
+            "source_sha256": "c52fa8362819e143ba49cfe21f999ec85346625f7b8f1407c1e79bc689c289a2",
+            "text": "エアドー槍攻撃【特】（発動）",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          },
+          {
+            "id": "db/1/392/0",
+            "english": "Aerdou's Spear Attack [Spec]",
+            "source_sha256": "4b3a8219ef888798e39bdbfe4a5031a763eb92b669da4837cb28e852fa922ed3",
+            "text": "エアドー槍攻撃【特】",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          },
+          {
+            "id": "db/1/401/0",
+            "english": "Aerdou's Spear Attack [MAX]",
+            "source_sha256": "88d69b5cb0d9ea9437d682a9c0374122adbf57c1eb8119ff8b656d7962e84278",
+            "text": "エアドー槍攻撃【特好MAX】",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          }
+        ],
+        "decision_date": "2026-11-07"
+      },
+      {
+        "id": "name-coco",
+        "status": "deferred_final",
+        "scope": "term",
+        "entry_ids": [
+          "db/1/377/0",
+          "db/5/31/1",
+          "db/22/508/0",
+          "db/22/667/0",
+          "db/34/7/0",
+          "db/37/107/0",
+          "db/40/21/0",
+          "db/40/22/0",
+          "db/40/23/0",
+          "db/40/24/0",
+          "db/40/25/0",
+          "db/40/26/0",
+          "db/40/27/0",
+          "db/40/28/0",
+          "db/40/29/0",
+          "db/40/30/0",
+          "db/40/31/0",
+          "db/40/129/0",
+          "db/54/36/0",
+          "db/71/83/1",
+          "db/72/48/0",
+          "db/72/48/4",
+          "db/78/38/0",
+          "message/data/event/group/udb37_107_coco_muddy_dead.txt/0",
+          "message/data/event/mes/class/cs012c11/cs012c11-11.txt/0",
+          "message/data/event/mes/class/cs012c11/cs012c11-27.txt/0",
+          "message/data/event/mes/friend/fs022c01/fs022c01-01.txt/0",
+          "message/data/event/mes/friend/fs022c01/fs022c01-03.txt/0",
+          "message/data/event/mes/friend/fs022c01/fs022c01-05.txt/0",
+          "message/data/event/mes/friend/fs022c01/fs022c01-07.txt/0",
+          "message/data/event/mes/friend/fs022c02/fs022c02-01.txt/0",
+          "message/data/event/mes/friend/fs022c02/fs022c02-04.txt/0",
+          "message/data/event/mes/friend/fs022c02/fs022c02-06.txt/0",
+          "message/data/event/mes/friend/fs022c03/fs022c03-02.txt/0",
+          "message/data/event/mes/friend/fs022c05/fs022c05-01.txt/0",
+          "message/data/event/mes/friend/fs023c01/fs023c01-01.txt/0",
+          "message/data/event/mes/friend/fs023c01/fs023c01-02.txt/0",
+          "message/data/event/mes/friend/fs023c01/fs023c01-07.txt/0",
+          "message/data/event/mes/friend/fs023c03/fs023c03-03.txt/0",
+          "message/data/event/mes/friend/fs023c03/fs023c03-04.txt/0",
+          "message/data/event/mes/friend/fs023c03/fs023c03-05.txt/0",
+          "message/data/event/mes/friend/fs023c03/fs023c03-08.txt/0",
+          "message/data/event/mes/friend/fs023c03/fs023c03-09.txt/0",
+          "message/data/event/mes/friend/fs023c03/fs023c03-10.txt/0",
+          "message/data/event/mes/friend/fs023c03/fs023c03-16.txt/0",
+          "message/data/event/mes/friend/fs023c04/fs023c04-01.txt/0",
+          "message/data/event/mes/friend/fs023c04/fs023c04-02.txt/0",
+          "message/data/event/mes/friend/fs023c04/fs023c04-03.txt/0",
+          "message/data/event/mes/friend/fs023c04/fs023c04-04.txt/0",
+          "message/data/event/mes/friend/fs023c04/fs023c04-05.txt/0",
+          "message/data/event/mes/friend/fs023c04/fs023c04-06.txt/0",
+          "message/data/event/mes/friend/fs023c04/fs023c04-07.txt/0",
+          "message/data/event/mes/friend/fs023c04/fs023c04-08.txt/0",
+          "message/data/event/mes/friend/fs023c04/fs023c04-12.txt/0",
+          "message/data/event/mes/friend/fs023c04/fs023c04-14.txt/0",
+          "message/data/event/mes/friend/fs023c04/fs023c04-22.txt/0",
+          "message/data/event/mes/friend/fs023c04/fs023c04-23.txt/0",
+          "message/data/event/mes/friend/fs023c04/fs023c04-24.txt/0",
+          "message/data/event/mes/friend/fs023c05/fs023c05-01.txt/0",
+          "message/data/event/mes/friend/fs023c05/fs023c05-04.txt/0",
+          "message/data/event/mes/friend/fs023c05/fs023c05-05.txt/0",
+          "message/data/event/mes/friend/fs023c05/fs023c05-06.txt/0",
+          "message/data/event/mes/friend/fs023c05/fs023c05-07.txt/0",
+          "message/data/event/mes/friend/fs023c05/fs023c05-09.txt/0",
+          "message/data/event/mes/friend/fs023c05/fs023c05-10.txt/0",
+          "message/data/event/mes/friend/fs023c05/fs023c05-13.txt/0",
+          "message/data/event/mes/friend/fs023c05/fs023c05-16.txt/0",
+          "message/data/event/mes/friend/fs023c05/fs023c05-17.txt/0",
+          "message/data/event/mes/main/ms008c06p01/ms008c06p01-06.txt/0",
+          "choice/data/event/object/udb22_74_cheated_altar_ev_talk.txt/2693",
+          "message/data/event/skill/udb1_377_coco_muddy_skilltalk.txt/0",
+          "message/data/event/skill/udb1_377_coco_muddy_skilltalk_gossip.txt/0",
+          "message/data/event/skill/udb1_377_coco_muddy_skilltalk_gossip.txt/2",
+          "message/data/event/skill/udb1_377_coco_muddy_skilltalk_gossip.txt/3",
+          "message/data/event/skill/udb1_377_coco_muddy_skilltalk_gossip.txt/4",
+          "message/data/event/skill/udb1_377_coco_muddy_skilltalk_gossip.txt/5",
+          "message/data/event/skill/udb1_377_coco_muddy_skilltalk_gossip.txt/7",
+          "message/data/event/skill/udb1_377_coco_muddy_skilltalk_gossip.txt/9",
+          "message/data/event/skill/udb1_377_coco_muddy_skilltalk_gossip.txt/11",
+          "message/data/event/skill/udb1_377_coco_muddy_skilltalk_gossip.txt/13",
+          "message/data/event/skill/udb1_377_coco_muddy_skilltalk_gossip.txt/14",
+          "message/data/event/skill/udb1_377_coco_muddy_skilltalk_gossip.txt/15",
+          "message/data/event/skill/udb1_377_coco_muddy_skilltalk_gossip.txt/16",
+          "message/data/event/skill/udb1_377_coco_muddy_skilltalk_gossip.txt/17",
+          "message/data/event/skill/udb1_377_coco_muddy_skilltalk_gossip.txt/18",
+          "message/data/event/skill/udb1_377_coco_muddy_skilltalk_gossip.txt/22",
+          "message/data/event/skill/udb1_377_coco_muddy_skilltalk_gossip.txt/23",
+          "message/data/event/skill/udb1_377_coco_muddy_skilltalk_gossip.txt/24",
+          "message/data/event/skill/udb1_377_coco_muddy_skilltalk_gossip.txt/25",
+          "message/data/event/skill/udb1_377_coco_muddy_skilltalk_gossip.txt/26",
+          "message/data/event/skill/udb1_99_fairy_skilltalk_friend.txt/15",
+          "message/data/event/timer/udb24_167_coco_muddy_timerev.txt/0"
+        ],
+        "question": "Coco的新专名译法，已对照实际日文。",
+        "review_batch": "0011",
+        "source_sha256s": {
+          "db/1/377/0": "554bc98d12d43c55470d18ed9b48cfaf4ff45e73c7a872b0178a2b40ae258f9b"
+        },
+        "term": "Coco",
+        "decision": "用户选择本批新专名全部暂留英文，标记最后终审；未采用建议中文名。",
+        "verified_japanese_evidence": [
+          {
+            "id": "db/1/377/0",
+            "english": "Talk to Coco",
+            "source_sha256": "554bc98d12d43c55470d18ed9b48cfaf4ff45e73c7a872b0178a2b40ae258f9b",
+            "text": "ココとツチクレと話す",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          }
+        ],
+        "decision_date": "2026-11-07"
+      },
+      {
+        "id": "name-olga",
+        "status": "deferred_final",
+        "scope": "term",
+        "entry_ids": [
+          "db/1/379/0",
+          "db/1/393/0",
+          "db/22/510/0",
+          "db/33/36/1",
+          "db/37/109/0",
+          "db/71/86/1",
+          "db/72/50/0",
+          "db/72/50/4",
+          "db/78/40/0",
+          "message/data/event/group/udb37_109_olga_dead.txt/0",
+          "message/data/event/group/udb37_109_olga_dead.txt/7",
+          "message/data/event/mes/friend/fs028c01/fs028c01-02.txt/0",
+          "message/data/event/mes/friend/fs028c02/fs028c02-02.txt/0",
+          "message/data/event/mes/friend/fs028c02/fs028c02-03.txt/0",
+          "message/data/event/mes/friend/fs028c04/fs028c04-01.txt/0",
+          "choice/data/event/object/udb22_74_cheated_altar_ev_talk.txt/3442",
+          "message/data/event/skill/udb1_379_olga_skilltalk.txt/0",
+          "message/data/event/skill/udb1_99_fairy_skilltalk_friend.txt/19",
+          "message/data/event/timer/udb24_169_olga_timerev.txt/0"
+        ],
+        "question": "Olga的新专名译法，已对照实际日文。",
+        "review_batch": "0011",
+        "source_sha256s": {
+          "db/1/379/0": "18ef4fb3bff78e172912929f5b12f467cce54af76cd7cfe94e5a4797aa2fc6cc",
+          "db/1/393/0": "87257e5bc9d159c70602f93b15af282e55abc20cbc3006ac0c086675363c0c5f"
+        },
+        "term": "Olga",
+        "decision": "用户选择本批新专名全部暂留英文，标记最后终审；未采用建议中文名。",
+        "verified_japanese_evidence": [
+          {
+            "id": "db/1/379/0",
+            "english": "Talk to Olga",
+            "source_sha256": "18ef4fb3bff78e172912929f5b12f467cce54af76cd7cfe94e5a4797aa2fc6cc",
+            "text": "オールと話す",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          },
+          {
+            "id": "db/1/393/0",
+            "english": "Olga's Clairvoyance",
+            "source_sha256": "87257e5bc9d159c70602f93b15af282e55abc20cbc3006ac0c086675363c0c5f",
+            "text": "オールの千里眼",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          }
+        ],
+        "decision_date": "2026-11-07"
+      },
+      {
+        "id": "name-tonitrus",
+        "status": "deferred_final",
+        "scope": "term",
+        "entry_ids": [
+          "db/1/488/0"
+        ],
+        "question": "Tonitrus的新专名译法，已对照实际日文。",
+        "review_batch": "0011",
+        "source_sha256s": {
+          "db/1/488/0": "367296b172444d1094fd579502d46291fe1390cb900d327a7c7ac60238c1a92a"
+        },
+        "term": "Tonitrus",
+        "decision": "用户选择本批新专名全部暂留英文，标记最后终审；未采用建议中文名。",
+        "verified_japanese_evidence": [
+          {
+            "id": "db/1/488/0",
+            "english": "Tonitrus",
+            "source_sha256": "367296b172444d1094fd579502d46291fe1390cb900d327a7c7ac60238c1a92a",
+            "text": "トニトルス",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          }
+        ],
+        "decision_date": "2026-11-07"
+      },
+      {
+        "id": "ancient-hand-stat-difference",
+        "status": "deferred_final",
+        "scope": "source_difference",
+        "entry_ids": [
+          "db/3/155/1"
+        ],
+        "question": "古代拳套：英文为命中+50%、暴击+100%；日文为暴击+50%、连击+100%。",
+        "review_batch": "0012",
+        "source_sha256s": {
+          "db/3/155/1": "cea2ed54ebaf5822566d667b0460741f0a01161d04543d0b003f61409f1d5af8"
+        },
+        "verified_japanese_evidence": [
+          {
+            "id": "db/3/155/1",
+            "english": "An extremely light blunt weapon made with ancient\r\nskills. It was restored with the utmost skill, but be\r\ncareful with the \\c[61]Durability\\c[0]. \\c[61]ACC\\c[0] \\c[60]+50%\\c[0], \\c[61]Crit\\c[0] \\c[60]+100%\\c[0].",
+            "source_sha256": "cea2ed54ebaf5822566d667b0460741f0a01161d04543d0b003f61409f1d5af8",
+            "text": "失われし太古の技術で造られた、非常に軽い打撃武器。\r\n最高の技術で修復したが、\\c[61]耐久度\\c[0]に不安が残る。\r\n\\c[61]必殺率\\c[0]\\c[60]+50％\\c[0]、\\c[61]連続攻撃率\\c[0]\\c[60]+100％\\c[0]。",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          }
+        ],
+        "decision": "用户选择保留英文版效果，标记最后终审。",
+        "decision_date": "2026-11-07"
+      },
+      {
+        "id": "ring-despair-force-difference",
+        "status": "deferred_final",
+        "scope": "source_difference",
+        "entry_ids": [
+          "db/5/74/1"
+        ],
+        "question": "绝望之戒：英文为魔力+25%；日文为魔法伤害+25%。",
+        "review_batch": "0012",
+        "source_sha256s": {
+          "db/5/74/1": "95b2ec24b549a4e7ec65955e92fdcd443dd5804e36f1985039b5b1f03be2446e"
+        },
+        "verified_japanese_evidence": [
+          {
+            "id": "db/5/74/1",
+            "english": "The ring of a Wiseman who understood the world,\r\nhated people and died alone. \\c[61]ST\\c[0] decreases\r\neach turn, \\c[61]Concentrate\\c[0] \\c[60]+1\\c[0], and \\c[61]Force\\c[0] \\c[60]+25%\\c[0].",
+            "source_sha256": "95b2ec24b549a4e7ec65955e92fdcd443dd5804e36f1985039b5b1f03be2446e",
+            "text": "英知に富み世を見通せたがゆえに、人を嫌って\r\n山にこもり、孤独に死んでいった賢者の指輪。\r\n\\c[61]ST\\c[0]が減り続け、\\c[61]集中\\c[0]\\c[60]+1\\c[0]、\\c[61]理力ダメージ\\c[0]\\c[60]+25％\\c[0]。",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          }
+        ],
+        "decision": "用户选择保留英文版效果，标记最后终审。",
+        "decision_date": "2026-11-07"
+      },
+      {
+        "id": "name-creatoire",
+        "status": "deferred_final",
+        "scope": "term",
+        "term": "Creatoire",
+        "entry_ids": [
+          "db/71/93/1",
+          "message/data/event/mes/main/ms003c04/ms003c04-05.txt/0",
+          "message/data/event/mes/main/ms003c07p02/ms003c07p02-02.txt/0",
+          "message/data/event/mes/main/ms005c01p02/ms005c01p02-02.txt/0",
+          "message/data/event/mes/main/ms005c01p02/ms005c01p02-04.txt/0",
+          "message/data/event/mes/main/ms006c03/ms006c03-01.txt/0",
+          "message/data/event/mes/main/ms006c03/ms006c03-03.txt/0",
+          "message/data/event/mes/main/ms006c03/ms006c03-12.txt/0"
+        ],
+        "source_sha256s": {
+          "db/71/93/1": "3a403066ffa4eead37191d14aac85c7e08e4176af6fccea9ceecacbe2e0bb7a1",
+          "message/data/event/mes/main/ms003c04/ms003c04-05.txt/0": "f4ed4c3930b26a82544455a151085a372a0ff5ea6661945e3a199dc8fdc63e00",
+          "message/data/event/mes/main/ms003c07p02/ms003c07p02-02.txt/0": "5693c086d479f8b69bdf0d1b0fb925b9a04e0bf8dd53851811e62e9d191da120",
+          "message/data/event/mes/main/ms005c01p02/ms005c01p02-02.txt/0": "e8798f88f060bc7adf90c5871e334d78e179298acc414bbce99d77d133b6b158",
+          "message/data/event/mes/main/ms005c01p02/ms005c01p02-04.txt/0": "12f2ada462be7e0e9e9ac2f666fce72534d56c40effaa8d51464d33fd66cb841",
+          "message/data/event/mes/main/ms006c03/ms006c03-01.txt/0": "356f5ceaf05b97b5f27b49c8c87f5a9002dc1c70d1cf7d814c132e7d4fb1bae9",
+          "message/data/event/mes/main/ms006c03/ms006c03-03.txt/0": "07c733804595702bd376cdc5dce7449803c49c3099e085958ad2e679abe00f24",
+          "message/data/event/mes/main/ms006c03/ms006c03-12.txt/0": "c258c3fcaf787cbaff734ca7ced5bab2da176e7923be7f5489374e3ec5e30d4d"
+        },
+        "question": "Creatoire对应日文クレイニャ，是创世神的名字；中文专名留待最后终审。",
+        "decision": "用户答复：暂保留英文，标记终审。",
+        "decision_date": "2026-11-07",
+        "review_batch": "0062",
+        "verified_japanese_evidence": [
+          {
+            "id": "db/71/93/1",
+            "english": "Creatoire",
+            "source_sha256": "3a403066ffa4eead37191d14aac85c7e08e4176af6fccea9ceecacbe2e0bb7a1",
+            "text": "クレイニャ",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          },
+          {
+            "id": "message/data/event/mes/main/ms003c04/ms003c04-05.txt/0",
+            "english": "The grudge I have carried until now...\r\nTogether with \\c[51]Pluton\\c[0],\r\nI sought to destroy this world \\c[52]Creatoire\\c[0] made.",
+            "source_sha256": "f4ed4c3930b26a82544455a151085a372a0ff5ea6661945e3a199dc8fdc63e00",
+            "text": "これまでの私は天界を恨み続け……、\r\n私と同じ罪を犯した 冥王\\c[51]プルートン\\c[0]と共に\r\n\\c[52]創造神\\c[0]が創りし、この世界を滅ぼそうとしていました。",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          },
+          {
+            "id": "message/data/event/mes/main/ms003c07p02/ms003c07p02-02.txt/0",
+            "english": "His power level with \\c[52]Creatoire\\c[0],\r\nand it is he who made \\c[51]Zeukrees\\c[0].",
+            "source_sha256": "5693c086d479f8b69bdf0d1b0fb925b9a04e0bf8dd53851811e62e9d191da120",
+            "text": "\\c[52]創造神\\c[0]とほぼ等しい力を持ち、\r\n\\c[51]シュクリス\\c[0]を創造したのも彼です。",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          },
+          {
+            "id": "message/data/event/mes/main/ms005c01p02/ms005c01p02-02.txt/0",
+            "english": "Me, a god...\r\nDefeated by a thing of \\c[51]Creatoire\\c[0]'s making...",
+            "source_sha256": "e8798f88f060bc7adf90c5871e334d78e179298acc414bbce99d77d133b6b158",
+            "text": "神である私が……、\r\n\\c[51]クレイニャ\\c[0]の作り物に敗北するとはな……。",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          },
+          {
+            "id": "message/data/event/mes/main/ms005c01p02/ms005c01p02-04.txt/0",
+            "english": "To be defeated by a thing of \\c[51]Creatoire\\c[0]'s making...\r\nAnd a toy of my own!",
+            "source_sha256": "12f2ada462be7e0e9e9ac2f666fce72534d56c40effaa8d51464d33fd66cb841",
+            "text": "\\c[51]クレイニャ\\c[0]の作り物と……、自らの作った\r\nオモチャに敗北することになるとは！",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          },
+          {
+            "id": "message/data/event/mes/main/ms006c03/ms006c03-01.txt/0",
+            "english": " A familiar old man appeared before the wounded\r\n \\c[50]<PLAYER>\\c[0] and the others.\r\n\r\n It was the mysterious sage who had led\r\n \\c[50]<PLAYER>\\c[0] to this place.\r\n\r\n\"My true identity is \\c[51]Creatoire\\c[0]\r\n the Maker. Put simply, I am the one who\r\n created you.\"\r\n\r\n The old man was enveloped with light...\r\n Then it dissipated to reveal a god.",
+            "source_sha256": "356f5ceaf05b97b5f27b49c8c87f5a9002dc1c70d1cf7d814c132e7d4fb1bae9",
+            "text": "満身そういの\\c[50]<PLAYER>\\c[0]たちの前に\r\n見覚えのある老人の姿が現れた。\r\n\r\nそれは\\c[50]<PLAYER>\\c[0]たちをこの場所へ導いた\r\n謎の賢者だった。\r\n\r\n「ワシの正体は創造神\\c[51]クレイニャ\\c[0]。\r\n簡単に言えば、そなたたちの創造主じゃ。」\r\n\r\nすると老人は光に包まれ、やがて……、\r\n威光を放つ神の姿へと形を変えた。",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          },
+          {
+            "id": "message/data/event/mes/main/ms006c03/ms006c03-03.txt/0",
+            "english": " \\c[51]Creatoire\\c[0] reached out his hands\r\n and the universe opened between them.\r\n\r\n\"This is the dimension you exist in.\r\n You could call this a god's eye view of it.\"\r\n\r\n In this compact universe \r\n countless worlds began to appear.\r\n And then, as if through a microscope,\r\n they peered into a world to see...\r\n\r\n Sights that looked incredibly like\r\n the adventures they had experienced.",
+            "source_sha256": "07c733804595702bd376cdc5dce7449803c49c3099e085958ad2e679abe00f24",
+            "text": "\\c[51]クレイニャ\\c[0]が腕を伸ばして手をかざすと、\r\n何もない場所に宇宙のような空間が広がった。\r\n\r\n「これはそなたたちが存在する次元空間……、\r\nいわゆる神の視点というヤツじゃ」\r\n\r\n宇宙のようなその空間には\r\n何万もの無数の世界が存在していた。\r\n\r\nさらに顕微鏡をのぞき込むように\r\n世界の中をのぞいてみると……。\r\n\r\nそこにはこれまで冒険してきた舞台と\r\n非常に近しい光景が広がっていた。",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          },
+          {
+            "id": "message/data/event/mes/main/ms006c03/ms006c03-12.txt/0",
+            "english": " They could hear \\c[51]Creatoire\\c[0]'s voice.\r\n\r\n\"Take this \\c[52]Vision Glass\\c[0] to view\r\n the parallel worlds saved by your memories.\r\n It's the next best thing to omnipresence.\r\n\r\n Rebuilding the world would take time, but\r\n it would be worth it. For the world belonged\r\n to \\c[50]<PLAYER>\\c[0], the new ruler.\r\n\r\n And so, the curtain rises on their quest\r\n to cultivate their own kingdom.",
+            "source_sha256": "c258c3fcaf787cbaff734ca7ced5bab2da176e7923be7f5489374e3ec5e30d4d",
+            "text": "頭上から\\c[51]クレイニャ\\c[0]の声が聞こえる。\r\n\r\n「そこに見えるのは、\r\nそなたの記憶が救った他の並行世界じゃ。\r\n\r\n次元を見渡せる神の視点とまではいかないが、\r\n『伝書ガラス』を通して世界中を眺められる。\r\n\r\n褒美じゃ、その水晶を受け取るがよい。」\r\n\r\nこの世界の復興にはまだまだ時間がかかる。\r\nでも自分の世界ならやりがいもあるだろう。\r\n\r\nこれから……、\r\n\\c[50]<PLAYER>\\c[0]王の新しい国づくりが幕を開ける。",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473"
+          }
+        ]
+      }
+    ],
+    "japanese_display_entries": 11951,
+    "japanese_internal_hint_entries": 5482,
+    "full_retranslation_complete": false,
+    "game_files_modified": false
+  },
+  "errors": [],
+  "canonical_batches": 62,
+  "checked_current_model_drafts": 12040,
+  "recovered_records": 270,
+  "fixed_translation_records": 42,
+  "schema": 1,
+  "date": "2026-11-07",
+  "batch": "0062",
+  "revised_records": 42,
+  "new_translated_records": 0,
+  "recovered_batch_records": 270,
+  "remaining_canonical_gaps": 0,
+  "python_tests_passed": 53,
+  "editor_core_passed": true,
+  "isolated_browser_passed": true,
+  "existing_model_drafts_newly_associated_with_pending_terms": 33,
+  "pending_total": 54,
+  "final_review_issues": 33,
+  "final_review_affected_records": 457,
+  "retained_original_decisions": true,
+  "player_package_rebuilt": false,
+  "game_started_or_modified": false,
+  "backup_manifest": "work/audit-repair-0062/before-sha256.json"
+}

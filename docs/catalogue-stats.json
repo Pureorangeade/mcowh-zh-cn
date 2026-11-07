@@ -1,0 +1,8 @@
+{
+  "candidate_count": 11753,
+  "database_candidates": 6011,
+  "script_blocks": 5742,
+  "source_characters": 711161,
+  "unique_source_texts": 10311,
+  "scope": "Heuristic candidates from database.dat and @mes blocks only; not total localization coverage."
+}

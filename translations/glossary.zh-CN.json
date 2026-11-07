@@ -1,0 +1,13 @@
+{
+  "language": "zh-CN",
+  "status": "draft",
+  "terms": [
+    {"source": "Memoria", "target": "梅莫莉娅", "note": "教程妖精名，待全剧情校对统一。"},
+    {"source": "Tutorial", "target": "新手教程"},
+    {"source": "Wooden Shield", "target": "木盾"},
+    {"source": "Armor", "target": "防御", "note": "木盾说明中的防御数值，不泛指所有装备名称。"},
+    {"source": "Dmg Reduction", "target": "伤害减免"},
+    {"source": "Keyboard Settings", "target": "键盘设置"},
+    {"source": "Controller Settings", "target": "手柄设置"}
+  ]
+}

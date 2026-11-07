@@ -1,0 +1,46 @@
+{
+  "text_dict.bin": {
+    "SAVEDATA_SLOTPARAM_SUBTITLE": "《不可思议编年史：单向勇者》的系统数据。",
+    "SAVEDATA_SLOTPARAM_DETAIL": "《不可思议编年史：单向勇者》的系统数据。",
+    "SAVEDATA_SLOTPARAM_SUBTITLE_REPLAY": "《不可思议编年史：单向勇者》的回放数据。",
+    "SAVEDATA_BREAK_MES": "数据已损坏。\n无法读取。",
+    "SAVEDATA_BREAK_AND_DELETE_MES": "数据已损坏。\n无法读取。\n是否删除此数据？",
+    "SYSTEMSAVEDATA_DELETE_MES": "此存档已损坏。\n请删除此数据，然后重新开始。",
+    "HISTORYSAVEDATA_DELETE_MES": "此存档已损坏。\n请删除数据并返回标题画面。",
+    "SYSTEMSAVEDATA_NOSPACE_SYS_MES": "存档空间不足！\n\n保存系统数据前，\n请在删除模式中确认有足够的可用空间。",
+    "SYSTEMSAVEDATA_NOSPACE_DELETE_MES": "存档空间不足！\n\n保存本次冒险进度前，\n请在删除模式中确认有足够的可用空间。",
+    "SAVEDATA_BREAK_MES_WRITE": "此存档已损坏。\n保存失败。",
+    "SAVEDATA_FAILED_REPLAY": "回放数据保存失败。",
+    "SAVEDATA_DETAIL_WORLD_SUFFIX": " 世界",
+    "SAVEDATA_DETAIL_DIFFICULTY": "难度",
+    "SAVEDATA_DETAIL_DAYS_SUFFIX": "天",
+    "SAVEDATA_DETAIL_PLAYTIME": "游玩时间",
+    "SAVEDATA_DETAIL_LEVEL": "等级",
+    "SAVEDATA_DETAIL_DISTANCE": "距离 ",
+    "SAVEDATA_DETAIL_EQUIPMENT": "装备",
+    "SAVEDATA_DETAIL_PERK": "天赋",
+    "SAVE_DATA_NAME_LATEST_REPLAY": "最近一次回放",
+    "SAVE_DATA_NAME_SAVED_REPLAY": "已保存的回放",
+    "SAVE_DATA_NAME_VS_LATEST_REPLAY": "最近一次对战回放",
+    "SAVE_DATA_NAME_VS_SAVED_REPLAY": "已保存的对战回放"
+  },
+  "error_code_dict.bin": {
+    "ERROR_TYPE_DEFAULT": "发生错误。",
+    "ERROR_TYPE_NOT_FOUND": "无法读取文件。",
+    "ERROR_TYPE_NETWORK_ERROR": "发生连接错误。",
+    "ERROR_TYPE_ACCESS_DENIED": "连接失败。",
+    "ERROR_TYPE_MAINTENANCE": "服务器正在维护中。",
+    "ERROR_TYPE_SERVICE_UNAVEILABLE": "服务已停止。",
+    "ERROR_TYPE_SAVE_DATA_BROKEN": "存档数据已损坏。",
+    "ERROR_TYPE_SAVE_ERROR": "数据保存失败。",
+    "ERROR_TYPE_LOAD_ERROR": "数据读取失败。",
+    "ERROR_TYPE_TITLE": "正在返回标题画面。",
+    "ERROR_TYPE_REBOOT": "正在重新启动游戏。",
+    "ERROR_TYPE_CLOSE": "正在关闭游戏。"
+  },
+  "cdatabase.dat": {
+    "db/4/0/7": "某个东西", "db/4/0/11": "某个人", "db/4/0/12": "某个东西",
+    "db/4/0/13": "某个东西", "db/4/0/14": "空无一物", "db/23/56/0": "无名者",
+    "db/23/98/0": "Alt 键", "db/23/219/0": "Alt 键"
+  }
+}

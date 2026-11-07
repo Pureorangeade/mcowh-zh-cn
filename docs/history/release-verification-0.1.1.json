@@ -1,0 +1,51 @@
+{
+  "version": "0.1.1-demo",
+  "executable_sha256": "4d497109dfdcfbe0b05758b966a67f9bc0a0748f898c0649c72ab71b69d6b9b1",
+  "bundle_sha256": "679709fc491c06e3e0d9a7a83973cb68f6495a3aea84e12214ae567f65b8423a",
+  "test_fixture": "Minimal original files required by patch; game executable not launched",
+  "runtime_display_verified": false,
+  "results": [
+    {
+      "action": "verify",
+      "package_version": "0.1.1-demo",
+      "exit_code": 0,
+      "message": "差分包重建验证通过。",
+      "seconds": 4.19
+    },
+    {
+      "action": "install",
+      "package_version": "0.1.0-demo",
+      "exit_code": 0,
+      "message": "汉化技术演示补丁已安装。",
+      "seconds": 4.09
+    },
+    {
+      "action": "restore",
+      "package_version": "0.1.1-demo",
+      "exit_code": 0,
+      "message": "已还原原版，文件哈希与备份一致。",
+      "seconds": 1.11
+    },
+    {
+      "action": "install",
+      "package_version": "0.1.1-demo",
+      "exit_code": 0,
+      "message": "汉化技术演示补丁已安装。",
+      "seconds": 4.16
+    },
+    {
+      "action": "install",
+      "package_version": "0.1.1-demo",
+      "exit_code": 0,
+      "message": "相同版本的补丁已经安装。",
+      "seconds": 1.06
+    },
+    {
+      "action": "restore",
+      "package_version": "0.1.1-demo",
+      "exit_code": 0,
+      "message": "已还原原版，文件哈希与备份一致。",
+      "seconds": 1.14
+    }
+  ]
+}

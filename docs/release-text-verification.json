@@ -1,0 +1,17 @@
+{
+  "version": "0.3.2-panel-only",
+  "baseline": "0.3.0-llm-review",
+  "database_display_records_checked": 5482,
+  "approved_panel_fields_checked": 29,
+  "only_listed_abbreviations_replaced_in_each_field": true,
+  "matches": true,
+  "images_fonts_scripts_identical_to_030": true,
+  "examples": {
+    "db/58/140/1": "力量",
+    "db/58/146/1": "开锁",
+    "db/58/155/1": "移速",
+    "db/58/157/1": "连击率",
+    "db/58/159/1": "鉴定率"
+  },
+  "death_variable_runtime_issue_fixed": false
+}

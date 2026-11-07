@@ -1,0 +1,28 @@
+{
+  "batch": "0010",
+  "new_entries": 259,
+  "revised_entries": 0,
+  "actual_japanese_for_all_batch_entries": true,
+  "total_llm_entries": 1357,
+  "status_table": {
+    "llm_translated": 472,
+    "retained_english": 1
+  },
+  "deferred_final_issues": 17,
+  "deferred_final_entries": 181,
+  "python_tests_passed": 52,
+  "editor_core_passed": true,
+  "isolated_browser_passed": true,
+  "numeric_literals_preserved": true,
+  "controls_verified": true,
+  "runtime_placeholders_preserved": true,
+  "separate_model_api_called": false,
+  "local_translation_model_called": false,
+  "game_files_modified": false,
+  "player_release_rebuilt": false,
+  "next_batch": {
+    "table": 1,
+    "start_row": 224,
+    "queued_entries": 120
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "version": "0.3.0-llm-review",
+  "date": "2026-11-08",
+  "player_zip": "MCOWH-zh-CN-0.3.0-llm-review.zip",
+  "player_zip_bytes": 24179239,
+  "player_zip_sha256": "e4ac4855dcedfa198d7aa2bbd84f2475401abb6512be40183bb584ff18ce0ade",
+  "source_zip": "MCOWH-zh-CN-0.3.0-llm-review-source.zip",
+  "source_zip_sha256": "39a8e28a3ddda48324d34dbb9ad1312b4798d1898dc6643d58374a4dc5e2f71a",
+  "all_player_file_hashes_verified": 26,
+  "packaged_editor_matches_verified_working_editor": true,
+  "source_canonical_batches": 65,
+  "original_player_packages_preserved": true,
+  "actual_game_modified": false,
+  "runtime_display_verified": false
+}

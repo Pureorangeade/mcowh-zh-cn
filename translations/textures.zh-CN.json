@@ -1,0 +1,61 @@
+{
+  "common/text": {
+    "tx_buy": "购买", "tx_clear": "通关", "tx_type": "类型", "tx_wt_01": "重量",
+    "tx_turn": "回合", "tx_performance": "▶ 表现", "tx_details": "▶ 详情",
+    "tx_select": "选择", "tx_status": "▶ 状态", "tx_perks": "▶ 天赋", "tx_return": "返回",
+    "tx_gift": "▶ 资质", "tx_attention": "▶ 注意", "tx_dialog": "对话", "tx_sell": "出售",
+    "tx_ability": "▶ 能力", "tx_platform": "▶ 平台", "tx_new": "新", "tx_cost": "费用",
+    "tx_enchant": "▶ 附魔", "tx_world": "▶ 世界", "tx_silver": "拉比斯", "tx_party": "▶ 队伍",
+    "tx_wt": "重量", "tx_list": "列表", "tx_equipment": "▶ 装备", "tx_quantity": "数量",
+    "tx_condition": "▶ 状态异常"
+  },
+  "game_main": {"tx_distance02": "对手距离", "tx_km": "公里", "tx_lv": null, "tx_distance": "距离", "tx_day": "天"},
+  "game_menu": {
+    "tx_equip": "装备", "tx_buy": "商店", "tx_system": "系统", "tx_item2": "已存物品",
+    "tx_reward": "勇者奖励", "tx_foot2": "地面物品", "tx_item": "物品", "tx_log": "日志",
+    "tx_depot": "梦幻仓库", "tx_status": "状态", "tx_not": "※不含附加效果", "tx_foot": "当前位置",
+    "tx_skill": "技能", "tx_baggage": "运输"
+  },
+  "ready": {
+    "tx_world_mini": "世界", "tx_difficulty": "选择难度", "tx_demolition": "拆除房间",
+    "tx_movie": "观看影片", "tx_build": "扩建房间", "tx_cross": "跨平台存档",
+    "tx_search": "搜索房间", "tx_twitter": "Twitter 设置", "tx_point": "创世之屋",
+    "tx_upload": "上传", "tx_exchange": "英灵之屋", "tx_set": "创建房间",
+    "tx_playback": "观看回放", "tx_controller": "手柄设置", "tx_download": "下载",
+    "tx_depot": "打开梦幻仓库", "tx_perks": "选择天赋", "tx_ex": "鉴赏",
+    "tx_vs_record": "对战评价", "tx_record": "对战记录", "tx_comment": "评价留言",
+    "tx_operation_b": "操作方案 B", "tx_replay": "回放", "tx_castle": "自定义城堡",
+    "tx_vs": "与其他勇者对战", "tx_special": "获取新特殊能力", "tx_offcampaign": "离线活动世界",
+    "tx_special2": "查看特殊能力", "tx_epilogue": "查看后日谈", "tx_sound": "声音设置",
+    "tx_operation_a": "操作方案 A", "tx_system": "系统设置", "tx_name": "更改名字",
+    "tx_newclass": "解锁新职业", "tx_bgm": "聆听背景音乐", "tx_chara": "选择角色",
+    "tx_operate": "操作设置", "tx_load": "读取", "tx_appoint": "指定世界名称",
+    "tx_history": "探索过的世界", "tx_wait": "对战房间", "tx_campaign": "活动世界",
+    "tx_recorder": "击倒数", "tx_medal": "查看奖章", "tx_option": "设置", "tx_resident": "配置居民",
+    "tx_result": "冒险评价", "tx_limit": "选择规则", "tx_keyboard": "键盘设置",
+    "tx_ready": "冒险准备", "tx_save": "保存", "tx_memory": "冒险记录", "tx_data": "职业记录",
+    "tx_picture": "显示设置", "tx_class": "选择职业", "tx_world": "选择世界", "tx_random": "随机决定",
+    "tx_winner": "征服世界的勇者", "tx_newperks": "获取新天赋", "tx_playback02": "观看对战回放",
+    "tx_vs2": "的对战", "tx_replay02": "对战回放"
+  },
+  "ready/keyboard": {
+    "tx_cancel_def": "取消", "tx_cancel_select": "取消", "tx_delete_def": "删除一字",
+    "tx_delete_select": "删除一字", "tx_random_select": "随机", "tx_random_def": "随机",
+    "tx_fix_def": "确认", "tx_fix_select": "确认", "tx_key_small_letter_off": "小写",
+    "tx_key_small_letter": "小写"
+  },
+  "result": {"tx_totalget_stone_vs": "获得英灵石", "tx_stoneunit_s": "个", "tx_stoneunit_l": "个", "tx_totalget_stone": "获得创世石"},
+  "title": {
+    "tx_exit": "退出", "tx_start": "开始", "tx_press_steam": "按任意键", "tx_new": "开始新冒险",
+    "tx_press": "按任意按键", "tx_option": "设置", "tx_vs": "与其他勇者对战", "tx_extra": "鉴赏",
+    "tx_continue": "继续冒险", "tx_playable": "解锁完整版"
+  },
+  "classes": {
+    "01": "剑士", "02": "骑士", "03": "弓箭手", "04": "盗贼", "05": "理术师",
+    "06": "海盗", "07": "冒险者", "08": "兽人", "09": "游侠", "10": "枪手",
+    "11": "单向勇者", "12": "刺客", "13": "暗黑骑士", "14": "拳斗士", "15": "祭司",
+    "16": "僵尸", "17": "女王", "18": "占星术士", "19": "武士", "20": "幻兽猎人",
+    "21": "龙人", "22": "力士", "23": "领主", "24": "风来人", "25": "超高校级"
+  },
+  "grades": {"0": "完美！", "1": "出类拔萃！", "2": "非常棒！", "3": "不错！", "4": "良好", "5": "新手"}
+}

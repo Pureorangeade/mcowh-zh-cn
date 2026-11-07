@@ -1,0 +1,30 @@
+{
+  "schema": 1,
+  "batch": "0063",
+  "date": "2026-11-07",
+  "decisions_applied": 10,
+  "affected_records": 54,
+  "new_model_records": 15,
+  "existing_model_drafts_unblocked": 33,
+  "new_original_retentions": 6,
+  "current_counts": {
+    "llm_translated": 12055,
+    "retained_original": 7,
+    "retained_english": 79,
+    "retained_command": 63
+  },
+  "unanswered_questions": 0,
+  "final_review_issues": 39,
+  "final_review_affected_records": 501,
+  "canonical_batches_verified": 63,
+  "current_model_records_verified": 12055,
+  "python_tests_passed": 53,
+  "editor_core_passed": true,
+  "isolated_browser_passed": true,
+  "source_controls_numbers_and_terms_verified": true,
+  "ordinary_queue_empty": true,
+  "user_requested_version_choices_verified": true,
+  "game_started_or_modified": false,
+  "player_package_rebuilt": false,
+  "full_retranslation_complete": false
+}

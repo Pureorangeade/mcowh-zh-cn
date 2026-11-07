@@ -1,0 +1,60 @@
+{
+  "schema": 1,
+  "checked_date": "2026-11-07",
+  "app_id": "409000",
+  "build_id": "1527978",
+  "local_manifest": "D:/Steam/steamapps/appmanifest_409000.acf",
+  "local_language": "japanese",
+  "installed_depots": {
+    "409001": {
+      "role": "shared Steam API",
+      "manifest": "5224961075388149818"
+    },
+    "409003": {
+      "role": "Japanese content",
+      "manifest": "6676882424485310473"
+    }
+  },
+  "japanese_depot": {
+    "id": "409003",
+    "role": "Japanese content",
+    "manifest": "6676882424485310473",
+    "build_id": "1527978",
+    "installed_locally": true,
+    "source": "https://steamdb.info/depot/409003/"
+  },
+  "official_language_support": "https://www.spike-chunsoft.com/games/mystery-chronicle-one-way-heroics/",
+  "conclusion": "Japanese resources are usable. Five text-resource files were copied and SHA256 checked, 430 blocks decompressed, database field layout matched the English fixture, and 11951 actual display sources were structurally aligned.",
+  "next_step": "Use the aligned Japanese display sources in translation; keep English/Japanese semantic differences and user decisions separate.",
+  "game_files_modified": false,
+  "steam_configuration_modified": false,
+  "depot_download_started": false,
+  "anonymous_access_test": "Steam connected and returned: App 409000 is not available from this account.",
+  "authentication_needed": false,
+  "download_helper": "下载日文文本资源.cmd",
+  "selected_files": [
+    "D3D11/Data/archive.bin",
+    "D3D11/Data/data0100.bin",
+    "D3D11/Data/data0200.bin",
+    "D3D11/Data/data0500.bin",
+    "D3D11/Data/data1200.bin"
+  ],
+  "initial_installation": {
+    "language": "english",
+    "installed_depots": {
+      "409001": {
+        "role": "shared Steam API",
+        "manifest": "5224961075388149818"
+      },
+      "409002": {
+        "role": "English content",
+        "manifest": "3025518785101822666"
+      }
+    }
+  },
+  "download_method": "User switched Steam game language to Japanese; the agent copied five text-resource files to the isolated project fixture.",
+  "resources_acquired": true,
+  "user_switched_game_language": true,
+  "game_files_modified_by_agent": false,
+  "verification_report": "docs/japanese-resource-verification.json"
+}

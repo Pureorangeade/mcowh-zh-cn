@@ -1,0 +1,21 @@
+# 下载独立日文文本资源
+
+**当前状态：日文资源已通过用户切换Steam语言取得，并已另存、验证及接入编辑器，无需再次下载。下文保留备用下载方法。**
+
+当前Steam安装为英文；日文独立内容包409003需要拥有游戏的Steam账号授权。已尝试匿名访问，Steam明确返回账号无权取得该游戏内容，因此未下载日文文件。
+
+双击项目根目录的 **下载日文文本资源.cmd**，使用拥有此游戏的Steam手机应用扫描下载工具显示的二维码，并在手机中确认登录。下载结束后返回聊天告知“日文下载完成”。无需在聊天里发送账号、密码或验证码。
+
+脚本只下载以下5个文件到 **_zh_patch/work/japanese-fixture**：
+
+- D3D11/Data/archive.bin：资源索引。
+- D3D11/Data/data0100.bin：文本字典。
+- D3D11/Data/data0200.bin：数据库及对应元数据。
+- D3D11/Data/data0500.bin：事件脚本。
+- D3D11/Data/data1200.bin：界面脚本。
+
+按日文资源包文件目录，这些文件合计约7.7MB，无需下载整套游戏。目标固定为build 1527978对应的日文manifest 6676882424485310473。下载工具的校验选项已启用；取得文件后还需解析检查和逐条对应。
+
+工具来自 [SteamRE/DepotDownloader 3.4.0](https://github.com/SteamRE/DepotDownloader/releases/tag/DepotDownloader_3.4.0)，便携版只放在项目工作目录，不安装系统组件。下载ZIP的SHA256为 41c9e9f0df54b3ad02e67a11726756e5c73283bd7c2e1b04acfa5ae4c2ed3767。支持二维码登录、独立下载目录和文件清单，见[工具说明](https://github.com/SteamRE/DepotDownloader)。
+
+脚本不保存密码，不切换Steam游戏语言，不覆盖当前安装，不启动游戏。无需退出游戏进行文本资源下载。脚本完成后，后续提取与对齐由我处理。

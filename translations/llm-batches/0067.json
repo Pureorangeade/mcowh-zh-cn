@@ -1,0 +1,733 @@
+{
+  "schema": 1,
+  "project": "mcowh-zh",
+  "batch": "0067",
+  "authored_text_sha256": "fec047294507cd50452de8afadce4870072b6f75a29aea495f5ec112b839b4fd",
+  "entries": [
+    {
+      "id": "db/58/140/1",
+      "source_sha256": "e1bad657cc0ddd36f29241b98e87efbe8c0342f684711d6e725dd28c2bf52704",
+      "source": "STR",
+      "translation": "力量",
+      "previous_translation": "STR",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0067",
+      "japanese_check": {
+        "text": "筋力",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "文章追い出し担当Ａ / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "db/58/141/1",
+      "source_sha256": "8d1783f5216d63800ae537bccde05afc1bb676882d1e75363485eb63c8dbfad8",
+      "source": "VIT",
+      "translation": "体质",
+      "previous_translation": "VIT",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0067",
+      "japanese_check": {
+        "text": "生命",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "文章追い出し担当Ａ / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "db/58/142/1",
+      "source_sha256": "6a8b1f7a132c893adf19721c93f5183696a41dc23d294c9987e3e697e072b550",
+      "source": "AGI",
+      "translation": "敏捷",
+      "previous_translation": "AGI",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0067",
+      "japanese_check": {
+        "text": "敏捷",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "文章追い出し担当Ａ / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "db/58/143/1",
+      "source_sha256": "370fbb51f069ddc08e23504f7f3a8d85d629664229f8b77f85eed5b8f5a267ed",
+      "source": "INT",
+      "translation": "智力",
+      "previous_translation": "INT",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0067",
+      "japanese_check": {
+        "text": "知力",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "文章追い出し担当Ａ / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "db/58/144/1",
+      "source_sha256": "f2d0c5a346f738db76b5eee8ba3c68c7687563f77457b3c65c4ca36a0d38cb99",
+      "source": "WIL",
+      "translation": "意志",
+      "previous_translation": "WIL",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0067",
+      "japanese_check": {
+        "text": "意志",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "文章追い出し担当Ａ / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "db/58/145/1",
+      "source_sha256": "4088d23b5d7ed18499a1bee2e1222b223a5a874b5daf635952d33bf54aad9861",
+      "source": "CHR",
+      "translation": "魅力",
+      "previous_translation": "CHR",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0067",
+      "japanese_check": {
+        "text": "魅力",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "文章追い出し担当Ａ / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "db/58/146/1",
+      "source_sha256": "7dc6e412c73ab25552a5cb6ed107a7984166e7646fecb39f5e5b920e563c74f0",
+      "source": "LOK",
+      "translation": "开锁",
+      "previous_translation": "LOK",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0067",
+      "japanese_check": {
+        "text": "開錠",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "文章追い出し担当Ａ / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "db/58/147/1",
+      "source_sha256": "ec5e94972bb29f3a218fe1212c4de4676494520232d8c49684f90a605848498a",
+      "source": "CLM",
+      "translation": "登山",
+      "previous_translation": "CLM",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0067",
+      "japanese_check": {
+        "text": "登山",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "文章追い出し担当Ａ / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "db/58/148/1",
+      "source_sha256": "dd2ca4b8af06ebc1a3969a4004abaccab6ccfb27c7ac46efbc4b35ba4cfc4f66",
+      "source": "SWM",
+      "translation": "游泳",
+      "previous_translation": "SWM",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0067",
+      "japanese_check": {
+        "text": "水泳",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "文章追い出し担当Ａ / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "db/58/150/1",
+      "source_sha256": "ad5b433f01b517ddc7ce7ce3b91cf713962acf1f4d88fe044fb880adb1ede83c",
+      "source": "ATK",
+      "translation": "攻击",
+      "previous_translation": "ATK",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0067",
+      "japanese_check": {
+        "text": "攻撃",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "文章追い出し担当Ａ / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "db/58/151/1",
+      "source_sha256": "e8150c40ae29372dabb70316675db4e855ed6c4f4d879c8d43573a65d94dd78b",
+      "source": "FOR",
+      "translation": "魔力",
+      "previous_translation": "FOR",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0067",
+      "japanese_check": {
+        "text": "理力",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "文章追い出し担当Ａ / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "db/58/152/1",
+      "source_sha256": "316dddc5a44e6bf789862edca92140b61a6da73425ca91fcd369a30979b9c0a1",
+      "source": "ARM",
+      "translation": "护甲",
+      "previous_translation": "ARM",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0067",
+      "japanese_check": {
+        "text": "装甲",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "文章追い出し担当Ａ / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "db/58/153/1",
+      "source_sha256": "65cbe1e19791d49b023800b3e22714e2589b6339bef5e660b628dd1023506ebd",
+      "source": "RED",
+      "translation": "减伤率",
+      "previous_translation": "RED",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0067",
+      "japanese_check": {
+        "text": "軽減",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "文章追い出し担当Ａ / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "db/58/154/1",
+      "source_sha256": "2dde6d03ddaa287e3ac95b4befe8f38e8766a35092fc01e47e28d86c7a29e412",
+      "source": "ACC",
+      "translation": "命中率",
+      "previous_translation": "ACC",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0067",
+      "japanese_check": {
+        "text": "命中",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "文章追い出し担当Ａ / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "db/58/155/1",
+      "source_sha256": "3098b1708ea4f0f6e5b57ffbea417e9eb07603b930ae79265951af92fe1bf732",
+      "source": "MOV",
+      "translation": "移速",
+      "previous_translation": "MOV",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0067",
+      "japanese_check": {
+        "text": "速度",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "文章追い出し担当Ａ / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "db/58/156/1",
+      "source_sha256": "5517bab653668facef67e08f959d3af9f63e80a0570411d1f4f7c6b0460bc24e",
+      "source": "EVA",
+      "translation": "闪避率",
+      "previous_translation": "EVA",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0067",
+      "japanese_check": {
+        "text": "回避",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "文章追い出し担当Ａ / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "db/58/157/1",
+      "source_sha256": "fc331d1cee889b52b060ca982297b6227261df71ca3cb35eaae2d06776b93f42",
+      "source": "COM",
+      "translation": "连击率",
+      "previous_translation": "COM",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0067",
+      "japanese_check": {
+        "text": "連続",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "文章追い出し担当Ａ / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "db/58/158/1",
+      "source_sha256": "e355a192cf018e537b7474deefd4663a431de7c92139c3e382b84822fb8c3384",
+      "source": "CRI",
+      "translation": "暴击率",
+      "previous_translation": "CRI",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0067",
+      "japanese_check": {
+        "text": "必殺",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "文章追い出し担当Ａ / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "db/58/159/1",
+      "source_sha256": "3843971dcfdee5083e6289e1bbdbb003e538b5a8a668fc43ae4f19d415ac18a2",
+      "source": "ID",
+      "translation": "鉴定率",
+      "previous_translation": "ID",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0067",
+      "japanese_check": {
+        "text": "識別",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "文章追い出し担当Ａ / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "db/58/18/1",
+      "source_sha256": "97137b9ebdc5726dd0eddc407823386da95ab4cd4a27ae7abb87bc32f41a5fb8",
+      "source": "STR \\mx[30]\\cself[10]\r\nVIT \\mx[30]\\cself[11]\r\nAGI \\mx[30]\\cself[12]\r\nINT \\mx[30]\\cself[13]\r\nWIL \\mx[30]\\cself[14]\r\nCHR \\mx[30]\\cself[15]",
+      "translation": "力量 \\mx[30]\\cself[10]\r\n体质 \\mx[30]\\cself[11]\r\n敏捷 \\mx[30]\\cself[12]\r\n智力 \\mx[30]\\cself[13]\r\n意志 \\mx[30]\\cself[14]\r\n魅力 \\mx[30]\\cself[15]",
+      "previous_translation": "STR \\mx[30]\\cself[10]\r\nVIT \\mx[30]\\cself[11]\r\nAGI \\mx[30]\\cself[12]\r\nINT \\mx[30]\\cself[13]\r\nWIL \\mx[30]\\cself[14]\r\nCHR \\mx[30]\\cself[15]",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0067",
+      "japanese_check": {
+        "text": "筋力\\mx[30]\\cself[10]\r\n生命\\mx[30]\\cself[11]\r\n敏捷\\mx[30]\\cself[12]\r\n知力\\mx[30]\\cself[13]\r\n意志\\mx[30]\\cself[14]\r\n魅力\\mx[30]\\cself[15]",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "文章追い出し担当Ａ / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "db/58/19/1",
+      "source_sha256": "c2cf4cc3d921337cbf5723355ce324f81e781de1bd6caeb8755469c43553f969",
+      "source": "LOK \\mx[30]\\cself[10]\r\nCLM \\mx[30]\\cself[11]\r\nSWM \\mx[30]\\cself[12]",
+      "translation": "开锁 \\mx[30]\\cself[10]\r\n登山 \\mx[30]\\cself[11]\r\n游泳 \\mx[30]\\cself[12]",
+      "previous_translation": "LOK \\mx[30]\\cself[10]\r\nCLM \\mx[30]\\cself[11]\r\nSWM \\mx[30]\\cself[12]",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0067",
+      "japanese_check": {
+        "text": "開錠\\mx[30]\\cself[10]\r\n登山\\mx[30]\\cself[11]\r\n水泳\\mx[30]\\cself[12]",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "文章追い出し担当Ａ / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "db/62/171/1",
+      "source_sha256": "e81566521f97a1ee55649cb05e6fc0d7146b7dffccfe6f0b7ea1d3f6654a23bc",
+      "source": "\\font[2]\\f[16]\\c[16]STR\r\n\\font[2]\\f[16]\\c[16]VIT\r\n\\font[2]\\f[16]\\c[16]AGI\r\n\\font[2]\\f[16]\\c[16]INT\r\n\\font[2]\\f[16]\\c[16]WIL\r\n\\font[2]\\f[16]\\c[16]CHR\r\n\\font[2]\\f[16]\\c[16]LOK\r\n\\font[2]\\f[16]\\c[16]CLM\r\n\\font[2]\\f[16]\\c[16]SWM\r\n\\font[2]\\f[16]\\c[16]ATK\r\n\\font[2]\\f[16]\\c[16]FOR\r\n\\font[2]\\f[16]\\c[16]ARM\r\n\\font[2]\\f[16]\\c[16]RED\r\n\\font[2]\\f[16]\\c[16]ACC\r\n\\font[2]\\f[16]\\c[16]MOV\r\n\\font[2]\\f[16]\\c[16]EVA\r\n\\font[2]\\f[16]\\c[16]COM\r\n\\font[2]\\f[16]\\c[16]CRI\r\n\\font[2]\\f[16]\\c[16]ID",
+      "translation": "\\font[2]\\f[16]\\c[16]力量\r\n\\font[2]\\f[16]\\c[16]体质\r\n\\font[2]\\f[16]\\c[16]敏捷\r\n\\font[2]\\f[16]\\c[16]智力\r\n\\font[2]\\f[16]\\c[16]意志\r\n\\font[2]\\f[16]\\c[16]魅力\r\n\\font[2]\\f[16]\\c[16]开锁\r\n\\font[2]\\f[16]\\c[16]登山\r\n\\font[2]\\f[16]\\c[16]游泳\r\n\\font[2]\\f[16]\\c[16]攻击\r\n\\font[2]\\f[16]\\c[16]魔力\r\n\\font[2]\\f[16]\\c[16]护甲\r\n\\font[2]\\f[16]\\c[16]减伤率\r\n\\font[2]\\f[16]\\c[16]命中率\r\n\\font[2]\\f[16]\\c[16]移速\r\n\\font[2]\\f[16]\\c[16]闪避率\r\n\\font[2]\\f[16]\\c[16]连击率\r\n\\font[2]\\f[16]\\c[16]暴击率\r\n\\font[2]\\f[16]\\c[16]鉴定率",
+      "previous_translation": "\\font[2]\\f[16]\\c[16]STR\r\n\\font[2]\\f[16]\\c[16]VIT\r\n\\font[2]\\f[16]\\c[16]AGI\r\n\\font[2]\\f[16]\\c[16]INT\r\n\\font[2]\\f[16]\\c[16]WIL\r\n\\font[2]\\f[16]\\c[16]CHR\r\n\\font[2]\\f[16]\\c[16]LOK\r\n\\font[2]\\f[16]\\c[16]CLM\r\n\\font[2]\\f[16]\\c[16]SWM\r\n\\font[2]\\f[16]\\c[16]ATK\r\n\\font[2]\\f[16]\\c[16]FOR\r\n\\font[2]\\f[16]\\c[16]ARM\r\n\\font[2]\\f[16]\\c[16]RED\r\n\\font[2]\\f[16]\\c[16]ACC\r\n\\font[2]\\f[16]\\c[16]MOV\r\n\\font[2]\\f[16]\\c[16]EVA\r\n\\font[2]\\f[16]\\c[16]COM\r\n\\font[2]\\f[16]\\c[16]CRI\r\n\\font[2]\\f[16]\\c[16]ID",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0067",
+      "japanese_check": {
+        "text": "\\font[2]\\f[16]\\c[16]筋力\r\n\\font[2]\\f[16]\\c[16]生命\r\n\\font[2]\\f[16]\\c[16]敏捷\r\n\\font[2]\\f[16]\\c[16]知力\r\n\\font[2]\\f[16]\\c[16]意思\r\n\\font[2]\\f[16]\\c[16]魅力\r\n\\font[2]\\f[16]\\c[16]開錠\r\n\\font[2]\\f[16]\\c[16]登山\r\n\\font[2]\\f[16]\\c[16]水泳\r\n\\font[2]\\f[16]\\c[16]攻撃\r\n\\font[2]\\f[16]\\c[16]理力\r\n\\font[2]\\f[16]\\c[16]装甲\r\n\\font[2]\\f[16]\\c[16]軽減\r\n\\font[2]\\f[16]\\c[16]命中\r\n\\font[2]\\f[16]\\c[16]速度\r\n\\font[2]\\f[16]\\c[16]回避\r\n\\font[2]\\f[16]\\c[16]連続\r\n\\font[2]\\f[16]\\c[16]必殺\r\n\\font[2]\\f[16]\\c[16]識別",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "文章追い出し担当Ｅ / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "db/62/246/1",
+      "source_sha256": "64ccdbc8917e80daaf095918c85830f4d141c073ee47a11296f136f6ea399a99",
+      "source": "\\font[2]\\f[16]STR\r\n\\font[2]\\f[16]VIT\r\n\\font[2]\\f[16]AGI\r\n\\font[2]\\f[16]INT\r\n\\font[2]\\f[16]WIL\r\n\\font[2]\\f[16]CHR\r\n\\font[2]\\f[16]LOK\r\n\\font[2]\\f[16]CLM\r\n\\font[2]\\f[16]SWM",
+      "translation": "\\font[2]\\f[16]力量\r\n\\font[2]\\f[16]体质\r\n\\font[2]\\f[16]敏捷\r\n\\font[2]\\f[16]智力\r\n\\font[2]\\f[16]意志\r\n\\font[2]\\f[16]魅力\r\n\\font[2]\\f[16]开锁\r\n\\font[2]\\f[16]登山\r\n\\font[2]\\f[16]游泳",
+      "previous_translation": "\\font[2]\\f[16]STR\r\n\\font[2]\\f[16]VIT\r\n\\font[2]\\f[16]AGI\r\n\\font[2]\\f[16]INT\r\n\\font[2]\\f[16]WIL\r\n\\font[2]\\f[16]CHR\r\n\\font[2]\\f[16]LOK\r\n\\font[2]\\f[16]CLM\r\n\\font[2]\\f[16]SWM",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0067",
+      "japanese_check": {
+        "text": "\\font[2]\\f[16]筋力\r\n\\font[2]\\f[16]生命\r\n\\font[2]\\f[16]敏捷\r\n\\font[2]\\f[16]知力\r\n\\font[2]\\f[16]意思\r\n\\font[2]\\f[16]魅力\r\n\\font[2]\\f[16]開錠\r\n\\font[2]\\f[16]登山\r\n\\font[2]\\f[16]水泳",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "文章追い出し担当Ｅ / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "db/62/120/1",
+      "source_sha256": "e1bad657cc0ddd36f29241b98e87efbe8c0342f684711d6e725dd28c2bf52704",
+      "source": "STR",
+      "translation": "力量",
+      "previous_translation": "STR",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0067",
+      "japanese_check": {
+        "text": "筋力",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "文章追い出し担当Ｅ / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "db/62/121/1",
+      "source_sha256": "8d1783f5216d63800ae537bccde05afc1bb676882d1e75363485eb63c8dbfad8",
+      "source": "VIT",
+      "translation": "体质",
+      "previous_translation": "VIT",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0067",
+      "japanese_check": {
+        "text": "生命",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "文章追い出し担当Ｅ / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "db/62/122/1",
+      "source_sha256": "6a8b1f7a132c893adf19721c93f5183696a41dc23d294c9987e3e697e072b550",
+      "source": "AGI",
+      "translation": "敏捷",
+      "previous_translation": "AGI",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0067",
+      "japanese_check": {
+        "text": "敏捷",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "文章追い出し担当Ｅ / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "db/62/123/1",
+      "source_sha256": "370fbb51f069ddc08e23504f7f3a8d85d629664229f8b77f85eed5b8f5a267ed",
+      "source": "INT",
+      "translation": "智力",
+      "previous_translation": "INT",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0067",
+      "japanese_check": {
+        "text": "知力",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "文章追い出し担当Ｅ / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "db/62/124/1",
+      "source_sha256": "f2d0c5a346f738db76b5eee8ba3c68c7687563f77457b3c65c4ca36a0d38cb99",
+      "source": "WIL",
+      "translation": "意志",
+      "previous_translation": "WIL",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0067",
+      "japanese_check": {
+        "text": "意志",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "文章追い出し担当Ｅ / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "db/62/125/1",
+      "source_sha256": "4088d23b5d7ed18499a1bee2e1222b223a5a874b5daf635952d33bf54aad9861",
+      "source": "CHR",
+      "translation": "魅力",
+      "previous_translation": "CHR",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0067",
+      "japanese_check": {
+        "text": "魅力",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "文章追い出し担当Ｅ / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    }
+  ]
+}

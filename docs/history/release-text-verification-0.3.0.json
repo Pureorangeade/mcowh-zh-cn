@@ -1,0 +1,15 @@
+{
+  "version": "0.3.0-llm-review",
+  "database_display_records_checked": 5482,
+  "matches": true,
+  "new_user_revision_records": 12,
+  "samples": {
+    "db/1/88/0": "Dosey的特等疗伤草",
+    "db/1/391/0": "Aerdou的长矛攻击[特]（触发）",
+    "db/1/392/0": "Aerdou的长矛攻击[特]",
+    "db/3/6/0": "Keyton之剑",
+    "db/22/511/0": "Alma",
+    "db/6/164/3": "蕴含贤者少许经验的魔力。\r\n沐浴其中后，\\c[61]等级\\c[0]\\c[60]+5\\c[0]。\r\n对友方NPC使用有效，对伙伴无用。",
+    "db/6/91/3": "放置在地面上使用。\r\n被踩中后，对\\c[60]3×3格\\c[0]范围造成伤害，并使目标停止移动。\r\n你受到火焰伤害时，它可能起火。"
+  }
+}

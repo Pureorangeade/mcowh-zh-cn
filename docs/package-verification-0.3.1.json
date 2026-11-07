@@ -1,0 +1,13 @@
+{
+  "version": "0.3.1-panel-zh",
+  "date": "2026-11-08",
+  "player_zip_bytes": 24214730,
+  "player_zip_sha256": "f144f5f46bd830fb57cf55b25a6dbd4edb8dc813e7c35c2f6b08caa453a8d720",
+  "source_zip_sha256": "eb10dd30dcb7e7460ff5c21c389e9d2e2a7404759ed706c4845d94d77916fd96",
+  "player_file_hashes_checked": 29,
+  "canonical_source_batches": 66,
+  "old_0_3_0_zip_unchanged": true,
+  "verified_editor_packaged": true,
+  "actual_game_modified": false,
+  "death_text_issue_fixed": false
+}

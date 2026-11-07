@@ -1,0 +1,73 @@
+{
+  "schema": 1,
+  "project": "mcowh-zh",
+  "batch": "0063",
+  "entries": [
+    {
+      "id": "db/1/638/0",
+      "source_sha256": "919a28991618678c580fe07e026f008a88258cda6cc7c684ab17f9895ee35ccf",
+      "source": "南斗 DE 5MEN",
+      "translation": "南斗 DE 5MEN",
+      "translation_method": "user_confirmed_retention",
+      "review_status": "retained_original",
+      "human_reviewed": true,
+      "user_decision": "review-0063-07",
+      "provenance": "User explicitly chose original retention for review item 07. Not counted as model translation."
+    },
+    {
+      "id": "db/1/639/0",
+      "source_sha256": "66fd3b0b0a204f3ff8ba4c3ef64179ac66942373920544bbba193a20b92bd933",
+      "source": "南斗 DE 5MEN1",
+      "translation": "南斗 DE 5MEN1",
+      "translation_method": "user_confirmed_retention",
+      "review_status": "retained_original",
+      "human_reviewed": true,
+      "user_decision": "review-0063-07",
+      "provenance": "User explicitly chose original retention for review item 07. Not counted as model translation."
+    },
+    {
+      "id": "db/1/640/0",
+      "source_sha256": "3c96343d2fd11db46edd9fa98a589d9e7829d4347a3c6446977bd3fb1bf648c6",
+      "source": "南斗 DE 5MEN2",
+      "translation": "南斗 DE 5MEN2",
+      "translation_method": "user_confirmed_retention",
+      "review_status": "retained_original",
+      "human_reviewed": true,
+      "user_decision": "review-0063-07",
+      "provenance": "User explicitly chose original retention for review item 07. Not counted as model translation."
+    },
+    {
+      "id": "db/1/641/0",
+      "source_sha256": "1d82530515adb99d44d25b480aa370220da315da9144511e61b4a2952e470f1b",
+      "source": "南斗 DE 5MEN3",
+      "translation": "南斗 DE 5MEN3",
+      "translation_method": "user_confirmed_retention",
+      "review_status": "retained_original",
+      "human_reviewed": true,
+      "user_decision": "review-0063-07",
+      "provenance": "User explicitly chose original retention for review item 07. Not counted as model translation."
+    },
+    {
+      "id": "db/1/642/0",
+      "source_sha256": "a94b3b62e67039eab3bb0152185033afa77537d0d8b7bb94497d8c2f7887a1ad",
+      "source": "南斗 DE 5MEN4",
+      "translation": "南斗 DE 5MEN4",
+      "translation_method": "user_confirmed_retention",
+      "review_status": "retained_original",
+      "human_reviewed": true,
+      "user_decision": "review-0063-07",
+      "provenance": "User explicitly chose original retention for review item 07. Not counted as model translation."
+    },
+    {
+      "id": "db/1/643/0",
+      "source_sha256": "077617f2cc0445f2090830aeef293dcf5de9b3d52c5153a0bf3b83a7962d5622",
+      "source": "南斗 DE 5MEN5",
+      "translation": "南斗 DE 5MEN5",
+      "translation_method": "user_confirmed_retention",
+      "review_status": "retained_original",
+      "human_reviewed": true,
+      "user_decision": "review-0063-07",
+      "provenance": "User explicitly chose original retention for review item 07. Not counted as model translation."
+    }
+  ]
+}

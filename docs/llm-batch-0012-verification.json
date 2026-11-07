@@ -1,0 +1,34 @@
+{
+  "batch": "0012",
+  "selected_entry_records": 500,
+  "new_entry_records": 485,
+  "authored_unique_bilingual_pairs": 408,
+  "prior_exact_bilingual_reuse_records": 24,
+  "within_batch_exact_bilingual_reuse_records": 53,
+  "pending_entry_records": 15,
+  "actual_japanese_for_all_entries": true,
+  "total_llm_entries": 2344,
+  "awaiting_retranslation": 9702,
+  "final_review_issues": 32,
+  "final_review_entries": 451,
+  "unanswered_question_groups": 2,
+  "python_tests_passed": 52,
+  "editor_core_passed": true,
+  "isolated_browser_passed": true,
+  "controls_and_numeric_literals_verified": true,
+  "user_decisions_and_retained_terms_verified": true,
+  "separate_model_api_called": false,
+  "local_translation_model_called": false,
+  "game_files_modified": false,
+  "player_release_rebuilt": false,
+  "next_batch_entries": 500,
+  "next_batch_categories": {
+    "物品与装备": 136,
+    "角色与天赋": 364
+  },
+  "notes": [
+    "The pending 15 candidate drafts are excluded from the canonical batch, overrides and completed counts.",
+    "Unchanged version separators and English numeric/stat templates were checked and retained; record count is not a count of distinct newly translated sentences.",
+    "The two English/Japanese effect differences were kept in English meaning at the user’s request and added to final review."
+  ]
+}

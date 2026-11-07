@@ -1,0 +1,68 @@
+{
+  "version": "0.3.2-panel-only",
+  "executable_sha256": "34e914e45e56a2f42dfe3b234af44887cfa0723a313395ceca72393e4cb6362b",
+  "bundle_sha256": "b5b7a8b86dd2a02f1d783c1b31f0aadbcbac4bd47e358b1c48ee645153e2debf",
+  "test_fixture": "Minimal original files required by patch; game executable not launched",
+  "test_fixture_path": "D:\\Steam\\steamapps\\common\\Mystery Chronicle One Way Heroics\\_zh_patch\\work\\release-test-0.3.2-panel-only",
+  "actual_game_modified": false,
+  "runtime_display_verified": false,
+  "results": [
+    {
+      "action": "verify",
+      "package_version": "0.3.2-panel-only",
+      "exit_code": 0,
+      "message": "差分包重建验证通过。",
+      "seconds": 9.23
+    },
+    {
+      "action": "install",
+      "package_version": "0.3.0-llm-review",
+      "exit_code": 0,
+      "message": "汉化技术演示补丁已安装。",
+      "seconds": 16.72
+    },
+    {
+      "action": "restore",
+      "package_version": "0.3.2-panel-only",
+      "exit_code": 0,
+      "message": "已还原原版，文件哈希与备份一致。",
+      "seconds": 6.77
+    },
+    {
+      "action": "install",
+      "package_version": "0.3.1-panel-zh",
+      "exit_code": 0,
+      "message": "汉化技术演示补丁已安装。",
+      "seconds": 15.39
+    },
+    {
+      "action": "restore",
+      "package_version": "0.3.2-panel-only",
+      "exit_code": 0,
+      "message": "已还原原版，文件哈希与备份一致。",
+      "seconds": 6.67
+    },
+    {
+      "action": "install",
+      "package_version": "0.3.2-panel-only",
+      "exit_code": 0,
+      "message": "汉化技术演示补丁已安装。",
+      "seconds": 15.69,
+      "resource_audit": true
+    },
+    {
+      "action": "install",
+      "package_version": "0.3.2-panel-only",
+      "exit_code": 0,
+      "message": "相同版本的补丁已经安装。",
+      "seconds": 3.22
+    },
+    {
+      "action": "restore",
+      "package_version": "0.3.2-panel-only",
+      "exit_code": 0,
+      "message": "已还原原版，文件哈希与备份一致。",
+      "seconds": 6.7
+    }
+  ]
+}

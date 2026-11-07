@@ -1,0 +1,16 @@
+{
+  "schema": 1,
+  "project": "mcowh-zh",
+  "entries": [
+    {
+      "id": "db/1/109/0",
+      "source_sha256": "443eb83e9e6ac365c4bac7ce0b6cde7649e74386d219aa176065ea083b883141",
+      "source": "[Ver2.00用]",
+      "translation": "[Ver2.00用]",
+      "translation_method": "user_confirmed_retention",
+      "review_status": "retained_original",
+      "human_reviewed": true,
+      "user_decision": "source-version-marker"
+    }
+  ]
+}

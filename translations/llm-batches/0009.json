@@ -1,0 +1,970 @@
+{
+  "schema": 1,
+  "project": "mcowh-zh",
+  "batch": "0009",
+  "authored_text_sha256": "e7720711ea3d1e9c513eeb855fbebef901478992a2efe0f92732f8c91ae7a8d3",
+  "entries": [
+    {
+      "id": "db/1/13/1",
+      "source_sha256": "eba5588ac2e3e09eba760f5138589d570b80346c6a43163abcca0b77e1169d2a",
+      "source": "Sprint for \\c[60]30 turns\\c[0].\r\nWhile sprinting \\c[61]speed\\c[0] is increased but \\c[61]ST\\c[0] \\c[62]decreases\r\nby 1\\c[0] each turn. Any other action besides\r\nmovement will cancel sprinting.",
+      "translation": "疾跑\\c[60]30回合\\c[0]。\r\n疾跑时\\c[61]行动速度\\c[0]提高，但\\c[61]ST\\c[0]每回合\\c[62]减少\r\n1\\c[0]。进行移动以外的任何行动，\r\n都会结束疾跑。",
+      "previous_translation": "疾跑\\c[60]30回合\\c[0]。\r\n疾跑时\\c[61]速度\\c[0]提高，但\\c[61]ST\\c[0]每回合\\c[62]减少\r\n1\\c[0]。进行移动以外的任何行动，\r\n都会结束疾跑。",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0009",
+      "japanese_check": {
+        "text": "\\c[60]30ターン\\c[0]の間、走り続ける。\r\n\\c[61]ST\\c[0]が\\c[62]1ずつ\\c[0]減り続け、\\c[61]行動速度\\c[0]が上がる。\r\n移動以外の行動を取ると走るのをやめる。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "[K]スキル設定 / ダッシュ / 説明文",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "supersedes_batch": "0002"
+    },
+    {
+      "id": "db/1/14/1",
+      "source_sha256": "bf5fd9a0802545eae073d030867e9c661c01f60d87b11d81ce8c352709636ff8",
+      "source": "For \\c[60]16 turns\\c[0], \\c[61]ATK\\c[0] \\c[60]x2\\c[0], \\c[61]ACC\\c[0] \\c[60]+10%\\c[0], and each turn\r\n\\c[61]HP\\c[0] \\c[60]+20%\\c[0]. For \\c[62]30 turns\\c[0] afterward, \\c[61]Max HP\\c[0] is \\c[62]1/3\\c[0],\r\n\\c[61]Max ST\\c[0] is \\c[62]1/3\\c[0], and \\c[61]ACC and Speed\\c[0] are reduced.",
+      "translation": "持续\\c[60]16回合\\c[0]，\\c[61]ATK\\c[0] \\c[60]x2\\c[0]，\\c[61]ACC\\c[0] \\c[60]+10%\\c[0]，每回合\r\n\\c[61]HP\\c[0] \\c[60]+20%\\c[0]。之后的\\c[62]30回合\\c[0]内，\\c[61]HP上限\\c[0]变为\\c[62]1/3\\c[0]，\r\n\\c[61]ST上限\\c[0]变为\\c[62]1/3\\c[0]，\\c[61]ACC与行动速度\\c[0]降低。",
+      "previous_translation": "持续\\c[60]16回合\\c[0]，\\c[61]ATK\\c[0] \\c[60]x2\\c[0]，\\c[61]ACC\\c[0] \\c[60]+10%\\c[0]，每回合\r\n\\c[61]HP\\c[0] \\c[60]+20%\\c[0]。之后的\\c[62]30回合\\c[0]内，\\c[61]HP上限\\c[0]变为\\c[62]1/3\\c[0]，\r\n\\c[61]ST上限\\c[0]变为\\c[62]1/3\\c[0]，\\c[61]ACC与速度\\c[0]降低。",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0009",
+      "japanese_check": {
+        "text": "\\c[60]16ターン\\c[0]の間\\c[61]、\r\n攻撃力\\c[0]\\c[60]2倍\\c[0]、\\c[61]命中率\\c[0]\\c[60]+10％\\c[0]、毎ターン\\c[61]HP\\c[0]\\c[60]+20％\\c[0]。\r\nその後\\c[62]30ターン\\c[0]、\r\n\\c[61]最大HP\\c[0]\\c[62]1/3\\c[0]、\\c[61]最大ST\\c[0]\\c[62]1/3\\c[0]、\\c[61]命中率・行動速度\\c[0]低下。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "[K]スキル設定 / ベルセルク / 説明文",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "supersedes_batch": "0002"
+    },
+    {
+      "id": "db/1/68/1",
+      "source_sha256": "f7b1fcae8f193ede809144b99dabbcc9e3622f469445eebc196ca768f1181269",
+      "source": "Run at full speed for \\c[60]15 turns\\c[0]. While sprinting\r\n\\c[61]Movement Speed\\c[0] is increased but \\c[61]ST\\c[0]\r\ndecreases \\c[62]by 2\\c[0] each turn., Any other action besides\r\nmovement will cancel sprinting.",
+      "translation": "全速奔跑\\c[60]15回合\\c[0]。疾跑时\r\n\\c[61]行动速度\\c[0]提高，但\\c[61]ST\\c[0]\r\n每回合\\c[62]减少2\\c[0]。进行移动以外的\r\n任何行动，都会结束疾跑。",
+      "previous_translation": "全速奔跑\\c[60]15回合\\c[0]。疾跑时\r\n\\c[61]移动速度\\c[0]提高，但\\c[61]ST\\c[0]\r\n每回合\\c[62]减少2\\c[0]。进行移动以外的\r\n任何行动，都会结束疾跑。",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0009",
+      "japanese_check": {
+        "text": "\\c[60]15ターン\\c[0]の間、全力で走る。\r\n\\c[61]ST\\c[0]が\\c[62]2ずつ\\c[0]減り続け、\\c[61]行動速度\\c[0]が上がる。\r\n移動以外の行動を取ると走るのをやめる。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "[K]スキル設定 / ダッシュ / 説明文",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "supersedes_batch": "0002"
+    },
+    {
+      "id": "db/1/112/1",
+      "source_sha256": "3c00fc3bfa7d451c07a4a631db6dec848e65f1b18d0190cee47efb32095e57f4",
+      "source": "Walk like a corpse to avoid detection. For\r\n\\c[60]25 turns\\c[0], undetectable by enemies unless touched.\r\n\\c[61]Movement Speed\\c[0] drops and \\c[61]ST\\c[0] drains.\r\nCanceled by any action other than movement...",
+      "translation": "模仿尸体行走，避开敌人的察觉。\r\n持续\\c[60]25回合\\c[0]，除非接触，否则不会被敌人发现。\r\n\\c[61]行动速度\\c[0]下降，并持续消耗\\c[61]ST\\c[0]。\r\n进行移动以外的行动就会解除……",
+      "previous_translation": "模仿尸体行走，避开敌人的察觉。\r\n持续\\c[60]25回合\\c[0]，除非接触，否则不会被敌人发现。\r\n\\c[61]移动速度\\c[0]下降，并持续消耗\\c[61]ST\\c[0]。\r\n进行移动以外的行动就会解除……",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0009",
+      "japanese_check": {
+        "text": "気配を察知されずに死体らしく歩く。\r\n\\c[60]25ターン\\c[0]の間、接触しない限り敵に\r\n見つからない。\\c[61]行動速度\\c[0]は落ち、\r\n\\c[61]ST\\c[0]が減り続ける。移動以外の行動で解除。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "[K]スキル設定 / 影走り / 説明文",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "supersedes_batch": "0003"
+    },
+    {
+      "id": "db/1/206/1",
+      "source_sha256": "fdfdf0b9a03f7824e506bc0211bb3e4a458de68ce116ae401696bffec5456ddf",
+      "source": "Run at full speed for \\c[60]12 turns\\c[0].\r\n\\c[61]Movement Speed\\c[0] increased.\r\nAny action besides movement will stop your running.",
+      "translation": "全速奔跑\\c[60]12回合\\c[0]。\r\n\\c[61]行动速度\\c[0]提高。\r\n进行移动以外的任何行动，都会停止奔跑。",
+      "previous_translation": "全速奔跑\\c[60]12回合\\c[0]。\r\n\\c[61]移动速度\\c[0]提高。\r\n进行移动以外的任何行动，都会停止奔跑。",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0009",
+      "japanese_check": {
+        "text": "\\c[60]12ターン\\c[0]の間、全力で走って\r\n\\c[61]行動速度\\c[0]を上げる。\r\n移動以外の行動を取ると、途中でも走るのをやめる。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "[K]スキル設定 / プチダッシュ / 説明文",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "supersedes_batch": "0003"
+    },
+    {
+      "id": "db/3/17/1",
+      "source_sha256": "3974416c9c821040e8cf839ce04ec13a805cd1f267c536a9d1182161cb493237",
+      "source": "A pulley bow built with various assistive devices.\r\n\\c[61]Range\\c[0] \\c[60]+2\\c[0]. Because of the weight,\r\n\\c[61]Movement\\c[0] slows by \\c[60]1 level\\c[0]. \\c[61]Crit\\c[0] \\c[60]+10%\\c[0].",
+      "translation": "装有多种辅助装置的滑轮弓。\r\n\\c[61]射程\\c[0] \\c[60]+2\\c[0]。由于重量较大，\r\n\\c[61]行动速度\\c[0]下降\\c[60]1级\\c[0]。\\c[61]暴击率\\c[0] \\c[60]+10%\\c[0]。",
+      "previous_translation": "装有多种辅助装置的滑轮弓。\r\n\\c[61]射程\\c[0] \\c[60]+2\\c[0]。由于重量较大，\r\n\\c[61]移动能力\\c[0]下降\\c[60]1级\\c[0]。\\c[61]暴击率\\c[0] \\c[60]+10%\\c[0]。",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0009",
+      "japanese_check": {
+        "text": "補助器具を種々組み込んだ滑車じかけの弓。\\c[61]射程\\c[0]\\c[60]+2\\c[0]。\r\n重さのため、\\c[61]行動\\c[0]が\\c[60]1段階\\c[0]遅くなる。\r\n\\c[61]必殺率\\c[0]\\c[60]+10％\\c[0]。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "[K]武器_基本性能 / ヘビィボウガン / 説明文",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "supersedes_batch": "0001"
+    },
+    {
+      "id": "db/3/75/1",
+      "source_sha256": "ef0364d4139b9a7915a622cf59ffcd60eb794de9175301d6080005bc8823068c",
+      "source": "A crystal ball used by \\c[51]Fortuneteller Auris\\c[0].\r\n\\c[61]ATK\\c[0] and \\c[61]Force\\c[0] \\c[60]-50%\\c[0], \\c[61]Movement\\c[0] and \\c[61]EVA are \r\nlowered\\c[0], but \\c[61]Concentrate\\c[0] \\c[60]+2\\c[0] at all times.",
+      "translation": "\\c[51]占卜师Auris\\c[0]使用的水晶球。\r\n\\c[61]ATK\\c[0]和\\c[61]魔力\\c[0] \\c[60]-50%\\c[0]，\\c[61]行动速度\\c[0]与\\c[61]EVA均会\r\n降低\\c[0]，但始终获得\\c[61]集中\\c[0] \\c[60]+2\\c[0]的效果。",
+      "previous_translation": "\\c[51]占卜师Auris\\c[0]使用的水晶球。\r\n\\c[61]ATK\\c[0]和\\c[61]魔力\\c[0] \\c[60]-50%\\c[0]，\\c[61]移动能力\\c[0]与\\c[61]EVA均会\r\n降低\\c[0]，但始终获得\\c[61]集中\\c[0] \\c[60]+2\\c[0]的效果。",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0009",
+      "japanese_check": {
+        "text": "\\c[51]占い師アウリス\\c[0]が持っていた水晶球。\r\n\\c[61]攻撃力\\c[0]/\\c[61]理力\\c[0]\\c[60]-50％\\c[0]、\\c[61]速度低下\\c[0]し\r\n\\c[61]回避低下\\c[0]、しかし常に\\c[61]集中\\c[0]\\c[60]+2\\c[0]。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "[K]武器_基本性能 / アウリスの水晶球 / 説明文",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "supersedes_batch": "0001"
+    },
+    {
+      "id": "db/6/121/3",
+      "source_sha256": "23290becb23716ed93715ded22c55fbfae275e1e8f5ee08f1165821e58202f56",
+      "source": "<ARMOR_ENCHANT_TEXT_1>\r\n\\c[61]Armor\\c[0] greatly increased but movement slowed.",
+      "translation": "<ARMOR_ENCHANT_TEXT_1>\r\n大幅提升\\c[61]护甲\\c[0]，但行动速度降低。",
+      "previous_translation": "<ARMOR_ENCHANT_TEXT_1>\r\n大幅提升\\c[61]护甲\\c[0]，但移动速度降低。",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0009",
+      "japanese_check": {
+        "text": "<ARMOR_ENCHANT_TEXT_1>\r\n\\c[61]装甲\\c[0]が大幅に上がるが、動きが鈍くなる。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "[K]アイテム_基本性能 / 鎧の巻物『\\udb[11:4:11]』 / 説明文",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "supersedes_batch": "0006"
+    },
+    {
+      "id": "db/6/127/3",
+      "source_sha256": "718dadc26a3664911a1074bb89aaea76ccae1f6b9addf64ca66b4807f0e2444a",
+      "source": "<ARMOR_ENCHANT_TEXT_2>\r\nIncreased \\c[61]Movement Spd\\c[0].",
+      "translation": "<ARMOR_ENCHANT_TEXT_2>\r\n提升\\c[61]行动速度\\c[0]。",
+      "previous_translation": "<ARMOR_ENCHANT_TEXT_2>\r\n提升\\c[61]移动速度\\c[0]。",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0009",
+      "japanese_check": {
+        "text": "<ARMOR_ENCHANT_TEXT_2>\r\n\\c[61]行動速度\\c[0]が上がる。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "[K]アイテム_基本性能 / 守りの神の巻物『\\udb[11:11:11]』 / 説明文",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "supersedes_batch": "0006"
+    },
+    {
+      "id": "db/6/143/3",
+      "source_sha256": "beaaf2f7f2775377948d828990de6518069ebf3e03ff936d5274fb0a4f88a291",
+      "source": "Use for \\c[61]HP\\c[0] \\c[60]+10%\\c[0] each turn and \\c[61]ATK\\c[0] \\c[60]+60%\\c[0] for\r\n\\c[60]20 turns\\c[0]. However, \\c[61]Max HP\\c[0] \\c[62]1/3\\c[0], get \\c[61]ATK\\c[0] \\c[60]+60%\\c[0],\r\n\\c[61]Max ST\\c[0] \\c[62]1/3\\c[0], \\c[61]ACC\\c[62] -10%\\c[0], and low \\c[61]Move Speed\\c[0]\r\nfor next \\c[60]30 turns\\c[0].",
+      "translation": "使用后，每回合\\c[61]HP\\c[0]\\c[60]+10%\\c[0]，\\c[61]ATK\\c[0]\\c[60]+60%\\c[0]，持续\\c[60]20回合\\c[0]。\r\n但随后\\c[61]最大HP\\c[0]降至\\c[62]1/3\\c[0]，\\c[61]ATK\\c[0]\\c[60]+60%\\c[0]，\r\n\\c[61]最大ST\\c[0]降至\\c[62]1/3\\c[0]，\\c[61]ACC\\c[62]-10%\\c[0]，\\c[61]行动速度\\c[0]降低，\r\n持续\\c[60]30回合\\c[0]。",
+      "previous_translation": "使用后，每回合\\c[61]HP\\c[0]\\c[60]+10%\\c[0]，\\c[61]ATK\\c[0]\\c[60]+60%\\c[0]，持续\\c[60]20回合\\c[0]。\r\n但随后\\c[61]最大HP\\c[0]降至\\c[62]1/3\\c[0]，\\c[61]ATK\\c[0]\\c[60]+60%\\c[0]，\r\n\\c[61]最大ST\\c[0]降至\\c[62]1/3\\c[0]，\\c[61]ACC\\c[62]-10%\\c[0]，\\c[61]移动速度\\c[0]降低，\r\n持续\\c[60]30回合\\c[0]。",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0009",
+      "japanese_check": {
+        "text": "浴びると\\c[60]20ターン\\c[0]の間\\c[61]攻撃力\\c[0]\\c[60]+60％\\c[0]、毎ターン\\c[61]HP\\c[0]\\c[60]+10％\\c[0]\r\nの効果がある薬品。ただしその後\\c[60]30ターン\\c[0]の間、\r\n\\c[61]最大HP\\c[0]\\c[62]1/3\\c[0]、\\c[61]最大ST\\c[0]\\c[62]1/3\\c[0]、\\c[61]命中率\\c[62]-10％\\c[0]、\\c[61]行動速度\\c[0]低下。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "[K]アイテム_基本性能 / ベルセルクアンプル / 説明文",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "supersedes_batch": "0006"
+    },
+    {
+      "id": "db/3/73/1",
+      "source_sha256": "b4321a17219a941adc943af8a6f7c351e568bee52a916cabb09ac4e1a60aea71",
+      "source": "Greatly raises \\c[61]Force\\c[0], and allows you to know\r\nenemy's \\c[61]HP\\c[0] and the number of items on the\r\nmap around you. Also \\c[61]Fire Resist\\c[0] \\c[60]+95%\\c[0].",
+      "translation": "大幅提升\\c[61]魔力\\c[0]，并让你知晓\r\n敌人的\\c[61]HP\\c[0]与周围地图上的物品数量。\r\n此外，\\c[61]火焰无效几率\\c[0] \\c[60]+95%\\c[0]。",
+      "previous_translation": "大幅提升\\c[61]魔力\\c[0]，并让你知晓\r\n敌人的\\c[61]HP\\c[0]与周围地图上的物品数量。\r\n此外，\\c[61]火焰抗性\\c[0] \\c[60]+95%\\c[0]。",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0009",
+      "japanese_check": {
+        "text": "装備した者は英知を授かり、\\c[61]理力\\c[0]が大幅に高まる他、\r\n周辺地図や敵の\\c[61]HP\\c[0]、所持アイテム数さえ理解できる。\r\nまた\\c[61]火炎無効化率\\c[0]\\c[60]+95％\\c[0]。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "[K]武器_基本性能 / 完全なる知識の書 / 説明文",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "supersedes_batch": "0001"
+    },
+    {
+      "id": "db/4/3/1",
+      "source_sha256": "8b95d302c682f63115ab9966974c07315a0cbf1709bd993b629a512f8f698c9e",
+      "source": "Iron armor that's great for wearing on the battlefield.\r\n\\c[61]Fire Resist\\c[0] \\c[60]+20%\\c[0].",
+      "translation": "适合在战场上穿着的铁制铠甲。\r\n\\c[61]火焰无效几率\\c[0] \\c[60]+20%\\c[0]。",
+      "previous_translation": "适合在战场上穿着的铁制铠甲。\r\n\\c[61]火焰抗性\\c[0] \\c[60]+20%\\c[0]。",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0009",
+      "japanese_check": {
+        "text": "戦場に着ていくにも充分な鉄製の鎧。\r\n\\c[61]火炎無効化率\\c[0]\\c[60]+20％\\c[0]。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "[K]防具_基本性能 / チェインクロス / 説明文",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "supersedes_batch": "0001"
+    },
+    {
+      "id": "db/4/4/1",
+      "source_sha256": "8b6954f01aee4f3e5e7f5cb3900427a2475f213f794527ca144fd4cc71e65d5f",
+      "source": "Heavy outerwear that seems like it wants to keep\r\nthe wearer in one place.\r\n\\c[61]EVA\\c[0] \\c[60]+5%\\c[0], \\c[61]Fire Resist\\c[0] \\c[60]+30%\\c[0].",
+      "translation": "沉重的外套，\r\n仿佛要把穿戴者牢牢钉在原地。\r\n\\c[61]EVA\\c[0] \\c[60]+5%\\c[0]，\\c[61]火焰无效几率\\c[0] \\c[60]+30%\\c[0]。",
+      "previous_translation": "沉重的外套，\r\n仿佛要把穿戴者牢牢钉在原地。\r\n\\c[61]EVA\\c[0] \\c[60]+5%\\c[0]，\\c[61]火焰抗性\\c[0] \\c[60]+30%\\c[0]。",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0009",
+      "japanese_check": {
+        "text": "着る者をその場に留めんとするかのような重量の外衣。\r\n\\c[61]回避率\\c[0]\\c[60]+5％\\c[0]、\r\n\\c[61]火炎無効化率\\c[0]\\c[60]+30％\\c[0]。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "[K]防具_基本性能 / ギガントプレート / 説明文",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "supersedes_batch": "0001"
+    },
+    {
+      "id": "db/6/126/3",
+      "source_sha256": "52515f19f47f264f655d9765d9687ca4046ac46b112733b5c923c5e4e03cd099",
+      "source": "<ARMOR_ENCHANT_TEXT_2>\r\nIncreased \\c[61]Flame Resist\\c[0].",
+      "translation": "<ARMOR_ENCHANT_TEXT_2>\r\n提升\\c[61]火焰无效几率\\c[0]。",
+      "previous_translation": "<ARMOR_ENCHANT_TEXT_2>\r\n提升\\c[61]火焰抗性\\c[0]。",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0009",
+      "japanese_check": {
+        "text": "<ARMOR_ENCHANT_TEXT_2>\r\n防具の\\c[61]火炎無効化率\\c[0]が上がる。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "[K]アイテム_基本性能 / 守りの神の巻物『\\udb[11:9:11]』 / 説明文",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "supersedes_batch": "0006"
+    },
+    {
+      "id": "db/1/15/0",
+      "source_sha256": "07a0fe9c08b0621d8c36b9254eecd27b6d4829d0c0eb460172dbe9cb7967887c",
+      "source": "Rage Fatigue",
+      "translation": "狂战疲劳",
+      "previous_translation": "狂暴疲劳",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0009",
+      "japanese_check": {
+        "text": "狂戦士化の反動",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "[K]スキル設定 / ベルセルクの反動 / スキル名",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "supersedes_batch": "0002"
+    },
+    {
+      "id": "db/1/72/0",
+      "source_sha256": "aac7a3df4e9681a6d094f0c12ce7bde33b865e3c60764c9e2cc1b08cc7122363",
+      "source": "Chakram",
+      "translation": "飞轮刃",
+      "previous_translation": "飞轮",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0009",
+      "japanese_check": {
+        "text": "チャクラム",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "[K]スキル設定 / 投げナイフ / スキル名",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "supersedes_batch": "0002"
+    },
+    {
+      "id": "db/1/75/0",
+      "source_sha256": "39c68bd1a1610c3930c205daacfc792eff3c9a1cdb4baccef06ca662bff1cce6",
+      "source": "Buddy Potion",
+      "translation": "友好药水",
+      "previous_translation": "亲善药水",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0009",
+      "japanese_check": {
+        "text": "仲良しのクスリ",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "[K]スキル設定 / 仲良しのクスリ / スキル名",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "supersedes_batch": "0002"
+    },
+    {
+      "id": "db/1/77/0",
+      "source_sha256": "4147f51a0d269638e2040feed565c3765ff7ba65fb8d81042a86776a269c73a7",
+      "source": "Acid Bottle",
+      "translation": "强酸瓶",
+      "previous_translation": "酸液瓶",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0009",
+      "japanese_check": {
+        "text": "アシッドボトル",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "[K]スキル設定 / 強酸のアンプル / スキル名",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "supersedes_batch": "0002"
+    },
+    {
+      "id": "db/1/91/5",
+      "source_sha256": "229c5c4aba29363089cab6267005c820f918398549ffc94b698a02f883c58d52",
+      "source": "<PLAYER> threw a Handy Stone!",
+      "translation": "<PLAYER>投出了趁手石块！",
+      "previous_translation": "<PLAYER>投出了顺手石块！",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0009",
+      "japanese_check": {
+        "text": "<PLAYER>は手ごろな石を投げた！",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "[K]スキル設定 / 石投げ / 使用時メッセージ",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "supersedes_batch": "0006"
+    },
+    {
+      "id": "db/6/54/0",
+      "source_sha256": "b82aceae98e8602b74e2e6c474d9d6c6cc82bceb8a9a65211b9a9c914cabcd69",
+      "source": "Handy Stone",
+      "translation": "趁手石块",
+      "previous_translation": "顺手石块",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0009",
+      "japanese_check": {
+        "text": "手ごろな石",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "[K]アイテム_基本性能 / 大きな石 / 名前",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "supersedes_batch": "0005"
+    },
+    {
+      "id": "db/1/186/0",
+      "source_sha256": "3689027cf14382f81c76f44d57bb40eccca500ed5d224c08dc9508593a218527",
+      "source": "Blasphemous Blob",
+      "translation": "亵渎黏团",
+      "previous_translation": "亵渎软泥",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0009",
+      "japanese_check": {
+        "text": "冒涜的なブヨブヨ",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "[K]スキル設定 / 冒涜的なブヨブヨ / スキル名",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "supersedes_batch": "0003"
+    },
+    {
+      "id": "db/1/190/0",
+      "source_sha256": "a0dfb3205c1826313385f3626290e345c2f37f45fb1746d95d597ecf4aff4201",
+      "source": "Flash Force Bullet",
+      "translation": "闪光魔力弹",
+      "previous_translation": "闪光魔弹",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0009",
+      "japanese_check": {
+        "text": "フラッシュフォース弾",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "[K]スキル設定 / 閃光弾 / スキル名",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "supersedes_batch": "0003"
+    },
+    {
+      "id": "db/6/53/0",
+      "source_sha256": "63d5be8e8a071705879a1c8d57c0e605c7069aa62c8eff51bdc0ac74b54916ea",
+      "source": "Ivy Tentacle",
+      "translation": "藤蔓触手",
+      "previous_translation": "缠绕藤蔓",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0009",
+      "japanese_check": {
+        "text": "ツタ触手",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "[K]アイテム_基本性能 / 触手の草 / 名前",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "supersedes_batch": "0005"
+    },
+    {
+      "id": "db/6/138/0",
+      "source_sha256": "2c00a98cf611bb4fe981e7b8fa3a9e26007ac3379c83e56b0b616e8877f5ebba",
+      "source": "Undead Bone",
+      "translation": "不死者之骨",
+      "previous_translation": "亡灵骨",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0009",
+      "japanese_check": {
+        "text": "アンデッドボーン",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "[K]アイテム_基本性能 / 呪われた骨 / 名前",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "supersedes_batch": "0006"
+    },
+    {
+      "id": "db/1/131/1",
+      "source_sha256": "038160c7094e246d33c06cde4dca7ac3922d0861e397e934ad35fd6b83a622c4",
+      "source": "A Knight skill that covers weapons in a light\r\nmade of Force power. ATK x1.5 and\r\nCrit +30% for 25 turns. Can be used twice per day.",
+      "translation": "骑士的技能，将魔力形成的光芒\r\n附于武器之上。ATK x1.5，\r\n暴击率+30%，持续25回合。每天可使用两次。",
+      "previous_translation": "骑士的技能，将魔法形成的光芒\r\n附于武器之上。ATK x1.5，\r\n暴击率+30%，持续25回合。每天可使用两次。",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0009",
+      "japanese_check": {
+        "text": "武器に理力の光をまとわせ、25ターン\r\n攻撃力1.5倍、必殺率+30%にする\r\n理騎士の技。1日2回だけ使える。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "[K]スキル設定 / 光の剣 / 説明文",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "supersedes_batch": "0003"
+    },
+    {
+      "id": "db/1/3/1",
+      "source_sha256": "1e7a07aa67e17185042912690ba50fbc1541426be9b056b4d6b5029c26e91513",
+      "source": "Open a treasure chest or wooden crate in front\r\nof you without damaging it. Repeated attempts\r\nincrease the chances of success.",
+      "translation": "打开面前的宝箱或木箱，\r\n不会损坏箱中的物品。反复尝试\r\n可以提高成功率。",
+      "previous_translation": "打开面前的宝箱或木箱，\r\n不会对其造成损伤。反复尝试\r\n可以提高成功率。",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0009",
+      "japanese_check": {
+        "text": "目の前にある宝箱や木箱の中身を傷つけずに\r\n開けることができる。\r\n同じ箱に続けて使うと、成功率が上がる。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "[K]スキル設定 / 開錠 / 説明文",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "supersedes_batch": "0002"
+    },
+    {
+      "id": "db/1/136/1",
+      "source_sha256": "134fbdaf73e653eab8a87a87a35b869f847f8c881f9460f44534836cb7ede243",
+      "source": "Plant a land mine. When tripped, it does damage\r\nto a 3x3 tile area and immobilizes.\r\nNo XP. Damage increases depending on Lvl. \r\n\\c[1]Max ST\\c[0] is reduced. Can be used once per day.",
+      "translation": "埋设地雷，触发时对3x3格范围造成伤害，\r\n并使目标无法移动。\r\n不会获得XP，伤害随WIL等级提升。\r\n\\c[1]ST上限\\c[0]降低。每天可使用一次。",
+      "previous_translation": "埋设地雷，触发时对3x3格范围造成伤害，\r\n并使目标无法移动。\r\n不会获得XP，伤害随等级提升。\r\n\\c[1]ST上限\\c[0]降低。每天可使用一次。",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0009",
+      "japanese_check": {
+        "text": "地雷を足下に設置。誰か踏むと3x3の\r\n範囲に大ダメージを与え、移動不能に。\r\nEXPは入らない。威力は意志Lvで上昇。\r\n「\\c[1]最大ST\\c[0]」を消費する。1日1回まで。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "[K]スキル設定 / 火遁地雷 / 説明文",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "supersedes_batch": "0003"
+    },
+    {
+      "id": "db/1/167/5",
+      "source_sha256": "00dd8f07e30ce758763f010933f6c91302d397cdb9d4b4877da39dc75122fee4",
+      "source": "<TARGET> hit with Flames!",
+      "translation": "<TARGET>发动了火焰攻击！",
+      "previous_translation": "<TARGET>受到了火焰攻击！",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0009",
+      "japanese_check": {
+        "text": "<TARGET>は炎の触手で攻撃！",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "[K]スキル設定 / 炎の手 / 使用時メッセージ",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "supersedes_batch": "0003"
+    },
+    {
+      "id": "db/1/191/1",
+      "source_sha256": "63f7106dbc13f94ca0ae04252c9e804a2aa80ff76d6da266a4b1e8236ca170e8",
+      "source": "An ability that highly concentrates energy into an\r\nattack aimed at enemies' weapons or offenses.\r\nFor \\c[60]6 to 8 turns\\c[0], enemies \\c[61]ATK\\c[0] is \\c[60]-40%\\c[0].\r\n\\c[61]Weapon durability is reduced\\c[0] by \\c[62]1\\c[0].",
+      "translation": "将能量高度集中于攻击，\r\n针对敌人的武器或攻击部位。\r\n持续\\c[60]6至8回合\\c[0]，敌人的\\c[61]ATK\\c[0] \\c[60]-40%\\c[0]。\r\n\\c[61]武器耐久度减少\\c[0]\\c[62]1\\c[0]。",
+      "previous_translation": "将能量高度集中于攻击，\r\n针对敌人的武器或攻击手段。\r\n持续\\c[60]6至8回合\\c[0]，敌人的\\c[61]ATK\\c[0] \\c[60]-40%\\c[0]。\r\n\\c[61]武器耐久度减少\\c[0]\\c[62]1\\c[0]。",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0009",
+      "japanese_check": {
+        "text": "高濃度のエネルギーを乗せた攻撃を\r\n敵の武器や攻撃部位に当てる技術。\r\n\\c[60]6～8ターン\\c[0]の間、敵の\\c[61]攻撃力\\c[0]\\c[60]-40％\\c[0]。\r\n\\c[61]武器消耗\\c[0]は\\c[62]1回分\\c[0]。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "[K]スキル設定 / 牙折り / 説明文",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "supersedes_batch": "0003"
+    },
+    {
+      "id": "db/3/56/1",
+      "source_sha256": "4ab5fc09b6de1dc022281f14a44154c803bfa03e51ba84f76ddc4f65d33cb7f5",
+      "source": "A sword with a 1m. long blade of rippling flame.\r\n\\c[61]Burn Chance\\c[0] \\c[60]50%\\c[0], \\c[61]Great Burn Chance\\c[0] \\c[60]5%\\c[0].",
+      "translation": "剑刃长1米，形似摇曳的火焰。\r\n\\c[61]烧伤概率\\c[0] \\c[60]50%\\c[0]，\\c[61]重度烧伤概率\\c[0] \\c[60]5%\\c[0]。",
+      "previous_translation": "剑刃由流动的火焰构成，长1米。\r\n\\c[61]烧伤概率\\c[0] \\c[60]50%\\c[0]，\\c[61]重度烧伤概率\\c[0] \\c[60]5%\\c[0]。",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0009",
+      "japanese_check": {
+        "text": "刃渡り1mほどの、揺らめく炎のような剣。\r\n\\c[61]「燃焼」付与率\\c[0]\\c[60]50％\\c[0]、\r\n\\c[61]「大燃焼」付与率\\c[0]\\c[60]5％\\c[0]。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "[K]武器_基本性能 / ファイアブランド / 説明文",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "supersedes_batch": "0001"
+    },
+    {
+      "id": "db/6/42/3",
+      "source_sha256": "ca0301be45acabc6ecfc3d7e0879f65ccfcb8c4209e07978c06873ded5f0e5ee",
+      "source": "The member's card of the Dark Guild.\r\nYou can't enter the Dark Guild without it.\r\nFurthermore, the licenses are never reprinted.",
+      "translation": "黑暗公会的会员证。\r\n没有它就无法进入黑暗公会。\r\n此外，这种许可证从不再版发行。",
+      "previous_translation": "黑暗公会的会员证。\r\n没有它就无法进入黑暗公会。\r\n遗失后也无法补办。",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0009",
+      "japanese_check": {
+        "text": "闇ギルドの会員証。\r\nこれがないと闇ギルドには入れない。\r\nなお、新規に発行されたことは一度もない。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "[K]アイテム_基本性能 / 闇ギルド会員証 / 説明文",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "supersedes_batch": "0005"
+    },
+    {
+      "id": "db/6/138/3",
+      "source_sha256": "b5fb3e3821df2213e1399f8343822c026701b2c6f500a654fe78bb75c4e9feb5",
+      "source": "A bone that comes from the arm or leg.\r\nHit an enemy with it and lower their \\c[61]Defense\\c[0],\r\ngive them \\c[62]Curse\\c[0], and break \\c[61]Concentrate\\c[0].",
+      "translation": "来自手臂或腿部的骨头。\r\n命中敌人后，施加降低\\c[61]防御\\c[0]的\\c[62]诅咒\\c[0]，\r\n并打断\\c[61]集中\\c[0]。",
+      "previous_translation": "来自手臂或腿部的骨头。\r\n命中敌人后，降低其\\c[61]防御\\c[0]，\r\n施加\\c[62]诅咒\\c[0]，并打断\\c[61]集中\\c[0]。",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0009",
+      "japanese_check": {
+        "text": "アンデッドの腕か脚のものと思しき骨。\r\n命中すると\\c[61]防御力\\c[0]を減らす「\\c[62]呪い\\c[0]」を与え、\r\n更に「\\c[61]集中\\c[0]」を解除する。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "[K]アイテム_基本性能 / 呪われた骨 / 説明文",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "supersedes_batch": "0006"
+    },
+    {
+      "id": "db/6/155/3",
+      "source_sha256": "7f31d9dca06e7028b0a039f15017edd4639f36a4663b9cee486fd4621da48427",
+      "source": "An Energy Drink infused with Force to improve\r\nthe taste. Drink it and get \\c[61]HP\\c[0] \\c[60]+250\\c[0]. However\r\nyou will become \\c[62]Dizzy\\c[0] and lose various abilities.",
+      "translation": "用魔力改善口味的能量饮料。\r\n饮用后，\\c[61]HP\\c[0]\\c[60]+250\\c[0]。\r\n但会使你\\c[62]头晕\\c[0]，多项属性降低。",
+      "previous_translation": "用魔力改善口味的能量饮料。\r\n饮用后，\\c[61]HP\\c[0]\\c[60]+250\\c[0]。\r\n但会使你\\c[62]头晕\\c[0]，失去多种能力。",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0009",
+      "japanese_check": {
+        "text": "おいしくなるように理力を込めた酒。\r\n飲むと\\c[61]HP\\c[0]\\c[60]+250\\c[0]。\r\nただし「\\c[62]ほろ酔い\\c[0]」になり様々な能力が落ちてしまう。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "[K]アイテム_基本性能 / 薬命酒 / 説明文",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "supersedes_batch": "0006"
+    },
+    {
+      "id": "db/6/157/3",
+      "source_sha256": "5d51743d6eb686f5c76753ef87fd2e8b0a8bfe8925548ae599d286f83bc6e424",
+      "source": "A food made from properly fermented milk.\r\nEat it and get \\c[61]EN\\c[0] \\c[60]+85%\\c[0], also for a time get\r\n\\c[61]HP Regeneration\\c[0] \\c[60]+100%\\c[0].",
+      "translation": "由牛奶适当发酵而成的食物。\r\n食用后，\\c[61]EN\\c[0]\\c[60]+85%\\c[0]，\r\n并在一段时间内使\\c[61]HP自然恢复量\\c[0]\\c[60]+100%\\c[0]。",
+      "previous_translation": "由牛奶适当发酵而成的食物。\r\n食用后，\\c[61]EN\\c[0]\\c[60]+85%\\c[0]，\r\n并在一段时间内使\\c[61]HP恢复\\c[0]\\c[60]+100%\\c[0]。",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0009",
+      "japanese_check": {
+        "text": "牛乳がいい条件で発酵した食品。\r\n食べると\\c[61]EN\\c[0]\\c[60]+85％\\c[0]、\r\n更にしばらくの間\\c[61]HP自然回復量\\c[0]\\c[60]+100％\\c[0]。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "[K]アイテム_基本性能 / ヨーグルト / 説明文",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "supersedes_batch": "0006"
+    },
+    {
+      "id": "db/6/165/3",
+      "source_sha256": "c8fedcb939d4556f925a287abfeeb7b2086f31a3d9f322b6060951db0cd4a680",
+      "source": "A leaf that when eaten gives you vision in the\r\ndark for \\c[60]200 turns\\c[0]. Also your \\c[61]View Range\\c[0] in\r\nbuildings increases by \\c[60]1 tile\\c[0] and get \\c[61]EN\\c[0] \\c[60]+10%\\c[0].",
+      "translation": "食用后可扩大黑暗中的视野，持续\\c[60]200回合\\c[0]。\r\n还会使建筑内的\\c[61]视野范围\\c[0]扩大\\c[60]1格\\c[0]，\\c[61]EN\\c[0]\\c[60]+10%\\c[0]。",
+      "previous_translation": "食用后可在黑暗中视物，持续\\c[60]200回合\\c[0]。\r\n还会使建筑内的\\c[61]视野范围\\c[0]扩大\\c[60]1格\\c[0]，\\c[61]EN\\c[0]\\c[60]+10%\\c[0]。",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0009",
+      "japanese_check": {
+        "text": "食べると暗所での視野が\\c[60]200ターン\\c[0]の間広がる葉。\r\nまた、建物内の\\c[61]透視範囲\\c[0]も\\c[60]1マス\\c[0]広がる。\r\nついでに\\c[61]EN\\c[0]\\c[60]+10％\\c[0]。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "[K]アイテム_基本性能 / 夜目の草 / 説明文",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "supersedes_batch": "0006"
+    },
+    {
+      "id": "db/6/173/3",
+      "source_sha256": "ee64ab83ccafd4ce4250a066b61a35cade8aae96c46df38d86d09fb6b6488124",
+      "source": "A strange scroll containing the strength of\r\na dragon. You can learn the skill Dragon\r\nSpirit Sword that can be used \\c[60]5 times\\c[0]. ",
+      "translation": "蕴含巨龙力量的神奇书札。\r\n能让你学会技能“龙魂之剑”，可使用\\c[60]5次\\c[0]。",
+      "previous_translation": "蕴含巨龙力量的神奇卷轴。\r\n能让你学会技能“龙魂之剑”，可使用\\c[60]5次\\c[0]。",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0009",
+      "japanese_check": {
+        "text": "竜の力が宿った不思議な書札。\r\n\\c[60]5回\\c[0]だけ使えるスキル「竜の闘気剣」を習得できる。 ",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "[K]アイテム_基本性能 / 光の剣の巻物 / 説明文",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "supersedes_batch": "0006"
+    },
+    {
+      "id": "db/6/176/3",
+      "source_sha256": "314e23d8c49e04742710cfd53918958afeee09eafc428142561ebe644b0c3e3b",
+      "source": "A holy disposable weapon.\r\nIt's the strongest of thrown weapons and it\r\ncan break the Fallen Angel's barrier.",
+      "translation": "神圣的一次性武器。\r\n是威力最强的投掷武器，\r\n能够打破堕落天使的屏障。",
+      "previous_translation": "神圣的一次性武器。\r\n是威力最强的投掷武器，\r\n能够打破堕天使的结界。",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0009",
+      "japanese_check": {
+        "text": "聖なる使い捨て武器。\r\n投げる武器としては最も強力なうえ、\r\n堕天使の結界を破る力がある。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "[K]アイテム_基本性能 / 聖なる投げ刃 / 説明文",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "supersedes_batch": "0006"
+    }
+  ]
+}

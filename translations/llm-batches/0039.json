@@ -1,0 +1,3488 @@
+{
+  "schema": 1,
+  "project": "mcowh-zh",
+  "batch": "0039",
+  "authored_text_sha256": "026355bab03640a5dbb72d668446cc1b75a2856f380dd4a1a005ff294b9e37a7",
+  "entries": [
+    {
+      "id": "message/data/event/object/udb22_155_learn_force_aryan_ev_talk.txt/3",
+      "source_sha256": "8efe77ff2bae3daec4c41471060bf74f29f49d4f529e43c31d1ab2d39a5039ca",
+      "source": "Oops, sorry. I am called Aria\r\nof the Sun. I can teach you\r\nthe way of the Affection Force.",
+      "translation": "啊，抱歉。\r\n我名为太阳的Aria。\r\n我可以教你慈爱魔法。",
+      "previous_translation": "对不起 我叫亚莉亚\r\n太阳。 我可以教你\r\n情感力量的方式。",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "おっと、すみません。\r\n私は太陽のアーリアと申します。\r\nあなたに慈愛のフォースをお教えできます。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_155_learn_force_aryan_ev_talk.txt",
+          "slot": 18,
+          "japanese_slot_index": 3,
+          "command_signature_sha256": "5a7f8f2b55d8cd0cee31199a23fa3a122e9cce94f51cb29292d03dba32e32720"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_155_learn_force_aryan_ev_talk.txt/4",
+      "source_sha256": "82fa233cd267d10402e8364106a280daa712db3466ca293a4daa2d6995442cde",
+      "source": "How can you appear naked here...\r\nDo you have that much confidence?\r\nHonestly, I'm envious...",
+      "translation": "竟这样赤裸地出现在这里……\r\n你就这么有自信吗？\r\n说实话，还真让人羡慕……",
+      "previous_translation": "你怎么会光着身子在这里...\r\n你这么有信心吗?\r\n老实说,我很羡慕...",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "ちょっと、そこまでさらけ出すなんて……。\r\nよほど自信がおありなのですか？\r\n正直羨ましいですね……。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_155_learn_force_aryan_ev_talk.txt",
+          "slot": 19,
+          "japanese_slot_index": 4,
+          "command_signature_sha256": "5a7f8f2b55d8cd0cee31199a23fa3a122e9cce94f51cb29292d03dba32e32720"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_155_learn_force_aryan_ev_talk.txt/5",
+      "source_sha256": "8efe77ff2bae3daec4c41471060bf74f29f49d4f529e43c31d1ab2d39a5039ca",
+      "source": "Oops, sorry. I am called Aria\r\nof the Sun. I can teach you\r\nthe way of the Affection Force.",
+      "translation": "啊，抱歉。\r\n我名为太阳的Aria。\r\n我可以教你慈爱魔法。",
+      "previous_translation": "对不起 我叫亚莉亚\r\n太阳。 我可以教你\r\n情感力量的方式。",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "おっと、すみません。\r\n私は太陽のアーリアと申します。\r\nあなたに慈愛のフォースをお教えできます。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_155_learn_force_aryan_ev_talk.txt",
+          "slot": 20,
+          "japanese_slot_index": 5,
+          "command_signature_sha256": "5a7f8f2b55d8cd0cee31199a23fa3a122e9cce94f51cb29292d03dba32e32720"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_155_learn_force_aryan_ev_talk.txt/6",
+      "source_sha256": "107ace833187f7556354023fa99f7c88cfdc5a39c89be230b92a1b8db81be650",
+      "source": "Welcome Hero.. I am called Aria\r\nof the Sun. I can teach you\r\nthe power of the Force.",
+      "translation": "欢迎你，勇者。\r\n我名为太阳的Aria。\r\n我可以传授你魔法的力量。",
+      "previous_translation": "欢迎英雄... 我叫亚莉亚\r\n太阳。 我可以教你\r\n原力的力量",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "よくぞいらっしゃいました、勇者様。\r\n私は太陽のアーリアと申します。\r\nあなたにフォースの力をお教えできます。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_155_learn_force_aryan_ev_talk.txt",
+          "slot": 21,
+          "japanese_slot_index": 6,
+          "command_signature_sha256": "5a7f8f2b55d8cd0cee31199a23fa3a122e9cce94f51cb29292d03dba32e32720"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_155_learn_force_aryan_ev_talk.txt/7",
+      "source_sha256": "be079f0f08b025f301d76952abadcf47e1fede49da236757ea0b6f22b7f89caf",
+      "source": "I practice the way of affection,\r\nthe power to save others. On your\r\njourney, do you need this power?",
+      "translation": "我所修习的是慈爱之理，\r\n是用于拯救他人的力量。\r\n你的旅途需要这份力量吗？",
+      "previous_translation": "我练习爱的方式,\r\n拯救他人的力量 在你身边\r\n旅程,你需要这种力量吗?",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "私が扱うのは慈愛の理、\r\n誰かを助けるための力。\r\nあなたの旅に、この力は必要ですか？",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_155_learn_force_aryan_ev_talk.txt",
+          "slot": 22,
+          "japanese_slot_index": 7,
+          "command_signature_sha256": "5a7f8f2b55d8cd0cee31199a23fa3a122e9cce94f51cb29292d03dba32e32720"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_155_learn_force_aryan_ev_talk.txt/8",
+      "source_sha256": "26a8fb55fc66ba7b66375d50e7ef168c843cde522abd2efc800bad553192b51d",
+      "source": "...Honorable hero, there are no more\r\nForce powers that you can learn\r\nfrom me.",
+      "translation": "……勇者，看来我已经\r\n没有更多魔法能传授给你了。",
+      "previous_translation": "...Honorable hero, there are no more\r\n强制你能够学习的力量\r\n从我。",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "……勇者様、私からはもう、あなたに\r\nお伝えできるフォースはないようですね。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_155_learn_force_aryan_ev_talk.txt",
+          "slot": 23,
+          "japanese_slot_index": 8,
+          "command_signature_sha256": "5a7f8f2b55d8cd0cee31199a23fa3a122e9cce94f51cb29292d03dba32e32720"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_155_learn_force_aryan_ev_talk.txt/9",
+      "source_sha256": "17108c65b5223e6cb8cea94f5f4187b99f627afae603a5799d584e01f1fd5187",
+      "source": "Have you met my elder sister Auris?\r\nShe, can also teach you more.\r\nShe will grant you the Warfare Force.",
+      "translation": "你见过我的姐姐Auris吗？\r\n她也同样在传授魔法。\r\n她可以授予你战斗魔法。",
+      "previous_translation": "你见过我姐姐奥里斯吗?\r\n她也可以教你更多东西\r\n她会授予你战争力量",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "姉のアウリスには会われましたか？\r\n私と同じく、フォースの伝授をしています。\r\n戦いのフォースを授けてくれますわよ。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_155_learn_force_aryan_ev_talk.txt",
+          "slot": 24,
+          "japanese_slot_index": 9,
+          "command_signature_sha256": "5a7f8f2b55d8cd0cee31199a23fa3a122e9cce94f51cb29292d03dba32e32720"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_155_learn_force_aryan_ev_talk.txt/10",
+      "source_sha256": "7868db5054f0f3eac47f67bbec68ee2ec27f0e27dbea74b3d0581e77d4a42ca9",
+      "source": "Okay then, what will you learn?\r\nLearning will cost you \\c[52]INT levels\\c[0].\r\nChoose wisely [Your current INT Lvl. \\c[52]$tmp1\\c[0]\r\nYou can learn: \\c[52]$tmp2 types\\c[0]]",
+      "translation": "那么，你想学习哪一种？\r\n学习会消耗\\c[52]INT等级\\c[0]。\r\n请慎重选择。\r\n[当前INT等级 \\c[52]$tmp1\\c[0]\r\n还可学习：\\c[52]$tmp2种\\c[0]]",
+      "previous_translation": "好吧,那你会学到什么?\r\n学习要花你的钱 \\c[52]INT 级别\\c[0].\r\n明智地选择 [您目前的INT Lvl。 \\c[52]$tmp1\\c[0]\r\n你可以学习: \\c[52]$tmp2 类型\\c[0]]",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "さあ、どのフォースを覚えますの？\r\n習得には\\c[52]知力レベルを消費\\c[0]します。\r\nよくお選びくださいね。\r\n[現在の知力Lv \\c[52]$tmp1\\c[0]\r\n 彼女から習得できる数：あと\\c[52]$tmp2種類\\c[0]]",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_155_learn_force_aryan_ev_talk.txt",
+          "slot": 25,
+          "japanese_slot_index": 10,
+          "command_signature_sha256": "5a7f8f2b55d8cd0cee31199a23fa3a122e9cce94f51cb29292d03dba32e32720"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_155_learn_force_aryan_ev_talk.txt/11",
+      "source_sha256": "43c3d119bfed3cd8e7bdd68420da828dc51cf89bfb3e3300428109919c53522a",
+      "source": "...Honorable hero, you don't have\r\nenough money.",
+      "translation": "……勇者，你的钱不够。",
+      "previous_translation": "...无名英雄,你没有\r\n足够钱了",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "……勇者様、お金が足りませんわよ。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_155_learn_force_aryan_ev_talk.txt",
+          "slot": 26,
+          "japanese_slot_index": 11,
+          "command_signature_sha256": "5a7f8f2b55d8cd0cee31199a23fa3a122e9cce94f51cb29292d03dba32e32720"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_155_learn_force_aryan_ev_talk.txt/12",
+      "source_sha256": "bb8eebf1bfb4725188520f03bdfc4f8b0c743f4701ed2b451314cbeac6ca245c",
+      "source": "...Honorable hero, you don't have\r\nenough Intelligence. Despair not,\r\nif you train, you will grow in time.",
+      "translation": "……勇者，你的智力不足。\r\n请不要灰心，\r\n只要锻炼，总会有所成长。",
+      "previous_translation": "...无名英雄,你没有\r\n有足够的情报。 不要绝望,\r\n如果你训练,你会及时成长。",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "……勇者様、知力が足りませんわよ。\r\n嘆かないでください、\r\n鍛えればなんとかなりますわ。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_155_learn_force_aryan_ev_talk.txt",
+          "slot": 27,
+          "japanese_slot_index": 12,
+          "command_signature_sha256": "5a7f8f2b55d8cd0cee31199a23fa3a122e9cce94f51cb29292d03dba32e32720"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_155_learn_force_aryan_ev_talk.txt/13",
+      "source_sha256": "28974673a8670da81320e731580832c7d2abb9f04d9f7b48662d9676674bd048",
+      "source": "Well now, I see.\r\nWhen you need Force powers,\r\nPlease make time to come see me.",
+      "translation": "啊，是这样吗。\r\n当你需要魔法时，\r\n希望我们还能再见。",
+      "previous_translation": "现在,我明白了。\r\n当你需要力量的时候\r\n请抽时间来见我",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "あら、そうですか。\r\nあなたがフォースを必要としたとき、\r\nまたお会いできることを願いますわ。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_155_learn_force_aryan_ev_talk.txt",
+          "slot": 28,
+          "japanese_slot_index": 13,
+          "command_signature_sha256": "5a7f8f2b55d8cd0cee31199a23fa3a122e9cce94f51cb29292d03dba32e32720"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_155_learn_force_aryan_ev_talk.txt/14",
+      "source_sha256": "9fa1f947ee3e86899ee288f74bc7975b13554cab7aa556f1102a2a87bfed30ea",
+      "source": "...Honorable hero, it seems\r\nthat there are no Force abilities you\r\ncan learn now.",
+      "translation": "……勇者，看来你目前\r\n没有能够学习的魔法。",
+      "previous_translation": "...Honorable hero, it seems\r\n你没有力量能力\r\n现在可以学了",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "……勇者様、あなたが今、\r\n覚えられるフォースはないようです。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_155_learn_force_aryan_ev_talk.txt",
+          "slot": 29,
+          "japanese_slot_index": 14,
+          "command_signature_sha256": "5a7f8f2b55d8cd0cee31199a23fa3a122e9cce94f51cb29292d03dba32e32720"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_155_learn_force_aryan_ev_talk.txt/15",
+      "source_sha256": "d2474edd7a64dcdf3289bc1c17cf5b6bc1d37fa5d39ad0f0b868d03d3e1ee879",
+      "source": "With a higher Intellect level, I would\r\nbe able to teach you more powerful\r\nForce Powers.",
+      "translation": "如果你的智力更高，\r\n或许我还能教你\r\n更强大的魔法……",
+      "previous_translation": "如果有更高的智力水平,我会\r\n能够教你更强大\r\n强力力量",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "あなたの知力が高ければ、\r\n新たな理力を教えられるかも\r\nしれませんけれど……。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_155_learn_force_aryan_ev_talk.txt",
+          "slot": 30,
+          "japanese_slot_index": 15,
+          "command_signature_sha256": "5a7f8f2b55d8cd0cee31199a23fa3a122e9cce94f51cb29292d03dba32e32720"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_155_learn_force_aryan_ev_talk.txt/16",
+      "source_sha256": "6031a8646ee2e7099001e4f85eeba04eb1e521b20737987e144633fd10e55ba6",
+      "source": "I see you have mastered the Force.\r\nWell then, I will simply bid you\r\na safe journey.",
+      "translation": "看来你已经精通魔法了。\r\n那么，我就只能\r\n祝你旅途平安。",
+      "previous_translation": "看来你已经掌握了原力\r\n那好,我就直接告诉你\r\n一路顺风",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "フォースはもう究めておいででしたのね。\r\nでは私はただ、あなたのご無事を\r\n祈らせていただきますわ。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_155_learn_force_aryan_ev_talk.txt",
+          "slot": 31,
+          "japanese_slot_index": 16,
+          "command_signature_sha256": "5a7f8f2b55d8cd0cee31199a23fa3a122e9cce94f51cb29292d03dba32e32720"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_155_learn_force_aryan_ev_talk.txt/17",
+      "source_sha256": "d023a878030297017e637801cf1f0177f95ff5af498ff474d9d8be141e620156",
+      "source": "That Force, yes.\r\nNow then, I will initiate you...",
+      "translation": "就选这个魔法，是吗。\r\n那么，我来传授给你……",
+      "previous_translation": "那个原力,是的。\r\n现在,我会启动你...",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "そのフォースになさるのですね。\r\nでは、お教えしますわ……。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_155_learn_force_aryan_ev_talk.txt",
+          "slot": 32,
+          "japanese_slot_index": 17,
+          "command_signature_sha256": "5a7f8f2b55d8cd0cee31199a23fa3a122e9cce94f51cb29292d03dba32e32720"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_155_learn_force_aryan_ev_talk.txt/18",
+      "source_sha256": "da564f209c40551385df4f4052a27de6e3d61afb1f73259493ecae31a7964953",
+      "source": "\\c[50]<PLAYER>\\c[0] was taught\r\n\\c[52]Bird's Eye Force\\c[0]!",
+      "translation": "\\c[50]<PLAYER>\\c[0]学会了\r\n\\c[52]鸟瞰魔法\\c[0]！",
+      "previous_translation": "\\c[50]<PLAYER>\\c[0] 被教过\r\n\\c[52]鸟眼力\\c[0]!",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "\\c[50]<PLAYER>\\c[0]は『\\c[52]バーズアイフォース\\c[0]』を教わった！",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_155_learn_force_aryan_ev_talk.txt",
+          "slot": 33,
+          "japanese_slot_index": 18,
+          "command_signature_sha256": "5a7f8f2b55d8cd0cee31199a23fa3a122e9cce94f51cb29292d03dba32e32720"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_155_learn_force_aryan_ev_talk.txt/19",
+      "source_sha256": "d023a878030297017e637801cf1f0177f95ff5af498ff474d9d8be141e620156",
+      "source": "That Force, yes.\r\nNow then, I will initiate you...",
+      "translation": "就选这个魔法，是吗。\r\n那么，我来传授给你……",
+      "previous_translation": "那个原力,是的。\r\n现在,我会启动你...",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "そのフォースになさるのですね。\r\nでは、お教えしますわ……。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_155_learn_force_aryan_ev_talk.txt",
+          "slot": 34,
+          "japanese_slot_index": 19,
+          "command_signature_sha256": "5a7f8f2b55d8cd0cee31199a23fa3a122e9cce94f51cb29292d03dba32e32720"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_155_learn_force_aryan_ev_talk.txt/20",
+      "source_sha256": "95afe71ed2433381d623a7c8e7646ad69c75120848e186c473071ab4da057db2",
+      "source": "\\c[50]<PLAYER>\\c[0] was taught\r\n\\c[52]Gaze Force\\c[0]!",
+      "translation": "\\c[50]<PLAYER>\\c[0]学会了\r\n\\c[52]透视魔法\\c[0]！",
+      "previous_translation": "\\c[50]<PLAYER>\\c[0] 被教过\r\n\\c[52]雾力\\c[0]!",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "\\c[50]<PLAYER>\\c[0]は『\\c[52]ゲイズフォース\\c[0]』を教わった！",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_155_learn_force_aryan_ev_talk.txt",
+          "slot": 35,
+          "japanese_slot_index": 20,
+          "command_signature_sha256": "5a7f8f2b55d8cd0cee31199a23fa3a122e9cce94f51cb29292d03dba32e32720"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_155_learn_force_aryan_ev_talk.txt/21",
+      "source_sha256": "d023a878030297017e637801cf1f0177f95ff5af498ff474d9d8be141e620156",
+      "source": "That Force, yes.\r\nNow then, I will initiate you...",
+      "translation": "就选这个魔法，是吗。\r\n那么，我来传授给你……",
+      "previous_translation": "那个原力,是的。\r\n现在,我会启动你...",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "そのフォースになさるのですね。\r\nでは、お教えしますわ……。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_155_learn_force_aryan_ev_talk.txt",
+          "slot": 36,
+          "japanese_slot_index": 21,
+          "command_signature_sha256": "5a7f8f2b55d8cd0cee31199a23fa3a122e9cce94f51cb29292d03dba32e32720"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_155_learn_force_aryan_ev_talk.txt/22",
+      "source_sha256": "881d23d863cbc503cc2bfde65d30ecf91960cc47819ecd9b47157c34c8d21863",
+      "source": "\\c[50]<PLAYER>\\c[0] was taught\r\n\\c[52]Protect Force\\c[0]!",
+      "translation": "\\c[50]<PLAYER>\\c[0]学会了\r\n\\c[52]魔力护壁\\c[0]！",
+      "previous_translation": "\\c[50]<PLAYER>\\c[0] 被教过\r\n\\c[52]保护部队\\c[0]!",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "\\c[50]<PLAYER>\\c[0]は『\\c[52]プロテクトフォース\\c[0]』を教わった！",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_155_learn_force_aryan_ev_talk.txt",
+          "slot": 37,
+          "japanese_slot_index": 22,
+          "command_signature_sha256": "5a7f8f2b55d8cd0cee31199a23fa3a122e9cce94f51cb29292d03dba32e32720"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_155_learn_force_aryan_ev_talk.txt/23",
+      "source_sha256": "d023a878030297017e637801cf1f0177f95ff5af498ff474d9d8be141e620156",
+      "source": "That Force, yes.\r\nNow then, I will initiate you...",
+      "translation": "就选这个魔法，是吗。\r\n那么，我来传授给你……",
+      "previous_translation": "那个原力,是的。\r\n现在,我会启动你...",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "そのフォースになさるのですね。\r\nでは、お教えしますわ……。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_155_learn_force_aryan_ev_talk.txt",
+          "slot": 38,
+          "japanese_slot_index": 23,
+          "command_signature_sha256": "5a7f8f2b55d8cd0cee31199a23fa3a122e9cce94f51cb29292d03dba32e32720"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_155_learn_force_aryan_ev_talk.txt/24",
+      "source_sha256": "c0f72546cede2e94cd1a4aff124ec8c043f190c62ea74c312659361daf6c5b2b",
+      "source": "\\c[50]<PLAYER>\\c[0] was taught\r\n\\c[52]Relief Force\\c[0]!",
+      "translation": "\\c[50]<PLAYER>\\c[0]学会了\r\n\\c[52]救济魔法\\c[0]！",
+      "previous_translation": "\\c[50]<PLAYER>\\c[0] 被教过\r\n\\c[52]救济部队\\c[0]!",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "\\c[50]<PLAYER>\\c[0]は『\\c[52]リリーフフォース\\c[0]』を教わった！",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_155_learn_force_aryan_ev_talk.txt",
+          "slot": 39,
+          "japanese_slot_index": 24,
+          "command_signature_sha256": "5a7f8f2b55d8cd0cee31199a23fa3a122e9cce94f51cb29292d03dba32e32720"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_155_learn_force_aryan_ev_talk.txt/25",
+      "source_sha256": "d023a878030297017e637801cf1f0177f95ff5af498ff474d9d8be141e620156",
+      "source": "That Force, yes.\r\nNow then, I will initiate you...",
+      "translation": "就选这个魔法，是吗。\r\n那么，我来传授给你……",
+      "previous_translation": "那个原力,是的。\r\n现在,我会启动你...",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "そのフォースになさるのですね。\r\nでは、お教えしますわ……。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_155_learn_force_aryan_ev_talk.txt",
+          "slot": 40,
+          "japanese_slot_index": 25,
+          "command_signature_sha256": "5a7f8f2b55d8cd0cee31199a23fa3a122e9cce94f51cb29292d03dba32e32720"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_155_learn_force_aryan_ev_talk.txt/26",
+      "source_sha256": "4cb1b260d6130ad71c0b6085f49eb0e26b79889bc20fec009a5e4aa29c183d32",
+      "source": "\\c[50]<PLAYER>\\c[0] was taught\r\n\\c[52]Forest Force\\c[0]!",
+      "translation": "\\c[50]<PLAYER>\\c[0]学会了\r\n\\c[52]森林魔法\\c[0]！",
+      "previous_translation": "\\c[50]<PLAYER>\\c[0] 被教过\r\n\\c[52]森林部队\\c[0]!",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "\\c[50]<PLAYER>\\c[0]は『\\c[52]フォレストフォース\\c[0]』を教わった！",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_155_learn_force_aryan_ev_talk.txt",
+          "slot": 41,
+          "japanese_slot_index": 26,
+          "command_signature_sha256": "5a7f8f2b55d8cd0cee31199a23fa3a122e9cce94f51cb29292d03dba32e32720"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_156_learn_force_auris_ev_find.txt/0",
+      "source_sha256": "042cde2b06f01c1d1d4a09810be4672abdc2da77ce88e0fbe73d659ba00b84cc",
+      "source": "I'm quite sorry to have kept you\r\nwaiting...",
+      "translation": "让您久等了，\r\n实在抱歉……",
+      "previous_translation": "对不起,我一直留你\r\n等待着...",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "あなたをお待ちしておりました……。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_156_learn_force_auris_ev_find.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "839ce1a9d4e33e77e95558b730e35f10258ebc3417d99ba2bd0edd5c92fd8a18"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_156_learn_force_auris_ev_talk.txt/0",
+      "source_sha256": "f9f6f800ecbbb3ab091dc548cc3d13a12e886c094a18ef3aa3200092fd1b7a5d",
+      "source": "My apologies, but there is a limit to\r\nhow quickly I can initiate you.\r\nI can only teach you one at a time.",
+      "translation": "抱歉，传授魔法\r\n对我而言也很耗费精力。\r\n一次只能教你一项。",
+      "previous_translation": "对不起,但有一个限制\r\n这么快就能引领你\r\n我一次只能教你一个",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "すみません、フォースの伝授は\r\nこちらも消耗が大きいもので……。\r\n一度にお教えできるのは一つなのです。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_156_learn_force_auris_ev_talk.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "2cc9beb8e006163b4a4fe6ba7a1d96403de434142a471cfaa380386af1f72731"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_156_learn_force_auris_ev_talk.txt/1",
+      "source_sha256": "bb0b399c72b1faa877f26ac6515e766fd2fa56c1a328bdb9b6f861be14a78338",
+      "source": "If some day you return to see me,\r\nI will instruct you further in the Force.\r\nUntil then, good luck and godspeed.",
+      "translation": "若你某天再来找我，\r\n我会继续传授魔法。\r\n就此告别，祝你好运……",
+      "previous_translation": "如果有一天你回来见我\r\n我会在原力中进一步指示你\r\n在那之前 祝你好运 一路顺风",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "いつかまたお会いできたら、\r\nまたフォースの力をお教えします。\r\nその日までお別れです。ご武運を……。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_156_learn_force_auris_ev_talk.txt",
+          "slot": 1,
+          "japanese_slot_index": 1,
+          "command_signature_sha256": "2cc9beb8e006163b4a4fe6ba7a1d96403de434142a471cfaa380386af1f72731"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_156_learn_force_auris_ev_talk.txt/2",
+      "source_sha256": "8819991728e7efbc1daef491974a203dbc1430a123ce493b5e380daacfb8b9ac",
+      "source": "Just letting such a powerful body\r\nhang out like that, it's quite...\r\nLaying eyes on it, it's stimulating.",
+      "translation": "就、就这样毫不遮掩地\r\n展现那副强壮躯体，实在……\r\n亲眼看到，真令人心跳加速。",
+      "previous_translation": "只是让一个如此强大的机构\r\n像这样挂出,这是相当...\r\n看着它,很刺激",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "そ、そのたくましいお体を\r\n一切隠さないというのはなかなか……\r\n実際に見ると、刺激的ですね。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_156_learn_force_auris_ev_talk.txt",
+          "slot": 17,
+          "japanese_slot_index": 2,
+          "command_signature_sha256": "2cc9beb8e006163b4a4fe6ba7a1d96403de434142a471cfaa380386af1f72731"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_156_learn_force_auris_ev_talk.txt/3",
+      "source_sha256": "aceb0bef2a782de66d15c824b96aed1b74ec8e0abb2b6b5bb7ef83e010760346",
+      "source": "Er, sorry, that was uncalled for.\r\nI am called Auris, the fortuneteller.\r\nI can initiate you into Warfare Force.",
+      "translation": "不，失礼了。\r\n我是占卜师Auris。\r\n我可以传授你战斗魔法。",
+      "previous_translation": "呃,对不起,这是没有必要的。\r\n我叫奥里斯,算命者\r\n我可以让你加入战争部队",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "いえ、失礼いたしました。\r\n私は占い師アウリスと申します。\r\nあなたに戦いのフォースをお教えできます。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_156_learn_force_auris_ev_talk.txt",
+          "slot": 18,
+          "japanese_slot_index": 3,
+          "command_signature_sha256": "2cc9beb8e006163b4a4fe6ba7a1d96403de434142a471cfaa380386af1f72731"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_156_learn_force_auris_ev_talk.txt/4",
+      "source_sha256": "49ad6514bfd6e4f86a25ea5aac199e88c35031150b1314255987b7e5cfd824d8",
+      "source": "I had divined your figure, but...\r\nTo see it is bewildering, or rather,\r\nyour skin is blindingly beautiful...",
+      "translation": "我曾占卜过你的模样，可是……\r\n亲眼见到还是让人困惑，\r\n那水润的肌肤真是耀眼……",
+      "previous_translation": "我画了你的身材,但是...\r\n看到它令人困惑,或者说,\r\n你的皮肤是盲目的美丽",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "あなたの姿は占いで知っていましたが……\r\n実際に見ると困惑するというか、\r\nみずみずしいお肌が眩しいというか……。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_156_learn_force_auris_ev_talk.txt",
+          "slot": 19,
+          "japanese_slot_index": 4,
+          "command_signature_sha256": "2cc9beb8e006163b4a4fe6ba7a1d96403de434142a471cfaa380386af1f72731"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_156_learn_force_auris_ev_talk.txt/5",
+      "source_sha256": "aceb0bef2a782de66d15c824b96aed1b74ec8e0abb2b6b5bb7ef83e010760346",
+      "source": "Er, sorry, that was uncalled for.\r\nI am called Auris, the fortuneteller.\r\nI can initiate you into Warfare Force.",
+      "translation": "不，失礼了。\r\n我是占卜师Auris。\r\n我可以传授你战斗魔法。",
+      "previous_translation": "呃,对不起,这是没有必要的。\r\n我叫奥里斯,算命者\r\n我可以让你加入战争部队",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "いえ、失礼いたしました。\r\n私は占い師アウリスと申します。\r\nあなたに戦いのフォースをお教えできます。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_156_learn_force_auris_ev_talk.txt",
+          "slot": 20,
+          "japanese_slot_index": 5,
+          "command_signature_sha256": "2cc9beb8e006163b4a4fe6ba7a1d96403de434142a471cfaa380386af1f72731"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_156_learn_force_auris_ev_talk.txt/6",
+      "source_sha256": "11b1f9b0ee33855304843d1bf81c9831da1cb172e13f49ce781f62bd7795edc2",
+      "source": "Welcome, honorable <PLAYER>.\r\nI am called Auris, the fortuneteller.\r\nPleased to make your acquaintance.",
+      "translation": "欢迎你，<PLAYER>。\r\n我是占卜师Auris。\r\n我一直期待着与你相见。",
+      "previous_translation": "欢迎光荣的光临 <PLAYER>.\r\n我叫奥里斯,算命者\r\n很高兴认识你",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "ようこそ、<PLAYER>様。\r\n私は占い師のアウリスと申します。\r\nお会いできるのを楽しみにしていましたよ。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_156_learn_force_auris_ev_talk.txt",
+          "slot": 21,
+          "japanese_slot_index": 6,
+          "command_signature_sha256": "2cc9beb8e006163b4a4fe6ba7a1d96403de434142a471cfaa380386af1f72731"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_156_learn_force_auris_ev_talk.txt/7",
+      "source_sha256": "2f0dd9f8578a3b7442135fa8c601d8d7c76c4843ad210c771abb82087c5c5479",
+      "source": "I can teach you Force powers. I am a\r\npractitioner of the Warfare Force.\r\nDo you need power on your journey?",
+      "translation": "我可以传授你魔法。\r\n我所修习的是战斗之理，\r\n是用于破坏的力量。你的旅途需要它吗？",
+      "previous_translation": "我可以教你们\"力量\" 我是一个\r\n作战部队的执业者\r\n旅途需要动力吗?",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "あなたにフォースの力をお教えできます。\r\n私が扱うのは戦の理、壊すための力。\r\nあなたの旅に、この力は必要ですか？",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_156_learn_force_auris_ev_talk.txt",
+          "slot": 22,
+          "japanese_slot_index": 7,
+          "command_signature_sha256": "2cc9beb8e006163b4a4fe6ba7a1d96403de434142a471cfaa380386af1f72731"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_156_learn_force_auris_ev_talk.txt/8",
+      "source_sha256": "51487e89a7da5af1d5ce827656551b1b734c4edf928e70c2eccc40f0f08a7910",
+      "source": "...No, you already\r\npossess enough Force powers.",
+      "translation": "……不必了，你已经\r\n掌握了足够多的魔法。",
+      "previous_translation": "不,你已经\r\n拥有足够的力量。",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "……いえ、あなたはもう、\r\n充分な数のフォースを扱えるのですね。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_156_learn_force_auris_ev_talk.txt",
+          "slot": 23,
+          "japanese_slot_index": 8,
+          "command_signature_sha256": "2cc9beb8e006163b4a4fe6ba7a1d96403de434142a471cfaa380386af1f72731"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_156_learn_force_auris_ev_talk.txt/9",
+      "source_sha256": "58eb031ad83b08019118748178e7cbbe49ae345f6e41e354d9385d67c8696e5c",
+      "source": "I trust that the Force powers I taught\r\nyou have been of some use.\r\nMay you have fortune in war...",
+      "translation": "我相信自己教给你的魔法\r\n多少能派上用场。\r\n祝你在战斗中好运……",
+      "previous_translation": "我相信我教的原力力量\r\n你帮了大忙\r\n愿你在战争中拥有财富...",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "私がお教えしたフォースは、\r\nあなたの役に立っているでしょうか。\r\nどうかご武運を……。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_156_learn_force_auris_ev_talk.txt",
+          "slot": 24,
+          "japanese_slot_index": 9,
+          "command_signature_sha256": "2cc9beb8e006163b4a4fe6ba7a1d96403de434142a471cfaa380386af1f72731"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_156_learn_force_auris_ev_talk.txt/10",
+      "source_sha256": "abf780dfbdde89500bfaaafa9abe04749bb7338b098be25dde1f49d375921740",
+      "source": "Now, what Force will you learn?\r\nLearning will cost you \\c[52]Int levels\\c[0].\r\nChoose wisely. [Your current Int Lvl. \\c[52]$tmp1\\c[0]\r\nYou can learn: \\c[52]$tmp2types\\c[0]]",
+      "translation": "那么，你想学习哪一种魔法？\r\n学习会消耗\\c[52]INT等级\\c[0]。\r\n请慎重选择。[当前INT等级 \\c[52]$tmp1\\c[0]\r\n还可学习：\\c[52]$tmp2types\\c[0]种]",
+      "previous_translation": "现在,你会学到什么原力?\r\n学习要花你的钱 \\c[52]内 额\\c[0].\r\n明智的选择。 [你现在的Int Lvl。 \\c[52]$tmp1\\c[0]\r\n你可以学习: \\c[52]$tmp2types\\c[0]]",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "では、どのフォースになさいますか。\r\n習得にはあなたの\\c[52]知力レベルを消費\\c[0]します。\r\nよくお考えになってくださいね。\r\n[現在の知力Lv \\c[52]$tmp1\\c[0]\r\n 彼女から習得できる数：あと\\c[52]$tmp2種類\\c[0]]",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_156_learn_force_auris_ev_talk.txt",
+          "slot": 25,
+          "japanese_slot_index": 10,
+          "command_signature_sha256": "2cc9beb8e006163b4a4fe6ba7a1d96403de434142a471cfaa380386af1f72731"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_156_learn_force_auris_ev_talk.txt/11",
+      "source_sha256": "894198143ab510ceb74abc286e23b6ce288c9be0127807932e346d913e0d02d0",
+      "source": "...It pains me to say, but, it seems\r\nyou do not have enough money.\r\nI do require some compensation.",
+      "translation": "……虽然难以启齿，\r\n但你的钱似乎不够。\r\n凡事都需要付出代价。",
+      "previous_translation": "...我很痛苦地说,但是,它似乎\r\n你没有足够的钱。\r\n我确实需要一些补偿",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "……言いにくいのですが、\r\nお金が足りないようです。\r\n何事にも代償は必要なのです。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_156_learn_force_auris_ev_talk.txt",
+          "slot": 26,
+          "japanese_slot_index": 11,
+          "command_signature_sha256": "2cc9beb8e006163b4a4fe6ba7a1d96403de434142a471cfaa380386af1f72731"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_156_learn_force_auris_ev_talk.txt/12",
+      "source_sha256": "318d8576acb1c15023538d48331c6afed52d1fac8c261d0a396ee24fb865580f",
+      "source": "...It pains me to say, but,\r\nit seems you lack intelligence.\r\nBut I do not mean you are a fool.",
+      "translation": "……虽然难以启齿，\r\n但你的智力似乎不足。\r\n这绝不是在说你愚蠢。",
+      "previous_translation": "...我很难说,但是,\r\n看来你缺乏智慧\r\n但我不是指你是个傻瓜",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "……言いにくいのですが、\r\n知力が足りないようです。\r\n決してあなたが愚かという意味ではなく。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_156_learn_force_auris_ev_talk.txt",
+          "slot": 27,
+          "japanese_slot_index": 12,
+          "command_signature_sha256": "2cc9beb8e006163b4a4fe6ba7a1d96403de434142a471cfaa380386af1f72731"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_156_learn_force_auris_ev_talk.txt/13",
+      "source_sha256": "37d99a6e9855c16d62ade73c6fe64711deb08fbda16c43633d16eb7cc90c0f84",
+      "source": "Understood, that is also an option...\r\nShould you come to need my powers,\r\nthen until the day we meet again.",
+      "translation": "明白了，那也是一种选择……\r\n若你需要我的力量，\r\n愿我们还能在某日重逢。",
+      "previous_translation": "明白,这也是个选择...\r\n如果你需要我的力量\r\n然后直到我们再次相遇的那一天",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "わかりました、それもまた一つの選択……\r\nもし私の力が必要になりましたら、\r\nいつかまた、お会いした日に。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_156_learn_force_auris_ev_talk.txt",
+          "slot": 28,
+          "japanese_slot_index": 13,
+          "command_signature_sha256": "2cc9beb8e006163b4a4fe6ba7a1d96403de434142a471cfaa380386af1f72731"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_156_learn_force_auris_ev_talk.txt/14",
+      "source_sha256": "7457f26b14a54f6b027ba9ea75b943a8a80a57510c63174a6cbe57eb2ec0d553",
+      "source": "...No, it seems currently that there\r\nare no Force powers you can learn.\r\nLet's meet again somewhere.",
+      "translation": "……不，看来你现在\r\n没有能够学习的魔法。\r\n愿我们还能在某处重逢。",
+      "previous_translation": "...不,现在似乎在那里\r\n你无法学到任何力量\r\n我们再见面吧",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "……いえ、あなたには今、\r\n覚えられるフォースはないようですね。\r\nいつかまた、どこかでお会いしましょう。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_156_learn_force_auris_ev_talk.txt",
+          "slot": 29,
+          "japanese_slot_index": 14,
+          "command_signature_sha256": "2cc9beb8e006163b4a4fe6ba7a1d96403de434142a471cfaa380386af1f72731"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_156_learn_force_auris_ev_talk.txt/15",
+      "source_sha256": "746f23f3cbbb3c5bce0ec1a4c1cefce83c2eb60e5be5679bae5171e7b917fa91",
+      "source": "If you have the necessary intelligence,\r\nI can teach you Force powers.\r\nUntil the day we meet again.",
+      "translation": "只要你的智力足够，\r\n我就能传授你魔法。\r\n愿我们还能在某日重逢。",
+      "previous_translation": "如果你有必要的情报\r\n我可以教你们\"力量\"\r\n直到我们再次相遇",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "あなたに必要なだけの知力があれば、\r\nフォースをお教えできます。\r\nいつかまた、お会いした日に。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_156_learn_force_auris_ev_talk.txt",
+          "slot": 30,
+          "japanese_slot_index": 15,
+          "command_signature_sha256": "2cc9beb8e006163b4a4fe6ba7a1d96403de434142a471cfaa380386af1f72731"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_156_learn_force_auris_ev_talk.txt/16",
+      "source_sha256": "bc0a4dc8859bafe7b6153372d0e0cfa6fac89392fee1dfb4893b97c70297fb8a",
+      "source": "You are a master.\r\nThere is nothing that I can teach you.\r\nMay you find fortune in battle...",
+      "translation": "你已经精通魔法。\r\n我没有什么能教给你的了。\r\n祝你在战斗中好运……",
+      "previous_translation": "你是个大师。\r\n没有什么我可以教你。\r\n愿你在战斗中找到财富...",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "あなたは既にフォースを究めたお方。\r\n私からお伝えすることはございません。\r\nどうかご武運を……。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_156_learn_force_auris_ev_talk.txt",
+          "slot": 31,
+          "japanese_slot_index": 16,
+          "command_signature_sha256": "2cc9beb8e006163b4a4fe6ba7a1d96403de434142a471cfaa380386af1f72731"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_156_learn_force_auris_ev_talk.txt/17",
+      "source_sha256": "d023a878030297017e637801cf1f0177f95ff5af498ff474d9d8be141e620156",
+      "source": "That Force, yes.\r\nNow then, I will initiate you...",
+      "translation": "就选这个魔法，是吗。\r\n那么，我来传授给你……",
+      "previous_translation": "那个原力,是的。\r\n现在,我会启动你...",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "そのフォースになさるのですね。\r\nでは、お教えしますわ……。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_156_learn_force_auris_ev_talk.txt",
+          "slot": 32,
+          "japanese_slot_index": 17,
+          "command_signature_sha256": "2cc9beb8e006163b4a4fe6ba7a1d96403de434142a471cfaa380386af1f72731"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_156_learn_force_auris_ev_talk.txt/18",
+      "source_sha256": "9f9a811dd4ace6fbe4ff000125f502ceb998e042a8754344913f4faa183f3a66",
+      "source": "\\c[50]<PLAYER>\\c[0] was taught\r\n\\c[52]Flame Force\\c[0]!",
+      "translation": "\\c[50]<PLAYER>\\c[0]学会了\r\n\\c[52]火焰魔法\\c[0]！",
+      "previous_translation": "\\c[50]<PLAYER>\\c[0] 被教过\r\n\\c[52]火焰力\\c[0]!",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "\\c[50]<PLAYER>\\c[0]は『\\c[52]フレイムフォース\\c[0]』を教わった！",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_156_learn_force_auris_ev_talk.txt",
+          "slot": 33,
+          "japanese_slot_index": 18,
+          "command_signature_sha256": "2cc9beb8e006163b4a4fe6ba7a1d96403de434142a471cfaa380386af1f72731"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_156_learn_force_auris_ev_talk.txt/19",
+      "source_sha256": "d023a878030297017e637801cf1f0177f95ff5af498ff474d9d8be141e620156",
+      "source": "That Force, yes.\r\nNow then, I will initiate you...",
+      "translation": "就选这个魔法，是吗。\r\n那么，我来传授给你……",
+      "previous_translation": "那个原力,是的。\r\n现在,我会启动你...",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "そのフォースになさるのですね。\r\nでは、お教えしますわ……。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_156_learn_force_auris_ev_talk.txt",
+          "slot": 34,
+          "japanese_slot_index": 19,
+          "command_signature_sha256": "2cc9beb8e006163b4a4fe6ba7a1d96403de434142a471cfaa380386af1f72731"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_156_learn_force_auris_ev_talk.txt/20",
+      "source_sha256": "1a9b90faf24aa2c3ca35dd40abeeec9dd204e69c193b95547aef80243e0766ce",
+      "source": "\\c[50]<PLAYER>\\c[0] was taught\r\n\\c[52]Thunder Force\\c[0]!",
+      "translation": "\\c[50]<PLAYER>\\c[0]学会了\r\n\\c[52]雷霆魔法\\c[0]！",
+      "previous_translation": "\\c[50]<PLAYER>\\c[0] 被教过\r\n\\c[52]雷电力\\c[0]!",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "\\c[50]<PLAYER>\\c[0]は『\\c[52]サンダーフォース\\c[0]』を教わった！",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_156_learn_force_auris_ev_talk.txt",
+          "slot": 35,
+          "japanese_slot_index": 20,
+          "command_signature_sha256": "2cc9beb8e006163b4a4fe6ba7a1d96403de434142a471cfaa380386af1f72731"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_156_learn_force_auris_ev_talk.txt/21",
+      "source_sha256": "d023a878030297017e637801cf1f0177f95ff5af498ff474d9d8be141e620156",
+      "source": "That Force, yes.\r\nNow then, I will initiate you...",
+      "translation": "就选这个魔法，是吗。\r\n那么，我来传授给你……",
+      "previous_translation": "那个原力,是的。\r\n现在,我会启动你...",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "そのフォースになさるのですね。\r\nでは、お教えしますわ……。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_156_learn_force_auris_ev_talk.txt",
+          "slot": 36,
+          "japanese_slot_index": 21,
+          "command_signature_sha256": "2cc9beb8e006163b4a4fe6ba7a1d96403de434142a471cfaa380386af1f72731"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_156_learn_force_auris_ev_talk.txt/22",
+      "source_sha256": "4f344d70159f8af19b1aaa22e53dbc2a73ace8b6528b9b9dcadda9fe245b6524",
+      "source": "\\c[50]<PLAYER>\\c[0] was taught\r\n\\c[52]Flash Force\\c[0]!",
+      "translation": "\\c[50]<PLAYER>\\c[0]学会了\r\n\\c[52]闪光魔法\\c[0]！",
+      "previous_translation": "\\c[50]<PLAYER>\\c[0] 被教过\r\n\\c[52]闪光力\\c[0]!",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "\\c[50]<PLAYER>\\c[0]は『\\c[52]フラッシュフォース\\c[0]』を教わった！",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_156_learn_force_auris_ev_talk.txt",
+          "slot": 37,
+          "japanese_slot_index": 22,
+          "command_signature_sha256": "2cc9beb8e006163b4a4fe6ba7a1d96403de434142a471cfaa380386af1f72731"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_156_learn_force_auris_ev_talk.txt/23",
+      "source_sha256": "d023a878030297017e637801cf1f0177f95ff5af498ff474d9d8be141e620156",
+      "source": "That Force, yes.\r\nNow then, I will initiate you...",
+      "translation": "就选这个魔法，是吗。\r\n那么，我来传授给你……",
+      "previous_translation": "那个原力,是的。\r\n现在,我会启动你...",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "そのフォースになさるのですね。\r\nでは、お教えしますわ……。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_156_learn_force_auris_ev_talk.txt",
+          "slot": 38,
+          "japanese_slot_index": 23,
+          "command_signature_sha256": "2cc9beb8e006163b4a4fe6ba7a1d96403de434142a471cfaa380386af1f72731"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_156_learn_force_auris_ev_talk.txt/24",
+      "source_sha256": "c20a22c2443c230d43b689ec60133da59e33d54491912f5cb5da0c8f651c6a8b",
+      "source": "\\c[50]<PLAYER>\\c[0] was taught\r\n\\c[52]Gravity Force\\c[0]!",
+      "translation": "\\c[50]<PLAYER>\\c[0]学会了\r\n\\c[52]重力魔法\\c[0]！",
+      "previous_translation": "\\c[50]<PLAYER>\\c[0] 被教过\r\n\\c[52]重力\\c[0]!",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "\\c[50]<PLAYER>\\c[0]は『\\c[52]グラビティフォース\\c[0]』を教わった！",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_156_learn_force_auris_ev_talk.txt",
+          "slot": 39,
+          "japanese_slot_index": 24,
+          "command_signature_sha256": "2cc9beb8e006163b4a4fe6ba7a1d96403de434142a471cfaa380386af1f72731"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_156_learn_force_auris_ev_talk.txt/25",
+      "source_sha256": "d023a878030297017e637801cf1f0177f95ff5af498ff474d9d8be141e620156",
+      "source": "That Force, yes.\r\nNow then, I will initiate you...",
+      "translation": "就选这个魔法，是吗。\r\n那么，我来传授给你……",
+      "previous_translation": "那个原力,是的。\r\n现在,我会启动你...",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "そのフォースになさるのですね。\r\nでは、お教えしますわ……。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_156_learn_force_auris_ev_talk.txt",
+          "slot": 40,
+          "japanese_slot_index": 25,
+          "command_signature_sha256": "2cc9beb8e006163b4a4fe6ba7a1d96403de434142a471cfaa380386af1f72731"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_156_learn_force_auris_ev_talk.txt/26",
+      "source_sha256": "75082e55fa66d1ad3e115301598a5cd7ceaae1e8588308f68ffc3bacf5d144c3",
+      "source": "\\c[50]<PLAYER>\\c[0] was taught\r\n\\c[52]Inferno Force\\c[0]!",
+      "translation": "\\c[50]<PLAYER>\\c[0]学会了\r\n\\c[52]炼狱魔法\\c[0]！",
+      "previous_translation": "\\c[50]<PLAYER>\\c[0] 被教过\r\n\\c[52]地狱力\\c[0]!",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "\\c[50]<PLAYER>\\c[0]は『\\c[52]インフェルノフォース\\c[0]』を教わった！",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_156_learn_force_auris_ev_talk.txt",
+          "slot": 41,
+          "japanese_slot_index": 26,
+          "command_signature_sha256": "2cc9beb8e006163b4a4fe6ba7a1d96403de434142a471cfaa380386af1f72731"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_159_bounty_a_ev_find.txt/0",
+      "source_sha256": "3db1c276316e915d0c4fd5d41b85e249ddd43ef5a75c195b4d0c1306eea7e64f",
+      "source": "Bounty FOUND!!!",
+      "translation": "发现悬赏目标！！",
+      "previous_translation": "邦蒂发现!",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "賞金首はっけぇん！！",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_159_bounty_a_ev_find.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "47a57839e31ef2aaf8e1c389beff28f1ec5a02a982ec616860f2acf4e108c0d8"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_159_bounty_a_ev_find.txt/1",
+      "source_sha256": "16c894e5ee2bd013759ceda0a0f84b684ee175df594f164770acc80388369c59",
+      "source": "Sorry, friend.\r\nFor my profit, you will die!",
+      "translation": "抱歉了，朋友。\r\n为了我的赏金，请你去死吧！",
+      "previous_translation": "对不起,朋友。\r\n为了我的利益,你会死的!",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "悪いな。\r\n俺の金のために死んでくれ！",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_159_bounty_a_ev_find.txt",
+          "slot": 1,
+          "japanese_slot_index": 1,
+          "command_signature_sha256": "47a57839e31ef2aaf8e1c389beff28f1ec5a02a982ec616860f2acf4e108c0d8"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_159_bounty_a_ev_find.txt/2",
+      "source_sha256": "da2ea8bbe18e524ce3055d87a21658d3fbb3e1461ccb096500b9a42fc70cc4b6",
+      "source": "How much were you worth again?",
+      "translation": "你的赏金是多少来着？",
+      "previous_translation": "你又值多少钱?",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "あんたの賞金いくらだっけな？",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_159_bounty_a_ev_find.txt",
+          "slot": 2,
+          "japanese_slot_index": 2,
+          "command_signature_sha256": "47a57839e31ef2aaf8e1c389beff28f1ec5a02a982ec616860f2acf4e108c0d8"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_159_bounty_a_ev_talk.txt/0",
+      "source_sha256": "2fadba64a19f5d1f3487c6d97d40a73e58c15e3861e8d33a309cf96c34894844",
+      "source": "Are you okay?\r\nAll right, don't overdo it.",
+      "translation": "你没事吧？\r\n好，别太勉强自己。",
+      "previous_translation": "你没事吧?\r\n好吧,不要过份。",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "大丈夫か？\r\nそうか、無理はするなよ。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_159_bounty_a_ev_talk.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "605852abd502e1fa0d3ba6a6ab1e1446103503ac3804204f286c34e2f024abf4"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_159_bounty_a_ev_talk.txt/1",
+      "source_sha256": "f0c359eba8524ba36288503d63a1dc1b5da284a6b07a34b3645477e76d0d536c",
+      "source": "<TARGET>,\r\npolishing a sword,\r\nspoke with a worried look.",
+      "translation": "<TARGET>\r\n一边擦着剑，\r\n一边担忧地说道。",
+      "previous_translation": "<TARGET>,\r\n擦剑\r\n说话时很担心",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "<TARGET>は\r\n剣を磨きながら\r\n心配そうにそう言った。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_159_bounty_a_ev_talk.txt",
+          "slot": 1,
+          "japanese_slot_index": 1,
+          "command_signature_sha256": "605852abd502e1fa0d3ba6a6ab1e1446103503ac3804204f286c34e2f024abf4"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_160_bounty_b_ev_find.txt/0",
+      "source_sha256": "82b40b8499ad3217b4b8376a728a90ef8c01588de8549c4bc968b67bf84ed35d",
+      "source": "You're choosing crime\r\nwhile the world is like this...",
+      "translation": "世界都已变成这样，\r\n你还要犯罪吗……",
+      "previous_translation": "你选择的是犯罪\r\n当世界是这样的时候...",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "世界がこんな時に\r\n罪を犯しますか…",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_160_bounty_b_ev_find.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "47a57839e31ef2aaf8e1c389beff28f1ec5a02a982ec616860f2acf4e108c0d8"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_160_bounty_b_ev_find.txt/1",
+      "source_sha256": "d4c14419706406b65e0a69600a084d9a85c731198eff3b90a0f2042046b3084b",
+      "source": "Can you endure my blade's edge?",
+      "translation": "你能挡住我的剑锋吗？",
+      "previous_translation": "你能忍受我的刀刃吗?",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "私の剣撃に耐えられますか？",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_160_bounty_b_ev_find.txt",
+          "slot": 1,
+          "japanese_slot_index": 1,
+          "command_signature_sha256": "47a57839e31ef2aaf8e1c389beff28f1ec5a02a982ec616860f2acf4e108c0d8"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_160_bounty_b_ev_find.txt/2",
+      "source_sha256": "d97a9b54dcaecc92e5bd7e4e2b52e161d0d574f9ea3bed8c38503b1d7f0cbb63",
+      "source": "Evil...cannot be forgiven!",
+      "translation": "邪恶……绝不可饶恕！",
+      "previous_translation": "邪恶... 不能原谅!",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "悪は…許しません！！",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_160_bounty_b_ev_find.txt",
+          "slot": 2,
+          "japanese_slot_index": 2,
+          "command_signature_sha256": "47a57839e31ef2aaf8e1c389beff28f1ec5a02a982ec616860f2acf4e108c0d8"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_160_bounty_b_ev_talk.txt/0",
+      "source_sha256": "868c03f61632eee8d761565d321d96837fe5b345ee4bec32e4be02de67d80a7b",
+      "source": "How you doing??\r\nLet's give it our all!",
+      "translation": "你好吗？？\r\n我们一起加油吧！",
+      "previous_translation": "你好吗?\r\n让我们全力以赴!",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "元気？？\r\n一緒に頑張ろう！",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_160_bounty_b_ev_talk.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "7de4280cea38d13b0966fc448f89df2535003e09e7701ea6cb8d978ca2ec4a65"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_160_bounty_b_ev_talk.txt/1",
+      "source_sha256": "bb66174672c6ad46813496f60d9933a4e06e0e6cb3a51c6809a763ae9746085e",
+      "source": "<TARGET>\r\nis running around\r\nfull of energy.",
+      "translation": "<TARGET>\r\n正精神满满地\r\n到处跑来跑去。",
+      "previous_translation": "<TARGET>\r\n四处奔跑\r\n充满能量。",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "<TARGET>は\r\n元気いっぱい\r\n走り回っている。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_160_bounty_b_ev_talk.txt",
+          "slot": 1,
+          "japanese_slot_index": 1,
+          "command_signature_sha256": "7de4280cea38d13b0966fc448f89df2535003e09e7701ea6cb8d978ca2ec4a65"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_161_bounty_c_ev_find.txt/0",
+      "source_sha256": "157f6f910b34917459a9df734e6b8eb276155f060ff0f7095c7f17e147027598",
+      "source": "...Die.",
+      "translation": "…………死吧。",
+      "previous_translation": "- 死 - 死 - ... Die.",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "…………死んで。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_161_bounty_c_ev_find.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "47a57839e31ef2aaf8e1c389beff28f1ec5a02a982ec616860f2acf4e108c0d8"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_161_bounty_c_ev_find.txt/1",
+      "source_sha256": "a365ef2e66c7a3de41423e3ef18b3db41367aa67f665f73ceb6115b8786c5d82",
+      "source": "You're a wicked one...",
+      "translation": "坏人……",
+      "previous_translation": "你是个坏人...",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "悪い人…。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_161_bounty_c_ev_find.txt",
+          "slot": 1,
+          "japanese_slot_index": 1,
+          "command_signature_sha256": "47a57839e31ef2aaf8e1c389beff28f1ec5a02a982ec616860f2acf4e108c0d8"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_161_bounty_c_ev_find.txt/2",
+      "source_sha256": "f773f639e6d303d7a59cccff9b51fc4a8f72e0743ba1aa6d927dcbb3e49c93b7",
+      "source": "Burn to cinders...",
+      "translation": "烧成焦炭吧……",
+      "previous_translation": "烧成灰烬...",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "まるコゲになっちゃえ…。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_161_bounty_c_ev_find.txt",
+          "slot": 2,
+          "japanese_slot_index": 2,
+          "command_signature_sha256": "47a57839e31ef2aaf8e1c389beff28f1ec5a02a982ec616860f2acf4e108c0d8"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_161_bounty_c_ev_talk.txt/0",
+      "source_sha256": "48618d8c71cf9d8ddd0071160abcb7180aa6c3be168cc85223a4b24268e93b90",
+      "source": "Wh, what is it?\r\nIt's not like I was looking at you!",
+      "translation": "什、什么啊。\r\n我才没有盯着你看呢。",
+      "previous_translation": "什么,这是什么?\r\n我不是在看着你!",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "な、なんですかぁ。\r\nあなたのこと見てたわけじゃないですよぉ。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_161_bounty_c_ev_talk.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "fa357876746993230b354c8598bc519461cb28fa957a6384e77c88daf2a9fbf8"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_161_bounty_c_ev_talk.txt/1",
+      "source_sha256": "f39fb6674ca18ce4063e15835a694c3a99297e151e9c60622a3cb54d6aa2962e",
+      "source": "<TARGET>\r\nglances away fidgeting awkwardly.",
+      "translation": "<TARGET>\r\n害羞得坐立不安，\r\n把视线移向一旁。",
+      "previous_translation": "<TARGET>\r\n眼睁睁地看着 令人尴尬的。",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "<TARGET>は\r\n恥ずかしそうにモジモジしている。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_161_bounty_c_ev_talk.txt",
+          "slot": 1,
+          "japanese_slot_index": 1,
+          "command_signature_sha256": "fa357876746993230b354c8598bc519461cb28fa957a6384e77c88daf2a9fbf8"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_162_item_mimic_ev_find.txt/0",
+      "source_sha256": "ce6104f8014db59ec69d527f1512eff42d0be01c7361e5bc1e68e1a47e449086",
+      "source": "That's a positive ID!\r\nA mimic has appeared!",
+      "translation": "识别成功！\r\n一只宝箱怪出现了！",
+      "previous_translation": "这是肯定的身份证!\r\n模仿出现了!",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "識別、成功！ ミミックが現れた！",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_162_item_mimic_ev_find.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "3563a1d0178496c9255f62f62d5f9f2633db3a5042b35c14452b7be8bec908e7"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_162_item_mimic_ev_talk.txt/0",
+      "source_sha256": "ce523b57fc3d8b6e5a92ef2fadc796d2fb615c6b28a9b4f1ae5923c8029c77ce",
+      "source": "Crickcrickcrick.",
+      "translation": "嘻嘻嘻。",
+      "previous_translation": "板球飞车",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "ケラケラケラ。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_162_item_mimic_ev_talk.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "13cba417729c4106eee7a872f35892bc6915eacb90ef7d0e78e557c847d2997d"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_162_item_mimic_ev_talk.txt/1",
+      "source_sha256": "c31b9ba2bfda2985c4457adb08a34f6693ef78aa0358e07b4cfff15f32fd109b",
+      "source": "<TARGET>\r\nis hovering, looking this way...",
+      "translation": "<TARGET>\r\n一边看着这边，\r\n一边轻飘飘地浮着……",
+      "previous_translation": "<TARGET>\r\n正在徘徊,看这边...",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "<TARGET>は、\r\nこちらを見ながらフワフワしている……。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_162_item_mimic_ev_talk.txt",
+          "slot": 1,
+          "japanese_slot_index": 1,
+          "command_signature_sha256": "13cba417729c4106eee7a872f35892bc6915eacb90ef7d0e78e557c847d2997d"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_163_box_mimic_ev_find.txt/0",
+      "source_sha256": "bfecfc9d8804c6077fe03c225f3eea7a21b24a584427945693b78334aaf594e6",
+      "source": "That's a positive ID! A mimic has\r\nemerged from the box!",
+      "translation": "识别成功！一只宝箱怪\r\n从箱子里钻了出来！",
+      "previous_translation": "这是肯定的身份证! 一个模仿者\r\n从盒子里出来!",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "識別、成功！ ボックスからミミックが現れた！",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_163_box_mimic_ev_find.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "3563a1d0178496c9255f62f62d5f9f2633db3a5042b35c14452b7be8bec908e7"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_163_box_mimic_ev_talk.txt/0",
+      "source_sha256": "ce523b57fc3d8b6e5a92ef2fadc796d2fb615c6b28a9b4f1ae5923c8029c77ce",
+      "source": "Crickcrickcrick.",
+      "translation": "嘻嘻嘻。",
+      "previous_translation": "板球飞车",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "ケラケラケラ。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_163_box_mimic_ev_talk.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "13cba417729c4106eee7a872f35892bc6915eacb90ef7d0e78e557c847d2997d"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_163_box_mimic_ev_talk.txt/1",
+      "source_sha256": "6c31a01b157a436629abd4d97b2aa6bf0c2e6038fc679553eb47bd29ef1efa37",
+      "source": "<TARGET> is staring\r\nthis way, grinning...",
+      "translation": "<TARGET>笑着\r\n盯住了这边……",
+      "previous_translation": "<TARGET> 看着呢\r\n这边,笑着...",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "<TARGET>は、笑いながら\r\nこちらを見つめている……。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_163_box_mimic_ev_talk.txt",
+          "slot": 1,
+          "japanese_slot_index": 1,
+          "command_signature_sha256": "13cba417729c4106eee7a872f35892bc6915eacb90ef7d0e78e557c847d2997d"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_165_curse_goblin_ev_talk.txt/0",
+      "source_sha256": "d79d3c37d33f568cda5bf53b3fdf419d081220174f19c1dd0ee67ffc79b70461",
+      "source": "Gobbagobba! Gobbagobba!",
+      "translation": "哥布哥布！哥布哥布！",
+      "previous_translation": "戈巴哥巴! 戈巴哥巴!",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "ゴブゴブ！ゴブゴブー！",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_165_curse_goblin_ev_talk.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "5281bd9ed6d8aafdf8d1f416d15ab2ab4728cc983b9ef6eb43e4da82aedc3ebe"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_165_curse_goblin_ev_talk.txt/1",
+      "source_sha256": "2da2bb729cd3659d66c7a0427c3a7998cc91c95e2bb87e7285aefb214c8ca0ca",
+      "source": "<TARGET> is juggling bones\r\nwith enthusiasm.",
+      "translation": "<TARGET>正兴致勃勃地\r\n用骨头耍杂技。",
+      "previous_translation": "<TARGET> 乱动的骨头\r\n充满热情。",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "<TARGET>が楽しそうに\r\n骨でジャグリングをしている。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_165_curse_goblin_ev_talk.txt",
+          "slot": 1,
+          "japanese_slot_index": 1,
+          "command_signature_sha256": "5281bd9ed6d8aafdf8d1f416d15ab2ab4728cc983b9ef6eb43e4da82aedc3ebe"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_166_rotten_man_ev_talk.txt/0",
+      "source_sha256": "042a2f8f92b9252239756e36498a55ff0c13d9b1172387b5698c571a9165d00f",
+      "source": "(Drip, dripdripdrip...)",
+      "translation": "（滴落，滴答滴答……）",
+      "previous_translation": "(滴滴滴滴滴滴滴... )",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "（ボタッ、ボタボタボタッ……）",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_166_rotten_man_ev_talk.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "eaa7106dd522bec6daabc0eb8b6d2b183e45a06209c48e697c8b25a6bf2910d7"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_166_rotten_man_ev_talk.txt/1",
+      "source_sha256": "2ea5226649bc5a6b688f6203e8202e15700124b8331f7486ce4896ae51ad11ba",
+      "source": "With each step, a piece of\r\n<TARGET>'s rotten body\r\nfalls off.",
+      "translation": "<TARGET>每走一步，\r\n腐烂的身体都会\r\n掉落一些碎块。",
+      "previous_translation": "每一步 一块\r\n<TARGET>腐烂的身体\r\n掉下来了",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "<TARGET>は歩くたびに\r\n腐った体の一部が落ちている……。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_166_rotten_man_ev_talk.txt",
+          "slot": 1,
+          "japanese_slot_index": 1,
+          "command_signature_sha256": "eaa7106dd522bec6daabc0eb8b6d2b183e45a06209c48e697c8b25a6bf2910d7"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_168_witch_ev_find.txt/0",
+      "source_sha256": "cc327f6e940321efe374c798626b32aeee3146017e414f690f93dc8c23935314",
+      "source": "I found you!",
+      "translation": "找到你了！",
+      "previous_translation": "我发现你了!",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "見つけたわよ！",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_168_witch_ev_find.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "839ce1a9d4e33e77e95558b730e35f10258ebc3417d99ba2bd0edd5c92fd8a18"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_168_witch_ev_talk.txt/0",
+      "source_sha256": "56f41f02a0c2d9aabd5f0d27c7f47dd533aca0bd277385a1d34df294a1f3587a",
+      "source": "W-What?!\r\nI-It's not like I was thinking\r\nabout you...or anything!",
+      "translation": "什、什么啊！\r\n我才没有在想\r\n你的事情……",
+      "previous_translation": "什麽?\r\n我 - 这不是我在想什么\r\n关于你... 或任何东西!",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "な、なによ……\r\nあなたのこと\r\n考えてたわけじゃないんだからね…。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_168_witch_ev_talk.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "412fe20dbb89ca51bef4c76d5db16da2c8788b353e950ab1f5c8d658ca638e1f"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_168_witch_ev_talk.txt/1",
+      "source_sha256": "736f021a173bfc3cb5dd20e8cb9c75aab26979c30ae687ae5bb49b8e2472c04f",
+      "source": "With that, <TARGET>'s\r\nface grew beet red.",
+      "translation": "这么说着，<TARGET>的\r\n脸已经涨得通红……",
+      "previous_translation": "有了这个 <TARGET>编号(_A):\r\n脸红了",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "そう言った<TARGET>は\r\n顔が真っ赤になっていた…。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_168_witch_ev_talk.txt",
+          "slot": 1,
+          "japanese_slot_index": 1,
+          "command_signature_sha256": "412fe20dbb89ca51bef4c76d5db16da2c8788b353e950ab1f5c8d658ca638e1f"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_169_necromancer_ev_find.txt/0",
+      "source_sha256": "44db2a80117de9a4d398b2a6bd76781ec2c7b041db4ef5fa31f13d6dea20ca53",
+      "source": "You shall perish...",
+      "translation": "毁灭吧……",
+      "previous_translation": "你将死去...",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "滅びよ……。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_169_necromancer_ev_find.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "839ce1a9d4e33e77e95558b730e35f10258ebc3417d99ba2bd0edd5c92fd8a18"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_169_necromancer_ev_talk.txt/0",
+      "source_sha256": "b3c5c65424006bb37c441311b3a168fc526f24ec8b10ec07f69c71f236fab7a0",
+      "source": "I'm getting too old for this...\r\nI should probably retire when\r\nwe're done.",
+      "translation": "以这副年迈之躯，\r\n差不多也该从战斗中\r\n引退了吧……",
+      "previous_translation": "我太老了,这...\r\n我大概应该退休的时候\r\n我们完了",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "この年老いた身体では\r\nそろそろ戦いから引退かのう……。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_169_necromancer_ev_talk.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "5281bd9ed6d8aafdf8d1f416d15ab2ab4728cc983b9ef6eb43e4da82aedc3ebe"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_169_necromancer_ev_talk.txt/1",
+      "source_sha256": "f04ea538ef9705e5bcbcc9f4ce4d17c769e2ac9779e53e4c3634d2bd0b980598",
+      "source": "<TARGET> said wistfully.",
+      "translation": "<TARGET>用\r\n怅然的声音说道。",
+      "previous_translation": "<TARGET> 说得很狡猾。",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "<TARGET>は\r\n寂しそうな声で言った。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_169_necromancer_ev_talk.txt",
+          "slot": 1,
+          "japanese_slot_index": 1,
+          "command_signature_sha256": "5281bd9ed6d8aafdf8d1f416d15ab2ab4728cc983b9ef6eb43e4da82aedc3ebe"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_16_cool_woman_ev_talk.txt/0",
+      "source_sha256": "3f95e6b7b910b063a203aaca1b85fd22ba1c0c333b88ac3b2eb5d095ee9f22bf",
+      "source": "You, you monster... No, could it be\r\nyou're a traveler? Sorry about that.\r\nI can see you bear no hostility now.",
+      "translation": "你这家伙，是怪物……不，难道\r\n你是旅人？失礼了。\r\n我旅行多年，看得出你没有敌意。",
+      "previous_translation": "你这个怪物... 不会吧?\r\n你是旅行者吗? 对不起。\r\n我看得出你现在没有敌意",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "貴様、化け物……いや、まさか、旅人か。\r\n失礼した。これでも長く旅をしてきた身だ、\r\n敵意がないことくらいわかるさ。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_16_cool_woman_ev_talk.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "7809403d8baf1559fc3aa921821c8d24158a9ae110006adfa5d4c51c6ac47c18"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_16_cool_woman_ev_talk.txt/1",
+      "source_sha256": "764a90da90c51a585ddfcd8394bb82ee749c780d10b8fce2e7233c28eb48b47a",
+      "source": "Well, a traveler, huh?",
+      "translation": "哦，你是旅人吗？",
+      "previous_translation": "旅行者吗?",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "ほう、旅の者かね？",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_16_cool_woman_ev_talk.txt",
+          "slot": 1,
+          "japanese_slot_index": 1,
+          "command_signature_sha256": "7809403d8baf1559fc3aa921821c8d24158a9ae110006adfa5d4c51c6ac47c18"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_16_cool_woman_ev_talk.txt/2",
+      "source_sha256": "c7d7d9eb1d33d03a3720b396b38027beb9cf5fce67d6097288cc839d0b57e968",
+      "source": "This area is the border between\r\ntwo areas.",
+      "translation": "这里正好是两个区域之间的\r\n交界地带。",
+      "previous_translation": "这个区域是\r\n两个方面。",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "ここは、ちょうど地帯の境界線だ。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_16_cool_woman_ev_talk.txt",
+          "slot": 2,
+          "japanese_slot_index": 2,
+          "command_signature_sha256": "7809403d8baf1559fc3aa921821c8d24158a9ae110006adfa5d4c51c6ac47c18"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_16_cool_woman_ev_talk.txt/3",
+      "source_sha256": "af4793b819eca7341295f8e432f57c280d4473e02033cedc1ad5230a44385c89",
+      "source": "I believe this area ends\r\nafter \\c[52]$tmp1km\\c[0].",
+      "translation": "我记得这个区域\r\n再过\\c[52]$tmp1km\\c[0]就到尽头了……",
+      "previous_translation": "我相信这个区域会结束\r\n之后 \\c[52]$tmp1km\\c[0].",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "確か…この地帯は、\r\nあと\\c[52]$tmp1km\\c[0]で終わるはずだ…。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_16_cool_woman_ev_talk.txt",
+          "slot": 3,
+          "japanese_slot_index": 3,
+          "command_signature_sha256": "7809403d8baf1559fc3aa921821c8d24158a9ae110006adfa5d4c51c6ac47c18"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_16_cool_woman_ev_talk.txt/4",
+      "source_sha256": "b049afda1bde802648d05328d0c4861fab2cbb07d34702bbfaff68dc7bbd8305",
+      "source": "I haven't been to the next area,\r\nso I don't know how long it goes\r\non for. Stay well.",
+      "translation": "下一片区域我也没去过，\r\n所以不知道它究竟有多长。\r\n保重。",
+      "previous_translation": "我没去过下个区域\r\n所以我不知道它会持续多久\r\n开始 保持良好的状态。",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "次の地帯は俺も行ったことがないのでな、\r\nどれほど長いかは分からん。達者でな。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_16_cool_woman_ev_talk.txt",
+          "slot": 4,
+          "japanese_slot_index": 4,
+          "command_signature_sha256": "7809403d8baf1559fc3aa921821c8d24158a9ae110006adfa5d4c51c6ac47c18"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_16_cool_woman_ev_talk.txt/5",
+      "source_sha256": "edc65826ea9f9d7ba5ea5c7dbe14297477181d2df8306ea7ce1e60e7736f8a88",
+      "source": "The next area goes on for... \\c[52]$tmp2km\\c[0],\r\nI believe. Well then, take care.",
+      "translation": "下一片区域大约会延续\r\n\\c[52]$tmp2km\\c[0]。那么，路上小心。",
+      "previous_translation": "下一个区域继续... \\c[52]$tmp2km\\c[0],\r\n相信吗? 那么, 小心点.",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "次の地帯は確か…\\c[52]$tmp2km\\c[0]ほど続くはずだ。\r\nそれでは気をつけてな。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_16_cool_woman_ev_talk.txt",
+          "slot": 5,
+          "japanese_slot_index": 5,
+          "command_signature_sha256": "7809403d8baf1559fc3aa921821c8d24158a9ae110006adfa5d4c51c6ac47c18"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_170_summoner_ev_find.txt/0",
+      "source_sha256": "14a1c46dcc3cf451f889941a25c5d3854f63ef7bff9af39a062558a3e208d642",
+      "source": "Mwahaha...",
+      "translation": "嘻嘻嘻……",
+      "previous_translation": "玛哈哈...",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "クックックッ……。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_170_summoner_ev_find.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "839ce1a9d4e33e77e95558b730e35f10258ebc3417d99ba2bd0edd5c92fd8a18"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_170_summoner_ev_talk.txt/0",
+      "source_sha256": "9930fb548ed11cfd8d863286d57428af82217e2e4849d512bab2a76b95bba8af",
+      "source": "No matter where,\r\nI'll fly with you!",
+      "translation": "无论你在哪里，\r\n我都会飞到你身边来！",
+      "previous_translation": "无论在哪里,\r\n我和你一起飞!",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "どこからでも\r\nアナタのもとに飛んできますぞぉー！",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_170_summoner_ev_talk.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "5281bd9ed6d8aafdf8d1f416d15ab2ab4728cc983b9ef6eb43e4da82aedc3ebe"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_170_summoner_ev_talk.txt/1",
+      "source_sha256": "709c08c979854073f44fbca96b21f156b4194237e12147230a60be995631f7b7",
+      "source": "<TARGET> burst out\r\nhotly.",
+      "translation": "<TARGET>\r\n热情而坚定地宣告。",
+      "previous_translation": "<TARGET> 爆发出来\r\n热的。",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "<TARGET>は\r\n強く、熱く言い放った！",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_170_summoner_ev_talk.txt",
+          "slot": 1,
+          "japanese_slot_index": 1,
+          "command_signature_sha256": "5281bd9ed6d8aafdf8d1f416d15ab2ab4728cc983b9ef6eb43e4da82aedc3ebe"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_171_golden_bird_ev_talk.txt/0",
+      "source_sha256": "6cceeaba5f2e5b069f0259a967bdd49c7cbfd6431ffab92a8eb64417bb1928c9",
+      "source": "Tweet, tweet, tweeeet!",
+      "translation": "啾，啾，啾——！",
+      "previous_translation": "滴答,微博,滴答!",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "ピー、ピー、ピーー！",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_171_golden_bird_ev_talk.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "904d5f94cf532e740ccd6250720ef833b80770f8e3892ec3bd3ba779a9cfb2f7"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_171_golden_bird_ev_talk.txt/1",
+      "source_sha256": "730c7f37c9b24f4877e51e3a7e84f8845d879eb7f4778af9a5813a440f2c07c8",
+      "source": "<TARGET> chirped happily,\r\nlooking this way.",
+      "translation": "<TARGET>看着这边，\r\n开心地鸣叫着。",
+      "previous_translation": "<TARGET> 快乐地欢呼,\r\n这边看",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "<TARGET>はこちらを見て\r\nうれしそうに鳴いている。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_171_golden_bird_ev_talk.txt",
+          "slot": 1,
+          "japanese_slot_index": 1,
+          "command_signature_sha256": "904d5f94cf532e740ccd6250720ef833b80770f8e3892ec3bd3ba779a9cfb2f7"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_172_fang_fish_ev_talk.txt/0",
+      "source_sha256": "8019684bf7bf0fcfd5d00ce4b8196ffad9e7f2170f6120dbb350e5a446462e19",
+      "source": "(splish, splash!)",
+      "translation": "（扑通，扑通！）",
+      "previous_translation": "(喷雾,喷水! )",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "（ピチャン、ピチャン！）",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_172_fang_fish_ev_talk.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "3ba2e42fdeedac3d2c20dcc0e09ae111021c4c9e24b0d6ffb5ed94e1b97a33a1"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_172_fang_fish_ev_talk.txt/1",
+      "source_sha256": "753f1efe536f8cc6bf1c431da82499febee0d72c404391e3aa01eb6d4a33f600",
+      "source": "<TARGET> is almost flying,\r\nsplashing enthusiastically\r\nin the water.",
+      "translation": "<TARGET>仿佛在飞翔一般，\r\n精神十足地\r\n在水中跃起。",
+      "previous_translation": "<TARGET> 几乎飞起来了\r\n热情地飘荡\r\n在水中。",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "<TARGET>は\r\nまるで飛んでいるかのように\r\n元気よく跳ねあがっている。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_172_fang_fish_ev_talk.txt",
+          "slot": 1,
+          "japanese_slot_index": 1,
+          "command_signature_sha256": "3ba2e42fdeedac3d2c20dcc0e09ae111021c4c9e24b0d6ffb5ed94e1b97a33a1"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_173_chaos_user_ev_find.txt/0",
+      "source_sha256": "c742f82eb26b1bb26687dbb666d45d138cbe25e85ff99d7a5e16f53c03c6e83d",
+      "source": "Be engulfed by chaos...",
+      "translation": "归于混沌吧……",
+      "previous_translation": "被混乱笼罩...",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "混沌とせよ……。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_173_chaos_user_ev_find.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "839ce1a9d4e33e77e95558b730e35f10258ebc3417d99ba2bd0edd5c92fd8a18"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_173_chaos_user_ev_talk.txt/0",
+      "source_sha256": "355df16c1cbbd498a0465ddada774d92eeba71e4cc660fcfc5b4fffa373ba7f6",
+      "source": "C-C-Chaos!\r\nWondrous chaos!",
+      "translation": "混、混、混沌！\r\n来吧来吧，混沌！！",
+      "previous_translation": "C -C -赵!\r\n不可思议的混乱!",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "カッ、カッ、カオス！\r\nほれほれ、カオス！！",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_173_chaos_user_ev_talk.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "5281bd9ed6d8aafdf8d1f416d15ab2ab4728cc983b9ef6eb43e4da82aedc3ebe"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_173_chaos_user_ev_talk.txt/1",
+      "source_sha256": "2d1926d0c4a6bbbf6a167ff183d53e520c2e62f52dea9f5e316461ad2e9c68e2",
+      "source": "<TARGET> sings vigorously.\r\nBut honestly isn't very good...",
+      "translation": "<TARGET>自信满满地唱着。\r\n不过说实话，唱得不太好……",
+      "previous_translation": "<TARGET> 大力唱歌。\r\n但说实话,这不太好...",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "自信満々に<TARGET>が歌っている。\r\nしかし正直うまくない……。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_173_chaos_user_ev_talk.txt",
+          "slot": 1,
+          "japanese_slot_index": 1,
+          "command_signature_sha256": "5281bd9ed6d8aafdf8d1f416d15ab2ab4728cc983b9ef6eb43e4da82aedc3ebe"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_174_golden_golem_ev_find.txt/0",
+      "source_sha256": "b9c06720675a75844284d0f507cfcfc0aae15aff085194f014d9ad628b88784f",
+      "source": "Roaaaar!",
+      "translation": "咕嗷嗷嗷……",
+      "previous_translation": "罗亚尔!",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "グオォォォォ…。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_174_golden_golem_ev_find.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "8181fc968619f50e34b73f03607349c335e06aabffb6bad5133f0c04cea66fe0"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_174_golden_golem_ev_talk.txt/0",
+      "source_sha256": "a4f118e16ea97a73052ed656c6e1cb1eaf06cddd11a57068651055e215e588d0",
+      "source": "(twinkle!)",
+      "translation": "（闪亮！）",
+      "previous_translation": "(闪电! )",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "（キラーン！）",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_174_golden_golem_ev_talk.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "63bbc38006abcf5c0a4575006e616ba7140f4e20fd6ecc14972f5a827c226c61"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_174_golden_golem_ev_talk.txt/1",
+      "source_sha256": "a95607254939986c12b6fa9a93f08b01f239c2dd521f117bf6d9c56be5549873",
+      "source": "<TARGET> is sparkling.\r\nTh-That's a little too bright...",
+      "translation": "<TARGET>正闪闪发光。\r\n太、太耀眼了……",
+      "previous_translation": "<TARGET> 闪闪发光\r\n这有点太明亮了...",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "<TARGET>が\r\n輝いている。まっ、まぶしい…。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_174_golden_golem_ev_talk.txt",
+          "slot": 1,
+          "japanese_slot_index": 1,
+          "command_signature_sha256": "63bbc38006abcf5c0a4575006e616ba7140f4e20fd6ecc14972f5a827c226c61"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_175_lava_golem_ev_find.txt/0",
+      "source_sha256": "b9c06720675a75844284d0f507cfcfc0aae15aff085194f014d9ad628b88784f",
+      "source": "Roaaaar!",
+      "translation": "咕嗷嗷嗷……",
+      "previous_translation": "罗亚尔!",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "グオォォォォ……。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_175_lava_golem_ev_find.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "839ce1a9d4e33e77e95558b730e35f10258ebc3417d99ba2bd0edd5c92fd8a18"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_175_lava_golem_ev_talk.txt/0",
+      "source_sha256": "effa9a59e8b504ff34480e972d7e90ffa00bb7f6cef1e1dd7a5ef26e06a72db9",
+      "source": "(kkrrrrrrrrrruuuuuuuuurrrrrrhhhh!)",
+      "translation": "（轰啊啊啊啊——！）",
+      "previous_translation": "（咕噜噜——！）",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "（ゴォォォォォォォォー！）",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_175_lava_golem_ev_talk.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "63bbc38006abcf5c0a4575006e616ba7140f4e20fd6ecc14972f5a827c226c61"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_175_lava_golem_ev_talk.txt/1",
+      "source_sha256": "38c822edf5814f95d5b418bf2c62dda8ab2e98583078e6b381d750c82ebd45e9",
+      "source": "<TARGET>'s ablaze.\r\nIt's so hot you can't get near.",
+      "translation": "<TARGET>全身都燃烧着。\r\n实在太热，根本\n无法靠近……",
+      "previous_translation": "<TARGET>烧着了\r\n太热了,你不能靠近。",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "<TARGET>の体が\r\n燃えさかっている。\r\n熱すぎて近づけない……。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_175_lava_golem_ev_talk.txt",
+          "slot": 1,
+          "japanese_slot_index": 1,
+          "command_signature_sha256": "63bbc38006abcf5c0a4575006e616ba7140f4e20fd6ecc14972f5a827c226c61"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_176_crystal_golem_ev_find.txt/0",
+      "source_sha256": "b9c06720675a75844284d0f507cfcfc0aae15aff085194f014d9ad628b88784f",
+      "source": "Roaaaar!",
+      "translation": "咕嗷嗷嗷……",
+      "previous_translation": "罗亚尔!",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "グオォォォォ……。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_176_crystal_golem_ev_find.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "839ce1a9d4e33e77e95558b730e35f10258ebc3417d99ba2bd0edd5c92fd8a18"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_176_crystal_golem_ev_talk.txt/0",
+      "source_sha256": "dba3ec890af56f2aefc7c337ed9c60368e02b9b1b994eeaf891e10d149e082ca",
+      "source": "(Sshhhhh-ING!)",
+      "translation": "（唰嗙——！）",
+      "previous_translation": "(叹气)",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "（シュピーン！）",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_176_crystal_golem_ev_talk.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "63bbc38006abcf5c0a4575006e616ba7140f4e20fd6ecc14972f5a827c226c61"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_176_crystal_golem_ev_talk.txt/1",
+      "source_sha256": "e802c7bf0720a8c5e67f800d979401cc532a7bc923adf99e07c0d0cc02f2b05c",
+      "source": "Blinding light reflects off \r\n<TARGET> and you avert your eyes.",
+      "translation": "强光反射在\r\n<TARGET>身上，\r\n刺得你不得不移开视线。",
+      "previous_translation": "闪光反射 \r\n<TARGET> 你却避开你的眼睛",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "<TARGET>の体に\r\n光が反射して目が痛い……。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_176_crystal_golem_ev_talk.txt",
+          "slot": 1,
+          "japanese_slot_index": 1,
+          "command_signature_sha256": "63bbc38006abcf5c0a4575006e616ba7140f4e20fd6ecc14972f5a827c226c61"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_177_shadow_ev_talk.txt/0",
+      "source_sha256": "5254cd65590050d8bd1f3c601cb99bf8a7c5761add5e3c125b390a371bd2040b",
+      "source": "Guffaw, hyuk hyuk hyuk.",
+      "translation": "咕呼，咕呼咕呼咕呼。",
+      "previous_translation": "哇哈哈，嘿嘿嘿。",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "グフッ、グフグフグフ。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_177_shadow_ev_talk.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "13cba417729c4106eee7a872f35892bc6915eacb90ef7d0e78e557c847d2997d"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_177_shadow_ev_talk.txt/1",
+      "source_sha256": "14adc8508e910bef4a1b51831216eccd2cdbb2efb188388e7f9b383abdbc4f4c",
+      "source": "<TARGET> seems to be\r\nlaughing, but you can't quite\r\nmake out where from.",
+      "translation": "<TARGET>似乎\r\n在笑，但完全\n搞不清笑声从哪里传来。",
+      "previous_translation": "<TARGET> 似乎有点...\r\n笑,但你无法完全\r\n弄清楚从哪来",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "<TARGET>が\r\n笑っているようだが\r\nいまいちどこにいるか分からない。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_177_shadow_ev_talk.txt",
+          "slot": 1,
+          "japanese_slot_index": 1,
+          "command_signature_sha256": "13cba417729c4106eee7a872f35892bc6915eacb90ef7d0e78e557c847d2997d"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_178_nightmare_ev_talk.txt/0",
+      "source_sha256": "a3988c08cab56d6b7bf8696f4ccc2dcae84a15f2582c6143cf8fff948fbe7e74",
+      "source": "Ne-eeeiiiiggghhh!",
+      "translation": "嘶——咴——！",
+      "previous_translation": "尼维吉格!",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "ヒヒーン！",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_178_nightmare_ev_talk.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "ef158d894a6c00dacbf4847babaa681c421b17e28931f537c8d909859accffae"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_178_nightmare_ev_talk.txt/1",
+      "source_sha256": "5e0ece027db546012c77160b1dd4415a7d8a3931eb5218cb9d352387330dbd53",
+      "source": "<TARGET> cheerfully\r\nnuzzles against you.",
+      "translation": "<TARGET>\r\n开心地蹭了蹭你。",
+      "previous_translation": "<TARGET> 开心的\r\n对你发牢骚",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "<TARGET>は\r\n楽しげに頬ずりをしてきた。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_178_nightmare_ev_talk.txt",
+          "slot": 1,
+          "japanese_slot_index": 1,
+          "command_signature_sha256": "ef158d894a6c00dacbf4847babaa681c421b17e28931f537c8d909859accffae"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_17_girl_ev_talk.txt/0",
+      "source_sha256": "987028702b33a7374631bfd598e1aaf8114afea5ebe4b4afd6e8a4ee48741381",
+      "source": "Wow, what a pretty lady!\r\nLady, are you a princess?\r\nLuckyyyy, I wanna be a princess too!",
+      "translation": "哇，好漂亮的姐姐！\r\n姐姐，你是公主吗？\r\n真好啊，我也想当公主！",
+      "previous_translation": "哇,多么美丽的女士!\r\n小姐,你是公主吗?\r\nLuckyyy,我也想当公主!",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "すごい、きれいなお姉ちゃん！\r\nお姉ちゃん、おひめさま？\r\nいいなあ、わたしもおひめさまになりたい！",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_17_girl_ev_talk.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "9415ae20c23e4fbdc866e202faff204561416e4a446080420857798e4d37fb23"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_17_girl_ev_talk.txt/1",
+      "source_sha256": "86e412ee7856fc0cbae1c0cd57c955d0d1b8494943773424ce101bff98b14098",
+      "source": "Princess, do you know the \"Forest\r\nGuardians\"? They're a radical nature\r\ngroup that hunts poachers.",
+      "translation": "公主，你知道“森林防卫队”吗？\r\n那是一个激进的自然保护团体，\r\n会追捕盗猎珍稀动物的人。",
+      "previous_translation": "公主,你知道森林吗?\r\n守护者? 他们是激进的天性\r\n猎捕偷猎者的团体",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "おひめさまは『森の防衛隊』って知ってる？\r\n数の少ない動物のみつりょう者を狩る、\r\nかげきは自然ほご団体なんだってー。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_17_girl_ev_talk.txt",
+          "slot": 1,
+          "japanese_slot_index": 1,
+          "command_signature_sha256": "9415ae20c23e4fbdc866e202faff204561416e4a446080420857798e4d37fb23"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_17_girl_ev_talk.txt/2",
+      "source_sha256": "8b4e8b4a23e4149fe578964dd56d6e313706476f9a7d364ced904d6b1d444224",
+      "source": "So, no hunting animals\r\nthat don't attack you.",
+      "translation": "所以，不可以猎杀\r\n不主动攻击你的动物哦。",
+      "previous_translation": "所以,没有猎物\r\n那不会攻击你。",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "だからね、攻撃してこない動物は\r\n狩っちゃダメだよ。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_17_girl_ev_talk.txt",
+          "slot": 2,
+          "japanese_slot_index": 2,
+          "command_signature_sha256": "9415ae20c23e4fbdc866e202faff204561416e4a446080420857798e4d37fb23"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_17_girl_ev_talk.txt/3",
+      "source_sha256": "c9790ba4ded8a0165a534155af4f87b1d8408023cb095ea2a5c5970c518d5767",
+      "source": "The \"Forest Guardians\" show no\r\nmercy to poachers. ...I wonder if they\r\nwould spare even a princess...",
+      "translation": "森林防卫队对盗猎者\r\n绝不留情。……不知道他们\r\n会不会放过公主呢……",
+      "previous_translation": "\"森林守护者\"显示没有\r\n怜悯偷猎者 ...我想知道他们是否\r\n哪怕是公主也会...",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "『森の防衛隊』はみつりょう者には\r\n容赦ないんだよ。……おひめさまでも、\r\n許してくれないのかなあ……。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_17_girl_ev_talk.txt",
+          "slot": 3,
+          "japanese_slot_index": 3,
+          "command_signature_sha256": "9415ae20c23e4fbdc866e202faff204561416e4a446080420857798e4d37fb23"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_17_girl_ev_talk.txt/4",
+      "source_sha256": "d23cea76724128d19533b4e37925fe7301eb6321e395edb251eb5f14e5b4cadc",
+      "source": "Hellooo!\r\nHey, hey, do you know of the\r\n\"Forest Guardians\"?",
+      "translation": "你好呀！\r\n喂喂，你知道\r\n“森林防卫队”那些人吗？",
+      "previous_translation": "哈罗!\r\n嘿,嘿,你知道\r\n\"森林守护者\"?",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "こんにちはー！\r\nねぇねぇ『森の防衛隊』って\r\n人たちのこと知ってる？",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_17_girl_ev_talk.txt",
+          "slot": 4,
+          "japanese_slot_index": 4,
+          "command_signature_sha256": "9415ae20c23e4fbdc866e202faff204561416e4a446080420857798e4d37fb23"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_17_girl_ev_talk.txt/5",
+      "source_sha256": "b42c6354a2a2dd8d9d6de31eca6e9fe1973dc0080ae417284036ea907bbfcc91",
+      "source": "They're a radical nature group\r\nthat hunts poachers.",
+      "translation": "那是一个激进的自然保护团体，\r\n会追捕盗猎珍稀动物的人。",
+      "previous_translation": "他们是一个激进的自然团体\r\n猎杀偷猎者。",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "数の少ない動物のみつりょう者を狩る、\r\nかげきは自然ほご団体なんだってー。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_17_girl_ev_talk.txt",
+          "slot": 5,
+          "japanese_slot_index": 5,
+          "command_signature_sha256": "9415ae20c23e4fbdc866e202faff204561416e4a446080420857798e4d37fb23"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_17_girl_ev_talk.txt/6",
+      "source_sha256": "8b4e8b4a23e4149fe578964dd56d6e313706476f9a7d364ced904d6b1d444224",
+      "source": "So, no hunting animals\r\nthat don't attack you.",
+      "translation": "所以，不可以猎杀\r\n不主动攻击你的动物哦。",
+      "previous_translation": "所以,没有猎物\r\n那不会攻击你。",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "だからね、攻撃してこない動物は\r\n狩っちゃダメだよ。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_17_girl_ev_talk.txt",
+          "slot": 6,
+          "japanese_slot_index": 6,
+          "command_signature_sha256": "9415ae20c23e4fbdc866e202faff204561416e4a446080420857798e4d37fb23"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "message/data/event/object/udb22_17_girl_ev_talk.txt/7",
+      "source_sha256": "7cc4a01064f1539084964796ae121818db5a7b391e1cbd3e505d0430b8fe7dfd",
+      "source": "The \"Forest Guardians\" show no\r\nmercy to poachers. Careful, or\r\nyou'll get poached yourself.",
+      "translation": "森林防卫队对盗猎者\r\n绝不留情，小心反过来\r\n被他们猎杀哦？",
+      "previous_translation": "\"森林守护者\"显示没有\r\n怜悯偷猎者 小心点,或者\r\n你会被偷的",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0039",
+      "japanese_check": {
+        "text": "『森の防衛隊』はみつりょう者には\r\n容赦ないから、あなたが狩られちゃうよ？",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_17_girl_ev_talk.txt",
+          "slot": 7,
+          "japanese_slot_index": 7,
+          "command_signature_sha256": "9415ae20c23e4fbdc866e202faff204561416e4a446080420857798e4d37fb23"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    }
+  ]
+}

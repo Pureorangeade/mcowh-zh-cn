@@ -1,0 +1,1083 @@
+{
+  "schema": 1,
+  "project": "mcowh-zh",
+  "batch": "0019",
+  "authored_text_sha256": "b86289a64d1c34efca8d4c2ba1179574be08074aa7e676de0971355433bad00f",
+  "entries": [
+    {
+      "id": "db/78/6/0",
+      "source_sha256": "36318da4068af8bf7c8613183c1f2053e90a86537438f40bd747d8e89a074ffb",
+      "source": "<L>You defeated Pluton in Very Hard mode.\r\n\r\n<C>\\c[52]<ITEM>",
+      "translation": "<L>你在极难模式中击败了Pluton。\r\n\r\n<C>\\c[52]<ITEM>",
+      "previous_translation": "<L>你以非常艰难的方式打败了普鲁顿\r\n\r\n<C>\\c[52]<ITEM>",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0019",
+      "japanese_check": {
+        "text": "<L>難易度VeryHardで冥王プルートンを倒した。\r\n\r\n<C>\\c[52]<ITEM>",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "クリアリワード / 冥王撃破（人類には早すぎる旅 で冥王撃破） / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "db/78/7/0",
+      "source_sha256": "e8514ba035004b638c62bbea0114ac28e16a9433272982ad87a0b2130674c0ef",
+      "source": "<L>You reached the End of the East in Easy mode.\r\n\r\n<C>\\c[52]<ITEM>",
+      "translation": "<L>你在简单模式中抵达了东方尽头。\r\n\r\n<C>\\c[52]<ITEM>",
+      "previous_translation": "<L>你以简单模式到达了东部尽头\r\n\r\n<C>\\c[52]<ITEM>",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0019",
+      "japanese_check": {
+        "text": "<L>難易度Easyで東の果てに到達した。\r\n\r\n<C>\\c[52]<ITEM>",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "クリアリワード / 果て到着（やさしい旅で果て2000kmクリア） / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "db/78/8/0",
+      "source_sha256": "d73bb3f76be675e3874257f2d444d537de17b3632ca5d48578addd195acdc49c",
+      "source": "<L>You reached the End of the East in Normal mode.\r\n\r\n<C>\\c[52]<ITEM>",
+      "translation": "<L>你在普通模式中抵达了东方尽头。\r\n\r\n<C>\\c[52]<ITEM>",
+      "previous_translation": "<L>你以正常模式到达了东端\r\n\r\n<C>\\c[52]<ITEM>",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0019",
+      "japanese_check": {
+        "text": "<L>難易度Normal以上で東の果てに到達した。\r\n\r\n<C>\\c[52]<ITEM>",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "クリアリワード / 果て到着（世界の果て2000kmクリア） / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "db/78/9/0",
+      "source_sha256": "efeb38133dd1755047fcbd7d985c509e284b8b2b1a6bcf449e9f1aa4431cf9d7",
+      "source": "<L>You traveled over 3000km in Normal mode\r\n<L>and reached the End of the East.\r\n\r\n<C>\\c[52]<ITEM>",
+      "translation": "<L>你在普通模式中旅行超过3000km，\r\n<L>并抵达了东方尽头。\r\n\r\n<C>\\c[52]<ITEM>",
+      "previous_translation": "<L>你旅行过 3000正常模式下公里\r\n<L>到达了东方的尽头\r\n\r\n<C>\\c[52]<ITEM>",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0019",
+      "japanese_check": {
+        "text": "<L>難易度Normal以上で3000km以上旅を続け、\r\n<L>東の果てに到達した。\r\n\r\n<C>\\c[52]<ITEM>",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "クリアリワード / 果て到着（世界の果て3000km以上でクリア） / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "db/78/10/0",
+      "source_sha256": "bcdab0f84792815aa8ba7dbf1678b68155e085d782fbb79bf10e59fdae9b4aec",
+      "source": "<L>You reached the End of Dreams.\r\n\r\n<C>\\c[52]<ITEM>",
+      "translation": "<L>你抵达了梦境尽头。\r\n\r\n<C>\\c[52]<ITEM>",
+      "previous_translation": "<L>你到了梦的尽头\r\n\r\n<C>\\c[52]<ITEM>",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0019",
+      "japanese_check": {
+        "text": "<L>夢幻回廊の果てに到達した。\r\n\r\n<C>\\c[52]<ITEM>",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "クリアリワード / 夢幻の果て（次元回廊の果て3000kmクリア） / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "db/78/11/0",
+      "source_sha256": "3995c9d101eefa9c99087c8d84dfb0f82492f51f4730baf4f20d7f568a172053",
+      "source": "<L>You traveled over 4000 km down the Corridor\r\n<L>of Dreams and reached the End of Dreams.\r\n\r\n<C>\\c[52]<ITEM>",
+      "translation": "<L>你沿梦幻回廊旅行超过4000km，\r\n<L>并抵达了梦境尽头。\r\n\r\n<C>\\c[52]<ITEM>",
+      "previous_translation": "<L>你旅行过 4000 走廊下方一公里处\r\n<L>梦想和梦想的结束\r\n\r\n<C>\\c[52]<ITEM>",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0019",
+      "japanese_check": {
+        "text": "<L>夢幻回廊を4000km以上進んで、夢幻の果てに到達した。\r\n\r\n<C>\\c[52]<ITEM>",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "クリアリワード / 夢幻の果て（次元回廊の果て4000km以上でクリア） / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "db/78/31/0",
+      "source_sha256": "05a40e258114cc53696e05c44451f94fdc8864ab92a385e70858398853b9efd5",
+      "source": "<L>Your friendship with Keyton deepened and you\r\n<L>took an oath to always fight together.\r\n\r\n<C>\\c[52]<ITEM>",
+      "translation": "<L>你与凯顿的友谊更加深厚，\r\n<L>并立下了永远并肩作战的誓言。\r\n\r\n<C>\\c[52]<ITEM>",
+      "previous_translation": "<L>你和凯顿的友谊加深了\r\n<L>发誓要永远一起战斗\r\n\r\n<C>\\c[52]<ITEM>",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0019",
+      "japanese_check": {
+        "text": "<L>キタンとの友情を深め、ともに戦うと誓い合った。\r\n\r\n<C>\\c[52]<ITEM>",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "クリアリワード / 仲間（キタンの好感度MAXで通常クリア） / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "db/78/32/0",
+      "source_sha256": "ef9d29bd7c8a78faa9c6d68dfd3d643ce09d7245fb18c55b6b2c4f9bd17083f1",
+      "source": "<L>You formed a strong bond with Nami and\r\n<L>listened to her sworn promise.\r\n\r\n<C>\\c[52]<ITEM>",
+      "translation": "<L>你与Nami建立了深厚的羁绊，\r\n<L>并听到了她立下的誓言。\r\n\r\n<C>\\c[52]<ITEM>",
+      "previous_translation": "<L>你和娜美的关系很紧密\r\n<L>听她的誓约\r\n\r\n<C>\\c[52]<ITEM>",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0019",
+      "japanese_check": {
+        "text": "<L>ナミィと厚い信頼関係を結び、自身の使命を果たすという\r\n<L>彼女の誓いを受け止めた。\r\n\r\n<C>\\c[52]<ITEM>",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "クリアリワード / 仲間（ナミィの好感度MAXで通常クリア） / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "db/78/33/0",
+      "source_sha256": "ce94fd14be1f438a31a7a2af9e93fe4e5027605b4db9dbd226013d6bf6bbfedd",
+      "source": "<L>After learning about Cole's past, you fought together\r\n<L>until the very end to save the world.\r\n\r\n<C>\\c[52]<ITEM>",
+      "translation": "<L>得知Cole的过去后，你们并肩战斗到了最后，\r\n<L>拯救了世界。\r\n\r\n<C>\\c[52]<ITEM>",
+      "previous_translation": "<L>了解科尔的过去后 你们一起战斗\r\n<L>直到最终拯救世界\r\n\r\n<C>\\c[52]<ITEM>",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0019",
+      "japanese_check": {
+        "text": "<L>コールの過去を聞き、世界のためにと言った彼と\r\n<L>最後までともに戦った。\r\n\r\n<C>\\c[52]<ITEM>",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "クリアリワード / 仲間（コールの好感度MAXで通常クリア） / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "db/78/34/0",
+      "source_sha256": "f66ae6e9569c7c1022a31943400fc6950465390564f910a54ac7cbf2932815e7",
+      "source": "<L>Draco continued growing during your travels and\r\n<L>you watched over him until he finally learned to fly.\r\n\r\n<C>\\c[52]<ITEM>",
+      "translation": "<L>Draco在旅途中不断成长，\r\n<L>你一直守护着他，直到他终于学会飞行。\r\n\r\n<C>\\c[52]<ITEM>",
+      "previous_translation": "<L>德拉科在你的旅途中继续成长\r\n<L>你一直看着他 直到他学会飞行\r\n\r\n<C>\\c[52]<ITEM>",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0019",
+      "japanese_check": {
+        "text": "<L>ドラコが旅の中で成長し、飛べるようになるまでを見守った。\r\n\r\n<C>\\c[52]<ITEM>",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "クリアリワード / 仲間（ドラコの好感度MAXで通常クリア） / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "db/78/35/0",
+      "source_sha256": "4d142a622f30742466d4257b02816da2f4dd1622de0fa92cb89753066f6dfd0a",
+      "source": "<L>You showed Merril the true meaning of strength and\r\n<L>fought together to bring peace back to the world.\r\n\r\n<C>\\c[52]<ITEM>",
+      "translation": "<L>你让Merril明白了力量的真正意义，\r\n<L>并一起为世界带回和平而战。\r\n\r\n<C>\\c[52]<ITEM>",
+      "previous_translation": "<L>你让Merril知道力量的真正意义\r\n<L>携手努力,使世界恢复和平。\r\n\r\n<C>\\c[52]<ITEM>",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0019",
+      "japanese_check": {
+        "text": "<L>メアルに強さを示し、平和を取り戻すためともに戦った。\r\n\r\n<C>\\c[52]<ITEM>",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "クリアリワード / 仲間（メアルの好感度MAXで通常クリア） / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "db/78/36/0",
+      "source_sha256": "ad766fa41196be6058df89a4b81e95d9e378eac984a910331ddfd94ff55895e3",
+      "source": "<L>You learned the truth about Baldur and\r\n<L>found the item that will save his father.\r\n\r\n<C>\\c[52]<ITEM>",
+      "translation": "<L>你得知了Baldur的真相，\r\n<L>并找到了能够拯救他父亲的物品。\r\n\r\n<C>\\c[52]<ITEM>",
+      "previous_translation": "<L>你了解了巴尔杜尔的真相\r\n<L>找到了能救他父亲的东西\r\n\r\n<C>\\c[52]<ITEM>",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0019",
+      "japanese_check": {
+        "text": "<L>バルドフの本心を引き出し、彼の父を助けるアイテムを\r\n<L>ともに手に入れた。\r\n\r\n<C>\\c[52]<ITEM>",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "クリアリワード / 仲間（バルドフの好感度MAXで通常クリア） / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "db/78/37/0",
+      "source_sha256": "e4be403951f98c4a3f34be9e2e910925c4c10731d2cc8f3ac8e7097b39172660",
+      "source": "<L>You pushed through to the end to save the World\r\n<L>and finally earned Aerdou's loyalty.\r\n\r\n<C>\\c[52]<ITEM>",
+      "translation": "<L>你坚持到最后拯救了世界，\r\n<L>终于赢得了Aerdou的忠诚。\r\n\r\n<C>\\c[52]<ITEM>",
+      "previous_translation": "<L>你为了拯救世界而冲向尽头\r\n<L>终于赢得了艾尔杜的忠诚\r\n\r\n<C>\\c[52]<ITEM>",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0019",
+      "japanese_check": {
+        "text": "<L>世界を救うために突き進み、エアドーの忠誠を受け入れた。\r\n\r\n<C>\\c[52]<ITEM>",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "クリアリワード / 仲間（エアドーの好感度MAXで通常クリア） / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "db/78/38/0",
+      "source_sha256": "271b528aa885e6682aaaf931f5fcfba336744ba489eaa4e2ff7fa842bafd874d",
+      "source": "<L>You protected the bond between Coco & Muddy and\r\n<L>fought to create a world where Coco can be happy.\r\n\r\n<C>\\c[52]<ITEM>",
+      "translation": "<L>你守护了Coco与泥泥的羁绊，\r\n<L>为创造一个Coco能够幸福生活的世界而战。\r\n\r\n<C>\\c[52]<ITEM>",
+      "previous_translation": "<L>你保护了可可和泥土之间的纽带\r\n<L>为了创造一个可可可以快乐的世界而奋斗\r\n\r\n<C>\\c[52]<ITEM>",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0019",
+      "japanese_check": {
+        "text": "<L>ココとツチクレのキズナを見守り、ココが笑って暮らせる世界のために\r\n<L>ツチクレとともに戦った。\r\n\r\n<C>\\c[52]<ITEM>",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "クリアリワード / 仲間（ココとツチクレの好感度MAXで通常クリア） / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "db/78/39/0",
+      "source_sha256": "eea978b80468739b5fbac7e1a2779e20b9b671dd943e8e2874dd55b6e13f9c01",
+      "source": "<L>Everyone accepted Dosey, even after she turned into\r\n<L>a wolf, and fought together until the end.\r\n\r\n<C>\\c[52]<ITEM>",
+      "translation": "<L>即使多西变成狼，大家仍然接纳了她，\r\n<L>并肩战斗到了最后。\r\n\r\n<C>\\c[52]<ITEM>",
+      "previous_translation": "<L>所有人都接受多西,即使她变成\r\n<L>狼,并战斗到最后。\r\n\r\n<C>\\c[52]<ITEM>",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0019",
+      "japanese_check": {
+        "text": "<L>ネムリの獣化してしまうところも仲間として受け入れ、\r\n<L>最後までともに戦った。\r\n\r\n<C>\\c[52]<ITEM>",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "クリアリワード / 仲間（ネムリの好感度MAXで通常クリア） / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "db/78/40/0",
+      "source_sha256": "fa0a136f7767781d9c4e441e8d67540132ec1e8d12c7f51746bbeaa87321db60",
+      "source": "<L>You journeyed with the lively dreamer Olga\r\n<L>and saw your mission through to the end.\r\n\r\n<C>\\c[52]<ITEM>",
+      "translation": "<L>你与充满活力的梦想家Olga同行，\r\n<L>并把自己的使命贯彻到了最后。\r\n\r\n<C>\\c[52]<ITEM>",
+      "previous_translation": "<L>你和梦想家奥尔加一起旅行\r\n<L>并看到了你的使命直到最后。\r\n\r\n<C>\\c[52]<ITEM>",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0019",
+      "japanese_check": {
+        "text": "<L>夢を持ってパワフルに生きるオールとともに旅を続け、\r\n<L>自身の使命を果たした。\r\n\r\n<C>\\c[52]<ITEM>",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "クリアリワード / 仲間（オールの好感度MAXで通常クリア） / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "db/78/41/0",
+      "source_sha256": "584a7a8f1a4b6d53b78dbf4c2e0252522e05cd782a32c50fab0032ac3176718b",
+      "source": "<L>You and Alma gradually reached an understanding\r\n<L>and extinguished the Shine Raid.\r\n\r\n<C>\\c[52]<ITEM>",
+      "translation": "<L>你与阿尔玛逐渐相互理解，\r\n<L>并消灭了光之灾厄。\r\n\r\n<C>\\c[52]<ITEM>",
+      "previous_translation": "<L>你和阿尔玛逐渐达成谅解\r\n<L>并扑灭了光辉猛兽。\r\n\r\n<C>\\c[52]<ITEM>",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0019",
+      "japanese_check": {
+        "text": "<L>アルマと心を通わせ、シャインレイドを消滅させた。\r\n\r\n<C>\\c[52]<ITEM>",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "クリアリワード / 仲間（アルマの好感度MAXで光撃破） / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "db/78/51/0",
+      "source_sha256": "b2f7c0ca5b5485e7fbbd3735a5b5f84e8d3fe04c37c28f323824f3778ea89c92",
+      "source": "<L>After learning how to read the stars, you continued\r\n<L>down the path of an astrologist.\r\n\r\n<C>\\c[52]<ITEM>",
+      "translation": "<L>学会解读星象后，\r\n<L>你继续走上了占星术士之路。\r\n\r\n<C>\\c[52]<ITEM>",
+      "previous_translation": "<L>学了怎么看星星之后,你继续\r\n<L>在占星学家的路上\r\n\r\n<C>\\c[52]<ITEM>",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0019",
+      "japanese_check": {
+        "text": "<L>星読みの占術を会得し、占星術士としての道を歩き始めた。\r\n\r\n<C>\\c[52]<ITEM>",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "クリアリワード / 占星術師（クリア） / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "db/78/52/0",
+      "source_sha256": "c09c60f2bf5eec81f8ca4525cf8a6bddbfc8e3f4fe603c6bd2f9024b684984f2",
+      "source": "<L>After advancing your research in fortunetelling,\r\n<L>you became an astrologist that helped many people.\r\n\r\n<C>\\c[52]<ITEM>",
+      "translation": "<L>深造占卜术后，\r\n<L>你成为一名帮助了许多人的占星术士。\r\n\r\n<C>\\c[52]<ITEM>",
+      "previous_translation": "<L>在推进你的算命研究之后\r\n<L>你成了一个对许多人有帮助的占星学家\r\n\r\n<C>\\c[52]<ITEM>",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0019",
+      "japanese_check": {
+        "text": "<L>占星術士として占術の研究を進め、磨いた力で人々を助けた。\r\n\r\n<C>\\c[52]<ITEM>",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "クリアリワード / 占星術師（占星術師でクリア） / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "db/78/53/0",
+      "source_sha256": "3f66875f17763fb5cfcc1be875754bd7d7b75dfa589678f0be4279c0694de0d7",
+      "source": "<L>After hunting down a legendary beast, you continued\r\n<L>down the path of beast hunter.\r\n\r\n<C>\\c[52]<ITEM>",
+      "translation": "<L>猎杀传说中的野兽后，\r\n<L>你继续走上了幻兽猎人的道路。\r\n\r\n<C>\\c[52]<ITEM>",
+      "previous_translation": "<L>在猎杀传奇的野兽之后,你继续\r\n<L>在野兽猎人的路上\r\n\r\n<C>\\c[52]<ITEM>",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0019",
+      "japanese_check": {
+        "text": "<L>伝説の魔物を狩り、幻獣ハンターとしての道を歩き始めた。\r\n\r\n<C>\\c[52]<ITEM>",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "クリアリワード / 幻獣ハンター（クリア） / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "db/78/54/0",
+      "source_sha256": "355e4b6c1032a113caa7632bea9f18c25368d6ffafa623dc884a0bb0b58a7e80",
+      "source": "<L>You defeated a legendary beast and became a\r\n<L>world-renowned beast hunter.\r\n\r\n<C>\\c[52]<ITEM>",
+      "translation": "<L>你击败了一只传说野兽，\r\n<L>成为举世闻名的幻兽猎人。\r\n\r\n<C>\\c[52]<ITEM>",
+      "previous_translation": "<L>你打败了传奇的野兽,成为了\r\n<L>世界知名野兽猎人\r\n\r\n<C>\\c[52]<ITEM>",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0019",
+      "japanese_check": {
+        "text": "<L>幻獣ハンターとして伝説の魔物を狩り、名を揚げた。\r\n\r\n<C>\\c[52]<ITEM>",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "クリアリワード / 幻獣ハンター（幻獣ハンターでクリア） / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "db/78/55/0",
+      "source_sha256": "9d35ee77725f8491f14e09ff79433f8357f69621cdb5433d22e0ab074df0f308",
+      "source": "<L>You ate Chanko-nabe.\r\n\r\n<C>\\c[52]<ITEM>",
+      "translation": "<L>你吃了相扑锅。\r\n\r\n<C>\\c[52]<ITEM>",
+      "previous_translation": "<L>你吃了钱可奈比\r\n\r\n<C>\\c[52]<ITEM>",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0019",
+      "japanese_check": {
+        "text": "<L>ちゃんこ鍋を味わった。\r\n\r\n<C>\\c[52]<ITEM>",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "クリアリワード / 力士（クリア） / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "db/78/56/0",
+      "source_sha256": "3602b77e0b4624ba83d144a9625d3321320cca074e67670be3e001973cfc5564",
+      "source": "<L>You finally ate real Chanko-nabe.\r\n\r\n<C>\\c[52]<ITEM>",
+      "translation": "<L>你终于吃到了真正的相扑锅。\r\n\r\n<C>\\c[52]<ITEM>",
+      "previous_translation": "<L>你终于吃了真正的Chanko -nabe。\r\n\r\n<C>\\c[52]<ITEM>",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0019",
+      "japanese_check": {
+        "text": "<L>真のちゃんこ鍋を味わった。\r\n\r\n<C>\\c[52]<ITEM>",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "クリアリワード / 力士（力士でクリア） / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "db/78/57/0",
+      "source_sha256": "d8cae5d2465115a15eda83ea8127dc4977f345bb60325a70de3993ab4cd9f810",
+      "source": "<L>You hatched a holy dragon egg and\r\n<L>formed a deep bond with the dragon.\r\n\r\n<C>\\c[52]<ITEM>",
+      "translation": "<L>你孵化了一枚神圣龙蛋，\r\n<L>并与幼龙建立了深厚的羁绊。\r\n\r\n<C>\\c[52]<ITEM>",
+      "previous_translation": "<L>你孵化了一个神圣的龙蛋\r\n<L>形成了与龙的深层联系\r\n\r\n<C>\\c[52]<ITEM>",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0019",
+      "japanese_check": {
+        "text": "<L>聖竜を無事に孵化させ、家族のように絆を深めた。\r\n\r\n<C>\\c[52]<ITEM>",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "クリアリワード / 竜人（クリア） / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "db/78/58/0",
+      "source_sha256": "d26a87419921f4fb3a88e89ba82166d7fe6fa9b1e128019cc334d3991b1f70e6",
+      "source": "<L>After safely hatching a holy dragon, you watch as\r\n<L>Draco and the dragon form a deep bond.\r\n\r\n<C>\\c[52]<ITEM>",
+      "translation": "<L>神圣幼龙平安孵化后，\r\n<L>你看着Draco与它建立了深厚的羁绊。\r\n\r\n<C>\\c[52]<ITEM>",
+      "previous_translation": "<L>安全孵化圣龙后,你看着\r\n<L>德拉科和龙形成了深厚的纽带\r\n\r\n<C>\\c[52]<ITEM>",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0019",
+      "japanese_check": {
+        "text": "<L>聖竜を無事に孵化させ、ドラコと聖竜が兄弟のように\r\n<L>絆を深めるのを見守った。\r\n\r\n<C>\\c[52]<ITEM>",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "クリアリワード / 竜人（ドラコを連れてクリア） / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "db/78/59/0",
+      "source_sha256": "11e6fa3b3bdfa11e4c427ea43402f6e00f64c6c89f9aedbff3e82bf580f32c9e",
+      "source": "<L>You honored the samurai's request and\r\n<L>protected the princess.\r\n\r\n<C>\\c[52]<ITEM>",
+      "translation": "<L>你履行了武士的请求，\r\n<L>保护了公主。\r\n\r\n<C>\\c[52]<ITEM>",
+      "previous_translation": "<L>你尊重武士的要求\r\n<L>保护公主\r\n\r\n<C>\\c[52]<ITEM>",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0019",
+      "japanese_check": {
+        "text": "<L>侍の頼みを聞いて姫を守り抜いた。\r\n\r\n<C>\\c[52]<ITEM>",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "クリアリワード / 侍（クリア） / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "db/78/60/0",
+      "source_sha256": "a809d923cfb02d868340a29ce844f684e11ab4030d8fb7c3261cc8374f92d9c7",
+      "source": "<L>After accepting a request from your samurai brethren,\r\n<L>you protected the princess until the end.\r\n\r\n<C>\\c[52]<ITEM>",
+      "translation": "<L>接受武士同胞的请求后，\r\n<L>你一直保护公主到最后一刻。\r\n\r\n<C>\\c[52]<ITEM>",
+      "previous_translation": "<L>接受武士兄弟的要求之后\r\n<L>你保护公主直到最后\r\n\r\n<C>\\c[52]<ITEM>",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0019",
+      "japanese_check": {
+        "text": "<L>侍として同胞の頼みを聞き、姫を守り抜いた。\r\n\r\n<C>\\c[52]<ITEM>",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "クリアリワード / 侍（侍でクリア） / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "db/78/61/0",
+      "source_sha256": "491e3a45e4d668468c1ccbfabe22c5bd0184fcabb8e3558a91002079bad360af",
+      "source": "<L>You defeated the Demon Lord after a fierce battle.\r\n\r\n<C>\\c[52]<ITEM>",
+      "translation": "<L>经过激烈战斗，你击败了魔王。\r\n\r\n<C>\\c[52]<ITEM>",
+      "previous_translation": "<L>在一场激烈的战斗之后 你打败了魔王\r\n\r\n<C>\\c[52]<ITEM>",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0019",
+      "japanese_check": {
+        "text": "<L>魔王との激闘を制した。\r\n\r\n<C>\\c[52]<ITEM>",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "クリアリワード / 片道勇者（クリア） / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "db/78/62/0",
+      "source_sha256": "39db537c9b4e71269ea800250ee81a70d101de8f04879823bef403c4a9b0fe02",
+      "source": "<L>After a life or death struggle with the Demon Lord,\r\n<L>you ended that battle as a victorious hero.\r\n\r\n<C>\\c[52]<ITEM>",
+      "translation": "<L>与魔王经历生死搏斗后，\r\n<L>你作为胜利的英雄为那场战斗画上句号。\r\n\r\n<C>\\c[52]<ITEM>",
+      "previous_translation": "<L>在和恶魔主争斗之后\r\n<L>你结束了这场战斗 作为一个胜利的英雄。\r\n\r\n<C>\\c[52]<ITEM>",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0019",
+      "japanese_check": {
+        "text": "<L>勇者として魔王と死闘を繰り広げ、勝利を手にした。\r\n\r\n<C>\\c[52]<ITEM>",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "クリアリワード / 片道勇者（片道勇者でクリア） / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "db/78/98/0",
+      "source_sha256": "5d8aca5f09c7af972b16bc726d5cdcf5c108afc46a139b377eb955dbc2aa8eeb",
+      "source": "<L>After bearing the burden of your mission as hero,\r\n<L>you defeated the Fallen Angel.\r\n\r\n<C>\\c[52]<ITEM>",
+      "translation": "<L>背负身为勇者的使命后，\r\n<L>你击败了堕天使。\r\n\r\n<C>\\c[52]<ITEM>",
+      "previous_translation": "<L>在承担你作为英雄的任务之后\r\n<L>你打败了堕落天使\r\n\r\n<C>\\c[52]<ITEM>",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0019",
+      "japanese_check": {
+        "text": "<L>勇者として使命を背負った旅を体験し、堕天使を倒した。\r\n\r\n<C>\\c[52]<ITEM>",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "クリアリワード / 体験版 / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "db/78/99/0",
+      "source_sha256": "79f228a140bb4a0dea0188a8cac272c35ce7e6ffc8df857215591ae9a3e36bdd",
+      "source": "<L>After learning about the world and what it means to\r\n<L>be a hero, you defeated the Fallen Angel.\r\n\r\n<C>\\c[52]<ITEM>",
+      "translation": "<L>在理解世界与勇者的意义后，\r\n<L>你击败了堕天使。\r\n\r\n<C>\\c[52]<ITEM>",
+      "previous_translation": "<L>了解世界和它意味着什么\r\n<L>做个英雄 你打败了堕落天使\r\n\r\n<C>\\c[52]<ITEM>",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0019",
+      "japanese_check": {
+        "text": "<L>この世界について、また勇者としての使命の果たし方について\r\n<L>理解し、堕天使を倒した。\r\n\r\n<C>\\c[52]<ITEM>",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "クリアリワード / チュートリアル / 文章",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "db/79/0/0",
+      "source_sha256": "7e30e8dd6e7b9f335012e244a161979c0663f72537b89c0688a4f23ce1c9a5ae",
+      "source": "Sword of Spirits",
+      "translation": "灵魂之剑",
+      "previous_translation": "灵之剑",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0019",
+      "japanese_check": {
+        "text": "英霊の剣",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "英霊石交換品目 / 追加アイテム名",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "db/79/1/0",
+      "source_sha256": "0073fa98d9e909492a9dd190ed1c093b7a044f0dbc9696fa94bcbb5af5c46e99",
+      "source": "Hero's Spear",
+      "translation": "勇者之枪",
+      "previous_translation": "英雄之矛",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0019",
+      "japanese_check": {
+        "text": "豪傑の槍",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "英霊石交換品目 / 追加アイテム名",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "db/79/2/0",
+      "source_sha256": "43e58fe6823338aa52465f2027b977761ce28bc74c0470707e790a15654df2b6",
+      "source": "Brute's Axe",
+      "translation": "蛮族战斧",
+      "previous_translation": "布鲁特的斧头",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0019",
+      "japanese_check": {
+        "text": "蛮勇の斧",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "英霊石交換品目 / 追加アイテム名",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "db/79/3/0",
+      "source_sha256": "0bf2a807a0dbd6177bff39c1edaed69764d9b6a4e446e2c5af346e2e023e68a6",
+      "source": "Hero's Bow",
+      "translation": "勇者之弓",
+      "previous_translation": "英雄之弓",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0019",
+      "japanese_check": {
+        "text": "英傑の弓",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "英霊石交換品目 / 追加アイテム名",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "db/79/4/0",
+      "source_sha256": "958e0a439918f75b880919ef7ef45e8786298452298e6e892390dbe7d1d6677e",
+      "source": "Wise Man's Staff",
+      "translation": "贤者法杖",
+      "previous_translation": "智者之手",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0019",
+      "japanese_check": {
+        "text": "賢人の杖",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "英霊石交換品目 / 追加アイテム名",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "db/79/5/0",
+      "source_sha256": "86acb24a6ba4f68b962512aeb2107738cc8f113e385479285c0ec407a1115756",
+      "source": "Book of Hell",
+      "translation": "地狱之书",
+      "previous_translation": "地狱之书",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0019",
+      "japanese_check": {
+        "text": "地獄の書",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "英霊石交換品目 / 追加アイテム名",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "db/79/6/0",
+      "source_sha256": "f6cae1eac69764e1d36ad993d5fba5832a6ea68132535c093ed8fcf2dd4249f1",
+      "source": "Innocent Armor",
+      "translation": "无垢护甲",
+      "previous_translation": "无辜的盔甲",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0019",
+      "japanese_check": {
+        "text": "イノセントアーマー",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "英霊石交換品目 / 追加アイテム名",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "db/79/7/0",
+      "source_sha256": "b2ffca8ac260e6905ea0c34d30abb573d98ad301a3798cfb2faeaba518d0fc24",
+      "source": "Divine Arrow",
+      "translation": "神箭",
+      "previous_translation": "神圣箭头",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0019",
+      "japanese_check": {
+        "text": "ディバインアロー",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "英霊石交換品目 / 追加アイテム名",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "db/79/8/0",
+      "source_sha256": "117dcd7463ecf3c206729ec1b79155b53f6040edfdda2aadb8242807773697b5",
+      "source": "Splinter Arrow",
+      "translation": "碎片箭",
+      "previous_translation": "平滑箭头",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0019",
+      "japanese_check": {
+        "text": "スプリットアロー",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "英霊石交換品目 / 追加アイテム名",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "db/79/9/0",
+      "source_sha256": "322a1f0477abd5031a509c6755a537fbb60c9d52b5ffb7ad791f0a7dbc454a97",
+      "source": "Purity's Limit",
+      "translation": "纯净极限",
+      "previous_translation": "纯洁的极限",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0019",
+      "japanese_check": {
+        "text": "浄化の制約",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "英霊石交換品目 / 追加アイテム名",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "db/79/10/0",
+      "source_sha256": "256414df3156fc9674d22ef4a182c0cd250b69fb59456a473d2233fc1892998b",
+      "source": "BBQ Lunch Box",
+      "translation": "烧烤便当",
+      "previous_translation": "BBQ 午餐盒",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0019",
+      "japanese_check": {
+        "text": "焼き肉弁当",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "英霊石交換品目 / 追加アイテム名",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    },
+    {
+      "id": "db/79/11/0",
+      "source_sha256": "96960df1b644b58bf5100a51b8c7ec086f257509328bf0e935e898246c9207e6",
+      "source": "Burnt Flying Fish",
+      "translation": "熏制飞鱼",
+      "previous_translation": "燃烧的飞鱼",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0019",
+      "japanese_check": {
+        "text": "飛翔魚の燻製",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "英霊石交換品目 / 追加アイテム名",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+    }
+  ]
+}

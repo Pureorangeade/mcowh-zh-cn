@@ -1,0 +1,30 @@
+{
+  "schema": 1,
+  "version": "0.3.1-panel-zh",
+  "batch": "0066",
+  "date": "2026-11-08",
+  "approved_terms": 25,
+  "database_fields": 43,
+  "new_caption_catalogue_entries": 11,
+  "revised_existing_weight_captions": 2,
+  "batch_entries": 56,
+  "new_model_records": 54,
+  "current_counts": {
+    "llm_translated": 12109,
+    "retained_original": 7,
+    "retained_english": 36,
+    "retained_command": 63
+  },
+  "catalogue_entries": 12215,
+  "canonical_batches_verified": 66,
+  "python_tests_passed": 57,
+  "editor_core_passed": true,
+  "isolated_browser_passed": true,
+  "standalone_install_restore_steps_passed": 10,
+  "installed_resources_verified": 212,
+  "fonts_verified": 8,
+  "runtime_display_verified": false,
+  "actual_game_or_saves_modified": false,
+  "death_variable_issue_fixed": false,
+  "old_release_preserved": true
+}

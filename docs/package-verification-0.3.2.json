@@ -1,0 +1,19 @@
+{
+  "version": "0.3.2-panel-only",
+  "date": "2026-11-08",
+  "baseline": "0.3.0-llm-review",
+  "player_zip": "MCOWH-zh-CN-0.3.2-panel-only.zip",
+  "player_zip_bytes": 24187147,
+  "player_zip_sha256": "760376d829f421526582589846e24de30aba4b89962487c8b11eb4f142e77738",
+  "source_zip": "MCOWH-zh-CN-0.3.2-panel-only-source.zip",
+  "source_zip_sha256": "ca9c2dc142bff53f7e3234004c0f9a0f1295f4903dba378a4a537a808ac5631a",
+  "all_player_file_hashes_verified": 29,
+  "source_canonical_batches": 66,
+  "packaged_editor_matches_verified_working_editor": true,
+  "original_030_packages_preserved": true,
+  "changed_terms": 19,
+  "changed_database_fields": 29,
+  "other_200_resource_payloads_identical_to_030": true,
+  "actual_game_modified": false,
+  "runtime_display_verified": false
+}

@@ -1,0 +1,216 @@
+{
+  "app_id": 409000,
+  "steam_build_id": "1527978",
+  "files": [
+    {
+      "path": "MC_OneWayHeroics.exe",
+      "size": 3514880,
+      "sha256": "d0e7cb34119313a61bef149517d29b3adb886c37456d21b2c2301a38338f1e5e"
+    },
+    {
+      "path": "steam_api.dll",
+      "size": 186560,
+      "sha256": "0bdba265a140a963464b4fad889d7a8dede05aba8c914ab2e83026255b6a2f41"
+    },
+    {
+      "path": "D3D11/Data/archive.bin",
+      "size": 558756,
+      "sha256": "9bd8e16b4b307f835e59ebb07bb2587732bb0877acc399dc3d3512cb3fa9ff12"
+    },
+    {
+      "path": "D3D11/Data/data0000.bin",
+      "size": 12590448,
+      "sha256": "806f36fd590b8da6ab85b555e9e0f552184cdd1a9559b1b1382998d9eae73a76"
+    },
+    {
+      "path": "D3D11/Data/data0010.bin",
+      "size": 178589235,
+      "sha256": "7796101ab70331f58b5c85ad95b2f15805bdf381b03a9869635d89b30e1379b8"
+    },
+    {
+      "path": "D3D11/Data/data0011.bin",
+      "size": 162497975,
+      "sha256": "cb1d5c3adf8690d074d3048ab3edd64cb19fad3939c269146c8755e8d27d4008"
+    },
+    {
+      "path": "D3D11/Data/data0012.bin",
+      "size": 164195851,
+      "sha256": "57e214fa6a17af225314928356f781635884b1e72c2a06cb4846dcaf2c3aa54a"
+    },
+    {
+      "path": "D3D11/Data/data0013.bin",
+      "size": 163089491,
+      "sha256": "14863db3ff673e38108e90f793c4610b688cc610ff864230505fd2b8d39e4ae3"
+    },
+    {
+      "path": "D3D11/Data/data0100.bin",
+      "size": 17440,
+      "sha256": "7eaa2ae2e0849904b1b84e2225d46c79157c334d5ce2ec469847ec04d0588e8c"
+    },
+    {
+      "path": "D3D11/Data/data0200.bin",
+      "size": 6778272,
+      "sha256": "2f7bd17a8406f0829179002bb6da1e8f0703dfdb82ed618484d8635ab56c18ee"
+    },
+    {
+      "path": "D3D11/Data/data0300.bin",
+      "size": 24202288,
+      "sha256": "09f2c73c481da25ed11ade72ba7bdc73d6b39464ae98acdb804553792e867a68"
+    },
+    {
+      "path": "D3D11/Data/data0400.bin",
+      "size": 51838800,
+      "sha256": "2b1a6b5590f21581e1f04b6925c55ca067c10c9781145dc11ea5b9dcc6a86f17"
+    },
+    {
+      "path": "D3D11/Data/data0500.bin",
+      "size": 612624,
+      "sha256": "cfcb88e8f3c506d5adb9b6d1b0b31b44168459cfbda1b595f898ca85b55af325"
+    },
+    {
+      "path": "D3D11/Data/data0600.bin",
+      "size": 27117056,
+      "sha256": "87f784c82553baf6845e20eb324f290fafdda0a0a09ca16284b45c1fa46fe9f5"
+    },
+    {
+      "path": "D3D11/Data/data0601.bin",
+      "size": 175599904,
+      "sha256": "5d9840ceffb2b0390c53a6b10510bf6410d0a0586b136b4ac66deddfaa487b5d"
+    },
+    {
+      "path": "D3D11/Data/data0602.bin",
+      "size": 535375152,
+      "sha256": "73dde87b8ff19d46cb68f0c1e3c690dd1f21165a3ce8c6323cf603345afa8411"
+    },
+    {
+      "path": "D3D11/Data/data0700.bin",
+      "size": 30736,
+      "sha256": "b5474722327d7680497dada8198ca465e40431724fea2a68200500f1234452a8"
+    },
+    {
+      "path": "D3D11/Data/data0800.bin",
+      "size": 45123648,
+      "sha256": "1b0a964e97d5468a991100575bd2090ea12a838838a96a48c1e4cd4c3d14d346"
+    },
+    {
+      "path": "D3D11/Data/data0900.bin",
+      "size": 3872,
+      "sha256": "8884fbefc2ff549aab1c289fa413ea4a5df5821ee92a5aca546158634a98d6d2"
+    },
+    {
+      "path": "D3D11/Data/data1000.bin",
+      "size": 16416,
+      "sha256": "8ed592f3b0c9d8ff392f7ec913c541f7c1f8551804aa3369c1dcd3892d7bd6b4"
+    },
+    {
+      "path": "D3D11/Data/data1100.bin",
+      "size": 1851856,
+      "sha256": "4e78d2e95e1dd86ee049f2da4801667512a6e4b52133fb77e34c39f6770916bc"
+    },
+    {
+      "path": "D3D11/Data/data1101.bin",
+      "size": 100640,
+      "sha256": "e877daae2a2963189be97814e57b65bfc892c96127ed9d30b503b7de45f45243"
+    },
+    {
+      "path": "D3D11/Data/data1102.bin",
+      "size": 145964128,
+      "sha256": "10ee24cee1ccf637e0f4ad321775e8c7d23f4b1ca4f9cb952539410690cee34f"
+    },
+    {
+      "path": "D3D11/Data/data1103.bin",
+      "size": 399672320,
+      "sha256": "5d52650ccefd7fd6477d9db7916d332172e21861f2a72e00ff5952eb2ce3eb1d"
+    },
+    {
+      "path": "D3D11/Data/data1104.bin",
+      "size": 1084023312,
+      "sha256": "41c42d0afe0c913c51cef23680dfe1d4c717330adc851f4dc717e929a917e3fd"
+    },
+    {
+      "path": "D3D11/Data/data1105.bin",
+      "size": 1410016,
+      "sha256": "64bde7dc2b31c3a721e95a921599509ccbdb30f7cbbd84f2a38d925af3de2ac7"
+    },
+    {
+      "path": "D3D11/Data/data1106.bin",
+      "size": 691216,
+      "sha256": "c4be23f56c06f983fc0535a57a9c7b200a69b13be22f3741e6037aed6f8c9dfe"
+    },
+    {
+      "path": "D3D11/Data/data1107.bin",
+      "size": 4359856,
+      "sha256": "705c077acce3b0817bb42125260aaef6391eb8604fb1bdab74656e7c97d2b826"
+    },
+    {
+      "path": "D3D11/Data/data1108.bin",
+      "size": 5071376,
+      "sha256": "b6d459172d8b51cb8fa126b114996c55bda8154b1482b17caec8d2629a8d466f"
+    },
+    {
+      "path": "D3D11/Data/data1109.bin",
+      "size": 15422320,
+      "sha256": "8ecb24ca10487d8274086d1be63f0b1b2a6313b0c8ebfad6ffbfcce55c951290"
+    },
+    {
+      "path": "D3D11/Data/data1110.bin",
+      "size": 202768,
+      "sha256": "7576289223834becd9777cb9e0e0aecc98a63d1288d6b5fad8a8efe30857fd73"
+    },
+    {
+      "path": "D3D11/Data/data1200.bin",
+      "size": 28800,
+      "sha256": "894d441c734914c53127716061c9c8a96cdf9485542ad53ceb0722366dde27de"
+    },
+    {
+      "path": "D3D11/Data/data1300.bin",
+      "size": 17296,
+      "sha256": "014c7e43867a7adeec450d598e3cde5376478f8ebc5daf0503d36170a70c9bcc"
+    },
+    {
+      "path": "D3D11/Data/sound/XACT/BGM.xsb",
+      "size": 3173,
+      "sha256": "aaaf1703e1269fce05213d68bf22be6bc44f985e6f034c646930414467df34c2"
+    },
+    {
+      "path": "D3D11/Data/sound/XACT/BGM.xwb",
+      "size": 208506880,
+      "sha256": "748617be1b5dde2c8c3b4ae94a9626611a00c59ac0806e08841bf834ebb2bf52"
+    },
+    {
+      "path": "D3D11/Data/sound/XACT/oneway.xgs",
+      "size": 698,
+      "sha256": "1f62c72ecfb9b95cc7be02cc8b7e2866b4ede24a97caee64cef46ed5cc82ccf1"
+    },
+    {
+      "path": "D3D11/Data/sound/XACT/SE.xsb",
+      "size": 7710,
+      "sha256": "dd27f3e8d23a8b3cdc65251e15da78a81f57eb1a5bbcfec58c0535db9bbbb85e"
+    },
+    {
+      "path": "D3D11/Data/sound/XACT/SE.xwb",
+      "size": 40480172,
+      "sha256": "aa5b490fc87bca184cf3d403fd6bc7584529497fe93fe6fcb88075b8dbd0bc3c"
+    },
+    {
+      "path": "D3D11/Data/sound/XACT/VOICE.xsb",
+      "size": 94439,
+      "sha256": "45e1a5b337fb0ade582af1e574fe2f2f8215622c1bb75cec692468c0162f4c52"
+    },
+    {
+      "path": "D3D11/Data/sound/XACT/VOICE.xwb",
+      "size": 208504832,
+      "sha256": "c231d70a31849bf7b9d40bddbbc9f63692f5a5238247779da3853272c1ea597d"
+    },
+    {
+      "path": "D3D11/Data/sound/XACT/VOICE_US.xsb",
+      "size": 94439,
+      "sha256": "cfe886b8af0f182725055da7111827fbab63124a3ce417b9674535ab39c37bd0"
+    },
+    {
+      "path": "D3D11/Data/sound/XACT/VOICE_US.xwb",
+      "size": 233289728,
+      "sha256": "f5f7f14212b10792eb02a355c4caf7fd508bab31daac6a4144d7912d69a493de"
+    }
+  ]
+}

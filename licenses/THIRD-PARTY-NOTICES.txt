@@ -1,0 +1,3 @@
+Chinese glyphs: Noto Sans SC. Copyright 2014-2021 Adobe, Reserved Font Name Source. SIL OFL 1.1. Only generated Chinese glyph data is added.
+Runtime: CPython 3.12, python-lz4 4.3.2 and its LZ4 C library, Tcl/Tk 8.6. See the accompanying license files.
+The game and its original assets belong to their respective rights holders. This technical demo reconstructs modified resources from the player's original files.

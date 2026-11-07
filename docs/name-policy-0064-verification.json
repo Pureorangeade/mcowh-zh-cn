@@ -1,0 +1,30 @@
+{
+  "schema": 1,
+  "batch": "0064",
+  "date": "2026-11-07",
+  "user_policy": "All personal/character names temporarily retain shipped English spelling; overrides previous Chinese personal names.",
+  "revised_records": 389,
+  "new_translation_records": 0,
+  "registered_names": 39,
+  "registered_name_source_records": 780,
+  "current_counts": {
+    "llm_translated": 12055,
+    "retained_original": 7,
+    "retained_english": 79,
+    "retained_command": 63
+  },
+  "unanswered_questions": 0,
+  "existing_final_review_issues": 39,
+  "existing_final_review_affected_records": 501,
+  "name_registry_separate_from_existing_final_review": true,
+  "canonical_batches_verified": 64,
+  "current_model_records_verified": 12055,
+  "python_tests_passed": 55,
+  "editor_core_passed": true,
+  "isolated_browser_passed": true,
+  "source_controls_numbers_and_terms_verified": true,
+  "personal_name_policy_catalogue_check": 12204,
+  "game_started_or_modified": false,
+  "player_package_rebuilt": false,
+  "full_retranslation_complete": false
+}

@@ -1,0 +1,83 @@
+{
+  "schema": 1,
+  "date": "2026-11-07",
+  "patch_version": "0.1.1-demo",
+  "test_owner": "user",
+  "evidence": [
+    {
+      "attachment": "codex-clipboard-de2dabc0-0302-4a21-beca-c6d12c08d284.png",
+      "page": "options_menu",
+      "visible_chinese_display": "passed"
+    },
+    {
+      "attachment": "codex-clipboard-1c06c39e-b12d-49c0-8180-828533c542c2.png",
+      "page": "sound_settings",
+      "visible_chinese_display": "passed"
+    },
+    {
+      "attachment": "codex-clipboard-45a003bc-e1a4-4921-9618-b6fdeb237679.png",
+      "page": "equipment_wooden_shield",
+      "visible_chinese_display": "passed",
+      "observations": [
+        "name and multiline description readable",
+        "color and icon controls rendered",
+        "80%, +4 and +20% visible without obvious clipping"
+      ]
+    }
+  ],
+  "observations": {
+    "chinese_weight_consistent": true,
+    "visible_missing_or_garbled_chinese": false,
+    "visible_chinese_rotation_overlap_or_clipping": false
+  },
+  "pending": [
+    "other_settings_pages",
+    "menu_interaction_confirmation",
+    "other_resolutions_and_display_modes",
+    "tutorial_opening_dialogue",
+    "new_and_existing_save_flows",
+    "complete_tutorial_and_restore_gameplay"
+  ],
+  "runtime_display_verified": false,
+  "note": "Partial visual acceptance of the original three 0.1.1 pages. Later 0.2.0 feedback is recorded separately below; original attachments remain in chat. Overall runtime acceptance is incomplete.",
+  "tutorial_status": "not_triggered_by_user; does not block broad localization",
+  "feedback_0_2_0": {
+    "patch_version": "0.2.0-text-draft",
+    "test_owner": "user",
+    "evidence": [
+      {
+        "attachment": "codex-clipboard-e28fad9f-11e5-408f-8792-a491153a3e22.png",
+        "page": "title",
+        "issue": "Options text too large"
+      },
+      {
+        "attachment": "codex-clipboard-e11a5018-c999-49a4-96a5-b4a6c1ba8c18.png",
+        "page": "start_submenu",
+        "issue": "three options too large"
+      },
+      {
+        "attachment": "codex-clipboard-de860c5f-b067-4836-908f-3f75f3e2fa3d.png",
+        "page": "preparation",
+        "issue": "attribute abbreviations mistranslated"
+      },
+      {
+        "attachment": "codex-clipboard-e3736ad0-b306-4220-9249-1bd975bdbf8e.png",
+        "page": "loading_tip",
+        "issue": "machine translation still needs review"
+      },
+      {
+        "attachment": "codex-clipboard-99cbf019-aa50-487b-97c1-83e5f153b679.png",
+        "page": "character_status",
+        "issue": "attribute abbreviations mistranslated"
+      }
+    ],
+    "observations": [
+      "New Chinese visible in multiple pages",
+      "No request to continue font tuning",
+      "Menu layout and attribute terminology failed"
+    ],
+    "requested_policy": "Keep original English abbreviation labels under Status, Ability and Details; retain Chinese headings",
+    "fix_version": "0.2.1-text-draft",
+    "fix_runtime_verified": false
+  }
+}

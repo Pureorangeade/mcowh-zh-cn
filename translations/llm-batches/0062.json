@@ -1,0 +1,1512 @@
+{
+  "schema": 1,
+  "project": "mcowh-zh",
+  "batch": "0062",
+  "authored_text_sha256": "a82ff2970d1a5ec6cf4fa3bc1f1ebae19fe522f5a017be8fccbd9644bcb7d600",
+  "entries": [
+    {
+      "id": "message/data/event/object/udb22_503_cole_ev_appear.txt/0",
+      "source_sha256": "d2264bae59a63f6745901056a02e60c326c2b40afbaf4a8285289f78424e504d",
+      "source": "\\>Somewhere to the \\my[-4]\\i[7500]\\my[-4]\r\nyou sense someone friendly.",
+      "translation": "\\>在\\my[-4]\\i[7500]\\my[-4]方向不远的某处，\r\n你感觉到有人愿意成为同伴。",
+      "previous_translation": "\\>在距离你\\my[-4]\\i[7500]\\my[-4]格的某处，\r\n你感觉到有人愿意成为同伴。",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0062",
+      "japanese_check": {
+        "text": "\\>少し\\my[-4]\\i[7500]\\my[-4]のどこかに、\r\n仲間になりそうな者の気配を感じた。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_503_cole_ev_appear.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "b5c35f982c132c9a087eaefe94fe1ae0bcf833ae0a16755dfd37d90ad01c7fe4"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "supersedes_batch": "0054",
+      "revision_details": {
+        "reason": "Correct direction icon interpreted as tile distance; English/Japanese and related direction prompts checked."
+      }
+    },
+    {
+      "id": "message/data/event/object/udb22_504_draco_ev_appear.txt/0",
+      "source_sha256": "d2264bae59a63f6745901056a02e60c326c2b40afbaf4a8285289f78424e504d",
+      "source": "\\>Somewhere to the \\my[-4]\\i[7500]\\my[-4]\r\nyou sense someone friendly.",
+      "translation": "\\>在\\my[-4]\\i[7500]\\my[-4]方向不远的某处，\r\n你感觉到有人愿意成为同伴。",
+      "previous_translation": "\\>在距离你\\my[-4]\\i[7500]\\my[-4]格的某处，\r\n你感觉到有人愿意成为同伴。",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0062",
+      "japanese_check": {
+        "text": "\\>少し\\my[-4]\\i[7500]\\my[-4]のどこかに、\r\n仲間になりそうな者の気配を感じた。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_504_draco_ev_appear.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "b5c35f982c132c9a087eaefe94fe1ae0bcf833ae0a16755dfd37d90ad01c7fe4"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "supersedes_batch": "0054",
+      "revision_details": {
+        "reason": "Correct direction icon interpreted as tile distance; English/Japanese and related direction prompts checked."
+      }
+    },
+    {
+      "id": "message/data/event/object/udb22_505_merril_ev_appear.txt/0",
+      "source_sha256": "d2264bae59a63f6745901056a02e60c326c2b40afbaf4a8285289f78424e504d",
+      "source": "\\>Somewhere to the \\my[-4]\\i[7500]\\my[-4]\r\nyou sense someone friendly.",
+      "translation": "\\>在\\my[-4]\\i[7500]\\my[-4]方向不远的某处，\r\n你感觉到有人愿意成为同伴。",
+      "previous_translation": "\\>在距离你\\my[-4]\\i[7500]\\my[-4]格的某处，\r\n你感觉到有人愿意成为同伴。",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0062",
+      "japanese_check": {
+        "text": "\\>少し\\my[-4]\\i[7500]\\my[-4]のどこかに、\r\n仲間になりそうな者の気配を感じた。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_505_merril_ev_appear.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "b5c35f982c132c9a087eaefe94fe1ae0bcf833ae0a16755dfd37d90ad01c7fe4"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "supersedes_batch": "0054",
+      "revision_details": {
+        "reason": "Correct direction icon interpreted as tile distance; English/Japanese and related direction prompts checked."
+      }
+    },
+    {
+      "id": "message/data/event/object/udb22_506_baldur_ev_appear.txt/0",
+      "source_sha256": "d2264bae59a63f6745901056a02e60c326c2b40afbaf4a8285289f78424e504d",
+      "source": "\\>Somewhere to the \\my[-4]\\i[7500]\\my[-4]\r\nyou sense someone friendly.",
+      "translation": "\\>在\\my[-4]\\i[7500]\\my[-4]方向不远的某处，\r\n你感觉到有人愿意成为同伴。",
+      "previous_translation": "\\>在距离你\\my[-4]\\i[7500]\\my[-4]格的某处，\r\n你感觉到有人愿意成为同伴。",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0062",
+      "japanese_check": {
+        "text": "\\>少し\\my[-4]\\i[7500]\\my[-4]のどこかに、\r\n仲間になりそうな者の気配を感じた。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_506_baldur_ev_appear.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "b5c35f982c132c9a087eaefe94fe1ae0bcf833ae0a16755dfd37d90ad01c7fe4"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "supersedes_batch": "0054",
+      "revision_details": {
+        "reason": "Correct direction icon interpreted as tile distance; English/Japanese and related direction prompts checked."
+      }
+    },
+    {
+      "id": "message/data/event/object/udb22_508_coco_muddy_ev_appear.txt/0",
+      "source_sha256": "d2264bae59a63f6745901056a02e60c326c2b40afbaf4a8285289f78424e504d",
+      "source": "\\>Somewhere to the \\my[-4]\\i[7500]\\my[-4]\r\nyou sense someone friendly.",
+      "translation": "\\>在\\my[-4]\\i[7500]\\my[-4]方向不远的某处，\r\n你感觉到有人愿意成为同伴。",
+      "previous_translation": "\\>在距离你\\my[-4]\\i[7500]\\my[-4]格的某处，\r\n你感觉到有人愿意成为同伴。",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0062",
+      "japanese_check": {
+        "text": "\\>少し\\my[-4]\\i[7500]\\my[-4]のどこかに、\r\n仲間になりそうな者の気配を感じた。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_508_coco_muddy_ev_appear.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "b5c35f982c132c9a087eaefe94fe1ae0bcf833ae0a16755dfd37d90ad01c7fe4"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "supersedes_batch": "0054",
+      "revision_details": {
+        "reason": "Correct direction icon interpreted as tile distance; English/Japanese and related direction prompts checked."
+      }
+    },
+    {
+      "id": "message/data/event/object/udb22_509_nellie_ev_appear.txt/0",
+      "source_sha256": "d2264bae59a63f6745901056a02e60c326c2b40afbaf4a8285289f78424e504d",
+      "source": "\\>Somewhere to the \\my[-4]\\i[7500]\\my[-4]\r\nyou sense someone friendly.",
+      "translation": "\\>在\\my[-4]\\i[7500]\\my[-4]方向不远的某处，\r\n你感觉到有人愿意成为同伴。",
+      "previous_translation": "\\>在距离你\\my[-4]\\i[7500]\\my[-4]格的某处，\r\n你感觉到有人愿意成为同伴。",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0062",
+      "japanese_check": {
+        "text": "\\>少し\\my[-4]\\i[7500]\\my[-4]のどこかに、\r\n仲間になりそうな者の気配を感じた。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_509_nellie_ev_appear.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "b5c35f982c132c9a087eaefe94fe1ae0bcf833ae0a16755dfd37d90ad01c7fe4"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "supersedes_batch": "0054",
+      "revision_details": {
+        "reason": "Correct direction icon interpreted as tile distance; English/Japanese and related direction prompts checked."
+      }
+    },
+    {
+      "id": "message/data/event/object/udb22_510_olga_ev_appear.txt/0",
+      "source_sha256": "d2264bae59a63f6745901056a02e60c326c2b40afbaf4a8285289f78424e504d",
+      "source": "\\>Somewhere to the \\my[-4]\\i[7500]\\my[-4]\r\nyou sense someone friendly.",
+      "translation": "\\>在\\my[-4]\\i[7500]\\my[-4]方向不远的某处，\r\n你感觉到有人愿意成为同伴。",
+      "previous_translation": "\\>在距离你\\my[-4]\\i[7500]\\my[-4]格的某处，\r\n你感觉到有人愿意成为同伴。",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0062",
+      "japanese_check": {
+        "text": "\\>少し\\my[-4]\\i[7500]\\my[-4]のどこかに、\r\n仲間になりそうな者の気配を感じた。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/object/udb22_510_olga_ev_appear.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "b5c35f982c132c9a087eaefe94fe1ae0bcf833ae0a16755dfd37d90ad01c7fe4"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "supersedes_batch": "0054",
+      "revision_details": {
+        "reason": "Correct direction icon interpreted as tile distance; English/Japanese and related direction prompts checked."
+      }
+    },
+    {
+      "id": "message/data/event/mes/info/lvup/lvup02-02.txt/0",
+      "source_sha256": "3db29138febca729795373bfc44222973325d4e8ccaf8a8e5ddd827531505074",
+      "source": "\\c[50]<PLAYER>\\c[0] learned skill\r\n\\c[52]Full Guard\\c[0]!",
+      "translation": "\\c[50]<PLAYER>\\c[0]学会了技能\r\n\\c[52]全力防御\\c[0]！",
+      "previous_translation": "\\c[50]<PLAYER>\\c[0]学会了技能\r\n\\c[52]强力护盾\\c[0]！",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0062",
+      "japanese_check": {
+        "text": "\\c[50]<PLAYER>\\c[0]はスキル『\\c[52]フルガード\\c[0]』を覚えた！",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/mes/info/lvup/lvup02-02.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "b5c35f982c132c9a087eaefe94fe1ae0bcf833ae0a16755dfd37d90ad01c7fe4"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "supersedes_batch": "0033",
+      "revision_details": {
+        "reason": "Match learned-skill notification to existing English/Japanese skill-table name.",
+        "source_skill_entry_ids": [
+          "db/1/37/0"
+        ]
+      }
+    },
+    {
+      "id": "message/data/event/mes/info/lvup/lvup03-01.txt/0",
+      "source_sha256": "56f66641801ddb1d27324e941aa9e46e4ae6bd069ab897af8581b1e826e4a8c2",
+      "source": "\\c[50]<PLAYER>\\c[0] learned skill\r\n\\c[52]Rapid Shot\\c[0]!",
+      "translation": "\\c[50]<PLAYER>\\c[0]学会了技能\r\n\\c[52]急速连射\\c[0]！",
+      "previous_translation": "\\c[50]<PLAYER>\\c[0]学会了技能\r\n\\c[52]速射\\c[0]！",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0062",
+      "japanese_check": {
+        "text": "\\c[50]<PLAYER>\\c[0]はスキル『\\c[52]ラピッドショット\\c[0]』を覚えた！",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/mes/info/lvup/lvup03-01.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "b5c35f982c132c9a087eaefe94fe1ae0bcf833ae0a16755dfd37d90ad01c7fe4"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "supersedes_batch": "0033",
+      "revision_details": {
+        "reason": "Match learned-skill notification to existing English/Japanese skill-table name.",
+        "source_skill_entry_ids": [
+          "db/1/412/0"
+        ]
+      }
+    },
+    {
+      "id": "message/data/event/mes/info/lvup/lvup04-01.txt/0",
+      "source_sha256": "3baeab668536bb38f277344dd6569d69e9200240f96a724ad1e023b8b95ac544",
+      "source": "\\c[50]<PLAYER>\\c[0] learned skill\r\n\\c[52]Steal\\c[0]!",
+      "translation": "\\c[50]<PLAYER>\\c[0]学会了技能\r\n\\c[52]偷窃\\c[0]！",
+      "previous_translation": "\\c[50]<PLAYER>\\c[0]学会了技能\r\n\\c[52]窃取\\c[0]！",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0062",
+      "japanese_check": {
+        "text": "\\c[50]<PLAYER>\\c[0]はスキル『\\c[52]スティール\\c[0]』を覚えた！",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/mes/info/lvup/lvup04-01.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "b5c35f982c132c9a087eaefe94fe1ae0bcf833ae0a16755dfd37d90ad01c7fe4"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "supersedes_batch": "0033",
+      "revision_details": {
+        "reason": "Match learned-skill notification to existing English/Japanese skill-table name.",
+        "source_skill_entry_ids": [
+          "db/1/410/0"
+        ]
+      }
+    },
+    {
+      "id": "message/data/event/mes/info/lvup/lvup04-03.txt/0",
+      "source_sha256": "5f27ccc0f540ab860ee8232b561b7c108baca7f25514dcb18b8fed87e73b1757",
+      "source": "\\c[50]<PLAYER>\\c[0] learned skill\r\n\\c[52]Bandit Assault\\c[0]!",
+      "translation": "\\c[50]<PLAYER>\\c[0]学会了技能\r\n\\c[52]强盗突袭\\c[0]！",
+      "previous_translation": "\\c[50]<PLAYER>\\c[0]学会了技能\r\n\\c[52]山贼突袭\\c[0]！",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0062",
+      "japanese_check": {
+        "text": "\\c[50]<PLAYER>\\c[0]はスキル『\\c[52]バンディットアサルト\\c[0]』を覚えた！",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/mes/info/lvup/lvup04-03.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "b5c35f982c132c9a087eaefe94fe1ae0bcf833ae0a16755dfd37d90ad01c7fe4"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "supersedes_batch": "0033",
+      "revision_details": {
+        "reason": "Match learned-skill notification to existing English/Japanese skill-table name.",
+        "source_skill_entry_ids": [
+          "db/1/411/0"
+        ]
+      }
+    },
+    {
+      "id": "message/data/event/mes/info/lvup/lvup08-02.txt/0",
+      "source_sha256": "956dca4626591bb79c92cde173e5b754bc47033a65d1738e672e16d624f70c7e",
+      "source": "\\c[50]<PLAYER>\\c[0] learned skill\r\n\\c[52]Grand Roar\\c[0]!",
+      "translation": "\\c[50]<PLAYER>\\c[0]学会了技能\r\n\\c[52]大地咆哮\\c[0]！",
+      "previous_translation": "\\c[50]<PLAYER>\\c[0]学会了技能\r\n\\c[52]雄浑咆哮\\c[0]！",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0062",
+      "japanese_check": {
+        "text": "\\c[50]<PLAYER>\\c[0]はスキル『\\c[52]グランドロアー\\c[0]』を覚えた！",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/mes/info/lvup/lvup08-02.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "b5c35f982c132c9a087eaefe94fe1ae0bcf833ae0a16755dfd37d90ad01c7fe4"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "supersedes_batch": "0033",
+      "revision_details": {
+        "reason": "Match learned-skill notification to existing English/Japanese skill-table name.",
+        "source_skill_entry_ids": [
+          "db/1/413/0"
+        ]
+      }
+    },
+    {
+      "id": "message/data/event/mes/info/lvup/lvup09-01.txt/0",
+      "source_sha256": "81f6c4118fe3d58c34719117511fa82e7b75a868c0e802f4383cd41c1a40989a",
+      "source": "\\c[50]<PLAYER>\\c[0] learned skill\r\n\\c[52]Trapmaking\\c[0]!",
+      "translation": "\\c[50]<PLAYER>\\c[0]学会了技能\r\n\\c[52]制作陷阱\\c[0]！",
+      "previous_translation": "\\c[50]<PLAYER>\\c[0]学会了技能\r\n\\c[52]陷阱制作\\c[0]！",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0062",
+      "japanese_check": {
+        "text": "\\c[50]<PLAYER>\\c[0]はスキル『\\c[52]罠作り\\c[0]』を覚えた！",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/mes/info/lvup/lvup09-01.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "b5c35f982c132c9a087eaefe94fe1ae0bcf833ae0a16755dfd37d90ad01c7fe4"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "supersedes_batch": "0033",
+      "revision_details": {
+        "reason": "Match learned-skill notification to existing English/Japanese skill-table name.",
+        "source_skill_entry_ids": [
+          "db/1/414/0"
+        ]
+      }
+    },
+    {
+      "id": "message/data/event/mes/info/lvup/lvup10-01.txt/0",
+      "source_sha256": "d773a1b287ee59f0d06c97f4244a6ed1b1b5d99920f3b7d90980bea978ec3215",
+      "source": "\\c[50]<PLAYER>\\c[0] learned skill\r\n\\c[52]Triple Bullet\\c[0]!",
+      "translation": "\\c[50]<PLAYER>\\c[0]学会了技能\r\n\\c[52]三重弹丸\\c[0]！",
+      "previous_translation": "\\c[50]<PLAYER>\\c[0]学会了技能\r\n\\c[52]三连弹\\c[0]！",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0062",
+      "japanese_check": {
+        "text": "\\c[50]<PLAYER>\\c[0]はスキル『\\c[52]トリプルバレット\\c[0]』を覚えた！",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/mes/info/lvup/lvup10-01.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "b5c35f982c132c9a087eaefe94fe1ae0bcf833ae0a16755dfd37d90ad01c7fe4"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "supersedes_batch": "0033",
+      "revision_details": {
+        "reason": "Match learned-skill notification to existing English/Japanese skill-table name.",
+        "source_skill_entry_ids": [
+          "db/1/451/0"
+        ]
+      }
+    },
+    {
+      "id": "message/data/event/mes/info/lvup/lvup10-02.txt/0",
+      "source_sha256": "dea5eb27573f6b77eff7c98194c35a67a26c17f73117776df5176fd36d908011",
+      "source": "\\c[50]<PLAYER>\\c[0] learned skill\r\n\\c[52]Gunsmith\\c[0]!",
+      "translation": "\\c[50]<PLAYER>\\c[0]学会了技能\r\n\\c[52]枪械制造\\c[0]！",
+      "previous_translation": "\\c[50]<PLAYER>\\c[0]学会了技能\r\n\\c[52]枪械制作\\c[0]！",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0062",
+      "japanese_check": {
+        "text": "\\c[50]<PLAYER>\\c[0]はスキル『\\c[52]ガンスミス\\c[0]』を覚えた！",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/mes/info/lvup/lvup10-02.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "b5c35f982c132c9a087eaefe94fe1ae0bcf833ae0a16755dfd37d90ad01c7fe4"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "supersedes_batch": "0033",
+      "revision_details": {
+        "reason": "Match learned-skill notification to existing English/Japanese skill-table name.",
+        "source_skill_entry_ids": [
+          "db/1/416/0"
+        ]
+      }
+    },
+    {
+      "id": "message/data/event/mes/info/lvup/lvup10-03.txt/0",
+      "source_sha256": "55b011e93d71196f43a04d1f9c0f5d37f859230dec3c42834179c45307c7f7d4",
+      "source": "\\c[50]<PLAYER>\\c[0] learned skill\r\n\\c[52]Master Gunsmith\\c[0]!",
+      "translation": "\\c[50]<PLAYER>\\c[0]学会了技能\r\n\\c[52]枪械制造大师\\c[0]！",
+      "previous_translation": "\\c[50]<PLAYER>\\c[0]学会了技能\r\n\\c[52]枪械大师\\c[0]！",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0062",
+      "japanese_check": {
+        "text": "\\c[50]<PLAYER>\\c[0]はスキル『\\c[52]マスターガンスミス\\c[0]』を覚えた！",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/mes/info/lvup/lvup10-03.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "b5c35f982c132c9a087eaefe94fe1ae0bcf833ae0a16755dfd37d90ad01c7fe4"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "supersedes_batch": "0033",
+      "revision_details": {
+        "reason": "Match learned-skill notification to existing English/Japanese skill-table name.",
+        "source_skill_entry_ids": [
+          "db/1/417/0"
+        ]
+      }
+    },
+    {
+      "id": "message/data/event/mes/info/lvup/lvup11-02.txt/0",
+      "source_sha256": "befe6050a518209692fb16d8ff27aaf770892e796bc7f1afd4125ed939fcc58a",
+      "source": "\\c[50]<PLAYER>\\c[0] learned skill\r\n\\c[52]We Love Monsters\\c[0]!",
+      "translation": "\\c[50]<PLAYER>\\c[0]学会了技能\r\n\\c[52]魔物之爱\\c[0]！",
+      "previous_translation": "\\c[50]<PLAYER>\\c[0]学会了技能\r\n\\c[52]我们爱魔物\\c[0]！",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0062",
+      "japanese_check": {
+        "text": "\\c[50]<PLAYER>\\c[0]はスキル『\\c[52]魔物は友達さ！\\c[0]』を覚えた！",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/mes/info/lvup/lvup11-02.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "b5c35f982c132c9a087eaefe94fe1ae0bcf833ae0a16755dfd37d90ad01c7fe4"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "supersedes_batch": "0033",
+      "revision_details": {
+        "reason": "Match learned-skill notification to existing English/Japanese skill-table name.",
+        "source_skill_entry_ids": [
+          "db/1/409/0"
+        ]
+      }
+    },
+    {
+      "id": "message/data/event/mes/info/lvup/lvup12-02.txt/0",
+      "source_sha256": "58a02ee714d9a567a1da45af47fbd3d2bb00131e57398789d609692ebae92b3e",
+      "source": "\\c[50]<PLAYER>\\c[0] learned skill\r\n\\c[52]Spirit Shadow\\c[0]!",
+      "translation": "\\c[50]<PLAYER>\\c[0]学会了技能\r\n\\c[52]灵影\\c[0]！",
+      "previous_translation": "\\c[50]<PLAYER>\\c[0]学会了技能\r\n\\c[52]精神暗影\\c[0]！",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0062",
+      "japanese_check": {
+        "text": "\\c[50]<PLAYER>\\c[0]はスキル『\\c[52]スプリットシャドウ\\c[0]』を覚えた！",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/mes/info/lvup/lvup12-02.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "b5c35f982c132c9a087eaefe94fe1ae0bcf833ae0a16755dfd37d90ad01c7fe4"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "supersedes_batch": "0033",
+      "revision_details": {
+        "reason": "Match learned-skill notification to existing English/Japanese skill-table name.",
+        "source_skill_entry_ids": [
+          "db/1/121/0"
+        ]
+      }
+    },
+    {
+      "id": "message/data/event/mes/info/lvup/lvup12-04.txt/0",
+      "source_sha256": "abe33920f9cd15c242adb12d87b80387ee26c46826ede8b8a1773302a8c003ee",
+      "source": "\\c[50]<PLAYER>\\c[0] learned skill\r\n\\c[52]Desperate Act\\c[0]!",
+      "translation": "\\c[50]<PLAYER>\\c[0]学会了技能\r\n\\c[52]舍命一击\\c[0]！",
+      "previous_translation": "\\c[50]<PLAYER>\\c[0]学会了技能\r\n\\c[52]拼死一搏\\c[0]！",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0062",
+      "japanese_check": {
+        "text": "\\c[50]<PLAYER>\\c[0]はスキル『\\c[52]デスパレートアクト\\c[0]』を覚えた！",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/mes/info/lvup/lvup12-04.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "b5c35f982c132c9a087eaefe94fe1ae0bcf833ae0a16755dfd37d90ad01c7fe4"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "supersedes_batch": "0034",
+      "revision_details": {
+        "reason": "Match learned-skill notification to existing English/Japanese skill-table name.",
+        "source_skill_entry_ids": [
+          "db/1/137/0",
+          "db/1/138/0"
+        ]
+      }
+    },
+    {
+      "id": "message/data/event/mes/info/lvup/lvup13-01.txt/0",
+      "source_sha256": "a2fc0adf1d055c830a5baba0f2e45e7c15c1a5e7cdf9b1e27ab1cb22d2f4fe47",
+      "source": "\\c[50]<PLAYER>\\c[0] learned skill\r\n\\c[52]Dark Blow\\c[0]!",
+      "translation": "\\c[50]<PLAYER>\\c[0]学会了技能\r\n\\c[52]黑暗重击\\c[0]！",
+      "previous_translation": "\\c[50]<PLAYER>\\c[0]学会了技能\r\n\\c[52]暗黑打击\\c[0]！",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0062",
+      "japanese_check": {
+        "text": "\\c[50]<PLAYER>\\c[0]はスキル『\\c[52]ダークブロウ\\c[0]』を覚えた！",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/mes/info/lvup/lvup13-01.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "b5c35f982c132c9a087eaefe94fe1ae0bcf833ae0a16755dfd37d90ad01c7fe4"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "supersedes_batch": "0034",
+      "revision_details": {
+        "reason": "Match learned-skill notification to existing English/Japanese skill-table name.",
+        "source_skill_entry_ids": [
+          "db/1/418/0"
+        ]
+      }
+    },
+    {
+      "id": "message/data/event/mes/info/lvup/lvup13-02.txt/0",
+      "source_sha256": "868faf981081f0712258453f38d6f44fce4f2a53fc1e84c0225aa9edb73a37ee",
+      "source": "\\c[50]<PLAYER>\\c[0] learned skill\r\n\\c[52]Chaotic Blow\\c[0]!",
+      "translation": "\\c[50]<PLAYER>\\c[0]学会了技能\r\n\\c[52]混沌重击\\c[0]！",
+      "previous_translation": "\\c[50]<PLAYER>\\c[0]学会了技能\r\n\\c[52]混沌打击\\c[0]！",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0062",
+      "japanese_check": {
+        "text": "\\c[50]<PLAYER>\\c[0]はスキル『\\c[52]カオティックブロウ\\c[0]』を覚えた！",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/mes/info/lvup/lvup13-02.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "b5c35f982c132c9a087eaefe94fe1ae0bcf833ae0a16755dfd37d90ad01c7fe4"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "supersedes_batch": "0034",
+      "revision_details": {
+        "reason": "Match learned-skill notification to existing English/Japanese skill-table name.",
+        "source_skill_entry_ids": [
+          "db/1/421/0"
+        ]
+      }
+    },
+    {
+      "id": "message/data/event/mes/info/lvup/lvup14-02.txt/0",
+      "source_sha256": "8cff7fbaa43739c1fa2b439f1ecb52210851d29aa8e8920c99b3e4566a370cce",
+      "source": "\\c[50]<PLAYER>\\c[0] learned skill\r\n\\c[52]Phantasm Barrage\\c[0]!",
+      "translation": "\\c[50]<PLAYER>\\c[0]学会了技能\r\n\\c[52]梦幻连打\\c[0]！",
+      "previous_translation": "\\c[50]<PLAYER>\\c[0]学会了技能\r\n\\c[52]幻影连射\\c[0]！",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0062",
+      "japanese_check": {
+        "text": "\\c[50]<PLAYER>\\c[0]はスキル『\\c[52]夢幻連打\\c[0]』を覚えた！",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/mes/info/lvup/lvup14-02.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "b5c35f982c132c9a087eaefe94fe1ae0bcf833ae0a16755dfd37d90ad01c7fe4"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "supersedes_batch": "0034",
+      "revision_details": {
+        "reason": "Match learned-skill notification to existing English/Japanese skill-table name.",
+        "source_skill_entry_ids": [
+          "db/1/425/0"
+        ]
+      }
+    },
+    {
+      "id": "message/data/event/mes/info/lvup/lvup15-01.txt/0",
+      "source_sha256": "624affebdd130a7f30ea0a44b6f648d685b748310d9e18aa3ca9de5e318ce8ca",
+      "source": "\\c[50]<PLAYER>\\c[0] learned skill\r\n\\c[52]Celestial Hand\\c[0]!",
+      "translation": "\\c[50]<PLAYER>\\c[0]学会了技能\r\n\\c[52]天神之手\\c[0]！",
+      "previous_translation": "\\c[50]<PLAYER>\\c[0]学会了技能\r\n\\c[52]天界之手\\c[0]！",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0062",
+      "japanese_check": {
+        "text": "\\c[50]<PLAYER>\\c[0]はスキル『\\c[52]セレスティアルハンド\\c[0]』を覚えた！",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/mes/info/lvup/lvup15-01.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "b5c35f982c132c9a087eaefe94fe1ae0bcf833ae0a16755dfd37d90ad01c7fe4"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "supersedes_batch": "0034",
+      "revision_details": {
+        "reason": "Match learned-skill notification to existing English/Japanese skill-table name.",
+        "source_skill_entry_ids": [
+          "db/1/133/0"
+        ]
+      }
+    },
+    {
+      "id": "message/data/event/mes/info/lvup/lvup15-02.txt/0",
+      "source_sha256": "99085e3129c14a255192484842de1127182a98c5cfee19e54b2e187340c7f028",
+      "source": "\\c[50]<PLAYER>\\c[0] learned skill\r\n\\c[52]Reinforce\\c[0]!",
+      "translation": "\\c[50]<PLAYER>\\c[0]学会了技能\r\n\\c[52]强化防护\\c[0]！",
+      "previous_translation": "\\c[50]<PLAYER>\\c[0]学会了技能\r\n\\c[52]强化\\c[0]！",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0062",
+      "japanese_check": {
+        "text": "\\c[50]<PLAYER>\\c[0]はスキル『\\c[52]リインフォース\\c[0]』を覚えた！",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/mes/info/lvup/lvup15-02.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "b5c35f982c132c9a087eaefe94fe1ae0bcf833ae0a16755dfd37d90ad01c7fe4"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "supersedes_batch": "0034",
+      "revision_details": {
+        "reason": "Match learned-skill notification to existing English/Japanese skill-table name.",
+        "source_skill_entry_ids": [
+          "db/1/428/0"
+        ]
+      }
+    },
+    {
+      "id": "message/data/event/mes/info/lvup/lvup17-01.txt/0",
+      "source_sha256": "3db29138febca729795373bfc44222973325d4e8ccaf8a8e5ddd827531505074",
+      "source": "\\c[50]<PLAYER>\\c[0] learned skill\r\n\\c[52]Full Guard\\c[0]!",
+      "translation": "\\c[50]<PLAYER>\\c[0]学会了技能\r\n\\c[52]全力防御\\c[0]！",
+      "previous_translation": "\\c[50]<PLAYER>\\c[0]学会了技能\r\n\\c[52]强力护盾\\c[0]！",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0062",
+      "japanese_check": {
+        "text": "\\c[50]<PLAYER>\\c[0]はスキル『\\c[52]フルガード\\c[0]』を覚えた！",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/mes/info/lvup/lvup17-01.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "b5c35f982c132c9a087eaefe94fe1ae0bcf833ae0a16755dfd37d90ad01c7fe4"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "supersedes_batch": "0034",
+      "revision_details": {
+        "reason": "Match learned-skill notification to existing English/Japanese skill-table name.",
+        "source_skill_entry_ids": [
+          "db/1/37/0"
+        ]
+      }
+    },
+    {
+      "id": "message/data/event/mes/info/lvup/lvup17-05.txt/0",
+      "source_sha256": "a583b61bf1a3be895a49b8b8ce9237104fae6cf85329e2c9f419f6fac3c6c452",
+      "source": "\\c[50]<PLAYER>\\c[0] learned skill\r\n\\c[52]Queen's March\\c[0]!",
+      "translation": "\\c[50]<PLAYER>\\c[0]学会了技能\r\n\\c[52]女王进军\\c[0]！",
+      "previous_translation": "\\c[50]<PLAYER>\\c[0]学会了技能\r\n\\c[52]女王进行曲\\c[0]！",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0062",
+      "japanese_check": {
+        "text": "\\c[50]<PLAYER>\\c[0]はスキル『\\c[52]女王の進軍\\c[0]』を覚えた！",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/mes/info/lvup/lvup17-05.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "b5c35f982c132c9a087eaefe94fe1ae0bcf833ae0a16755dfd37d90ad01c7fe4"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "supersedes_batch": "0034",
+      "revision_details": {
+        "reason": "Match learned-skill notification to existing English/Japanese skill-table name.",
+        "source_skill_entry_ids": [
+          "db/1/448/0"
+        ]
+      }
+    },
+    {
+      "id": "message/data/event/mes/info/lvup/lvup17-06.txt/0",
+      "source_sha256": "16c66cf7ce7214f46e5f1106f289a7f9b4710a1ec32536c9198b15d1886fda47",
+      "source": "\\c[50]<PLAYER>\\c[0] learned skill\r\n\\c[52]Queen's Affection\\c[0]!",
+      "translation": "\\c[50]<PLAYER>\\c[0]学会了技能\r\n\\c[52]女王的慈爱\\c[0]！",
+      "previous_translation": "\\c[50]<PLAYER>\\c[0]学会了技能\r\n\\c[52]女王之爱\\c[0]！",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0062",
+      "japanese_check": {
+        "text": "\\c[50]<PLAYER>\\c[0]はスキル『\\c[52]女王の慈愛\\c[0]』を覚えた！",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/mes/info/lvup/lvup17-06.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "b5c35f982c132c9a087eaefe94fe1ae0bcf833ae0a16755dfd37d90ad01c7fe4"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "supersedes_batch": "0034",
+      "revision_details": {
+        "reason": "Match learned-skill notification to existing English/Japanese skill-table name.",
+        "source_skill_entry_ids": [
+          "db/1/449/0"
+        ]
+      }
+    },
+    {
+      "id": "message/data/event/mes/info/lvup/lvup18-01.txt/0",
+      "source_sha256": "624affebdd130a7f30ea0a44b6f648d685b748310d9e18aa3ca9de5e318ce8ca",
+      "source": "\\c[50]<PLAYER>\\c[0] learned skill\r\n\\c[52]Celestial Hand\\c[0]!",
+      "translation": "\\c[50]<PLAYER>\\c[0]学会了技能\r\n\\c[52]天神之手\\c[0]！",
+      "previous_translation": "\\c[50]<PLAYER>\\c[0]学会了技能\r\n\\c[52]天界之手\\c[0]！",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0062",
+      "japanese_check": {
+        "text": "\\c[50]<PLAYER>\\c[0]はスキル『\\c[52]セレスティアルハンド\\c[0]』を覚えた！",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/mes/info/lvup/lvup18-01.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "b5c35f982c132c9a087eaefe94fe1ae0bcf833ae0a16755dfd37d90ad01c7fe4"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "supersedes_batch": "0034",
+      "revision_details": {
+        "reason": "Match learned-skill notification to existing English/Japanese skill-table name.",
+        "source_skill_entry_ids": [
+          "db/1/133/0"
+        ]
+      }
+    },
+    {
+      "id": "message/data/event/mes/info/lvup/lvup19-01.txt/0",
+      "source_sha256": "55122c8c9ce9b0ab00a19ae2b65c73e41e5754a27110fef0f28539792b92c9e1",
+      "source": "\\c[50]<PLAYER>\\c[0] learned skill\r\n\\c[52]Single Edge\\c[0]!",
+      "translation": "\\c[50]<PLAYER>\\c[0]学会了技能\r\n\\c[52]一刃\\c[0]！",
+      "previous_translation": "\\c[50]<PLAYER>\\c[0]学会了技能\r\n\\c[52]单刃斩\\c[0]！",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0062",
+      "japanese_check": {
+        "text": "\\c[50]<PLAYER>\\c[0]はスキル『\\c[52]一刃\\c[0]』を覚えた！",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/mes/info/lvup/lvup19-01.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "b5c35f982c132c9a087eaefe94fe1ae0bcf833ae0a16755dfd37d90ad01c7fe4"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "supersedes_batch": "0034",
+      "revision_details": {
+        "reason": "Match learned-skill notification to existing English/Japanese skill-table name.",
+        "source_skill_entry_ids": [
+          "db/1/435/0"
+        ]
+      }
+    },
+    {
+      "id": "message/data/event/mes/info/lvup/lvup20-02.txt/0",
+      "source_sha256": "818cc83367a783aa6c263d59bc2d733a93243073da633f40077390ea8e4970ac",
+      "source": "\\c[50]<PLAYER>\\c[0] learned skill\r\n\\c[52]Dragon Breath\\c[0]!",
+      "translation": "\\c[50]<PLAYER>\\c[0]学会了技能\r\n\\c[52]巨龙吐息\\c[0]！",
+      "previous_translation": "\\c[50]<PLAYER>\\c[0]学会了技能\r\n\\c[52]龙息\\c[0]！",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0062",
+      "japanese_check": {
+        "text": "\\c[50]<PLAYER>\\c[0]はスキル『\\c[52]ドラゴンブレス\\c[0]』を覚えた！",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/mes/info/lvup/lvup20-02.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "b5c35f982c132c9a087eaefe94fe1ae0bcf833ae0a16755dfd37d90ad01c7fe4"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "supersedes_batch": "0034",
+      "revision_details": {
+        "reason": "Match learned-skill notification to existing English/Japanese skill-table name.",
+        "source_skill_entry_ids": [
+          "db/1/235/0",
+          "db/1/538/0"
+        ]
+      }
+    },
+    {
+      "id": "message/data/event/mes/info/lvup/lvup21-01.txt/0",
+      "source_sha256": "2550dd755e0b433c05febff2bceabf645c598be478a94ca9a927c792b9dffaf7",
+      "source": "\\c[50]<PLAYER>\\c[0] learned skill\r\n\\c[52]Dragon Flight\\c[0]!",
+      "translation": "\\c[50]<PLAYER>\\c[0]学会了技能\r\n\\c[52]龙之飞翔\\c[0]！",
+      "previous_translation": "\\c[50]<PLAYER>\\c[0]学会了技能\r\n\\c[52]龙之飞行\\c[0]！",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0062",
+      "japanese_check": {
+        "text": "\\c[50]<PLAYER>\\c[0]はスキル『\\c[52]竜飛翔\\c[0]』を覚えた！",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/mes/info/lvup/lvup21-01.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "b5c35f982c132c9a087eaefe94fe1ae0bcf833ae0a16755dfd37d90ad01c7fe4"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "supersedes_batch": "0034",
+      "revision_details": {
+        "reason": "Match learned-skill notification to existing English/Japanese skill-table name.",
+        "source_skill_entry_ids": [
+          "db/1/438/0"
+        ]
+      }
+    },
+    {
+      "id": "message/data/event/mes/info/lvup/lvup21-02.txt/0",
+      "source_sha256": "818cc83367a783aa6c263d59bc2d733a93243073da633f40077390ea8e4970ac",
+      "source": "\\c[50]<PLAYER>\\c[0] learned skill\r\n\\c[52]Dragon Breath\\c[0]!",
+      "translation": "\\c[50]<PLAYER>\\c[0]学会了技能\r\n\\c[52]巨龙吐息\\c[0]！",
+      "previous_translation": "\\c[50]<PLAYER>\\c[0]学会了技能\r\n\\c[52]龙息\\c[0]！",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0062",
+      "japanese_check": {
+        "text": "\\c[50]<PLAYER>\\c[0]はスキル『\\c[52]ドラゴンブレス\\c[0]』を覚えた！",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/mes/info/lvup/lvup21-02.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "b5c35f982c132c9a087eaefe94fe1ae0bcf833ae0a16755dfd37d90ad01c7fe4"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "supersedes_batch": "0034",
+      "revision_details": {
+        "reason": "Match learned-skill notification to existing English/Japanese skill-table name.",
+        "source_skill_entry_ids": [
+          "db/1/235/0",
+          "db/1/538/0"
+        ]
+      }
+    },
+    {
+      "id": "message/data/event/mes/info/lvup/lvup21-03.txt/0",
+      "source_sha256": "7ea318e3f249f86e1bc87c4a89cad5c5c97d9f66d2f5013e9c571e09c97cde4a",
+      "source": "\\c[50]<PLAYER>\\c[0] learned skill\r\n\\c[52]Asura Palm\\c[0]!",
+      "translation": "\\c[50]<PLAYER>\\c[0]学会了技能\r\n\\c[52]阿修罗推掌\\c[0]！",
+      "previous_translation": "\\c[50]<PLAYER>\\c[0]学会了技能\r\n\\c[52]阿修罗掌\\c[0]！",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0062",
+      "japanese_check": {
+        "text": "\\c[50]<PLAYER>\\c[0]はスキル『\\c[52]阿修羅張手\\c[0]』を覚えた！",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/mes/info/lvup/lvup21-03.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "b5c35f982c132c9a087eaefe94fe1ae0bcf833ae0a16755dfd37d90ad01c7fe4"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "supersedes_batch": "0034",
+      "revision_details": {
+        "reason": "Match learned-skill notification to existing English/Japanese skill-table name.",
+        "source_skill_entry_ids": [
+          "db/1/533/0"
+        ]
+      }
+    },
+    {
+      "id": "message/data/event/mes/info/lvup/lvup21-06.txt/0",
+      "source_sha256": "058c80622af8625da4895ef4edbc9e7ac38a4be0d9a18c51e7e2148669966e7f",
+      "source": "\\c[50]<PLAYER>\\c[0] learned skill\r\n\\c[52]Diamond Earth Body\\c[0]!",
+      "translation": "\\c[50]<PLAYER>\\c[0]学会了技能\r\n\\c[52]金刚身·地\\c[0]！",
+      "previous_translation": "\\c[50]<PLAYER>\\c[0]学会了技能\r\n\\c[52]金刚地体\\c[0]！",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0062",
+      "japanese_check": {
+        "text": "\\c[50]<PLAYER>\\c[0]はスキル『\\c[52]金剛身【地】\\c[0]』を覚えた！",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/mes/info/lvup/lvup21-06.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "b5c35f982c132c9a087eaefe94fe1ae0bcf833ae0a16755dfd37d90ad01c7fe4"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "supersedes_batch": "0034",
+      "revision_details": {
+        "reason": "Match learned-skill notification to existing English/Japanese skill-table name.",
+        "source_skill_entry_ids": [
+          "db/1/534/0"
+        ]
+      }
+    },
+    {
+      "id": "message/data/event/mes/info/lvup/lvup21-07.txt/0",
+      "source_sha256": "ba1ddbb7b672ceccb326bff81c8d9aead07d068052d3d38e9bbe8abd0bfe2b6d",
+      "source": "\\c[50]<PLAYER>\\c[0] learned skill\r\n\\c[52]Diamond Air Body\\c[0]!",
+      "translation": "\\c[50]<PLAYER>\\c[0]学会了技能\r\n\\c[52]金刚身·天\\c[0]！",
+      "previous_translation": "\\c[50]<PLAYER>\\c[0]学会了技能\r\n\\c[52]金刚空体\\c[0]！",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0062",
+      "japanese_check": {
+        "text": "\\c[50]<PLAYER>\\c[0]はスキル『\\c[52]金剛身【天】\\c[0]』を覚えた！",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/mes/info/lvup/lvup21-07.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "b5c35f982c132c9a087eaefe94fe1ae0bcf833ae0a16755dfd37d90ad01c7fe4"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "supersedes_batch": "0034",
+      "revision_details": {
+        "reason": "Match learned-skill notification to existing English/Japanese skill-table name.",
+        "source_skill_entry_ids": [
+          "db/1/535/0"
+        ]
+      }
+    },
+    {
+      "id": "message/data/event/mes/info/lvup/lvup22-02.txt/0",
+      "source_sha256": "983dcbf5f92d3209a61845cb74251c71103f2e8674008f095185e1aa1e2eef4a",
+      "source": "\\c[50]<PLAYER>\\c[0] learned skill\r\n\\c[52]Salt Splash\\c[0]!",
+      "translation": "\\c[50]<PLAYER>\\c[0]学会了技能\r\n\\c[52]撒盐\\c[0]！",
+      "previous_translation": "\\c[50]<PLAYER>\\c[0]学会了技能\r\n\\c[52]盐浪\\c[0]！",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0062",
+      "japanese_check": {
+        "text": "\\c[50]<PLAYER>\\c[0]はスキル『\\c[52]塩をまく\\c[0]』を覚えた！",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/mes/info/lvup/lvup22-02.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "b5c35f982c132c9a087eaefe94fe1ae0bcf833ae0a16755dfd37d90ad01c7fe4"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "supersedes_batch": "0034",
+      "revision_details": {
+        "reason": "Match learned-skill notification to existing English/Japanese skill-table name.",
+        "source_skill_entry_ids": [
+          "db/1/443/0"
+        ]
+      }
+    },
+    {
+      "id": "message/data/event/mes/info/lvup/lvup22-03.txt/0",
+      "source_sha256": "7ea318e3f249f86e1bc87c4a89cad5c5c97d9f66d2f5013e9c571e09c97cde4a",
+      "source": "\\c[50]<PLAYER>\\c[0] learned skill\r\n\\c[52]Asura Palm\\c[0]!",
+      "translation": "\\c[50]<PLAYER>\\c[0]学会了技能\r\n\\c[52]阿修罗推掌\\c[0]！",
+      "previous_translation": "\\c[50]<PLAYER>\\c[0]学会了技能\r\n\\c[52]阿修罗掌\\c[0]！",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0062",
+      "japanese_check": {
+        "text": "\\c[50]<PLAYER>\\c[0]はスキル『\\c[52]阿修羅張手\\c[0]』を覚えた！",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/mes/info/lvup/lvup22-03.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "b5c35f982c132c9a087eaefe94fe1ae0bcf833ae0a16755dfd37d90ad01c7fe4"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "supersedes_batch": "0034",
+      "revision_details": {
+        "reason": "Match learned-skill notification to existing English/Japanese skill-table name.",
+        "source_skill_entry_ids": [
+          "db/1/533/0"
+        ]
+      }
+    },
+    {
+      "id": "message/data/event/mes/info/lvup/lvup22-06.txt/0",
+      "source_sha256": "058c80622af8625da4895ef4edbc9e7ac38a4be0d9a18c51e7e2148669966e7f",
+      "source": "\\c[50]<PLAYER>\\c[0] learned skill\r\n\\c[52]Diamond Earth Body\\c[0]!",
+      "translation": "\\c[50]<PLAYER>\\c[0]学会了技能\r\n\\c[52]金刚身·地\\c[0]！",
+      "previous_translation": "\\c[50]<PLAYER>\\c[0]学会了技能\r\n\\c[52]金刚地体\\c[0]！",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0062",
+      "japanese_check": {
+        "text": "\\c[50]<PLAYER>\\c[0]はスキル『\\c[52]金剛身【地】\\c[0]』を覚えた！",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/mes/info/lvup/lvup22-06.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "b5c35f982c132c9a087eaefe94fe1ae0bcf833ae0a16755dfd37d90ad01c7fe4"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "supersedes_batch": "0034",
+      "revision_details": {
+        "reason": "Match learned-skill notification to existing English/Japanese skill-table name.",
+        "source_skill_entry_ids": [
+          "db/1/534/0"
+        ]
+      }
+    },
+    {
+      "id": "message/data/event/mes/info/lvup/lvup22-07.txt/0",
+      "source_sha256": "ba1ddbb7b672ceccb326bff81c8d9aead07d068052d3d38e9bbe8abd0bfe2b6d",
+      "source": "\\c[50]<PLAYER>\\c[0] learned skill\r\n\\c[52]Diamond Air Body\\c[0]!",
+      "translation": "\\c[50]<PLAYER>\\c[0]学会了技能\r\n\\c[52]金刚身·天\\c[0]！",
+      "previous_translation": "\\c[50]<PLAYER>\\c[0]学会了技能\r\n\\c[52]金刚空体\\c[0]！",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0062",
+      "japanese_check": {
+        "text": "\\c[50]<PLAYER>\\c[0]はスキル『\\c[52]金剛身【天】\\c[0]』を覚えた！",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/mes/info/lvup/lvup22-07.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "b5c35f982c132c9a087eaefe94fe1ae0bcf833ae0a16755dfd37d90ad01c7fe4"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "supersedes_batch": "0034",
+      "revision_details": {
+        "reason": "Match learned-skill notification to existing English/Japanese skill-table name.",
+        "source_skill_entry_ids": [
+          "db/1/535/0"
+        ]
+      }
+    },
+    {
+      "id": "message/data/event/mes/info/lvup/lvup23-01.txt/0",
+      "source_sha256": "88c9d6dda3ae254dcb02c213e8a77a2ffc4c4ea6b5b61bbf7888dd31e30e6874",
+      "source": "\\c[50]<PLAYER>\\c[0] learned skill\r\n\\c[52]Noble Law\\c[0]!",
+      "translation": "\\c[50]<PLAYER>\\c[0]学会了技能\r\n\\c[52]高贵律令\\c[0]！",
+      "previous_translation": "\\c[50]<PLAYER>\\c[0]学会了技能\r\n\\c[52]贵族律法\\c[0]！",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0062",
+      "japanese_check": {
+        "text": "\\c[50]<PLAYER>\\c[0]はスキル『\\c[52]ノーブルロウ\\c[0]』を覚えた！",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/mes/info/lvup/lvup23-01.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "b5c35f982c132c9a087eaefe94fe1ae0bcf833ae0a16755dfd37d90ad01c7fe4"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "supersedes_batch": "0034",
+      "revision_details": {
+        "reason": "Match learned-skill notification to existing English/Japanese skill-table name.",
+        "source_skill_entry_ids": [
+          "db/1/444/0"
+        ]
+      }
+    },
+    {
+      "id": "message/data/event/mes/info/lvup/lvup23-02.txt/0",
+      "source_sha256": "db494c8006997a6f2817e151beb7388888ba16ccca166ed529a8f27883befac2",
+      "source": "\\c[50]<PLAYER>\\c[0] learned skill\r\n\\c[52]Sacred Law\\c[0]!",
+      "translation": "\\c[50]<PLAYER>\\c[0]学会了技能\r\n\\c[52]神圣律令\\c[0]！",
+      "previous_translation": "\\c[50]<PLAYER>\\c[0]学会了技能\r\n\\c[52]神圣律法\\c[0]！",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0062",
+      "japanese_check": {
+        "text": "\\c[50]<PLAYER>\\c[0]はスキル『\\c[52]セイクリッドロウ\\c[0]』を覚えた！",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/mes/info/lvup/lvup23-02.txt",
+          "slot": 0,
+          "japanese_slot_index": 0,
+          "command_signature_sha256": "b5c35f982c132c9a087eaefe94fe1ae0bcf833ae0a16755dfd37d90ad01c7fe4"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "supersedes_batch": "0034",
+      "revision_details": {
+        "reason": "Match learned-skill notification to existing English/Japanese skill-table name.",
+        "source_skill_entry_ids": [
+          "db/1/445/0"
+        ]
+      }
+    },
+    {
+      "id": "message/data/event/group/udb37_109_olga_dead.txt/4",
+      "source_sha256": "8db3117a11f409788899702191067b270d185a7580272d0ee02e47ec005c473b",
+      "source": "You have received\r\n\\c[52]Healing Salve\r\nArea Map\r\nKey of Seals\\c[0].",
+      "translation": "获得了\r\n\\c[52]疗伤膏\r\n周边地图\r\n封印之钥\\c[0]。",
+      "previous_translation": "获得了\r\n\\c[52]治疗精华\r\n区域地图\r\n封印钥匙\\c[0]。",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0062",
+      "japanese_check": {
+        "text": "　\\c[52]ヒーリングエキス\r\n　エリアマップ\r\n　封印のカギ\\c[0]\r\n　　を譲り受けた。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "same_script_command_signature_and_display_slot",
+          "semantic_review": "pending",
+          "script": "data/event/group/udb37_109_olga_dead.txt",
+          "slot": 4,
+          "japanese_slot_index": 4,
+          "command_signature_sha256": "8f9f05124f2065a553f9ed1a8d3feac197883b930757de3fcd69cc9a26f2be0e"
+        },
+        "internal_hint": "",
+        "hint_origin": "",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。"
+      },
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "supersedes_batch": "0020",
+      "revision_details": {
+        "reason": "Unify reward item names with existing item-table translations.",
+        "source_item_entry_ids": [
+          "db/6/2/0",
+          "db/6/16/0",
+          "db/6/40/0"
+        ]
+      }
+    }
+  ],
+  "scope_summary": {
+    "new_entries": 0,
+    "revised_entries": 42,
+    "direction_prompts": 7,
+    "skill_notifications": 34,
+    "reward_item_notification": 1,
+    "authorization": "User requested correction of the independent audit findings; unresolved user terminology decisions preserved."
+  }
+}

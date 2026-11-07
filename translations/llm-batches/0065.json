@@ -1,0 +1,381 @@
+{
+  "schema": 1,
+  "project": "mcowh-zh",
+  "batch": "0065",
+  "authored_text_sha256": "94eb816066aac25c6e0961bfe68a7909adaab8b72239e956f38cf00476ab37db",
+  "entries": [
+    {
+      "id": "db/1/88/0",
+      "source_sha256": "0a144a43e57dd4ec0b24105ee9e694fbf8e76ea74d9e54b82714efdb8259c8cf",
+      "source": "Dosey's Sp. Healing Herb",
+      "translation": "Dosey的特等疗伤草",
+      "previous_translation": "Dosey的Sp.疗伤草",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0065",
+      "japanese_check": {
+        "text": "ネムリの(特)ヒーリングハーブ",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "[K]スキル設定 / スキル名",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Existing chat-model draft revised in this chat using the user-selected Japanese or explicit Chinese wording, with verified aligned EN/JP originals. User approved the issue resolution; the entire sentence is not labelled human-proofread. No separate API or local MT.",
+      "supersedes_batch": "0064",
+      "user_review_number": "F01",
+      "user_confirmed_choice": "Sp.译为“特等”，保持Dosey英文人名。",
+      "user_decision_date": "2026-11-08",
+      "chosen_basis": "custom",
+      "revision_reason": "Apply user F01-F21 final-review decisions from frozen 0064 manifest; only twelve existing translations change."
+    },
+    {
+      "id": "db/6/91/3",
+      "source_sha256": "6c6e27b9be5943194f3474c7d45bf7fae90122b1fddeb579ff2c806a8ff91f9c",
+      "source": "Use this by setting it on the ground.\r\nWhen stepped on \\c[60]3x3 tiles\\c[0] take damage,\r\nand stop. It can ignite if you take fire damage.",
+      "translation": "放置在地面上使用。\r\n被踩中后，对\\c[60]3×3格\\c[0]范围造成伤害，并使目标停止移动。\r\n你受到火焰伤害时，它可能起火。",
+      "previous_translation": "放置在地面上使用。\r\n被踩中后，对\\c[60]3×3格\\c[0]范围造成伤害，and stop。\r\n你受到火焰伤害时，它可能起火。",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0065",
+      "japanese_check": {
+        "text": "炎の理力を込めた、地面に設置して使う兵器。\r\n踏ませると\\c[60]3x3マス\\c[0]にダメージ、移動停止させる。\r\n所有時に炎攻撃を受けると引火する。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "[K]アイテム_基本性能 / 火遁地雷 / 説明文",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Existing chat-model draft revised in this chat using the user-selected Japanese or explicit Chinese wording, with verified aligned EN/JP originals. User approved the issue resolution; the entire sentence is not labelled human-proofread. No separate API or local MT.",
+      "supersedes_batch": "0005",
+      "user_review_number": "F02",
+      "user_confirmed_choice": "and stop译为“停止移动”。",
+      "user_decision_date": "2026-11-08",
+      "chosen_basis": "custom",
+      "revision_reason": "Apply user F01-F21 final-review decisions from frozen 0064 manifest; only twelve existing translations change."
+    },
+    {
+      "id": "db/6/164/3",
+      "source_sha256": "1bc23140f0a60c392b4cd89304b7186e721a417a2ccb9b58283dc03b8330d0b3",
+      "source": "Force imbued with a small part of a Wiseman's\r\nexperience. Those bathed in it get \\c[61]Lvl.\\c[0] \\c[60]+5\\c[0].\r\nEffective to use on ally NPCs but not allies.",
+      "translation": "蕴含贤者少许经验的魔力。\r\n沐浴其中后，\\c[61]等级\\c[0]\\c[60]+5\\c[0]。\r\n对友方NPC使用有效，对伙伴无用。",
+      "previous_translation": "蕴含贤者少许经验的魔力。\r\n沐浴其中后，\\c[61]等级\\c[0]\\c[60]+5\\c[0]。\r\nEffective to use on ally NPCs but not allies.",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0065",
+      "japanese_check": {
+        "text": "賢者の経験のごく一部を理力に乗せて込めた薬品。\r\n浴びた者は\\c[61]レベル\\c[0]\\c[60]+5\\c[0]。\r\n協力NPCに使用すると効果的。仲間には意味がない。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "[K]アイテム_基本性能 / 成長の薬 / 説明文",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Existing chat-model draft revised in this chat using the user-selected Japanese or explicit Chinese wording, with verified aligned EN/JP originals. User approved the issue resolution; the entire sentence is not labelled human-proofread. No separate API or local MT.",
+      "supersedes_batch": "0006",
+      "user_review_number": "F03",
+      "user_confirmed_choice": "末句译为“对友方NPC使用有效，对伙伴无用”。",
+      "user_decision_date": "2026-11-08",
+      "chosen_basis": "custom",
+      "revision_reason": "Apply user F01-F21 final-review decisions from frozen 0064 manifest; only twelve existing translations change."
+    },
+    {
+      "id": "db/1/9/1",
+      "source_sha256": "9534babc0754cb9ece2b59b4689d34574b9c9305c259de575308e31ba651efe7",
+      "source": "\\c[61]Strengthen the next attack you make\\c[0]. Before\r\nusing certain Force powers, you must \\c[61]Concentrate\\c[0].\r\nThe more you do the \\c[61]greater the effect\\c[0].",
+      "translation": "凝神专注，\\c[61]强化紧接着的一击\\c[0]。\r\n施放大多数魔法前，必须先进行\\c[61]集中\\c[0]。\r\n原地连续使用时，\\c[61]效果会增强\\c[0]。",
+      "previous_translation": "\\c[61]强化你的下一次攻击\\c[0]。\r\n施放某些魔法前，必须先进行\\c[61]集中\\c[0]。\r\n集中次数越多，\\c[61]效果越强\\c[0]。",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0065",
+      "japanese_check": {
+        "text": "意識を研ぎ澄ませ、\\c[61]直後の一撃を強化\\c[0]する。\r\nフォースの大半は使用前に「\\c[61]集中\\c[0]」が必要。\r\n移動せず続けて使うと\\c[61]効果がアップ\\c[0]する。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "[K]スキル設定 / 集中 / 説明文",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Existing chat-model draft revised in this chat using the user-selected Japanese or explicit Chinese wording, with verified aligned EN/JP originals. User approved the issue resolution; the entire sentence is not labelled human-proofread. No separate API or local MT.",
+      "supersedes_batch": "0002",
+      "user_review_number": "F04",
+      "user_confirmed_choice": "按日文：多数魔法需要集中，原地连续使用效果增强。",
+      "user_decision_date": "2026-11-08",
+      "chosen_basis": "japanese",
+      "revision_reason": "Apply user F01-F21 final-review decisions from frozen 0064 manifest; only twelve existing translations change."
+    },
+    {
+      "id": "db/6/141/3",
+      "source_sha256": "2a6130cfff3f0c5ae94beb932515f473532c541e2f22eed4f86b74f22a48e362",
+      "source": "Keeps your items cool, and prevents rot.\r\nStops items burning from fire.\r\nPerforms an ice Force attack when thrown.",
+      "translation": "使携带的物品保持低温，防止食物腐烂。\r\n物品因火焰攻击起火时，宝石会代为碎裂。\r\n投掷时可发动冰属性魔法攻击。",
+      "previous_translation": "使携带的物品保持低温，防止腐烂。\r\n还能防止物品被火烧毁。\r\n投掷时会发动冰属性魔法攻击。",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0065",
+      "japanese_check": {
+        "text": "荷物を低温に保ち、食料の腐敗を防いでくれる宝石。\r\n炎攻撃でアイテムが炎上したとき、身代わりに砕ける。\r\nまた、投げると氷の理力攻撃ができる。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "[K]アイテム_基本性能 / 氷の結晶 / 説明文",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Existing chat-model draft revised in this chat using the user-selected Japanese or explicit Chinese wording, with verified aligned EN/JP originals. User approved the issue resolution; the entire sentence is not labelled human-proofread. No separate API or local MT.",
+      "supersedes_batch": "0006",
+      "user_review_number": "F08",
+      "user_confirmed_choice": "按日文：防止食物腐烂；物品因火焰起火时宝石代为碎裂。",
+      "user_decision_date": "2026-11-08",
+      "chosen_basis": "japanese",
+      "revision_reason": "Apply user F01-F21 final-review decisions from frozen 0064 manifest; only twelve existing translations change."
+    },
+    {
+      "id": "db/6/162/3",
+      "source_sha256": "35ba714de44337e4d90b0d1949173fde7156f6421c0bdca8a5784729c8e2d150",
+      "source": "Imbued with the blessing of the wind spirits.\r\nMake the person in front of you float.\r\nThe effect should be used on ally NPCs.",
+      "translation": "受到风之精灵祝福的神奇书札。\r\n可使面前的人浮空。\r\n效果不会消失，适合对友方NPC使用。",
+      "previous_translation": "蕴含风之精灵的祝福。\r\n使面前的人获得浮空能力。\r\n适合对友方NPC使用。",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0065",
+      "japanese_check": {
+        "text": "風精の祝福を受けられる不思議な書札。\r\n眼前にいる者を浮遊させることができる。\r\n効果は切れないので、協力NPCに使うとよい。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "[K]アイテム_基本性能 / 浮遊能力の巻物 / 説明文",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Existing chat-model draft revised in this chat using the user-selected Japanese or explicit Chinese wording, with verified aligned EN/JP originals. User approved the issue resolution; the entire sentence is not labelled human-proofread. No separate API or local MT.",
+      "supersedes_batch": "0006",
+      "user_review_number": "F09",
+      "user_confirmed_choice": "按日文：浮空与游泳书札的效果不会消失。",
+      "user_decision_date": "2026-11-08",
+      "chosen_basis": "japanese",
+      "revision_reason": "Apply user F01-F21 final-review decisions from frozen 0064 manifest; only twelve existing translations change."
+    },
+    {
+      "id": "db/6/163/3",
+      "source_sha256": "2b47b7468ee0025792e1f54c6c3a122601f47fa079740583430193507f720efd",
+      "source": "Imbued with the blessing of the water spirits.\r\nMake the person in front of you a swimmer.\r\nThe effect should be used on ally NPCs.",
+      "translation": "受到水之精灵祝福的神奇书札。\r\n可使面前的人获得游泳能力。\r\n效果不会消失，适合对友方NPC使用。",
+      "previous_translation": "蕴含水之精灵的祝福。\r\n使面前的人获得游泳能力。\r\n适合对友方NPC使用。",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0065",
+      "japanese_check": {
+        "text": "水精の祝福を受けられる不思議な書札。\r\n眼前にいる者が泳げるようになる。\r\n効果は切れないので、協力NPCに使うとよい。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "[K]アイテム_基本性能 / 水泳能力の巻物 / 説明文",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Existing chat-model draft revised in this chat using the user-selected Japanese or explicit Chinese wording, with verified aligned EN/JP originals. User approved the issue resolution; the entire sentence is not labelled human-proofread. No separate API or local MT.",
+      "supersedes_batch": "0006",
+      "user_review_number": "F09",
+      "user_confirmed_choice": "按日文：浮空与游泳书札的效果不会消失。",
+      "user_decision_date": "2026-11-08",
+      "chosen_basis": "japanese",
+      "revision_reason": "Apply user F01-F21 final-review decisions from frozen 0064 manifest; only twelve existing translations change."
+    },
+    {
+      "id": "db/1/583/1",
+      "source_sha256": "db647f59c5cafc779faccbf436546e764c5d56a2c4c2f9ed40beb25a0ce30421",
+      "source": "A special skill that can only be used at night.\r\nUnleash an attack with \\c[61]ATK\\c[0] \\c[60]x3\\c[0].\r\n\\c[61]Weapon durability is reduced\\c[0] by \\c[62]3\\c[0].",
+      "translation": "只能在夜间使用的特殊技能。\r\n发动\\c[61]ATK\\c[0]至少为\\c[60]3倍\\c[0]的一击。\r\n\\c[61]武器耐久度减少\\c[0]\\c[62]3\\c[0]。",
+      "previous_translation": "只能在夜间使用的特殊技能。\r\n发动\\c[61]ATK\\c[0] \\c[60]x3\\c[0]的攻击。\r\n\\c[61]武器耐久度减少\\c[0]\\c[62]3\\c[0]。",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0065",
+      "japanese_check": {
+        "text": "夜しか使えない特殊な技。\r\n\\c[61]攻撃力\\c[0]\\c[60]3倍\\c[0]以上の一撃を放つ。\r\n\\c[61]武器消耗\\c[0]\\c[62]3回分\\c[0]。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "[K]スキル設定 / ダダーン弾 / 説明文",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Existing chat-model draft revised in this chat using the user-selected Japanese or explicit Chinese wording, with verified aligned EN/JP originals. User approved the issue resolution; the entire sentence is not labelled human-proofread. No separate API or local MT.",
+      "supersedes_batch": "0011",
+      "user_review_number": "F14",
+      "user_confirmed_choice": "按日文：ATK至少为3倍。",
+      "user_decision_date": "2026-11-08",
+      "chosen_basis": "japanese",
+      "revision_reason": "Apply user F01-F21 final-review decisions from frozen 0064 manifest; only twelve existing translations change."
+    },
+    {
+      "id": "db/1/391/0",
+      "source_sha256": "c52fa8362819e143ba49cfe21f999ec85346625f7b8f1407c1e79bc689c289a2",
+      "source": "Aerdou's Spear Attack [Spec] (Sprung)",
+      "translation": "Aerdou的长矛攻击[特]（触发）",
+      "previous_translation": "Aerdou的长矛攻击[Spec]（触发）",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0065",
+      "japanese_check": {
+        "text": "エアドー槍攻撃【特】（発動）",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "[K]スキル設定 / スキル名",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Existing chat-model draft revised in this chat using the user-selected Japanese or explicit Chinese wording, with verified aligned EN/JP originals. User approved the issue resolution; the entire sentence is not labelled human-proofread. No separate API or local MT.",
+      "supersedes_batch": "0011",
+      "user_review_number": "F15",
+      "user_confirmed_choice": "[Spec]改为[特]；不推测缩写英文全称。",
+      "user_decision_date": "2026-11-08",
+      "chosen_basis": "custom",
+      "revision_reason": "Apply user F01-F21 final-review decisions from frozen 0064 manifest; only twelve existing translations change."
+    },
+    {
+      "id": "db/1/392/0",
+      "source_sha256": "4b3a8219ef888798e39bdbfe4a5031a763eb92b669da4837cb28e852fa922ed3",
+      "source": "Aerdou's Spear Attack [Spec]",
+      "translation": "Aerdou的长矛攻击[特]",
+      "previous_translation": "Aerdou的长矛攻击[Spec]",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0065",
+      "japanese_check": {
+        "text": "エアドー槍攻撃【特】",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "[K]スキル設定 / スキル名",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Existing chat-model draft revised in this chat using the user-selected Japanese or explicit Chinese wording, with verified aligned EN/JP originals. User approved the issue resolution; the entire sentence is not labelled human-proofread. No separate API or local MT.",
+      "supersedes_batch": "0011",
+      "user_review_number": "F15",
+      "user_confirmed_choice": "[Spec]改为[特]；不推测缩写英文全称。",
+      "user_decision_date": "2026-11-08",
+      "chosen_basis": "custom",
+      "revision_reason": "Apply user F01-F21 final-review decisions from frozen 0064 manifest; only twelve existing translations change."
+    },
+    {
+      "id": "db/1/409/1",
+      "source_sha256": "7378692471df16735da5de74db0e96e4bef0e3c48f3395e7cb5c223794d5ecda",
+      "source": "Brain wash 1 Monster to fight for you. Range is\r\n3 tiles. No effect on story monsters or Bosses.\r\n\\c[1]Reduce CHR Lvl. by[5x (No. of times used +1)]\\c[0]\r\n[Limited to \\c[1]\\cdb[25:51:0]\\c[0] uses]",
+      "translation": "洗脑1只怪物，使其为你战斗。射程为\r\n3格，对剧情怪物与首领无效。\r\n\\c[1]消耗CHR等级[5x（使用次数+1）]\\c[0]\r\n[当前已使用\\c[1]\\cdb[25:51:0]\\c[0]次]",
+      "previous_translation": "洗脑1只怪物，使其为你战斗。射程为\r\n3格，对剧情怪物与首领无效。\r\n\\c[1]消耗CHR等级[5x（使用次数+1）]\\c[0]\r\n[最多使用\\c[1]\\cdb[25:51:0]\\c[0]次]",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0065",
+      "japanese_check": {
+        "text": "離れた「魔物」1体を洗脳して戦わせる。\r\n射程3マス｡物語に関わる魔物やボスには\r\n無効。\\c[1]魅力Lvを[5x(使用数+1)]だけ消費\\c[0]｡\r\n[ 現在の使用数 \\c[1]\\cdb[25:51:0]\\c[0] 回 ]",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "[K]スキル設定 / 説明文",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Existing chat-model draft revised in this chat using the user-selected Japanese or explicit Chinese wording, with verified aligned EN/JP originals. User approved the issue resolution; the entire sentence is not labelled human-proofread. No separate API or local MT.",
+      "supersedes_batch": "0011",
+      "user_review_number": "F12",
+      "user_confirmed_choice": "按日文：变量表示当前已使用次数，不是使用次数上限。",
+      "user_decision_date": "2026-11-08",
+      "chosen_basis": "japanese",
+      "revision_reason": "Apply user F01-F21 final-review decisions from frozen 0064 manifest; only twelve existing translations change."
+    },
+    {
+      "id": "db/1/433/1",
+      "source_sha256": "77fd76d0ed1536de4a4a28461b2f014560d2d12fe80bf72eee6d63f23572d9e7",
+      "source": "Make \\c[60]1\\c[0] monster fight as your subordinate.\r\n\\c[61]Range\\c[0] is \\c[60]3 tiles\\c[0], and it's ineffective against Bosses.\r\nReduce \\c[61]Charisma Lvl.\\c[0] by \\c[60][5x (number used +1)]\\c[0].\r\n[Limited to \\c[1]\\cdb[25:51:0]\\c[0] uses]",
+      "translation": "使\\c[60]1\\c[0]只怪物成为部下，为你战斗。\r\n\\c[61]射程\\c[0]为\\c[60]3格\\c[0]，对首领无效。\r\n消耗\\c[61]CHR等级\\c[0]\\c[60][5x（使用次数+1）]\\c[0]。\r\n[当前已使用\\c[1]\\cdb[25:51:0]\\c[0]次]",
+      "previous_translation": "使\\c[60]1\\c[0]只怪物成为部下，为你战斗。\r\n\\c[61]射程\\c[0]为\\c[60]3格\\c[0]，对首领无效。\r\n消耗\\c[61]CHR等级\\c[0]\\c[60][5x（使用次数+1）]\\c[0]。\r\n[最多使用\\c[1]\\cdb[25:51:0]\\c[0]次]",
+      "translation_method": "current_online_chat_llm",
+      "review_status": "llm_translated",
+      "human_reviewed": false,
+      "batch": "0065",
+      "japanese_check": {
+        "text": "魔物\\c[60]1体\\c[0]を配下として戦わせる。\r\n\\c[61]射程\\c[0]は\\c[60]3マス\\c[0]で、ボスには無効。\r\n\\c[61]魅力Lv\\c[0]を\\c[60][5x(使用数+1)]\\c[0]消費する｡\r\n[ 現在の使用数 \\c[1]\\cdb[25:51:0]\\c[0] 回 ]",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "[K]スキル設定 / 説明文",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      },
+      "provenance": "Existing chat-model draft revised in this chat using the user-selected Japanese or explicit Chinese wording, with verified aligned EN/JP originals. User approved the issue resolution; the entire sentence is not labelled human-proofread. No separate API or local MT.",
+      "supersedes_batch": "0011",
+      "user_review_number": "F12",
+      "user_confirmed_choice": "按日文：变量表示当前已使用次数，不是使用次数上限。",
+      "user_decision_date": "2026-11-08",
+      "chosen_basis": "japanese",
+      "revision_reason": "Apply user F01-F21 final-review decisions from frozen 0064 manifest; only twelve existing translations change."
+    }
+  ],
+  "revision_reason": "Apply user F01-F21 final-review decisions from frozen 0064 manifest; only twelve existing translations change."
+}

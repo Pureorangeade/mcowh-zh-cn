@@ -1,0 +1,32 @@
+{
+  "executable_sha256": "189967e91db68d58336cd020207bb84297a3955e882b0d066f638a7d78af86bc",
+  "bundle_sha256": "ac5458a578aadf71c1929b45d01bf90c5341fb0373f72d970964b772a8d59ee0",
+  "test_fixture": "Minimal original files required by patch; game executable not launched",
+  "runtime_display_verified": false,
+  "results": [
+    {
+      "action": "verify",
+      "exit_code": 0,
+      "message": "差分包重建验证通过。",
+      "seconds": 6.23
+    },
+    {
+      "action": "install",
+      "exit_code": 0,
+      "message": "汉化技术演示补丁已安装。",
+      "seconds": 6.59
+    },
+    {
+      "action": "install",
+      "exit_code": 0,
+      "message": "相同版本的补丁已经安装。",
+      "seconds": 1.75
+    },
+    {
+      "action": "restore",
+      "exit_code": 0,
+      "message": "已还原原版，文件哈希与备份一致。",
+      "seconds": 1.86
+    }
+  ]
+}

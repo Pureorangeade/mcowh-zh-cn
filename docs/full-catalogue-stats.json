@@ -1,0 +1,12 @@
+{
+  "entries": 11974,
+  "by_kind": {
+    "database": 5482,
+    "message": 5661,
+    "choice": 713,
+    "button": 118
+  },
+  "source_characters": 660768,
+  "excluded_fields": 664,
+  "scope": "Selected English database display fields, event messages/choices and UI Button labels. Images, executable literals and unconfirmed fields are separate work."
+}

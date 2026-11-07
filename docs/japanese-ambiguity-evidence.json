@@ -1,0 +1,78 @@
+{
+  "schema": 1,
+  "note": "Newly available Japanese evidence. Existing user-approved translations and deferred decisions were not silently changed.",
+  "entries": [
+    {
+      "id": "db/6/91/3",
+      "English": "Use this by setting it on the ground.\r\nWhen stepped on \\c[60]3x3 tiles\\c[0] take damage,\r\nand stop. It can ignite if you take fire damage.",
+      "Japanese": "炎の理力を込めた、地面に設置して使う兵器。\r\n踏ませると\\c[60]3x3マス\\c[0]にダメージ、移動停止させる。\r\n所有時に炎攻撃を受けると引火する。",
+      "Japanese_source": {
+        "text": "炎の理力を込めた、地面に設置して使う兵器。\r\n踏ませると\\c[60]3x3マス\\c[0]にダメージ、移動停止させる。\r\n所有時に炎攻撃を受けると引火する。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "[K]アイテム_基本性能 / 火遁地雷 / 説明文",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      }
+    },
+    {
+      "id": "db/6/143/3",
+      "English": "Use for \\c[61]HP\\c[0] \\c[60]+10%\\c[0] each turn and \\c[61]ATK\\c[0] \\c[60]+60%\\c[0] for\r\n\\c[60]20 turns\\c[0]. However, \\c[61]Max HP\\c[0] \\c[62]1/3\\c[0], get \\c[61]ATK\\c[0] \\c[60]+60%\\c[0],\r\n\\c[61]Max ST\\c[0] \\c[62]1/3\\c[0], \\c[61]ACC\\c[62] -10%\\c[0], and low \\c[61]Move Speed\\c[0]\r\nfor next \\c[60]30 turns\\c[0].",
+      "Japanese": "浴びると\\c[60]20ターン\\c[0]の間\\c[61]攻撃力\\c[0]\\c[60]+60％\\c[0]、毎ターン\\c[61]HP\\c[0]\\c[60]+10％\\c[0]\r\nの効果がある薬品。ただしその後\\c[60]30ターン\\c[0]の間、\r\n\\c[61]最大HP\\c[0]\\c[62]1/3\\c[0]、\\c[61]最大ST\\c[0]\\c[62]1/3\\c[0]、\\c[61]命中率\\c[62]-10％\\c[0]、\\c[61]行動速度\\c[0]低下。",
+      "Japanese_source": {
+        "text": "浴びると\\c[60]20ターン\\c[0]の間\\c[61]攻撃力\\c[0]\\c[60]+60％\\c[0]、毎ターン\\c[61]HP\\c[0]\\c[60]+10％\\c[0]\r\nの効果がある薬品。ただしその後\\c[60]30ターン\\c[0]の間、\r\n\\c[61]最大HP\\c[0]\\c[62]1/3\\c[0]、\\c[61]最大ST\\c[0]\\c[62]1/3\\c[0]、\\c[61]命中率\\c[62]-10％\\c[0]、\\c[61]行動速度\\c[0]低下。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "[K]アイテム_基本性能 / ベルセルクアンプル / 説明文",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      }
+    },
+    {
+      "id": "db/6/164/3",
+      "English": "Force imbued with a small part of a Wiseman's\r\nexperience. Those bathed in it get \\c[61]Lvl.\\c[0] \\c[60]+5\\c[0].\r\nEffective to use on ally NPCs but not allies.",
+      "Japanese": "賢者の経験のごく一部を理力に乗せて込めた薬品。\r\n浴びた者は\\c[61]レベル\\c[0]\\c[60]+5\\c[0]。\r\n協力NPCに使用すると効果的。仲間には意味がない。",
+      "Japanese_source": {
+        "text": "賢者の経験のごく一部を理力に乗せて込めた薬品。\r\n浴びた者は\\c[61]レベル\\c[0]\\c[60]+5\\c[0]。\r\n協力NPCに使用すると効果的。仲間には意味がない。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "[K]アイテム_基本性能 / 成長の薬 / 説明文",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      }
+    },
+    {
+      "id": "db/6/217/3",
+      "English": "A substance imbued that steals vitality.\r\nBathe in it and get \\c[61]Lvl.\\c[0] \\c[60]-10\\c[0].\r\nNot effective unless target is base Lvl. +1.",
+      "Japanese": "生気を奪って蒸発する理力を込めた薬品。\r\n浴びると\\c[61]レベル\\c[0]\\c[60]-10\\c[0]。\r\n元から+1以上に成長していない相手には無効。",
+      "Japanese_source": {
+        "text": "生気を奪って蒸発する理力を込めた薬品。\r\n浴びると\\c[61]レベル\\c[0]\\c[60]-10\\c[0]。\r\n元から+1以上に成長していない相手には無効。",
+        "availability": "verified_display",
+        "origin": "Steam Japanese content depot 409003",
+        "version": "Steam build 1527978; JP manifest 6676882424485310473",
+        "alignment": {
+          "method": "database_storage_id_and_matching_table_layout",
+          "semantic_review": "pending"
+        },
+        "internal_hint": "[K]アイテム_基本性能 / 説明文",
+        "hint_origin": "English build database.project internal labels",
+        "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+      }
+    }
+  ]
+}
