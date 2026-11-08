@@ -20,7 +20,12 @@ class CDP{
   client=await CDP.connect(target.webSocketDebuggerUrl);
   await client.call('Emulation.setDeviceMetricsOverride',{width:1440,height:1000,deviceScaleFactor:1,mobile:false});
   for(let i=0;i<100;i++){if(await client.value("document.documentElement?.dataset.editorReady==='true'"))break;await delay(100);}
-  assert.equal(await client.value('records.length'),12204);
+  assert.equal(await client.value('records.length'),12238);
+  await client.value("select(byId.get('db/72/1/1'))");
+  assert.equal(await client.value("document.getElementById('source').value.includes('Once there was')"),true);
+  assert.equal(await client.value("document.getElementById('japanese').value.includes('名前のない世界')"),true);
+  assert.equal(await client.value("document.getElementById('target').value.includes('没有名字的世界')"),true);
+  assert.equal(await client.value("byId.get('db/72/1/1').category"),'序章与结尾');
   assert.equal(await client.value("document.getElementById('source').readOnly"),true);
   assert.equal(await client.value("document.getElementById('japanese').readOnly"),true);
   await client.value("select(byId.get('db/58/140/1'))");
@@ -111,8 +116,9 @@ class CDP{
   await client.value("document.getElementById('export').click()");
   assert.ok((await client.value("document.getElementById('message').textContent")).startsWith('暂不能导出'));
   const japaneseCount=await client.value("records.filter(r=>r.japanese.availability==='verified_display').length");
-  assert.equal(japaneseCount,11951);
-  const report={version:'working English/Japanese/Chinese editor',browser:'Microsoft Edge headless, isolated profile',entries:12204,llm_entries:modelCount,japanese_entries:japaneseCount,checks:['page loads','English and Japanese read-only','actual Japanese display source visible','remaining missing Japanese original explicit','internal Japanese hint separated from display original','internal command readonly and preserved','user-resolved phrase translated and removed from final-review filter','confirmed current-version item removed from final-review filter','final-review mark exported and survives reload','final-review filter','cancel deferral preserves Chinese draft','LLM-only filter','translation provenance retained on export','older empty cache preserves new embedded translations','reset restores embedded LLM translation','user edit distinguished from LLM translation','edit and export JSON','browser draft reload','abbreviation locked','invalid controls blocked','unfinished draft retained after reload'],screenshot:'editor.png'};
+  assert.equal(japaneseCount,11985);
+  const report={version:'working English/Japanese/Chinese editor',browser:'Microsoft Edge headless, isolated profile',entries:12238,llm_entries:modelCount,japanese_entries:japaneseCount,checks:['page loads','English and Japanese read-only','actual Japanese display source visible','remaining missing Japanese original explicit','internal Japanese hint separated from display original','internal command readonly and preserved','user-resolved phrase translated and removed from final-review filter','confirmed current-version item removed from final-review filter','final-review mark exported and survives reload','final-review filter','cancel deferral preserves Chinese draft','LLM-only filter','translation provenance retained on export','older empty cache preserves new embedded translations','reset restores embedded LLM translation','user edit distinguished from LLM translation','edit and export JSON','browser draft reload','abbreviation locked','invalid controls blocked','unfinished draft retained after reload'],screenshot:'editor.png'};
+  report.checks.push('new prologue English/Japanese/Chinese body and story category visible');
   report.checks.push('source-version difference flagged with its question and retained English meaning');
   report.llm_draft_entries=modelDraftCount;
   report.checks.push('menu action separator corruption rejected by visible editor and export');

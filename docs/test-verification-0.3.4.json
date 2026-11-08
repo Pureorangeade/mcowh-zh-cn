@@ -1,0 +1,9 @@
+{
+  "version": "0.3.4-story-compat",
+  "test_command": "python -m unittest discover -s tests -p test_*.py",
+  "exit_code": 0,
+  "tests": 68,
+  "seconds": 41.364,
+  "passed": true,
+  "game_started": false
+}

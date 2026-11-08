@@ -1,19 +1,26 @@
 {
-  "version": "0.3.3-menu-fix",
-  "baseline": "0.3.0-llm-review",
-  "database_display_records_checked": 5482,
-  "approved_panel_fields_checked": 29,
-  "only_listed_abbreviations_replaced_in_each_field": true,
+  "version": "0.3.4-story-compat",
+  "baseline": "0.3.3-menu-fix",
   "matches": true,
-  "images_fonts_scripts_identical_to_030": true,
-  "examples": {
-    "db/58/140/1": "力量",
-    "db/58/146/1": "开锁",
-    "db/58/155/1": "移速",
-    "db/58/157/1": "连击率",
-    "db/58/159/1": "鉴定率"
+  "by_kind": {
+    "database": 5516,
+    "message": 5661,
+    "choice": 713,
+    "button": 118,
+    "system": 43
   },
-  "death_variable_runtime_issue_fixed": false,
+  "database_display_records_checked": 5516,
+  "all_database_menu_rows_checked": 123,
+  "new_story_bodies": 34,
+  "story_pages": 154,
+  "all_story_japanese_sources_verified": true,
+  "approved_panel_fields_checked": 29,
   "menu_syntax_fix_fields": 12,
-  "display_menu_templates_checked": 18
+  "images_identical_to_033": true,
+  "existing_glyph_metrics_and_pixels_identical_to_033": true,
+  "runtime_compatibility_implemented": true,
+  "death_variable_runtime_issue_fixed": "awaiting_user_in_game_verification",
+  "runtime_display_verified": false,
+  "game_started": false,
+  "actual_game_or_save_files_modified": false
 }

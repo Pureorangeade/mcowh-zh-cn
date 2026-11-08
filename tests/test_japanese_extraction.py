@@ -44,7 +44,7 @@ class JapaneseExtractionTests(unittest.TestCase):
         self.assertEqual(report['database_string_fields'],63821)
         self.assertTrue(report['database_layout_matches'])
         records=base_catalogue()
-        self.assertEqual(sum(r['japanese']['availability']=='verified_display' for r in records),11951)
+        self.assertEqual(sum(r['japanese']['availability']=='verified_display' for r in records),11985)
         for kind in ['message','button']:
             self.assertTrue(all(r['japanese']['text'] for r in records if r['kind']==kind))
         self.assertTrue(all(r['japanese']['text'] for r in records if r['kind']=='choice' and not r.get('internal_command')))

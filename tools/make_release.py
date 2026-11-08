@@ -10,43 +10,40 @@ from release_config import PATCH_VERSION, RELEASE_FOLDER
 
 PLAYER_README = f"""Mystery Chronicle: One Way Heroics 简体中文补丁 {PATCH_VERSION}
 
-本版修复12处菜单配置，解决使用、快捷栏、装备、拾取等选项显示编号且无法正常生效的问题。
-其余内容完整继承0.3.2，包括你确认的19项人物属性译名（MOV为“移速”）。
-图片、字体、HUD、脚本和其余文字与0.3.2一致。
-HP、ST、EN、Lv、Exp、WT仍保留0.3.0的英文样式；人名仍暂留英文。
-F18—F21四项英日玩法差异仍沿用当前英文版含义，保留至后续判断。
-开局$dead动态死因仍可能显示英文，本版尚未确认或修复，见DEATH_TEXT_FOLLOWUP.md。
-本版仍待游戏内验收，尚不能宣称全游戏精校完成。
+本版补译34段序章、结局与后日谈正文（154页），逐段对照实际日文。
+加入通关标识的旧英文职业记录兼容，以及开局旧英文死因的显示兼容。
+原菜单动作修复及19项人物属性译名继承0.3.3；187张文字图、HUD和已有字形不变。
+人名暂留英文。按用户决定统一“绝伦之书”，同步7段旧对话。
+新增字库字符只做追加，不重画原字形。实际游戏内显示仍待用户验收。
 
-仅支持 Steam 英文版 build 1527978。日文版资源不能直接安装此补丁。
-若此前为取得日文资源切换过语言，请先在Steam属性中切回English并等待下载完成。
+仅支持Steam英文版build 1527978。Steam语言请设为English并等待下载完成。
 
 安装或升级
-1. 退出游戏，完整解压压缩包到可写目录。
-2. 如已装旧补丁，先使用旧包安装程序“还原原版”，保留.mcowh-zh-backup。
-   新程序已在隔离副本验证可还原0.3.0和0.3.2，再安装本版。
-3. 确保Steam语言为English。切换语言后若文件校验失败，可在Steam验证完整性后重试。
-4. 运行MCOWH_Chinese_Patch.exe，核对游戏目录，点击“安装汉化”。
-5. 完成后由你通过Steam启动游戏验收，安装器不会启动或操作游戏。
-无需Python、字体或翻译模型；patch.mcpatch必须与安装程序放在一起。
-安装前校验原文件并备份。不要直接覆盖安装到旧汉化上，也不要删除备份或存档。
-需还原时退出游戏，运行本安装程序并点击“还原原版”。
-重建和备份占数GB空间，请在游戏盘和系统临时目录留足空间。
+1. 退出游戏，完整解压ZIP到可写目录。
+2. 运行MCOWH_Chinese_Patch.exe，核对游戏目录。
+3. 如已安装旧汉化，先“还原原版”，再“安装汉化”。不要直接覆盖旧汉化。
+4. 保留.mcowh-zh-backup和存档。通过Steam自行启动游戏验收。
+安装器不会启动或操作游戏；无需Python、额外字体或翻译模型。
+patch.mcpatch必须与安装程序放在同一目录。
+需还原时，退出游戏，再用本安装器“还原原版”。
+重建和备份占数GB空间，请在游戏盘及系统临时目录留足空间。
 
-本版内容
-保留187张文字图、8套字库及0.3.2的19项属性；仅修复12处菜单分隔符和格式。
-共12,204条编辑记录，其中12,084条模型译文及已确认标签；7条原文、50条其余缩写模板及63条程序指令保留。
-12处修复及其余200项资源逐字节不变的证据，见menu-0068-diff.json；19项属性的历史变更见panel-only-0067-diff.json。
-22项终审记录包含18项暂留英文人名及F18—F21；查看FINAL_REVIEW.md。
-其他图片、游戏标志、硬编码及完整流程仍有待核对，不能据此计算全游戏汉化率。
+请重点检查已有海盗／风来人的通关标识、序章书页及开局旧死因。
+无需重新通关或故意死亡，具体步骤见USER_TEST.md。
+旧死因中的未知或有歧义怪物名可能仍保留英文；原始记录不被直接编辑。
+F18—F21仍按既有决定保留，见FINAL_REVIEW.md。
+本版不等于所有视频、职员表和全游戏流程都已完成汉化与精校。
 
 三语对照编辑
-打开“汉化译文编辑器.html”，英文、实际日文只读，中文可编辑。
-修改自动存浏览器草稿，完成后“导出修订”并把JSON发回聊天合入。
-改动需重建、安装新版才会进入游戏；编辑器不会直接改游戏。
-详情见EDITING.md，验收步骤见USER_TEST.md。
-离线安装、还原、资源与字形审计见release-verification.json及isolated-install-audit.json。
-SHA256SUMS.txt记录包内文件哈希；第三方声明见licenses。
+打开“汉化译文编辑器.html”，英文与实际日文只读、中文可编辑。
+共12,238条编辑记录，11,985条有实际日文来源；新正文可筛选“序章与结尾”。
+修改自动存浏览器草稿，完成后“导出修订”，交回JSON合入并重建补丁。
+编辑器不会直接修改游戏。详见EDITING.md。
+
+更新范围、用户决定及离线证据见RELEASE_0.3.4.md、STORY_0069.md、
+user-decisions-0069.json、story-0069-diff.json、runtime-compat-proof.json、
+release-verification.json及isolated-install-audit.json。
+SHA256SUMS.txt记录包内文件哈希，第三方声明见licenses。
 """
 
 
@@ -65,7 +62,7 @@ def main():
     for name in ["QA.md", "release-verification.json", "USER_TEST.md", "manual-verification.json", "EDITING.md",
                  "llm-editor-verification.json", "isolated-install-audit.json", "release-text-verification.json", "FINAL_REVIEW.md", "final-review-queue.json",
                  "USER_REVIEW_0065.md", "user-review-0065-verification.json", "PERSONAL_NAMES_0064.md", "personal-name-registry.json",
-                 "RELEASE_0.3.3.md", "MENU_FIX_0068.md", "menu-0068-diff.json", "RELEASE_0.3.2.md", "PANEL_ONLY_0067.md", "panel-only-0067-diff.json", "DEATH_TEXT_FOLLOWUP.md"]:
+                 "RELEASE_0.3.4.md", "STORY_0069.md", "test-verification-0.3.4.json", "user-decisions-0069.json", "story-0069-diff.json", "runtime-compat-proof.json", "RELEASE_0.3.3.md", "MENU_FIX_0068.md", "menu-0068-diff.json", "RELEASE_0.3.2.md", "PANEL_ONLY_0067.md", "panel-only-0067-diff.json", "DEATH_TEXT_FOLLOWUP.md"]:
         shutil.copy2(PROJECT / "docs" / name, release / name)
     for source in (PROJECT / "licenses").iterdir():
         if source.is_file():

@@ -153,8 +153,8 @@ def build(game, out, translation, font):
 
 
 if __name__ == '__main__':
-    if PATCH_VERSION in {'0.3.2-panel-only','0.3.3-menu-fix'}:
-        raise SystemExit('Use the dedicated frozen-release builder: build_panel_only.py for 0.3.2 or build_menu_fix.py for 0.3.3.')
+    if PATCH_VERSION in {'0.3.2-panel-only','0.3.3-menu-fix','0.3.4-story-compat'}:
+        raise SystemExit('Use the dedicated frozen-release builder: build_panel_only.py for 0.3.2 or build_menu_fix.py for 0.3.3, or build_story_compat.py for 0.3.4.')
     p = argparse.ArgumentParser(description=__doc__)
     p.add_argument('--game', type=Path, default=PROJECT / 'work/clean-fixture')
     p.add_argument('--out', type=Path, default=PROJECT / 'build' / PATCH_VERSION)

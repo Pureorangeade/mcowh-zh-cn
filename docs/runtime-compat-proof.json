@@ -1,0 +1,198 @@
+{
+  "source_sha256": "de727ada8ca653845917e96f8276a079a1665996f30d6ccff7673dbb44eb452d",
+  "target_sha256": "5d130581d32d2db3a0126cef50632551aa82b755db05b21aab6e606dd4b152a1",
+  "events": [
+    {
+      "event": 372,
+      "name": "[処理]イベントコード実行",
+      "after_original_command": 339,
+      "variable": "cself[8] (local rendered message)",
+      "added_commands": 348,
+      "writes_save": false,
+      "system_s5_unchanged": true
+    },
+    {
+      "event": 372,
+      "name": "[処理]イベントコード実行",
+      "after_original_command": 601,
+      "variable": "cself[7] (local rendered message)",
+      "added_commands": 348,
+      "writes_save": false,
+      "system_s5_unchanged": true
+    },
+    {
+      "event": 372,
+      "name": "[処理]イベントコード実行",
+      "after_original_command": 1987,
+      "variable": "cself[8] (local rendered message)",
+      "added_commands": 348,
+      "writes_save": false,
+      "system_s5_unchanged": true
+    },
+    {
+      "event": 598,
+      "name": "[処理]メッセージ変換処理",
+      "after_original_command": 14,
+      "variable": "cself[8] (local rendered message)",
+      "added_commands": 348,
+      "writes_save": false,
+      "system_s5_unchanged": true
+    },
+    {
+      "event": 741,
+      "name": "[UI関数]トロフィーアイコン生成",
+      "after_original_command": 4,
+      "variable": "cself[8] (local loaded flag string)",
+      "added_commands": 25,
+      "writes_save": false
+    },
+    {
+      "event": 806,
+      "name": "[UI関数]トロフィーアイコン生成:対戦",
+      "after_original_command": 4,
+      "variable": "cself[8] (local loaded flag string)",
+      "added_commands": 25,
+      "writes_save": false
+    },
+    {
+      "event": 846,
+      "name": "[関数]トロフィーアイコン送信ＩＤ生成",
+      "after_original_command": 4,
+      "variable": "cself[8] (local loaded flag string)",
+      "added_commands": 25,
+      "writes_save": false
+    }
+  ],
+  "class_aliases": [
+    [
+      "Beast Hunter",
+      "幻兽猎人",
+      120
+    ],
+    [
+      "One Way Hero",
+      "片道勇者",
+      111
+    ],
+    [
+      "Ult. Student",
+      "超高校级学生",
+      125
+    ],
+    [
+      "Astrologist",
+      "占星术士",
+      118
+    ],
+    [
+      "Dark Knight",
+      "暗黑骑士",
+      113
+    ],
+    [
+      "Adventurer",
+      "冒险者",
+      107
+    ],
+    [
+      "Half-Beast",
+      "兽人",
+      108
+    ],
+    [
+      "Swordsman",
+      "剑士",
+      101
+    ],
+    [
+      "Assassin",
+      "刺客",
+      112
+    ],
+    [
+      "Sorcerer",
+      "术士",
+      105
+    ],
+    [
+      "Wanderer",
+      "风来人",
+      124
+    ],
+    [
+      "Wrestler",
+      "力士",
+      122
+    ],
+    [
+      "Brawler",
+      "拳斗士",
+      114
+    ],
+    [
+      "Samurai",
+      "武士",
+      119
+    ],
+    [
+      "Archer",
+      "弓手",
+      103
+    ],
+    [
+      "Dracon",
+      "龙人",
+      121
+    ],
+    [
+      "Gunner",
+      "枪手",
+      110
+    ],
+    [
+      "Knight",
+      "骑士",
+      102
+    ],
+    [
+      "Pirate",
+      "海盗",
+      106
+    ],
+    [
+      "Priest",
+      "牧师",
+      115
+    ],
+    [
+      "Ranger",
+      "游侠",
+      109
+    ],
+    [
+      "Zombie",
+      "僵尸",
+      116
+    ],
+    [
+      "Queen",
+      "女王",
+      117
+    ],
+    [
+      "Thief",
+      "盗贼",
+      104
+    ],
+    [
+      "Lord",
+      "领主",
+      123
+    ]
+  ],
+  "legacy_static_death_templates": 16,
+  "unambiguous_enemy_aliases": 327,
+  "game_or_save_files_modified": false,
+  "runtime_verified": false,
+  "note": "Only local strings are changed. Existing and new Chinese flags both match; unknown enemy names stay visible."
+}

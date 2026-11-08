@@ -55,6 +55,8 @@ def category(entry):
     if entry['kind'] != 'database':
         return {'message':'剧情与事件', 'choice':'对话选项', 'button':'界面按钮'}.get(entry['kind'], '其他')
     table = int(entry['id'].split('/')[1])
+    if table == 72 and entry['id'].endswith('/1'):
+        return '序章与结尾'
     if table == 1:
         return '技能'
     if table in {3,4,5,6,8,9,10,11}:

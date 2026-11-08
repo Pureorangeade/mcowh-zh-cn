@@ -33,7 +33,9 @@
         "message/data/event/skill/udb1_99_fairy_skilltalk_sp_wepon.txt/9",
         "message/data/event/skill/udb1_99_fairy_skilltalk_zeukrees.txt/6",
         "message/data/event/skill/udb1_99_fairy_skilltalk_zeukrees.txt/9",
-        "message/data/event/skill/udb1_99_fairy_skilltalk_zeukrees.txt/14"
+        "message/data/event/skill/udb1_99_fairy_skilltalk_zeukrees.txt/14",
+        "db/72/34/1",
+        "db/72/38/1"
       ],
       "context": "Zeukrees, the giant of light; sword made from a part of its body.",
       "question": "光之巨人 Zeukrees 的中文专名如何处理？未经确认不自行音译。",
@@ -677,6 +679,46 @@
           "translation": "好！\\c[50]<PLAYER>\\c[0]！\\c[51]Alma\\c[0]！\r\n加油打倒光之灾厄……\r\n打倒\\c[51]Zeukrees\\c[0]吧！！",
           "translation_state": "llm_translated",
           "source_sha256": "afac0b4b75a320d1df294eacb532c602cbb35fa862f2848b7dfe61b1516fa0f3"
+        },
+        {
+          "id": "db/72/34/1",
+          "source": " At the end of a seemingly endless journey,\r\n they reached the End of the East.\r\n\r\n Exhausted, <PLAYER> and the others saw\r\n there was barren land buried in white ash. This\r\n was not only the end of the east, but also the\r\n beginning of the West where the Calamity of\r\n Light had been released upon the world.\r\n\r\n\"Does this mean we've almost crossed the\r\n whole world?\"\r\n\r\n\"Yes, that's exactly right.\"\r\n<PAGE>\r\n It was Alma who answered Memoria's question.\r\n\r\n\"And this is also where you all will die.\"\r\n\r\n With a fearsome grin, Alma descended from the\r\n heavens before <PLAYER> and the others.\r\n There was no other path for <PLAYER> and\r\n the others to take.\r\n\r\n All that remained before them was the bitter\r\n cold of death nothing else and the Shine Raid\r\n bearing upon them from behind.\r\n<PAGE>\r\n\"<PLAYER>, allow me to show you an\r\n interesting gift I brought from \\c[51]Pluton\\c[0].\"\r\n\r\n\"GRROOOOOAAR!\"\r\n\r\n A roar could be heard from within the light.\r\n\r\n And from beyond the wall of white light, a giant\r\n humanoid shadow came hazily into view.\r\n\r\n It was taller than the highest mountain, its head\r\n seemingly reaching all the way to the sky.\r\n<PAGE>\r\n Giving off the light that had nearly destroyed the\r\n whole world from its very body, the giant looked\r\n down upon them.\r\n\r\n\"Behold my servant, Zeukrees! The one who will\r\n finally destroy this world!\"\r\n\r\n\"We're backed into a corner now... \r\n <PLAYER>, what should we do?\"\r\n\r\n <PLAYER> gave no answer to Memoria,\r\n only taking their weapon in hand. It was clear.\r\n They had to defeat the enemy before them!\r\n<PAGE>\r\n Alma wore a dangerous smile.\r\n\r\n\"You certainly know how to amuse me.\r\n <PLAYER>, let's settle things once and for all!\"\r\n\r\n No matter if the world was covered in white ash...\r\n No matter how reckless this fight was...\r\n\r\n <PLAYER> swore to not lose hope\r\n until the very end.\r\n\r\n For it was <PLAYER>'s mission to\r\n save the world.",
+          "japanese": {
+            "text": "永遠にも近い長き旅路の末……、\r\n<PLAYER>たちがたどり着いたのは、\r\n世界の『東の果て』だった。\r\n\r\n疲弊した<PLAYER>たちがそこで目にしたのは、\r\n雪のように積もる白い灰に埋もれ荒廃した大地だった。\r\n\r\nそれは<PLAYER>たちにとっての\r\n東の果てであると同時に、光の災厄が世界に放たれた\r\n西の始まりの地でもあった。\r\n\r\n「あたしたち、世界をほぼ一周しちゃったってこと？」\r\n\r\n「ええ、そのとおりです」\r\n<PAGE>\r\nメモリアの問いに答えたのは、堕天使アルマだった。\r\n\r\n「そしてここは、あなたたちの死地でもあります」\r\n\r\n不敵な笑みを浮かべたアルマが、\r\n天空から<PLAYER>たちの前に降り立った。\r\n\r\nもはや<PLAYER>に前進すべき道はなかった。\r\n\r\nこの先は厳寒とした死の世界……、\r\n何も残されていないのだ。\r\n\r\nさらに背後にはシャインレイドが迫っていた。\r\n<PAGE>\r\n「<PLAYER>よ、\r\n冥土の土産に面白いものを見せてあげましょう」\r\n\r\n\r\n「ウォオオオオオオオオオーーーンッ！」\r\n\r\n\r\n光の中から咆哮が聞こえてきた。\r\n\r\nすると白い光の壁の向こう側に、\r\n人の姿をした巨大な影がうっすらと見えはじめた。\r\n\r\nその巨人の身体は山の高さをはるかに超え、\r\n頭が天にまで届いてるかのようにも見えた。\r\n<PAGE>\r\n巨人は世界を滅亡に追い込んだ光を\r\n身体全体から放ちながら、こちらを見下ろしていた。\r\n\r\n「あれこそが我がしもべ、シュクリス！\r\nこの世界を滅亡に導く破壊者です！」\r\n\r\n「進退窮まれりだね……<PLAYER>、どうする？」\r\n\r\n<PLAYER>はメモリアの言葉に答えず、\r\n己の武器に手をかけた。\r\n\r\n答えは決まっている。\r\n目の前の敵を駆逐するのだ！\r\n<PAGE>\r\nアルマが恐ろしい笑みを浮かべた。\r\n\r\n「そうでなくては面白くありません。\r\n<PLAYER>よ、今こそ決着をつけましょう！」\r\n\r\n世界のほとんどが白い灰にのまれたとしても……、\r\nこの挑戦がどんなに無謀だったとしても……、\r\n\r\n<PLAYER>は最期まで絶望などしない。\r\n\r\n何故なら<PLAYER>には、\r\nこの世界を救う使命があるのだから。",
+            "availability": "verified_display",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473",
+            "alignment": {
+              "method": "database_storage_id_and_matching_table_layout",
+              "semantic_review": "pending"
+            },
+            "internal_hint": "プロローグ_ED_エピローグ / [エピローグ] 世界の果て（10000km アルマ登場）到着 / 表示項目",
+            "hint_origin": "English build database.project internal labels",
+            "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+          },
+          "translation": "仿佛永无止境的旅途，终于抵达了终点——\r\n东方尽头。\r\n\r\n疲惫的<PLAYER>一行看见的，\r\n却是被白灰掩埋的荒芜大地。\r\n这里既是东方的尽头，\r\n也是光之灾厄降临世界的西方起点。\r\n\r\n“这么说，我们几乎绕了世界一周？”\r\n\r\n“没错，正是如此。”\r\n<PAGE>\r\n回答Memoria的，是Alma。\r\n\r\n“而这里，也将是你们的葬身之地。”\r\n\r\nAlma带着令人胆寒的笑容，\r\n从天而降，出现在<PLAYER>一行面前。\r\n<PLAYER>一行已经无路可走。\r\n\r\n前方只剩冰冷的死亡，别无他物；\r\n而背后，光之灾厄正不断逼近。\r\n<PAGE>\r\n“<PLAYER>，让我给你看看\r\n从\\c[51]Pluton\\c[0]那里带来的有趣礼物吧。”\r\n\r\n“吼噢噢噢噢——！”\r\n\r\n光芒之中，传来了震耳欲聋的咆哮。\r\n\r\n白色光壁的另一侧，\r\n一个巨大的类人身影隐约浮现。\r\n\r\n它比最高的山峰还要高大，\r\n头颅仿佛直抵天际。\r\n<PAGE>\r\n巨人浑身散发着几乎毁灭世界的光芒，\r\n俯视着众人。\r\n\r\n“看吧，我的仆从Zeukrees！\r\n它将给这个世界带来最终的毁灭！”\r\n\r\n“这下真是进退两难了……\r\n<PLAYER>，我们该怎么办？”\r\n\r\n<PLAYER>没有回答Memoria，\r\n只是握紧了手中的武器。\r\n答案早已明确：必须击败眼前的敌人！\r\n<PAGE>\r\nAlma露出了危险的微笑。\r\n\r\n“这样才有趣。\r\n<PLAYER>，让我们彻底做个了断吧！”\r\n\r\n即便这个世界已被白灰覆盖……\r\n即便这场战斗是如此鲁莽……\r\n\r\n<PLAYER>也发誓，要到最后一刻，\r\n都绝不放弃希望。\r\n\r\n因为拯救这个世界，\r\n正是<PLAYER>的使命。",
+          "translation_state": "llm_translated",
+          "source_sha256": "70959a06aa798eafb26fa4d86d2047ddb971a03353211a62828da54e1cdc2e50"
+        },
+        {
+          "id": "db/72/38/1",
+          "source": " Here was the end of the journey east, the\r\n source of the Shine Raid's destructive force.\r\n\r\n\"<PLAYER>, could it be...\"\r\n\r\n Upon seeing the figure, Memoria's usually\r\n cheerful voice was small and shaky.\r\n\r\n They knew what she wanted to say. If they had\r\n gone once around the whole world chased by\r\n the light, then this world was. <PLAYER> was\r\n certain. Here, today, their journey would come\r\n to an end.\r\n<PAGE>\r\n After leaving the castle they'd been born and\r\n raised in, they'd walked so far. They'd overcome\r\n many dangers. But it wasn't all hardship as they\r\n also knew the joy of traveling with friends. Now,\r\n from the fallen angel, they'd heard the truth.\r\n\r\n They didn't have the means to attack the giant\r\n deep within the light. But that didn't mean they\r\n had to go willingly into the light. Nor would they\r\n go east to escape into the empty world.\r\n\r\n <PLAYER> faced the light head on, weapon\r\n at the ready.\r\n<PAGE>\r\n\r\n\r\n\r\n\r\n From beyond the wall of white light\r\n they caught a glimpse of a giant, alien face.\r\n\r\n\r\n\r\n\r\n<PAGE>\r\n That was the Zeukrees Alma had spoken of.\r\n The barren view of their homeland burned into\r\n their minds. It was the enemy before them that\r\n had done that.\r\n\r\n They had to defeat him, no matter what.\r\n\r\n <PLAYER> wasn't nervous. This wasn't because\r\n of their ego as a hero, but anyone who'd\r\n overcome the trials they'd faced would feel just\r\n the same. The path they'd come down would be\r\n their foundation. That's why they could take on\r\n the greatest enemy they'd ever faced now.\r\n<PAGE>\r\n The servant of Pluton, who held as much power\r\n as Creatoire, was sure to be strong. It was only\r\n logical and based on the face they'd caught a\r\n glimpse of, at full height it must be tall enough\r\n to pierce the heavens. It wasn't an enemy for a\r\n mere human to take on.\r\n\r\n\"<PLAYER>... I believe in you!\r\n Please, you have to win!\"\r\n\r\n They nodded in response to Memoria's\r\n support. And then, <PLAYER> took off running\r\n to face the destroyer of their the world.",
+          "japanese": {
+            "text": "ここは東に向かう旅の終着点であり、\r\nシャインレイドが放たれたすべての始まりの地だ。\r\n\r\n「……<PLAYER>、もしかして……」\r\n\r\n<PLAYER>同様に眼前の光景を目にした\r\nメモリアが、いつもは元気な声を弱々しく震わせた。\r\n\r\n彼女の言いたいことはわかる。\r\n光に追われ世界を一周したということは、この世界は……。\r\n\r\n<PLAYER>は確信した。\r\n今日、ここで、自分の旅は終わる。\r\n<PAGE>\r\n生まれ育った城を旅立ってからこれまで、\r\n気が遠くなるほど長い距離を歩いてきた。\r\n\r\n色々なことがあった。幾度も命の危機を乗り越えた。\r\n苦しみだけじゃない、仲間と歩む喜びもあった。\r\n\r\nそして宿敵だと思っていた堕天使から、真実を聞いた。\r\n\r\n光の奥の巨人を攻撃する術は、遂に得られないままだった。\r\nそれでもただ光に飲まれるわけにはいかない。\r\nむろん東に進み、何もない世界を逃げ続けるわけにも。\r\n\r\nだから<PLAYER>は光に向き直り、武器を構える。\r\n<PAGE>\r\n\r\n\r\n\r\n\r\n\r\n\r\nそして立ち向かった白い光の壁の向こうに、\r\n無機質な、巨大な顔を垣間見た。\r\n\r\n\r\n\r\n\r\n\r\n<PAGE>\r\nあれが、アルマの言っていた巨人シュクリス。\r\n背後に広がる、荒れ果てた故郷が頭から離れない。\r\nその光景を作り出したのは目の前の敵だ。\r\n\r\nなんとしても倒さねばならない。\r\n思わず武器を持つ手に力が入る。\r\n\r\nしかし<PLAYER>は震えていない。\r\n勇者だからと慢心するつもりはないが、\r\nこれほど長き道のりを旅し、戦い抜いた者はそういまい。\r\n\r\n歩んだ道が、この身の支えとなる。\r\nだから過去最高に強大な敵を前にしても、戦える。\r\n<PAGE>\r\n世界の創造神と同程度の力を持つ冥王のしもべ。\r\nさぞ強敵だろう。だからなんだ。\r\n\r\n一瞬見えた顔の大きさから考えて、\r\nあれの全容は天を衝くほどの巨人なのだろう。\r\n人の身で挑む相手ではない。だからなんだ。\r\n\r\n「<PLAYER>……頑張って！\r\n　お願い、勝って！」\r\n\r\nメモリアの声援に、首肯を返す。\r\nそして<PLAYER>は、\r\n世界を滅ぼし尽くした敵に向かって駆け出した。",
+            "availability": "verified_display",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473",
+            "alignment": {
+              "method": "database_storage_id_and_matching_table_layout",
+              "semantic_review": "pending"
+            },
+            "internal_hint": "プロローグ_ED_エピローグ / [エピローグ] 世界の果て（10000km アルマ登場しない・ / 表示項目",
+            "hint_origin": "English build database.project internal labels",
+            "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+          },
+          "translation": "这里既是东行旅途的终点，\r\n也是光之灾厄释放毁灭之力的起点。\r\n\r\n“<PLAYER>，难道说……”\r\n\r\n看见眼前的景象，\r\n平日里开朗的Memoria声音变得微弱而颤抖。\r\n\r\n主角明白她想说什么。\r\n若是在光芒追赶下绕了世界一周，\r\n那这个世界岂不是……\r\n<PLAYER>确信，今天，就在这里，旅途将迎来终结。\r\n<PAGE>\r\n离开自幼长大的城堡后，已经走了那么远。\r\n经历过无数险境，也不全然只有艰辛，\r\n因为身旁还有与伙伴同行的喜悦。\r\n如今，更从堕天使口中得知了真相。\r\n\r\n尽管始终未能找到攻击光芒深处巨人的办法，\r\n也绝不能就这样任由光芒将自己吞没。\r\n更不能继续向东，逃入空无一物的世界。\r\n\r\n<PLAYER>正面迎向光芒，举起了武器。\r\n<PAGE>\r\n\r\n在白色光壁的另一侧，\r\n他们瞥见了一张巨大而冰冷的异形面孔。\r\n\r\n<PAGE>\r\n那正是Alma提起的巨人Zeukrees。\r\n故乡荒芜的景象，深深烙在脑海中。\r\n而造成这一切的，正是眼前的敌人。\r\n\r\n无论如何，都必须将它击败。\r\n\r\n<PLAYER>并不紧张。\r\n这并非身为勇者的傲慢，\r\n而是任何走过这般艰险旅途的人，都会拥有的信念。\r\n走过的道路，正是支撑自己的力量。\r\n所以，如今也能迎战有史以来最强大的敌人。\r\n<PAGE>\r\n身为与Creatoire同样强大的Pluton的仆从，\r\n这巨人必定是个强敌。\r\n从刚才瞥见的面孔大小判断，\r\n它的完整身躯恐怕足以直刺苍穹。\r\n那绝非一介凡人能够挑战的敌手。\r\n\r\n“<PLAYER>……我相信你！\r\n拜托了，一定要赢！”\r\n\r\n主角向Memoria点头回应。\r\n随后，<PLAYER>迈步奔向\r\n那个毁灭了整个世界的敌人。",
+          "translation_state": "llm_translated",
+          "source_sha256": "53bc6aa1af46457836fd0943f687b719d90f34a329364fcc5d47f2777441b217"
         }
       ]
     },
@@ -736,7 +778,12 @@
         "message/data/event/timer/udb24_100_dimension_lord_delete_1h.txt/0",
         "message/data/event/timer/udb24_117_dimension_lord_before_3h.txt/0",
         "message/data/event/timer/udb24_80_dimension_area_start.txt/2",
-        "message/data/event/timer/udb24_97_dimension_lord_delete_3h.txt/0"
+        "message/data/event/timer/udb24_97_dimension_lord_delete_3h.txt/0",
+        "db/72/10/1",
+        "db/72/12/1",
+        "db/72/34/1",
+        "db/72/38/1",
+        "db/72/51/1"
       ],
       "context": "Wings made into Lightwing Spear; Dream Sword was created to defeat Pluton.",
       "question": "Pluton 的角色或怪物中文名如何处理？",
@@ -1900,6 +1947,106 @@
           "translation": "距离\\c[51]Pluton\\c[0]消失还有1小时！",
           "translation_state": "llm_translated",
           "source_sha256": "5b859e4f934b5df2de6d24064652814353bd4dbb7cf65477be29a793bad20bc2"
+        },
+        {
+          "id": "db/72/10/1",
+          "source": " With a mighty blow, \\c[50]<PLAYER>\\c[0]\r\n pierced the heart of \\c[51]Alma\\c[0],\r\n the Fallen Angel.\r\n\r\n\"It can't be... How could a mere mortal\r\n defeat a godly creature such as I?\"\r\n\r\n \\c[51]Alma\\c[0] fell to her knees, her face\r\n filled with utter disbelief.\r\n \r\n\"Oh... \\c[51]Pluton\\c[0]...\"\r\n\r\n As her consciousness slipped away,\r\n \\c[51]Alma\\c[0] whispered this name...\r\n<PAGE>\r\n Suddenly...\r\n\r\n The approaching \\c[52]Shine Raid\\c[0] vanished,\r\n leaving only white ash and rubble as far\r\n as the eye could see in the Western lands...\r\n \r\n\"\\c[50]<PLAYER>\\c[0], we finally did it!\r\n We won!\"\r\n\r\n \\c[50]<PLAYER>\\c[0] summoned the last\r\n bit of strength remaining in their battered\r\n body to turn back and face\r\n \\c[51]Memoria\\c[0] with a smile.",
+          "japanese": {
+            "text": "こん身の力で放った\\c[50]<PLAYER>\\c[0]の強烈な一撃が\r\n堕天使\\c[51]アルマ\\c[0]の心臓を貫いた。\r\n\r\n「バカな……神に近い存在の私が\r\n人間に負けるなんて……」\r\n\r\n\\c[51]アルマ\\c[0]は信じられないという表情で膝をつくと\r\n崩れるように大地に倒れ込んだ。\r\n\r\n「うう……冥王……様……」\r\n\r\n\\c[51]アルマ\\c[0]は薄れゆく意識の中でつぶやくと……、\r\nそのままゆっくりと目を閉じたのだった。\r\n<PAGE>\r\nそして気がつけば……、\r\n\r\n背後に迫っていた光の災厄は完全に消え去り、\r\nそのあとには白い灰とガレキに埋もれた\r\n西の大地だけが広がっていた……。\r\n\r\n「\\c[50]<PLAYER>\\c[0]、ついにやったね。\r\nあたしたちの勝利だよ！」\r\n\r\n\\c[50]<PLAYER>\\c[0]は傷ついた身体をやっとの思いで\r\n持ち上げると、\\c[51]メモリア\\c[0]に振り返って微笑んだ。",
+            "availability": "verified_display",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473",
+            "alignment": {
+              "method": "database_storage_id_and_matching_table_layout",
+              "semantic_review": "pending"
+            },
+            "internal_hint": "プロローグ_ED_エピローグ / [エンド] 堕天使アルマ撃破 / 表示項目",
+            "hint_origin": "English build database.project internal labels",
+            "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+          },
+          "translation": "\\c[50]<PLAYER>\\c[0]拼尽全力的一击，\r\n贯穿了堕天使\\c[51]Alma\\c[0]的心脏。\r\n\r\n“不可能……你不过是一介凡人，\r\n怎么可能战胜接近神明的我？”\r\n\r\n\\c[51]Alma\\c[0]满脸难以置信，跪倒在地。\r\n\r\n“啊……\\c[51]Pluton\\c[0]……”\r\n\r\n意识渐渐远去时，\r\n\\c[51]Alma\\c[0]低声呼唤着这个名字……\r\n<PAGE>\r\n忽然……\r\n\r\n背后逼近的\\c[52]光之灾厄\\c[0]消失了。\r\n放眼西方大地，\r\n只剩无尽的白灰与瓦砾……\r\n\r\n“\\c[50]<PLAYER>\\c[0]，我们终于做到了！\r\n我们赢了！”\r\n\r\n\\c[50]<PLAYER>\\c[0]拖着伤痕累累的身体，\r\n勉强提起最后一点力气，\r\n转身朝\\c[51]Memoria\\c[0]露出了微笑。",
+          "translation_state": "llm_translated",
+          "source_sha256": "d4762e012b3be40511daa51eced1412d0bd19769916d46f264ecf5036929fa03"
+        },
+        {
+          "id": "db/72/12/1",
+          "source": " A familiar old man appeared before the wounded\r\n \\c[50]<PLAYER>\\c[0] and the others.\r\n\r\n It was the mysterious sage who had led\r\n \\c[50]<PLAYER>\\c[0] to this place.\r\n\r\n\"My true identity is \\c[51]Creatoire\\c[0]\r\n the Maker. Put simply, I am the one who\r\n created you.\"\r\n\r\n The old man was enveloped with light...\r\n Then it dissipated to reveal a god.\r\n<PAGE>\r\n\"Our Hero, \\c[50]<PLAYER>\\c[0].\r\n Thanks to you, \\c[51]Pluton\\c[0] has been defeated,\r\n the \\c[52]Shine Raid\\c[0] has disappeared,\r\n and peace has come to this world.\r\n\r\n Now I no longer need fear that my wonderful\r\n parallel worlds will be ruined.\"\r\n\r\n The term, \"parallel worlds\", was unfamiliar.\r\n\r\n\"Ah. In that case, allow me to show\r\n you something.\"\r\n<PAGE>\r\n \\c[51]Creatoire\\c[0] reached out his hands\r\n and a universe-like space appeared.\r\n\r\n\"This is the dimension you exist in.\r\n You could call this a gods-eye view of it.\"\r\n\r\n In the universe-like space,\r\n countless worlds began to appear.\r\n And then, as if through a microscope,\r\n they peered into a world to see...\r\n\r\n A view that seemed incredibly like\r\n the adventures they had experienced.\r\n<PAGE>\r\n\"These are all parallel universes.\r\n I exercise influence bit by bit\r\n to create countless parallel worlds.\r\n Behold! For beauty such as these are\r\n surely the pinnacle of artistry!\"\r\n\r\n \\c[50]<PLAYER>\\c[0] did as was told and\r\n peered down into the different worlds.\r\n\r\n While in each the arrangement of the land\r\n and towns differed, there was always a\r\n King \\c[51]Konrath\\c[0], and a person like\r\n \\c[50]<PLAYER>\\c[0].\r\n<PAGE>\r\n Not only that, but the people and friends\r\n they'd met along their journeys could also\r\n be seen in every world.\r\n\r\n\"\\c[51]Pluton\\c[0] was banished from heaven\r\n as punishment for his sin, and in revenge\r\n he tried to destroy all this beauty.\r\n It is a rule in heavens that gods cannot\r\n take an active role in a world after it's\r\n created. So I couldn't do anything directly.\r\n\r\n \\c[51]Pluton\\c[0], had no problem breaking the rules.\r\n That's what led to his banishment.\r\n<PAGE>\r\n Everything after that, you already know. He sent\r\n a light monster into my beautiful, artistic worlds.\r\n Every world was affected by the \\c[52]Shine Raid\\c[0]\r\n and many were destroyed.\r\n\r\n That's why I entrusted peace in all worlds\r\n to you.\r\n\r\n You, \\c[51]Konrath\\c[0], and\r\n \\c[51]Memoria\\c[0] are all children I created\r\n to keep the worlds in control.\r\n You are golems I made.\"\r\n<PAGE>\r\n A golem created by a god?\r\n Even hearing this, \\c[50]<PLAYER>\\c[0]\r\n feel any different from other people.\r\n\r\n\"\\c[50]<PLAYER>\\c[0], have you never\r\n had the feeling you had lived a past life?\r\n ... yes, that's right.\r\n It wasn't just a feeling, it was a memory.\r\n\r\n When you died while on your travels,\r\n \\c[51]Memoria\\c[0] would call forth the\r\n memories from the \\c[50]<PLAYER>\\c[0]s\r\n before you.\"\r\n<PAGE>\r\n \\c[51]Memoria\\c[0] could only shake her\r\n head in surprise.\r\n\r\n\"Unfortunately, many times you collapsed in the\r\n middle of your mission and those worlds were\r\n destroyed by \\c[52]Shine Raid\\c[0]...\r\n\r\n But if we transferred the memories of\r\n failed \\c[50]<PLAYER>\\c[0]s to other\r\n parallel worlds, we thought...\r\n\r\n ...the chances of one of you overcoming\r\n space and time to succeed would increase.\"\r\n<PAGE>\r\n \\c[50]<PLAYER>\\c[0] felt strange, knowing\r\n that their memories had crossed over\r\n many parallel worlds.\r\n\r\n Even though it had happened to them,\r\n they didn't feel as though they could\r\n understand it.\r\n\r\n\"And now, here, you have completed\r\n your mission.\r\n Let us immediately send your memories\r\n to the \\c[50]<PLAYER>\\c[0]s in the other\r\n parallel worlds.\"\r\n<PAGE>\r\n Their own memories would save other worlds...\r\n That thought made \\c[50]<PLAYER>\\c[0] feel\r\n that all the hardship had been worth it.\r\n\r\n\"As someone who has defeated a god\r\n you more than a human or golem.\r\n You even overcame the Fallen Angel.\r\n\r\n As a reward, I'd like for you to become a\r\n god like me. What do you think?\"\r\n\r\n However, \\c[50]<PLAYER>\\c[0]\r\n shook their head.\r\n<PAGE>\r\n \\c[50]<PLAYER>\\c[0] had somewhere to go\r\n to already. The home they had protected.\r\n\r\n\"Even after defeating a god you choose to\r\n be human... I see. In that case, you may\r\n return to your world.\"\r\n\r\n Brilliant light enveloped \\c[50]<PLAYER>\\c[0]\r\n and the others. Before they knew it,\r\n \\c[50]<PLAYER>\\c[0] was in front of the\r\n castle they called home holding a crystal.\r\n When \\c[50]<PLAYER>\\c[0] looked into it,\r\n they could see the whole land.\r\n<PAGE>\r\n They could hear, \\c[51]Creatoire\\c[0]'s voice.\r\n\r\n\"Look. Those are parallel worlds saved by your\r\n memories. It's not quite as good as god's eye,\r\n but use this \\c[52]Vision Glass\\c[0]\r\n to view all the worlds. Please accept it.\"\r\n\r\n Rebuilding would still take time.\r\n But there were new things to do...\r\n\r\n And so, the curtain rises on the new ruler:\r\n \\c[50]<PLAYER>\\c[0]'s quest to create\r\n a new kingdom.",
+          "japanese": {
+            "text": "満身創痍の\\c[50]<PLAYER>\\c[0]たちの前に\r\n見覚えのある老人の姿が現れた。\r\n\r\nそれは\\c[50]<PLAYER>\\c[0]たちをこの場所へ導いた\r\n謎の賢者だった。\r\n\r\n「ワシの正体は創造神\\c[51]クレイニャ\\c[0]。\r\n簡単に言えば、そなたたちの創造主じゃ」\r\n\r\nすると老人は光に包まれ、やがて……\r\n威光を放つ神の姿へと形を変えた。\r\n\r\n\r\n\r\n<PAGE>\r\n「勇者\\c[50]<PLAYER>\\c[0]よ、\r\nそなたのおかげで冥王は滅び\r\n\\c[52]シャインレイド\\c[0]も消滅し、\r\n世界に誠の平和が訪れた。\r\n\r\nこれでワシの芸術的な並行世界が\r\n破壊される心配もなくなったわけじゃ」\r\n\r\n並行世界……聞きなれない言葉だ。\r\n\r\n「うむ、\r\nならばそなたにこれを見せてやろう」\r\n\r\n\r\n<PAGE>\r\n\\c[51]クレイニャ\\c[0]が腕を伸ばして手をかざすと、\r\n何もない場所に宇宙のような空間が広がった。\r\n\r\n「これはそなたたちが存在する次元空間……\r\nいわゆる神の視点というヤツじゃ」\r\n\r\n宇宙のようなその空間には\r\n何万もの無数の世界が存在していた。\r\n\r\nさらに顕微鏡をのぞき込むように\r\n世界の中をのぞいてみると……、\r\n\r\nそこにはこれまで冒険してきた舞台と\r\n非常に近しい光景が広がっていた。\r\n<PAGE>\r\n「これらはすべて同時に存在する並行世界じゃ。\r\n\r\nワシは自らの世界に少しずつ影響を与え、\r\n無数の並行世界を生みだしているのじゃ。\r\n\r\n見よ！　これこそまさに美の極み、\r\n最高の芸術作品と言えよう」\r\n\r\n\\c[50]<PLAYER>\\c[0]は促されるままに\r\nさまざまな並行世界をのぞき込んだ。\r\n\r\nすると地形や町の配置に違いがあるにせよ……、\r\nどの世界にも国王\\c[51]コンラス\\c[0]が治める王国があり、\r\nそこには\\c[50]<PLAYER>\\c[0]の姿もあった。\r\n<PAGE>\r\nさらにこれまで出会った人々や仲間たちが\r\nどの世界にも存在しているのが垣間見えた。\r\n\r\n「ところが冥王\\c[51]プルートン\\c[0]は、重い罪で\r\nワシに天界から追放されたことを逆恨みし、\r\nこの芸術品を破壊しようと目論みおった。\r\n\r\n一度創造した世界は神が直接手を触れては\r\nならないという天界のルールによって、\r\nワシが手出しできないことをいいことにな。\r\n\r\nあやつは昔から天界のルールを無視し続けておった。\r\nだから追放されたのだ。\r\n\r\n<PAGE>\r\nそこから先は知ってのとおりじゃ。\r\n\r\nあやつはワシの芸術的世界に\r\n光の化け物を送り込んできたのじゃ。\r\n\r\nあの\\c[52]シャインレイド\\c[0]によって\r\nすべての並行世界が影響を受け滅びようとしていた。\r\n\r\nだからワシは、\r\nそなたに世界の平和を託したのじゃ。\r\n\r\n何故ならば、そなたや\\c[51]コンラス\\c[0]、そして\\c[51]メモリア\\c[0]は\r\n世界を管理するために生まれた神のおとし子……、\r\nワシが創造した最高傑作のゴーレムだからじゃ」\r\n<PAGE>\r\n自分が……神の作りしゴーレム？\r\nそれでも\\c[50]<PLAYER>\\c[0]は自分が他の人たちと\r\nどこが違うのか、まるで想像がつかなかった。\r\n\r\n「\\c[50]<PLAYER>\\c[0]よ、何度も自分がよみがえる……、\r\nそんな感覚に陥ったことはないか？\r\n\r\n……ああ、そうじゃ。\r\nそれは錯覚ではない。事実じゃ。\r\n\r\n旅の途中でそなたが死んでしまったとき、\r\n\\c[51]メモリア\\c[0]にはそれまでの\\c[50]<PLAYER>\\c[0]の記憶を\r\n持ち帰らせていたのじゃ。」\r\n<PAGE>\r\n\\c[51]メモリア\\c[0]の方を振り向くと、目を丸くして\r\n心底驚いた様子で首を横に振っている。\r\n\r\n「残念ながら、そなたが使命半ばで倒れた世界は\r\n\\c[52]シャインレイド\\c[0]に滅ぼされてしまったが……、\r\n\r\n他の並行世界にいる\\c[50]<PLAYER>\\c[0]へ\r\n亡きそなたが経験した記憶を移植すれば、\r\n\r\n時空を超えて、使命を果たせる可能性が\r\n格段に高まると思ったからじゃ」\r\n<PAGE>\r\n\\c[50]<PLAYER>\\c[0]は自分の記憶だけが\r\n幾重もの並行世界を旅していることを知って\r\n不思議な気持ちになった。\r\n\r\n自分のことでありながら、\r\nとても頭では理解できそうもなかった。\r\n\r\n「そしてそなたはついにこの使命を全うしたのだ。\r\n\r\nそなたのこの記憶はすぐに\r\n他の並行世界にいる\\c[50]<PLAYER>\\c[0]に伝えよう。\r\n\r\nさすれば残りの並行世界も\r\n同じように救われることだろう」\r\n<PAGE>\r\n自分の記憶が他の世界も救う……。\r\n\\c[50]<PLAYER>\\c[0]はそう考えると、\r\nこれまでの苦労がさらに報われる気がした。\r\n\r\n「神を倒したそなたは、\r\nもはや人とならぶゴーレムではない。\r\nなにせ堕天の神を倒したのだからな。\r\n\r\n褒美としてそなたにはワシと共に天界にのぼり、\r\n神として生きる道を与えようと思うが如何かな？」\r\n\r\nしかし\\c[50]<PLAYER>\\c[0]は首を横に振った。\r\n<PAGE>\r\n\\c[50]<PLAYER>\\c[0]には帰る場所があった。\r\nそれはやっと守れた自分の故郷だった。\r\n\r\n「神を倒しても人の道を進むか……\r\nわかった、ならばそなたの世界へ戻るがよい」\r\n\r\nまばゆいばかりの光が\\c[50]<PLAYER>\\c[0]たちを包む。\r\n\r\nそして視界が戻ってきたとき……、\r\n\\c[50]<PLAYER>\\c[0]は故郷の城の前に立っていた。\r\nその手には大きな水晶が握らされていた。\r\n\r\n\\c[50]<PLAYER>\\c[0]が水晶をのぞいてみると、\r\nその中には天空から見下ろす大地が広がっていた。\r\n<PAGE>\r\n頭上から\\c[51]クレイニャ\\c[0]の声が聞こえる。\r\n\r\n「そこに見えるのは、\r\nそなたの記憶が救った他の並行世界じゃ。\r\n\r\n次元を見渡せる神の視点とまではいかないが、\r\n『\\c[52]伝書ガラス\\c[0]』を通して世界中を眺められる。\r\n\r\n褒美じゃ、その水晶を受け取るがよい」\r\n\r\nこの世界の復興にはまだまだ時間がかかる。\r\nでも自分の世界ならやりがいもあるだろう。\r\n\r\nこれから……、\r\n\\c[50]<PLAYER>\\c[0]王の新しい国づくりが幕を開ける。",
+            "availability": "verified_display",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473",
+            "alignment": {
+              "method": "database_storage_id_and_matching_table_layout",
+              "semantic_review": "pending"
+            },
+            "internal_hint": "プロローグ_ED_エピローグ / [エンド] 冥王プルートン撃破 / 表示項目",
+            "hint_origin": "English build database.project internal labels",
+            "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+          },
+          "translation": "伤痕累累的\\c[50]<PLAYER>\\c[0]一行面前，\r\n出现了一位似曾相识的老人。\r\n\r\n他正是将\\c[50]<PLAYER>\\c[0]\r\n引导到此地的神秘贤者。\r\n\r\n“我的真实身份，是创世神\\c[51]Creatoire\\c[0]。\r\n说得简单些，我就是你们的创造者。”\r\n\r\n老人被光芒笼罩……\r\n待光芒散去，显现出了一位神明的身姿。\r\n<PAGE>\r\n“勇者\\c[50]<PLAYER>\\c[0]啊。\r\n多亏了你，\\c[51]Pluton\\c[0]已被击败，\r\n\\c[52]光之灾厄\\c[0]也已消失，\r\n和平终于降临这个世界。\r\n\r\n如今，我再也不必担心，\r\n那些美妙的平行世界会遭到毁灭了。”\r\n\r\n平行世界……这是一个陌生的词。\r\n\r\n“嗯，既然如此，\r\n就让我给你看一样东西吧。”\r\n<PAGE>\r\n\\c[51]Creatoire\\c[0]伸出双手，\r\n一片宛如宇宙的空间随之展开。\r\n\r\n“这就是你们所处的次元空间。\r\n也可以说，这是神明眼中的世界。”\r\n\r\n在那宇宙般的空间中，\r\n无数个世界逐渐浮现。\r\n随后，如同透过显微镜一般，\r\n他们向其中一个世界望去……\r\n\r\n呈现在眼前的景象，\r\n与他们经历过的冒险竟是如此相似。\r\n<PAGE>\r\n“这些都是同时存在的平行世界。\r\n我一点点地施加影响，\r\n创造出了无数个平行世界。\r\n看吧！如此美景，\r\n堪称艺术的极致！”\r\n\r\n\\c[50]<PLAYER>\\c[0]依言\r\n向各个不同的世界望去。\r\n\r\n尽管地形与城镇的位置各不相同，\r\n每一个世界里，都有\\c[51]Konrath\\c[0]国王，\r\n也都有另一个\\c[50]<PLAYER>\\c[0]。\r\n<PAGE>\r\n不仅如此，旅途中遇到的人们与伙伴，\r\n也都存在于每一个世界中。\r\n\r\n“\\c[51]Pluton\\c[0]因犯下重罪而被逐出天界。\r\n他心怀怨恨，企图摧毁这一切美景。\r\n天界有一条规则：世界一旦被创造出来，\r\n神明便不得再直接干预。\r\n所以，我无法亲自出手。\r\n\r\n而\\c[51]Pluton\\c[0]从来不把规则放在眼里。\r\n他也正是因此才被逐出天界。\r\n<PAGE>\r\n之后发生的事，你已经知道了。\r\n他把光之怪物送进了我这些美丽的世界。\r\n\\c[52]光之灾厄\\c[0]波及了所有世界，\r\n许多世界都因此毁灭。\r\n\r\n正因如此，我才将所有世界的和平\r\n托付给了你。\r\n\r\n你、\\c[51]Konrath\\c[0]，还有\\c[51]Memoria\\c[0]，\r\n都是我为了管理世界而创造的孩子。\r\n你们都是我创造的魔像。”\r\n<PAGE>\r\n自己竟是神明创造的魔像？\r\n即使听到这些，\\c[50]<PLAYER>\\c[0]\r\n仍无法想象自己与其他人究竟有何不同。\r\n\r\n“\\c[50]<PLAYER>\\c[0]啊，你是否曾有过\r\n自己经历过另一段人生的感觉？\r\n……没错。\r\n那并非错觉，而是记忆。\r\n\r\n每当你在旅途中死去，\r\n\\c[51]Memoria\\c[0]便会带回\r\n先前那些\\c[50]<PLAYER>\\c[0]的记忆。”\r\n<PAGE>\r\n\\c[51]Memoria\\c[0]惊讶得睁大了眼睛，\r\n只是一个劲地摇头。\r\n\r\n“遗憾的是，许多时候你未能完成使命，\r\n那些世界也随之被\\c[52]光之灾厄\\c[0]毁灭……\r\n\r\n但若将失败的\\c[50]<PLAYER>\\c[0]的记忆，\r\n传递给其他平行世界中的你，\r\n我们便认为……\r\n\r\n……你们跨越时空、最终完成使命的可能，\r\n就会大大增加。”\r\n<PAGE>\r\n得知自己的记忆曾跨越无数平行世界，\r\n\\c[50]<PLAYER>\\c[0]心中涌起一种奇妙的感觉。\r\n\r\n明明是发生在自己身上的事，\r\n却又令人难以理解。\r\n\r\n“而如今，你终于完成了使命。\r\n让我们立刻将你的记忆，\r\n传给其他平行世界中的\r\n\\c[50]<PLAYER>\\c[0]吧。”\r\n<PAGE>\r\n自己的记忆，能够拯救其他世界……\r\n想到这里，\\c[50]<PLAYER>\\c[0]觉得，\r\n一路以来的艰辛都变得更加值得。\r\n\r\n“能够击败神明的你，\r\n已经超越了凡人与魔像。\r\n你甚至战胜了堕天使。\r\n\r\n作为奖赏，我愿让你成为与我一样的神。\r\n你意下如何？”\r\n\r\n然而，\\c[50]<PLAYER>\\c[0]摇了摇头。\r\n<PAGE>\r\n\\c[50]<PLAYER>\\c[0]已有想要回去的地方。\r\n那就是自己终于守护住的故乡。\r\n\r\n“即便战胜神明，你仍选择作为人活下去……\r\n我明白了。那么，回到你的世界去吧。”\r\n\r\n耀眼的光芒笼罩了\\c[50]<PLAYER>\\c[0]一行。\r\n回过神时，\\c[50]<PLAYER>\\c[0]\r\n已经站在故乡的城堡前，手中握着一块水晶。\r\n\\c[50]<PLAYER>\\c[0]向水晶中望去，\r\n看见了俯瞰大地的景象。\r\n<PAGE>\r\n\\c[51]Creatoire\\c[0]的声音传来。\r\n\r\n“看吧。那是因你的记忆而获救的平行世界。\r\n虽然还比不上神明的视野，\r\n但借助这块\\c[52]传讯水晶\\c[0]，\r\n你便能纵览各个世界。请收下它吧。”\r\n\r\n重建这个世界，还需要很长的时间。\r\n不过，也有了新的目标……\r\n\r\n于是，新王\\c[50]<PLAYER>\\c[0]\r\n建设全新王国的征途，就此拉开帷幕。",
+          "translation_state": "llm_translated",
+          "source_sha256": "679e5c9de6219668298ba6c9d894d71f6b2d5454667239c9a6cc0fae884c7a73"
+        },
+        {
+          "id": "db/72/34/1",
+          "source": " At the end of a seemingly endless journey,\r\n they reached the End of the East.\r\n\r\n Exhausted, <PLAYER> and the others saw\r\n there was barren land buried in white ash. This\r\n was not only the end of the east, but also the\r\n beginning of the West where the Calamity of\r\n Light had been released upon the world.\r\n\r\n\"Does this mean we've almost crossed the\r\n whole world?\"\r\n\r\n\"Yes, that's exactly right.\"\r\n<PAGE>\r\n It was Alma who answered Memoria's question.\r\n\r\n\"And this is also where you all will die.\"\r\n\r\n With a fearsome grin, Alma descended from the\r\n heavens before <PLAYER> and the others.\r\n There was no other path for <PLAYER> and\r\n the others to take.\r\n\r\n All that remained before them was the bitter\r\n cold of death nothing else and the Shine Raid\r\n bearing upon them from behind.\r\n<PAGE>\r\n\"<PLAYER>, allow me to show you an\r\n interesting gift I brought from \\c[51]Pluton\\c[0].\"\r\n\r\n\"GRROOOOOAAR!\"\r\n\r\n A roar could be heard from within the light.\r\n\r\n And from beyond the wall of white light, a giant\r\n humanoid shadow came hazily into view.\r\n\r\n It was taller than the highest mountain, its head\r\n seemingly reaching all the way to the sky.\r\n<PAGE>\r\n Giving off the light that had nearly destroyed the\r\n whole world from its very body, the giant looked\r\n down upon them.\r\n\r\n\"Behold my servant, Zeukrees! The one who will\r\n finally destroy this world!\"\r\n\r\n\"We're backed into a corner now... \r\n <PLAYER>, what should we do?\"\r\n\r\n <PLAYER> gave no answer to Memoria,\r\n only taking their weapon in hand. It was clear.\r\n They had to defeat the enemy before them!\r\n<PAGE>\r\n Alma wore a dangerous smile.\r\n\r\n\"You certainly know how to amuse me.\r\n <PLAYER>, let's settle things once and for all!\"\r\n\r\n No matter if the world was covered in white ash...\r\n No matter how reckless this fight was...\r\n\r\n <PLAYER> swore to not lose hope\r\n until the very end.\r\n\r\n For it was <PLAYER>'s mission to\r\n save the world.",
+          "japanese": {
+            "text": "永遠にも近い長き旅路の末……、\r\n<PLAYER>たちがたどり着いたのは、\r\n世界の『東の果て』だった。\r\n\r\n疲弊した<PLAYER>たちがそこで目にしたのは、\r\n雪のように積もる白い灰に埋もれ荒廃した大地だった。\r\n\r\nそれは<PLAYER>たちにとっての\r\n東の果てであると同時に、光の災厄が世界に放たれた\r\n西の始まりの地でもあった。\r\n\r\n「あたしたち、世界をほぼ一周しちゃったってこと？」\r\n\r\n「ええ、そのとおりです」\r\n<PAGE>\r\nメモリアの問いに答えたのは、堕天使アルマだった。\r\n\r\n「そしてここは、あなたたちの死地でもあります」\r\n\r\n不敵な笑みを浮かべたアルマが、\r\n天空から<PLAYER>たちの前に降り立った。\r\n\r\nもはや<PLAYER>に前進すべき道はなかった。\r\n\r\nこの先は厳寒とした死の世界……、\r\n何も残されていないのだ。\r\n\r\nさらに背後にはシャインレイドが迫っていた。\r\n<PAGE>\r\n「<PLAYER>よ、\r\n冥土の土産に面白いものを見せてあげましょう」\r\n\r\n\r\n「ウォオオオオオオオオオーーーンッ！」\r\n\r\n\r\n光の中から咆哮が聞こえてきた。\r\n\r\nすると白い光の壁の向こう側に、\r\n人の姿をした巨大な影がうっすらと見えはじめた。\r\n\r\nその巨人の身体は山の高さをはるかに超え、\r\n頭が天にまで届いてるかのようにも見えた。\r\n<PAGE>\r\n巨人は世界を滅亡に追い込んだ光を\r\n身体全体から放ちながら、こちらを見下ろしていた。\r\n\r\n「あれこそが我がしもべ、シュクリス！\r\nこの世界を滅亡に導く破壊者です！」\r\n\r\n「進退窮まれりだね……<PLAYER>、どうする？」\r\n\r\n<PLAYER>はメモリアの言葉に答えず、\r\n己の武器に手をかけた。\r\n\r\n答えは決まっている。\r\n目の前の敵を駆逐するのだ！\r\n<PAGE>\r\nアルマが恐ろしい笑みを浮かべた。\r\n\r\n「そうでなくては面白くありません。\r\n<PLAYER>よ、今こそ決着をつけましょう！」\r\n\r\n世界のほとんどが白い灰にのまれたとしても……、\r\nこの挑戦がどんなに無謀だったとしても……、\r\n\r\n<PLAYER>は最期まで絶望などしない。\r\n\r\n何故なら<PLAYER>には、\r\nこの世界を救う使命があるのだから。",
+            "availability": "verified_display",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473",
+            "alignment": {
+              "method": "database_storage_id_and_matching_table_layout",
+              "semantic_review": "pending"
+            },
+            "internal_hint": "プロローグ_ED_エピローグ / [エピローグ] 世界の果て（10000km アルマ登場）到着 / 表示項目",
+            "hint_origin": "English build database.project internal labels",
+            "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+          },
+          "translation": "仿佛永无止境的旅途，终于抵达了终点——\r\n东方尽头。\r\n\r\n疲惫的<PLAYER>一行看见的，\r\n却是被白灰掩埋的荒芜大地。\r\n这里既是东方的尽头，\r\n也是光之灾厄降临世界的西方起点。\r\n\r\n“这么说，我们几乎绕了世界一周？”\r\n\r\n“没错，正是如此。”\r\n<PAGE>\r\n回答Memoria的，是Alma。\r\n\r\n“而这里，也将是你们的葬身之地。”\r\n\r\nAlma带着令人胆寒的笑容，\r\n从天而降，出现在<PLAYER>一行面前。\r\n<PLAYER>一行已经无路可走。\r\n\r\n前方只剩冰冷的死亡，别无他物；\r\n而背后，光之灾厄正不断逼近。\r\n<PAGE>\r\n“<PLAYER>，让我给你看看\r\n从\\c[51]Pluton\\c[0]那里带来的有趣礼物吧。”\r\n\r\n“吼噢噢噢噢——！”\r\n\r\n光芒之中，传来了震耳欲聋的咆哮。\r\n\r\n白色光壁的另一侧，\r\n一个巨大的类人身影隐约浮现。\r\n\r\n它比最高的山峰还要高大，\r\n头颅仿佛直抵天际。\r\n<PAGE>\r\n巨人浑身散发着几乎毁灭世界的光芒，\r\n俯视着众人。\r\n\r\n“看吧，我的仆从Zeukrees！\r\n它将给这个世界带来最终的毁灭！”\r\n\r\n“这下真是进退两难了……\r\n<PLAYER>，我们该怎么办？”\r\n\r\n<PLAYER>没有回答Memoria，\r\n只是握紧了手中的武器。\r\n答案早已明确：必须击败眼前的敌人！\r\n<PAGE>\r\nAlma露出了危险的微笑。\r\n\r\n“这样才有趣。\r\n<PLAYER>，让我们彻底做个了断吧！”\r\n\r\n即便这个世界已被白灰覆盖……\r\n即便这场战斗是如此鲁莽……\r\n\r\n<PLAYER>也发誓，要到最后一刻，\r\n都绝不放弃希望。\r\n\r\n因为拯救这个世界，\r\n正是<PLAYER>的使命。",
+          "translation_state": "llm_translated",
+          "source_sha256": "70959a06aa798eafb26fa4d86d2047ddb971a03353211a62828da54e1cdc2e50"
+        },
+        {
+          "id": "db/72/38/1",
+          "source": " Here was the end of the journey east, the\r\n source of the Shine Raid's destructive force.\r\n\r\n\"<PLAYER>, could it be...\"\r\n\r\n Upon seeing the figure, Memoria's usually\r\n cheerful voice was small and shaky.\r\n\r\n They knew what she wanted to say. If they had\r\n gone once around the whole world chased by\r\n the light, then this world was. <PLAYER> was\r\n certain. Here, today, their journey would come\r\n to an end.\r\n<PAGE>\r\n After leaving the castle they'd been born and\r\n raised in, they'd walked so far. They'd overcome\r\n many dangers. But it wasn't all hardship as they\r\n also knew the joy of traveling with friends. Now,\r\n from the fallen angel, they'd heard the truth.\r\n\r\n They didn't have the means to attack the giant\r\n deep within the light. But that didn't mean they\r\n had to go willingly into the light. Nor would they\r\n go east to escape into the empty world.\r\n\r\n <PLAYER> faced the light head on, weapon\r\n at the ready.\r\n<PAGE>\r\n\r\n\r\n\r\n\r\n From beyond the wall of white light\r\n they caught a glimpse of a giant, alien face.\r\n\r\n\r\n\r\n\r\n<PAGE>\r\n That was the Zeukrees Alma had spoken of.\r\n The barren view of their homeland burned into\r\n their minds. It was the enemy before them that\r\n had done that.\r\n\r\n They had to defeat him, no matter what.\r\n\r\n <PLAYER> wasn't nervous. This wasn't because\r\n of their ego as a hero, but anyone who'd\r\n overcome the trials they'd faced would feel just\r\n the same. The path they'd come down would be\r\n their foundation. That's why they could take on\r\n the greatest enemy they'd ever faced now.\r\n<PAGE>\r\n The servant of Pluton, who held as much power\r\n as Creatoire, was sure to be strong. It was only\r\n logical and based on the face they'd caught a\r\n glimpse of, at full height it must be tall enough\r\n to pierce the heavens. It wasn't an enemy for a\r\n mere human to take on.\r\n\r\n\"<PLAYER>... I believe in you!\r\n Please, you have to win!\"\r\n\r\n They nodded in response to Memoria's\r\n support. And then, <PLAYER> took off running\r\n to face the destroyer of their the world.",
+          "japanese": {
+            "text": "ここは東に向かう旅の終着点であり、\r\nシャインレイドが放たれたすべての始まりの地だ。\r\n\r\n「……<PLAYER>、もしかして……」\r\n\r\n<PLAYER>同様に眼前の光景を目にした\r\nメモリアが、いつもは元気な声を弱々しく震わせた。\r\n\r\n彼女の言いたいことはわかる。\r\n光に追われ世界を一周したということは、この世界は……。\r\n\r\n<PLAYER>は確信した。\r\n今日、ここで、自分の旅は終わる。\r\n<PAGE>\r\n生まれ育った城を旅立ってからこれまで、\r\n気が遠くなるほど長い距離を歩いてきた。\r\n\r\n色々なことがあった。幾度も命の危機を乗り越えた。\r\n苦しみだけじゃない、仲間と歩む喜びもあった。\r\n\r\nそして宿敵だと思っていた堕天使から、真実を聞いた。\r\n\r\n光の奥の巨人を攻撃する術は、遂に得られないままだった。\r\nそれでもただ光に飲まれるわけにはいかない。\r\nむろん東に進み、何もない世界を逃げ続けるわけにも。\r\n\r\nだから<PLAYER>は光に向き直り、武器を構える。\r\n<PAGE>\r\n\r\n\r\n\r\n\r\n\r\n\r\nそして立ち向かった白い光の壁の向こうに、\r\n無機質な、巨大な顔を垣間見た。\r\n\r\n\r\n\r\n\r\n\r\n<PAGE>\r\nあれが、アルマの言っていた巨人シュクリス。\r\n背後に広がる、荒れ果てた故郷が頭から離れない。\r\nその光景を作り出したのは目の前の敵だ。\r\n\r\nなんとしても倒さねばならない。\r\n思わず武器を持つ手に力が入る。\r\n\r\nしかし<PLAYER>は震えていない。\r\n勇者だからと慢心するつもりはないが、\r\nこれほど長き道のりを旅し、戦い抜いた者はそういまい。\r\n\r\n歩んだ道が、この身の支えとなる。\r\nだから過去最高に強大な敵を前にしても、戦える。\r\n<PAGE>\r\n世界の創造神と同程度の力を持つ冥王のしもべ。\r\nさぞ強敵だろう。だからなんだ。\r\n\r\n一瞬見えた顔の大きさから考えて、\r\nあれの全容は天を衝くほどの巨人なのだろう。\r\n人の身で挑む相手ではない。だからなんだ。\r\n\r\n「<PLAYER>……頑張って！\r\n　お願い、勝って！」\r\n\r\nメモリアの声援に、首肯を返す。\r\nそして<PLAYER>は、\r\n世界を滅ぼし尽くした敵に向かって駆け出した。",
+            "availability": "verified_display",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473",
+            "alignment": {
+              "method": "database_storage_id_and_matching_table_layout",
+              "semantic_review": "pending"
+            },
+            "internal_hint": "プロローグ_ED_エピローグ / [エピローグ] 世界の果て（10000km アルマ登場しない・ / 表示項目",
+            "hint_origin": "English build database.project internal labels",
+            "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+          },
+          "translation": "这里既是东行旅途的终点，\r\n也是光之灾厄释放毁灭之力的起点。\r\n\r\n“<PLAYER>，难道说……”\r\n\r\n看见眼前的景象，\r\n平日里开朗的Memoria声音变得微弱而颤抖。\r\n\r\n主角明白她想说什么。\r\n若是在光芒追赶下绕了世界一周，\r\n那这个世界岂不是……\r\n<PLAYER>确信，今天，就在这里，旅途将迎来终结。\r\n<PAGE>\r\n离开自幼长大的城堡后，已经走了那么远。\r\n经历过无数险境，也不全然只有艰辛，\r\n因为身旁还有与伙伴同行的喜悦。\r\n如今，更从堕天使口中得知了真相。\r\n\r\n尽管始终未能找到攻击光芒深处巨人的办法，\r\n也绝不能就这样任由光芒将自己吞没。\r\n更不能继续向东，逃入空无一物的世界。\r\n\r\n<PLAYER>正面迎向光芒，举起了武器。\r\n<PAGE>\r\n\r\n在白色光壁的另一侧，\r\n他们瞥见了一张巨大而冰冷的异形面孔。\r\n\r\n<PAGE>\r\n那正是Alma提起的巨人Zeukrees。\r\n故乡荒芜的景象，深深烙在脑海中。\r\n而造成这一切的，正是眼前的敌人。\r\n\r\n无论如何，都必须将它击败。\r\n\r\n<PLAYER>并不紧张。\r\n这并非身为勇者的傲慢，\r\n而是任何走过这般艰险旅途的人，都会拥有的信念。\r\n走过的道路，正是支撑自己的力量。\r\n所以，如今也能迎战有史以来最强大的敌人。\r\n<PAGE>\r\n身为与Creatoire同样强大的Pluton的仆从，\r\n这巨人必定是个强敌。\r\n从刚才瞥见的面孔大小判断，\r\n它的完整身躯恐怕足以直刺苍穹。\r\n那绝非一介凡人能够挑战的敌手。\r\n\r\n“<PLAYER>……我相信你！\r\n拜托了，一定要赢！”\r\n\r\n主角向Memoria点头回应。\r\n随后，<PLAYER>迈步奔向\r\n那个毁灭了整个世界的敌人。",
+          "translation_state": "llm_translated",
+          "source_sha256": "53bc6aa1af46457836fd0943f687b719d90f34a329364fcc5d47f2777441b217"
+        },
+        {
+          "id": "db/72/51/1",
+          "source": " The long journey east had ended and everyone\r\n had returned to where they needed to be.\r\n\r\n That time had also come for <PLAYER>\r\n and Alma.\r\n\r\n They stopped at a small inn.\r\n\r\n <PLAYER> and Alma had dinner,\r\n and retired to their room.\r\n\r\n In a room lit only by candlelight,\r\n a quiet night enveloped the pair.\r\n<PAGE>\r\n\"<PLAYER>... I must make it known to you, I...\"\r\n\r\n <PLAYER>'s hand brushed Alma's skin\r\n and her eyes filled with tears, then she\r\n began to sob.\r\n\r\n \"Oh... ohh...\"\r\n\r\n Alma threw herself down on the bed\r\n and covered her head with her hands.\r\n\r\n <PLAYER> hurriedly pulled her up again and\r\n she looked up at them with a pained expression.\r\n<PAGE>\r\n \"Oh <PLAYER>... My true memories have just\r\n now become clear to me...\r\n\r\n I'm no angel. I have no peerage in the heavens.\r\n\r\n I'm...merely a golem formed by \\c[51]Pluton\\c[0]\r\n to destroy this world...\r\n\r\n The history I thought I knew...\r\n\r\n Everything was but a false memory planted\r\n in me to create the desire to destroy the world.\r\n Oh...\"\r\n<PAGE>\r\n Such was Alma's sudden confession...\r\n\r\n Perhaps the truth buried deep within her\r\n psyche had been revived through the purification\r\n of her heart and <PLAYER>'s love.\r\n\r\n But <PLAYER> showed no surprise.\r\n\r\n Whether it was true or not, it didn't change the\r\n relationship they had forged during their travels.\r\n\r\n What's more, <PLAYER> had already\r\n begun to fall for her.\r\n<PAGE>\r\n <PLAYER> held the trembling Alma close\r\n and gently stroked her hair.\r\n\r\n \"Thank you... That makes me feel better...\"\r\n\r\n snap pop...\r\n\r\n The fire in the hearth crackled.\r\n\r\n In time, Alma fell asleep in <PLAYER>'s arms.\r\n<PAGE>\r\n Just why they had fallen for her,\r\n <PLAYER> couldn't say.\r\n\r\n But as long as their feelings for her were true\r\n they wanted them to be together.\r\n\r\n Maybe they could even...\r\n choose to live together...\r\n\r\n With this thought clear in their mind\r\n <PLAYER> watched Alma sleep.",
+          "japanese": {
+            "text": "東への長い旅が終わり……、\r\n旅の仲間も自分の居るべき場所へと戻っていく。\r\n\r\nそして<PLAYER>とアルマの元にも、\r\nそのときがきた。\r\n\r\n２人で訪れた小さな宿。\r\n\r\n<PLAYER>とアルマは夕食を終えると\r\n寝室に戻った。\r\n\r\n明りのない部屋にロウソクを灯すと、\r\n静かな夜が２人を包みこんだ。\r\n<PAGE>\r\n「<PLAYER>さま……私はあなたのことを……」\r\n\r\n<PLAYER>の手がゆっくりとアルマに触れ、\r\n彼女の眼が潤んだ時……\r\n\r\n突然、アルマがうめき声をあげた。\r\n\r\n「うっ……ううっ……」\r\n\r\n見るとアルマはベッドでうずくまり、\r\n頭を抱えていた。\r\n\r\n<PLAYER>が慌てて抱き起こすと、\r\n彼女は、苦しそうな表情を浮かべていた。\r\n<PAGE>\r\n「うぅ……<PLAYER>様……、\r\n今、私の本当の記憶がよみがえりました……。\r\n\r\n本当の私は天使などではありません。\r\n無論、天界に親も兄弟もおりません。\r\n\r\n私の正体は……、\r\nこの世界を滅ぼすために冥王が創造した、\r\n作り物のゴーレムなのです……。\r\n\r\nそして私のこれまでの過去は……、\r\n\r\n世界を滅ぼそうという気持ちを与えるために\r\n植え付けられた偽りの記憶だったのです。\r\nううっ……」\r\n<PAGE>\r\nアルマの突然の告白……。\r\n\r\n彼女の深層に埋没していた真実が\r\n心の浄化と<PLAYER>の愛によって\r\nよみがえったのかもしれなかった。\r\n\r\nでも<PLAYER>は驚かない。\r\n\r\nそれが真実であろうとなかろうと、\r\n彼女は共に旅をしてきた仲間であることに\r\n違いはなかった。\r\n\r\nそれに<PLAYER>はすでにこのとき、\r\n彼女にひかれはじめていた。\r\n<PAGE>\r\n<PLAYER>はおびえるアルマを\r\n優しく抱きしめると頭をなでた。\r\n\r\n「ありがとう……、\r\nとても落ち着きます……」\r\n\r\nパチパチパチ……\r\n\r\n暖炉の薪が炎に焼かれて音を立てる。\r\n\r\n間もなくアルマは、<PLAYER>の腕の中で\r\n安らかに寝息を立てていた。\r\n<PAGE>\r\nどうして彼女にひかれるようになったのか。\r\nそれは<PLAYER>にもわからない。\r\n\r\nでもこの気持ちが真実である限り、\r\n大切に育てていきたいと思った。\r\n\r\nもしかしたらこのまま……、\r\n彼女と暮らすという選択肢もあるのかもしれない。\r\n\r\n<PLAYER>はそんなことを考えながら、\r\nアルマの寝顔を見つめるのだった。",
+            "availability": "verified_display",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473",
+            "alignment": {
+              "method": "database_storage_id_and_matching_table_layout",
+              "semantic_review": "pending"
+            },
+            "internal_hint": "プロローグ_ED_エピローグ / [エピローグ] アルマ / 表示項目",
+            "hint_origin": "English build database.project internal labels",
+            "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+          },
+          "translation": "漫长的东行之旅结束后，\r\n每个人都回到了自己该去的地方。\r\n\r\n对<PLAYER>与Alma而言，\r\n这样的时刻也终于到来。\r\n\r\n两人来到一家小小的旅店。\r\n\r\n<PLAYER>与Alma吃过晚饭，回到房中。\r\n\r\n只有烛光摇曳的房间里，\r\n静谧的夜色将两人温柔包围。\r\n<PAGE>\r\n“<PLAYER>……我必须告诉你，我……”\r\n\r\n<PLAYER>的手轻轻触碰Alma的肌肤，\r\n她的眼中泛起泪光，随后低声啜泣起来。\r\n\r\n“呜……呜呜……”\r\n\r\nAlma扑倒在床上，用双手抱住头。\r\n\r\n<PLAYER>慌忙将她扶起。\r\n她抬头望来，神情十分痛苦。\r\n<PAGE>\r\n“啊，<PLAYER>……我真正的记忆，\r\n刚刚终于清晰了起来……\r\n\r\n我不是什么天使，在天界也没有父母兄弟。\r\n\r\n我……只是\\c[51]Pluton\\c[0]为了毁灭这个世界，\r\n创造出来的一具魔像……\r\n\r\n那些我一直以为真实存在的过去……\r\n\r\n全都是为了让我渴望毁灭世界，\r\n而被植入的虚假记忆。\r\n呜……”\r\n<PAGE>\r\nAlma突如其来的告白……\r\n\r\n或许，内心深处埋藏的真相，\r\n在心灵获得净化，以及<PLAYER>的爱之下，\r\n终于重新苏醒。\r\n\r\n但<PLAYER>并不惊讶。\r\n\r\n无论真相如何，\r\n都不会改变两人在旅途中建立的羁绊。\r\n\r\n况且，此时的<PLAYER>，\r\n早已开始被她深深吸引。\r\n<PAGE>\r\n<PLAYER>将颤抖的Alma轻轻拥入怀中，\r\n温柔抚摸着她的头发。\r\n\r\n“谢谢你……我感觉好多了……”\r\n\r\n噼啪，噼啪……\r\n\r\n壁炉中的木柴，发出细小的爆裂声。\r\n\r\n不久，Alma便在<PLAYER>怀中安然睡去。\r\n<PAGE>\r\n自己究竟为何会喜欢上她，\r\n就连<PLAYER>也说不清。\r\n\r\n但只要这份心意是真实的，\r\n便想与她相伴。\r\n\r\n或许，两人甚至可以……\r\n选择一起生活下去……\r\n\r\n怀着这个逐渐清晰的念头，\r\n<PLAYER>静静凝视着Alma的睡颜。",
+          "translation_state": "llm_translated",
+          "source_sha256": "bd3b701732ef80e3bec5b01885116f42ab3a5cf1f6b7b0d03ca131a8f5ba3e98"
         }
       ]
     },
@@ -2140,7 +2287,8 @@
         "message/data/event/skill/udb1_375_baldur_skilltalk_gossip.txt/11",
         "message/data/event/skill/udb1_375_baldur_skilltalk_gossip.txt/14",
         "message/data/event/skill/udb1_99_fairy_skilltalk_friend.txt/11",
-        "message/data/event/timer/udb24_165_baldur_timerev.txt/0"
+        "message/data/event/timer/udb24_165_baldur_timerev.txt/0",
+        "db/72/46/1"
       ],
       "question": "Baldur 的中文角色名如何处理？已核对实际日文バルドフ。",
       "decision": "用户选择暂保留英文专名，标记最后终审。",
@@ -3002,6 +3150,26 @@
           "translation": "Baldur似乎有话想说。\r\n过会儿去和他谈谈吧。",
           "translation_state": "llm_translated",
           "source_sha256": "06c766cd29b3d895655f108117aebdab5099b74e36843365767962abeb112033"
+        },
+        {
+          "id": "db/72/46/1",
+          "source": " The long and arduous journey had come\r\n to an end for Baldur, who had always\r\n been a pampered child.\r\n\r\n With the precious medicinal herbs in hand,\r\n Baldur returned home with <PLAYER>.\r\n\r\n Upon seeing her son's face, his mother's first\r\n question was, \"Did you get enough to eat?\"\r\n\r\n These were the words she always had for her\r\n only son.\r\n<PAGE>\r\n\"Of course. There's no one who eats more\r\n than me!\"\r\n\r\n Baldur gave his answer with a childlike grin.\r\n Despite fears that it would be hard to return,\r\n Baldur's conscience was surprisingly clear.\r\n\r\n However, the father who had disowned Baldur\r\n was still terribly ill and had already lost\r\n consciousness. According to the doctor, it\r\n was a miracle he lived as long as he had.\r\n Even with the herbs Baldur struggled to bring\r\n back, it was unlikely he would live much longer.\r\n<PAGE>\r\n Even after he'd found the medicinal herbs...\r\n\r\n Baldur stared intently at his father's sleeping face\r\n as his saddened travel companions looked on.\r\n\r\n\"In that case, I will heal my father with song.\"\r\n Baldur said earnestly.\r\n\r\n And so, he stayed in his home\r\n and nursed his father with a soothing song\r\n just as he had promised his mother.\r\n<PAGE>\r\n Once <PLAYER> and the others left,\r\n Baldur's mother told him the truth.\r\n\r\n After learning of his father's illness, even during\r\n their difficult journey, <PLAYER> and the others\r\n had been using the messenger raven to check in\r\n on Baldur's family.\r\n\r\n Not only that, but the \"Ask Dad\" letter\r\n had also been sent to Baldur in secret\r\n by <PLAYER> and the others.\r\n\r\n\"And those guys say I'm shy!\"\r\n<PAGE>\r\n With only his the desire to heal his father,\r\n Baldur continued his studies of the\r\n Contour herbs.\r\n\r\n During this time, he discovered another effect\r\n of the Contour herbs: soul purification.\r\n\r\n Working from this discovery, Baldur accidentally\r\n created the magical remedy, \"Vow of\r\n Purity\". With the money made from selling\r\n this remedy, his search for his father's cure\r\n continued...\r\n<PAGE>\r\n Baldur sat next to his sleeping father\r\n and began to play another soothing song.\r\n\r\n From the kitchen, he could smell\r\n the delicious stew his mother was cooking.\r\n\r\n Even today, his love for his family carries on.\r\n\r\n",
+          "japanese": {
+            "text": "これまで道楽息子だったバルドフにとって、\r\nとても長く苦しい旅がついに終わりを告げた。\r\n\r\nバルドフは貴重な薬草を手に、\r\n<PLAYER>たちと共に彼の故郷に戻った。\r\n\r\n息子の顔を見るなり母親は聞いた。\r\n\r\n「ちゃんと食べていたかい？」\r\n\r\nそれは一人息子を心配する彼女の口癖で、\r\nバルドフを大食いへと導いた魔法の言葉でもあった。\r\n<PAGE>\r\n「もちろんです、私ほどちゃんと食べる旅人は\r\n他にいないと断言できます」\r\n\r\n子供のような笑顔で答えるバルドフ。\r\n帰りづらかったはずのバルドフの表情は、\r\n思ったより晴れ晴れとしていた。\r\n\r\nしかし、バルドフに勘当を言い渡した父親の病状は\r\n想像以上に重く、彼の意識はすでになかった。\r\n\r\n主治医によれば、\r\nこれまで生き長らえてきたこと事態が奇跡だった。\r\n\r\nその上、苦労して持ち帰った薬草だけでは\r\nこの先長くは生き延びられないらしい。\r\n<PAGE>\r\nせっかく苦労して持ち帰った薬草なのに……。\r\n\r\n旅の仲間たちが落胆する中、\r\nバルドフは眠る父親に真剣な眼差しを向けた。\r\n\r\n「ならば私が詩で父を回復させるまで」\r\n\r\nバルドフは本気だった。\r\nそして彼は家に残り……、\r\n癒しの唄で父親を看護し続けると\r\n母親に約束するのだった。\r\n\r\n…………。\r\n<PAGE>\r\n<PLAYER>たちが去った後、\r\nバルドフは母親から知らされる。\r\n\r\nあの苦難に満ちた冒険の最中……、\r\n親が病気だと知った<PLAYER>たちは\r\n彼に内緒で伝書ガラスを使って、\r\nバルドフの家族の様子を調べていたことを。\r\n\r\nさらにあの『チチキトク』の手紙は、\r\n<PLAYER>たちがこっそりと\r\nバルドフに送ったものだったことも。\r\n\r\n「一番素直じゃないのは、彼らの方じゃないか」\r\n<PAGE>\r\nバルドフは、父の病気を治したい一心で\r\nコントール草の研究を続けた。\r\n\r\nその中で彼はコントール草が持つ\r\n別の効能を発見する。\r\n\r\n魂の浄化……。\r\n\r\nバルドフは偶然にも、この効能を元に\r\n魔法のクスリ『浄化の誓約』を生み出すのだった。\r\n\r\nこのクスリを売ったお金を元手に\r\n父の病気を治す方法を見つけよう……。\r\n<PAGE>\r\nバルドフは眠る父親の脇に腰を下ろして\r\n癒しの唄を奏で始める。\r\n\r\n台所では母親が煮込む\r\nシチューのいい香りがする。\r\n\r\nこうして今も……彼の親孝行は続いている。",
+            "availability": "verified_display",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473",
+            "alignment": {
+              "method": "database_storage_id_and_matching_table_layout",
+              "semantic_review": "pending"
+            },
+            "internal_hint": "プロローグ_ED_エピローグ / [エピローグ] バルドフ / 表示項目",
+            "hint_origin": "English build database.project internal labels",
+            "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+          },
+          "translation": "对一直娇生惯养的Baldur来说，\r\n这段漫长而艰难的旅途，终于结束了。\r\n\r\n带着珍贵的药草，\r\nBaldur与<PLAYER>一起回到了故乡。\r\n\r\n看见儿子的脸，母亲开口的第一句话便是：\r\n“有没有好好吃饭？”\r\n\r\n这正是她对独生子，\r\n一直挂在嘴边的话语。\r\n<PAGE>\r\n“当然，没有谁比我吃得更多了！”\r\n\r\nBaldur露出孩子般的笑容。\r\n原本以为回家会很难面对，\r\n但Baldur的神情却意外地坦然。\r\n\r\n然而，曾与Baldur断绝关系的父亲，\r\n病情依然十分严重，早已失去意识。\r\n医生说，他能支撑到现在，已是奇迹。\r\n即便有Baldur历尽艰辛带回的药草，\r\n恐怕也无法再维持太久。\r\n<PAGE>\r\n明明已经找到了药草……\r\n\r\n旅伴们都十分难过。\r\nBaldur则认真凝视着父亲沉睡的面容。\r\n\r\n“既然如此，我就用歌声治好父亲。”\r\nBaldur郑重地说道。\r\n\r\n于是，他留在家中，\r\n履行对母亲的承诺，\r\n用治愈之歌照料着父亲。\r\n<PAGE>\r\n<PLAYER>一行离开后，\r\nBaldur从母亲那里得知了真相。\r\n\r\n原来，在那段艰苦的旅途中，\r\n得知他父亲生病后，<PLAYER>一行\r\n便一直通过信使乌鸦，关心着Baldur的家人。\r\n\r\n不仅如此，那封写着“父亲病危”的信，\r\n也是<PLAYER>一行暗中寄给Baldur的。\r\n\r\n“他们还好意思说我害羞！”\r\n<PAGE>\r\n一心想治好父亲的Baldur，\r\n继续研究着轮廓草。\r\n\r\n在此期间，他发现了轮廓草的另一种功效：\r\n净化灵魂。\r\n\r\n以此为基础，Baldur意外地配出了\r\n名为“净化之誓”的魔法药剂。\r\n他打算用出售药剂赚来的钱，\r\n继续寻找治愈父亲的方法……\r\n<PAGE>\r\nBaldur坐在沉睡的父亲身旁，\r\n又一次奏起了治愈之歌。\r\n\r\n厨房里，飘来母亲炖汤的诱人香气。\r\n\r\n直到今天，他对家人的爱，\r\n仍在延续。",
+          "translation_state": "llm_translated",
+          "source_sha256": "fbf87ac000304c20a96550a30227c1e15d901d0ae3383e16b3d18bdea385b172"
         }
       ]
     },
@@ -3046,7 +3214,9 @@
         "message/data/event/skill/udb1_373_draco_skilltalk_gossip.txt/15",
         "message/data/event/skill/udb1_373_draco_skilltalk_gossip.txt/21",
         "message/data/event/skill/udb1_99_fairy_skilltalk_friend.txt/6",
-        "message/data/event/timer/udb24_163_draco_timerev.txt/0"
+        "message/data/event/timer/udb24_163_draco_timerev.txt/0",
+        "db/72/44/1",
+        "db/72/61/1"
       ],
       "question": "Draco 的中文角色名如何处理？已核对实际日文ドラコ。",
       "decision": "用户选择暂保留英文专名，标记最后终审。",
@@ -3872,6 +4042,46 @@
           "translation": "Draco似乎有话想说。\r\n过会儿去和他谈谈吧。",
           "translation_state": "llm_translated",
           "source_sha256": "ea0561797fd0ce6eb111e6dd0e6828177bb1ba06eb1fed088ba5437c8c21dbed"
+        },
+        {
+          "id": "db/72/44/1",
+          "source": " As the country's reparations progressed under\r\n <PLAYER>, Draco grew into a strong dragon.\r\n\r\n\"PYAAA!\"\r\n\r\n\"Draco's looking pretty cool, isn't he?\"\r\n\r\n Memoria looked over to Draco with pride. But\r\n Draco's first love seemed all but forgotten. He \r\n was consumed by the joy of flying. It was as if \r\n he had forgotten Memoria even existed.\r\n\r\n\"We're different sizes now. He's not my type.\"\r\n<PAGE>\r\n Memoria's face fell, even as she said this. \r\n\r\n And so, <PLAYER> will give up the throne.\r\n They felt safe leaving everything to the capable survivors.\r\n\r\n During their journey to defeat the person\r\n behind the disaster, they had the idea to travel\r\n again freely once their country had been rebuilt.\r\n\r\n And since Draco had also become tame around\r\n <PLAYER>, if they rode on his back, they could\r\n go anywhere... Anywhere at all.\r\n<PAGE>\r\n One year later, <PLAYER> set off, riding on the\r\n back of a great dragon. Everything grew smaller\r\n and smaller below them. <PLAYER> said a soft\r\n good-bye to Memoria in their heart.\r\n\r\n Draco, on the other hand...\r\n\r\n As they crossed the sky, <PLAYER> knew\r\n that Draco still had feelings for Memoria, but \r\n didn't believe himself worthy of her. That was \r\n why he came on the journey with <PLAYER>. \r\n When he has grown enough to feel worthy, only\r\n then would he go back and tell her how he felt.\r\n<PAGE>\r\n That was surely what Draco was thinking.\r\n\r\n Of course, <PLAYER> couldn't understand the\r\n dragons' language, but could feel strong\r\n emotions emanating from the dragon. They\r\n understood each other through their souls,\r\n as only the strong can.\r\n\r\n Hey Draco, where should we go first?\r\n We could take out some bandits causing\r\n trouble in the mountains, or if you're hungry,\r\n we could cross the sea and find a school of\r\n flying fish to catch.\r\n<PAGE>\r\n They could go anywhere they wanted,\r\n east or west, north or south.\r\n\r\n For now, <PLAYER> and Draco\r\n were nothing more than free travelers.\r\n\r\n\r\n\r\n",
+          "japanese": {
+            "text": "<PLAYER>によって国の再建が進む中……、\r\nドラコも立派なドラゴンとしてすっかり成長した。\r\n\r\n「ピヤー――――ッ！」\r\n\r\n「ドラコ、すっかりかっこよくなったね」\r\n\r\nドラコを見つめるメモリアも満足げだ。\r\nでもドラコの初恋はどこへやら。\r\n今となっては飛ぶことに夢中で\r\nメモリアの存在など忘れてしまってるかのようだ。\r\n\r\n「もうサイズが全然違うしね、恋愛対象外だよ」\r\n<PAGE>\r\nメモリアはそんなことを言いながら、\r\n少しがっかりしているようにも見える。\r\n\r\nそして今日……<PLAYER>は王位を棄てる。\r\n後は生き残った優秀な人材に任せればいい。\r\n\r\n災いの使者討伐の旅の最中から考えていたことだった。\r\n国を再建したら今度は自由な旅に出ようと。\r\n\r\n最近はドラコも<PLAYER>になついてきた。\r\n彼に乗れば、世界中のどんな所にだって\r\n行くことができるのだ。\r\n<PAGE>\r\nそれから一年後……、\r\n巨大なドラゴンの背に乗り飛び立つ<PLAYER>。\r\nメモリアがいる目下の城がみるみる小さくなる。\r\n心の中でメモリアに別れを告げる<PLAYER>。\r\n\r\n一方のドラコは……、\r\n大空を駆け巡りながら<PLAYER>は気がつく。\r\nドラコはメモリアのことを今でも想っていることを。\r\n\r\nでも自分はまだまだだ。\r\n\r\nだから今は<PLAYER>と旅に出る。\r\nそしてメモリアに見合うだけの一人前になったら、\r\nその時こそメモリアを迎えに行こう。\r\n<PAGE>\r\nドラコはきっと、そんなことを考えているのだろう。\r\n\r\n無論、<PLAYER>にドラゴン語は理解できない。\r\nけれどその想いだけは、\r\nまたがっている背中からヒシヒシと感じるのだ。\r\n\r\n強者同士だから理解できる、そんな魂の言葉を。\r\n\r\nドラコ、まずはどこに向かおう？\r\n山で悪さをしている山賊を退治してもいいし、\r\n腹ごしらえのために\r\n大空を進む飛翔魚の大群を追うのもいい。\r\n<PAGE>\r\n西でも東でも南でも北でも、\r\n今ならどの方角に向かうことだってできる。\r\n\r\nなぜなら<PLAYER>とドラコは今や、\r\n自由気ままな旅人なのだから。",
+            "availability": "verified_display",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473",
+            "alignment": {
+              "method": "database_storage_id_and_matching_table_layout",
+              "semantic_review": "pending"
+            },
+            "internal_hint": "プロローグ_ED_エピローグ / [エピローグ] ドラコ / 表示項目",
+            "hint_origin": "English build database.project internal labels",
+            "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+          },
+          "translation": "在<PLAYER>的治理下，国家的重建不断推进，\r\nDraco也成长为了一条强壮的龙。\r\n\r\n“皮呀——！”\r\n\r\n“Draco看起来很帅气了，对吧？”\r\n\r\nMemoria满怀自豪地望向Draco。\r\n然而，Draco仿佛早已忘记了自己的初恋。\r\n如今的他一心沉醉于飞翔的乐趣，\r\n好像连Memoria的存在都忘记了。\r\n\r\n“现在体型差这么多，他已经不是我的理想对象啦。”\r\n<PAGE>\r\n尽管嘴上这么说，\r\nMemoria的神情却还是有些失落。\r\n\r\n而<PLAYER>决定放弃王位。\r\n将一切托付给幸存的能人，足以让人安心。\r\n\r\n讨伐灾厄幕后主使的旅途中，\r\n这个念头便已经萌生：\r\n待国家重建后，就再次踏上自由的旅程。\r\n\r\nDraco也越来越亲近<PLAYER>。\r\n只要骑在他的背上，\r\n无论哪里，都能够抵达。\r\n<PAGE>\r\n一年后，<PLAYER>骑着巨龙出发了。\r\n脚下的一切渐渐缩小。\r\n<PLAYER>在心中，轻轻向Memoria道别。\r\n\r\n而Draco呢……\r\n\r\n飞越长空时，<PLAYER>渐渐明白，\r\nDraco心中仍然挂念着Memoria，\r\n只是觉得自己还配不上她。\r\n所以，他才与<PLAYER>一同踏上旅程。\r\n待成长到足以与她相配时，\r\n才会回去向她倾诉心意。\r\n<PAGE>\r\nDraco心中，一定是这样想的吧。\r\n\r\n当然，<PLAYER>并不懂龙的语言，\r\n却能感受到从龙背上传来的强烈心意。\r\n那是只有强者之间才能理解的灵魂之语。\r\n\r\n喂，Draco，先去哪里呢？\r\n可以去教训山中作乱的山贼，\r\n饿了的话，也可以飞越大海，\r\n追逐成群的飞鱼。\r\n<PAGE>\r\n无论东西，还是南北，\r\n现在想去哪里，都可以自由前往。\r\n\r\n因为如今，<PLAYER>与Draco，\r\n不过是两个自由自在的旅人。",
+          "translation_state": "llm_translated",
+          "source_sha256": "743cb975f52262df9662c1b39d43d5e8973347342a8da795dffe3e61ab052bcf"
+        },
+        {
+          "id": "db/72/61/1",
+          "source": " Born in a burst of light was a tiny baby dragon,\r\n covered in scales that gave off a soft glow.\r\n\r\n\"Pya...\" Cooed the dragon as  Memoria and Draco\r\n watched. The newborn holy dragon flapped its still\r\n flightless wings and rubbed its cheek against her.\r\n\r\n\"Do you know me? How about <PLAYER>? Look!\"\r\n Memoria cried as she excitedly urged <PLAYER>\r\n forward. The little dragon set its feet on\r\n <PLAYER>'s fingertips.\r\n\r\n\"He does! He recognizes us! That's great!\"\r\n<PAGE>\r\n Draco slowly put his face closer to the\r\n newborn and nuzzled it with his nose.\r\n\r\n Memoria watched over them with a smile.\r\n\"Look at Draco, acting like an older brother\r\n already. He says he'll look after it.\"\r\n Draco took great care of the egg until it hatched\r\n on their travels. Though they were different, they\r\n were close and with Draco there, the newborn\r\n dragon would surely feel at ease.\r\n\r\n And so, a new member joined <PLAYER>'s little\r\n travel party.\r\n<PAGE>\r\n The dragon, perhaps since it was a holy dragon,\r\n grew quickly. The very next day after it was born,\r\n it was already flying. Draco appeared shocked at\r\n first,  but was in high spirits as he watched the\r\n little dragon fly about.  Soon the tiny dragon\r\n was bigger than Draco and \"Big\" brother Draco\r\n appeared conflicted, but he looked on his big,\r\n beautiful younger brother with pride.\r\n\r\n\"Pyaa!\"\r\n\"Kyuu!\"\r\n\"Okay guys, do your best!\"\r\n<PAGE>\r\n Both the dragon and Draco helped defeat\r\n monsters and Memoria and <PLAYER> would\r\n joke that they had lost their jobs.\r\n\r\n The journey was much fun, but their travels with\r\n the dragon would not last long. Once it began\r\n casting shadows over entire villages, the dragon\r\n told them it wanted to search for its brethren.\r\n\r\n Though the dragons were said to be extinct,\r\n there was still the possibility others were alive.\r\n Memoria was sad to see him go. Draco cheered\r\n him on as a brother, but cried in secret later.\r\n<PAGE>\r\n The day they parted, Draco had one final chat\r\n with his brother. Memoria gave the dragon a hug\r\n while the dragon gave a final rub against\r\n <PLAYER>'s hand, then took off. The dragon\r\n circled several times before flying off.\r\n\r\n\"Take care! And don't forget about us, okay!\"\r\n Memoria cried, seeing the dragon off with tears\r\n streaming down her face. Draco's eyes were also\r\n filled with tears but he didn't look away until the\r\n dragon was gone. Becoming a brother had\r\n helped him grow up. And he would never forget\r\n the holy dragon that had been a part of his family.",
+          "japanese": {
+            "text": "卵が割れ、光の中から産まれてきたのは、\r\nほのかな光を帯びたような美しいうろこに\r\n全身を覆われた、小さな小さな竜の子だった。\r\n「……わあ……」\r\n「……ピヤ……」\r\nメモリアとドラコが、目を輝かせて聖竜を見つめた。\r\n産まれたての聖竜は、まだ飛べない小さな翼を引きずり、\r\nメモリアが差し出した手に頬ずりしてキュゥと鳴いた。\r\n\r\n「あなた、私がわかるの！？　ね、<PLAYER>も、ほら」\r\n興奮したメモリアに急かされ、<PLAYER>も手を出す。\r\n聖竜は小さな手を上げて、<PLAYER>の指先に乗せた。\r\n「やっぱり、私たちがわかるのよ。すごい、すごい！」\r\n<PAGE>\r\nそれからドラコがそろそろと顔を近付けると、\r\nその鼻面に聖竜が親しげに顔を寄せた。\r\n「キュゥ、キュゥゥ」\r\n「ピヤ、ピヤー……ピヤ！」\r\n\r\n鳴き声を交わす二頭を、メモリアは微笑ましく見守る。\r\n「ドラコ、お兄ちゃんぶって張り切っちゃってるよ。\r\nあの子の面倒は自分が見る、だってさ」\r\nドラコは旅の間も、卵の孵化のために頑張ってくれた。\r\n竜種は違えど、本当に兄のような気持ちなのだろう。\r\n聖竜も、側にドラコがいれば心強いかもしれない。\r\n\r\nそれから<PLAYER>たちの旅に、新たな仲間が加わった。\r\n<PAGE>\r\nもしかしたら、聖竜は成長が早いのだろうか。\r\nなんと産まれた翌日には、もう空を飛べてしまった。\r\nドラコは少々ショックを受けた様子だったが、\r\n聖竜が元気よく飛び回るのを見て、すぐ上機嫌になった。\r\n地に降りた聖竜を、よく飛んだと褒めてすらいたようだ。\r\n\r\n聖竜はドラコより成長が早く、すぐドラコを追い越した。\r\n兄ぶっていたドラコは複雑そうにしっぽを振ったが、\r\n大きく美しく育つ弟分を見上げる目は誇らしげだった。\r\n\r\n「ピヤー！」\r\n「キュゥ！」\r\n「よーし、みんな頑張ってー！」\r\n<PAGE>\r\n聖竜はドラコと共に、魔物との戦いを助けてくれた。\r\n二頭のドラゴンが放つブレスは強烈で、\r\nメモリアは<PLAYER>の仕事がなくなっちゃうねと笑った。\r\n\r\nにぎやかで、楽しい旅だった。\r\nけれど長続きはしなかった。聖竜の成長は早すぎた。\r\n空を飛べば街一つを影で覆うほど大きくなった聖竜が、\r\n仲間を捜しに行きたいと言い出したのだ。\r\n\r\n絶滅したと言われていた伝説の竜が、ここに一頭。\r\nもしかしたら、他にも仲間がいるかもしれない。\r\n悲しげだったメモリアも、それを聞けば反対しなかった。\r\nドラコは兄らしく激励し、後でこっそり泣いていた。\r\n<PAGE>\r\n別れの日。ドラコと大きな弟分が最後の語らいを終える。\r\nメモリアは聖竜の頬に抱きついて、そっと離れる。\r\n聖竜は<PLAYER>の手にそっと頬ずりして、空へ飛んだ。\r\nそして上空を何度も旋回し、やがて飛び去っていく。\r\n\r\n「ずっとずっと、元気でね！　私たちを忘れないでね！」\r\n「ピヤ、ピヤー！　ピヤピヤー！」\r\nメモリアはぼろぼろ涙を流しながら、手を振り続ける。\r\nドラコの瞳にも大粒の涙が浮かんでいたが、\r\n聖竜が見えなくなるまで、目を逸らさず見送っていた。\r\n\r\n兄として振舞い、彼も一つ大人になったのかもしれない。\r\nそして家族だった聖竜を、この先ずっと忘れないだろう。",
+            "availability": "verified_display",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473",
+            "alignment": {
+              "method": "database_storage_id_and_matching_table_layout",
+              "semantic_review": "pending"
+            },
+            "internal_hint": "プロローグ_ED_エピローグ / [エピローグ] 竜人・真 / 表示項目",
+            "hint_origin": "English build database.project internal labels",
+            "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+          },
+          "translation": "光芒迸发，一条小小的幼龙诞生了。\r\n美丽的鳞片覆盖全身，泛着柔和的光泽。\r\n\r\n“皮呀……”Memoria与Draco注视着它。\r\n刚出生的圣龙拍打着尚不能飞翔的翅膀，\r\n轻叫一声，用脸颊亲昵地蹭着她。\r\n\r\n“你认识我？那<PLAYER>呢？快看！”\r\nMemoria兴奋地催促<PLAYER>伸手。\r\n小龙抬起脚爪，搭在<PLAYER>的指尖。\r\n\r\n“它认识！它认识我们！太好了！”\r\n<PAGE>\r\nDraco缓缓凑近，\r\n用鼻尖轻轻蹭了蹭刚出生的小龙。\r\n\r\nMemoria微笑着望向它们。\r\n“看Draco，已经摆起哥哥的架子了。\r\n它说，要由它来照顾这孩子呢。”\r\n旅途中，Draco一直尽心照看着龙蛋，直到孵化。\r\n虽然种类不同，两条龙却十分亲近。\r\n有Draco在身边，小龙一定也会感到安心。\r\n\r\n于是，<PLAYER>小小的旅行队伍里，\r\n又多了一位新成员。\r\n<PAGE>\r\n或许因为是圣龙，它长得格外迅速。\r\n出生的第二天，就已经能够飞翔。\r\nDraco起初似乎有些受打击，\r\n但看到小龙精神十足地飞来飞去，又高兴了起来。\r\n很快，小龙的个头便超过了Draco。\r\n“大哥”Draco的心情似乎有些复杂，\r\n但望向这个高大美丽的弟弟时，眼中仍充满自豪。\r\n\r\n“皮呀！”\r\n“啾！”\r\n“好，大家加油！”\r\n<PAGE>\r\n圣龙与Draco一起，帮忙打败沿途的魔物。\r\nMemoria与<PLAYER>都开玩笑说，自己快没事可做了。\r\n\r\n旅途十分欢乐，\r\n但与圣龙同行的时光，却并未持续太久。\r\n当它的身影能够遮蔽整个村庄时，\r\n它提出，想要去寻找自己的同族。\r\n\r\n传说中早已灭绝的龙，仍有这一条存在。\r\n也许，还有其他同族活着。\r\nMemoria虽然难过，也只能送它离开。\r\nDraco像哥哥一样鼓励着它，后来却偷偷哭了。\r\n<PAGE>\r\n分别的那一天，Draco与弟弟做了最后一番交谈。\r\nMemoria拥抱了圣龙，\r\n圣龙最后轻轻蹭了蹭<PLAYER>的手，便飞向天空。\r\n它在空中盘旋数圈，随后远远飞去。\r\n\r\n“要一直健健康康的！也别忘了我们呀！”\r\nMemoria一边呼喊，一边泪流满面地挥手。\r\nDraco的眼中也盈满泪水，\r\n却直到圣龙消失，都没有移开目光。\r\n成为哥哥，让它也成长了许多。\r\n它永远不会忘记，那条曾是自己家人的圣龙。",
+          "translation_state": "llm_translated",
+          "source_sha256": "ca2c924c1f1ed2ce0595173b368035d547f4714b65e02e0a4abc4b467509fe5c"
         }
       ]
     },
@@ -4385,7 +4595,9 @@
         "message/data/event/skill/udb1_371_nami_skilltalk_gossip.txt/0",
         "message/data/event/skill/udb1_371_nami_skilltalk_gossip.txt/5",
         "message/data/event/skill/udb1_99_fairy_skilltalk_friend.txt/2",
-        "message/data/event/timer/udb24_161_nami_timerev.txt/0"
+        "message/data/event/timer/udb24_161_nami_timerev.txt/0",
+        "db/72/41/1",
+        "db/72/42/1"
       ],
       "question": "Nami的新专名译法，已对照实际日文。",
       "review_batch": "0011",
@@ -5800,6 +6012,46 @@
           "translation": "Nami似乎有话想说。\r\n过会儿去和她谈谈吧。",
           "translation_state": "llm_translated",
           "source_sha256": "0a263b8e189d908b2601f95b9009cab90289a6e0afdf7afaaa6b2c789a67d6f4"
+        },
+        {
+          "id": "db/72/41/1",
+          "source": " The adventure came to an end...\r\n <PLAYER> and Keyton returned to their\r\n devastated homeland.\r\n\r\n Soon after, at the top of a hill dotted with\r\n thousands of gravestones they erected\r\n Nami's grave.\r\n\r\n So many were the graves in that cemetery,\r\n that it looked like a pincushion. This is where\r\n the victims of the Shine Raid were laid to rest.\r\n Nami, who had ended her life as a bandit could\r\n also be called a victim of the Shine Raid.\r\n<PAGE>\r\n <PLAYER> and Keyton stood before the grave\r\n in a moment of silence.\r\n\r\n\"To tell you the truth, we loved each other.\"\r\n\r\n Keyton quietly confessed to <PLAYER>.\r\n\r\n Keyton opened the locket Nami left behind,\r\n to reveal the pictures of him and Nami smiling.\r\n\r\n\"I'd dreamt of starting a happy family with her.\r\n What will you do from now? If you want, we could...\"\r\n\r\n Keyton let the offer drop before he finished.\r\n<PAGE>\r\n\"Nah... you have the all-important job of \r\n rebuilding the kingdom and protecting the people.\r\n I couldn't even protect Nami...\r\n Maybe I'll become a thief like she was, too.\"\r\n\r\n\"Geez, if you have the time to think like that,\r\n help <PLAYER> rebuild the kingdom. Not just as\r\n a servant this time, as their right-hand man.\"\r\n\r\n After Memoria told Keyton this, what he saw\r\n next was <PLAYER>'s outstretched hand.\r\n<PAGE>\r\n\"Fine. But I won't just be your right-hand man.\r\n I'll give you both hands and legs if I have to.\"\r\n\r\n Keyton firmly shook <PLAYER>'s hand.\r\n\r\n\"From now on, Nami will be watching over us.\"\r\n\r\n They would rebuild the kingdom well and make\r\n the people happy.\r\n\r\n <PLAYER> felt the cool wind at their back\r\n and swore this to Keyton and Nami,\r\n and all the people sleeping within that hill...",
+          "japanese": {
+            "text": "冒険が終わりを告げ……\r\n<PLAYER>とキタンは荒廃した故郷に戻った。\r\n\r\nそしてすぐ……\r\n何千もの墓石が並ぶ丘の一番上に、\r\nナミィの墓をたてたのだった。\r\n\r\nあまりにも墓石の数が多いその丘の墓地は、\r\nあたかも針山のように見えた。\r\n\r\nここにはシャインレイドの被害者たちが\r\n眠っていた。\r\n\r\n山賊として人生を終えたナミィ。\r\n彼女もいわば、シャインレイドの被害者だった。\r\n<PAGE>\r\n墓前に立ち、黙とうする<PLAYER>とキタン。\r\n\r\n「俺たち、本当は付き合っていたんだ」\r\n\r\nキタンが黙とうしたまま、<PLAYER>に告げた。\r\n\r\nナミィの遺品であるロケットの蓋をあけると、\r\nそこにはキタンとナミィの笑顔が写っていた。\r\n\r\n「俺の夢は……彼女と温かい家庭を持つことだった。\r\nお前はこの先どうする？　よければ俺と……」\r\n\r\n言いかけてやめるキタン。\r\n<PAGE>\r\n「いいや……お前には、王国を再建して\r\n国民を守るという大事な使命があったな。\r\nナミィを守れなかった俺は……\r\n彼女のように義賊にでもなるか」\r\n\r\n「ったく、そんな風にふてくされている暇があるなら、\r\n<PLAYER>の新しい国づくりを手伝ってよ。\r\n今度は世話役としてじゃなく、彼の右腕としてね」\r\n\r\nメモリアがあきれながらキタンに言った。\r\nそれから目を開けたキタンの瞳に映っていたのは、\r\nこちらに手を差し伸べる<PLAYER>の姿だった。\r\n<PAGE>\r\n「わかったよ。でもこれからは右腕だけじゃなく\r\n両腕、そして両足もお前にささげようじゃないか」\r\n\r\nキタンは、しっかりと<PLAYER>の手を握る。\r\n\r\n「それにこれからはいつでも……\r\nナミィがこの丘から俺たちを見守ってくれるしな」\r\n\r\n必ずいい国を再建して国民を幸せにしてみせる。\r\n\r\n<PLAYER>は丘に吹く涼やかな風を感じながら、\r\nキタンとナミィ、そしてこの丘に眠る住人たちに……\r\nそう誓った。",
+            "availability": "verified_display",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473",
+            "alignment": {
+              "method": "database_storage_id_and_matching_table_layout",
+              "semantic_review": "pending"
+            },
+            "internal_hint": "プロローグ_ED_エピローグ / [エピローグ] キタン / 表示項目",
+            "hint_origin": "English build database.project internal labels",
+            "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+          },
+          "translation": "冒险终于结束……\r\n<PLAYER>与Keyton回到了满目疮痍的故乡。\r\n\r\n不久后，他们在竖立着无数墓碑的山丘顶端，\r\n为Nami建起了坟墓。\r\n\r\n墓地中的墓碑如此密集，\r\n远看仿佛一座插满细针的针山。\r\n光之灾厄的受害者们，都长眠于此。\r\n以山贼身份结束一生的Nami，\r\n也同样可以说是光之灾厄的受害者。\r\n<PAGE>\r\n<PLAYER>与Keyton站在墓前，静静默哀。\r\n\r\n“其实，我们曾经相爱。”\r\n\r\nKeyton向<PLAYER>轻声坦白。\r\n\r\nKeyton打开Nami留下的吊坠盒，\r\n里面是他与Nami满面笑容的照片。\r\n\r\n“我曾梦想和她组建一个温暖的家庭。\r\n你今后有什么打算？如果愿意，我们可以……”\r\n\r\nKeyton话未说完，便停了下来。\r\n<PAGE>\r\n“不……你还有重建王国、保护人民的重要使命。\r\n我连Nami都没能保护好……\r\n也许，干脆像她一样，去做个贼吧。”\r\n\r\n“真是的，有空想这些，\r\n不如去帮<PLAYER>重建王国。\r\n这次，作为得力助手，而不只是侍从。”\r\n\r\n听完Memoria对Keyton说的话，\r\n他看见<PLAYER>正向自己伸出手。\r\n<PAGE>\r\n“好吧。不过，我可不只做你的右手。\r\n若有需要，我的双手双脚都可以交给你。”\r\n\r\nKeyton紧紧握住<PLAYER>的手。\r\n\r\n“从今以后，Nami也会一直守望着我们。”\r\n\r\n一定要重建一个美好的王国，\r\n让人民过上幸福的生活。\r\n\r\n感受着山丘上拂过背后的凉风，\r\n<PLAYER>向Keyton、Nami，\r\n以及所有长眠于此的人们，许下了誓言……",
+          "translation_state": "llm_translated",
+          "source_sha256": "6e5d736f1d73918e37c6703f8373e9afe368392cd79b7d393ff7a5855bb2fab5"
+        },
+        {
+          "id": "db/72/42/1",
+          "source": " Returning to her homeland after a long journey,\r\n she found Keyton's grave already erected. It was\r\n a parting gift made for Keyton by his comrades\r\n from the messenger raven network.\r\n\r\n After celebrating <PLAYER> and Nami's arrival,\r\n friends gathered for Keyton's funeral.\r\n\r\n As the great fire from Keyton's funeral service\r\n illuminated the night...\r\n\r\n A man claiming to be Keyton's friend offered\r\n <PLAYER> and Nami a drink and talked to them.\r\n<PAGE>\r\n\"Keyton would always use the messenger ravens\r\n to brag to us about you, Nami.\"\r\n\r\n\"So you and Keyton were together...\"\r\n\r\n Memoria looked to Nami. But Nami only gazed\r\n into the fire neither confirming or denying this.\r\n\r\n But as <PLAYER> began to apologize for not\r\n saving Keyton, Nami slowly shook her head.\r\n\r\n\"Perhaps this was his destiny.\"\r\n<PAGE>\r\n\"I couldn't stay a child forever.\r\n Even with him gone, I need to live on.\"\r\n\r\n Having said that, Nami removed the pendant\r\n from her neck, and threw it into the raging fire.\r\n\r\n And then...\r\n Keyton's messenger raven\r\n took flight from her shoulder.\r\n\r\n The pitch-black messenger raven\r\n soon disappeared into the night.\r\n<PAGE>\r\n\"He's... gone on another journey.\r\n I should follow him.\"\r\n\"Follow him? You don't mean...?\"\r\n\r\n Nami offered Memoria's concerned face\r\n a wan smile.\r\n\r\n\"Don't be silly. I'll live on, enough for both of us.\"\r\n\"But will you be okay on your own?\"\r\n\"I'm better at handling what the world\r\n throws at me than I look.\"\r\n\"Yeah, I know. You're a stubborn brat.\"\r\n\"That's mean, Memoria.\"\r\n<PAGE>\r\n After that...\r\n No one knows what became of her.\r\n\r\n But they were sure\r\n that she was living on strongly.\r\n\r\n After all...\r\n She had sworn to live on strong enough for\r\n both her and Keyton's sake.",
+          "japanese": {
+            "text": "長い旅の終わりに故郷へと戻ると……、\r\nそこにはすでに、キタンの墓がつくられていた。\r\n\r\nそれは……、\r\n生き残った伝書ガラスネットワークの仲間たちが\r\nキタンのために建ててくれたものだった。\r\n\r\n生還した<PLAYER>とナミィを祝い、\r\n仲間たちは改めてキタンの弔いの儀式を開いた。\r\n\r\nキタンを弔う巨大な炎が夜の闇を照らす中、\r\n\r\n彼の親友だという男が<PLAYER>とナミィに\r\n飲み物をすすめながら話しかけてきた。\r\n<PAGE>\r\n「いつもキタンは伝書ガラスを使って\r\nナミィさんの自慢話ばかりしていたんだ」\r\n\r\n「キタンとナミィ、やっぱり付き合ってたんじゃん……」\r\n\r\nメモリアがナミィをつつく。\r\nでもナミィはそれを肯定も否定もせず、\r\nただ炎を見つめていた。\r\n\r\nそして、キタンを救えなかったことをわびる\r\n<PLAYER>に、ナミィは首を横に振った。\r\n\r\n「これも彼の運命だったのでしょう」\r\n<PAGE>\r\n「私もいつまでも子供ではいられません。\r\n彼が居なくても、生きていかなければなりません」\r\n\r\nナミィはそう言って首からペンダントを外すと、\r\n燃え盛る炎の中に投げ込んだのだった。\r\n\r\nすると……\r\n彼女の肩にいたキタンの伝書ガラスが\r\n羽ばたいて飛び立った。\r\n\r\n真っ黒な伝書ガラスはすぐに闇にまぎれ、\r\nその姿を消した。\r\n<PAGE>\r\n「彼……旅立ったようですね。\r\n私も彼と共に旅立たなくては。」\r\n\r\n「共にってまさか、彼の後を追う気じゃ……」\r\n\r\nメモリアの懸念に苦笑するナミィ。\r\n\r\n「まさか、生きますよ、彼の分もね」\r\n「でも１人で大丈夫？」\r\n「こう見えても私、世渡りは上手みたいなので」\r\n「うん、知ってる。ナミィは図太い子だもんね」\r\n「ひどいな、メモリアさん」\r\n<PAGE>\r\nその後……、\r\n彼女がどうなったのかは、誰も知らない。\r\n\r\nそれでもきっと彼女は、\r\n今でもしっかりと生きているに違いない。\r\n\r\nだって彼女は……、\r\nキタンの分も生きていくと約束したのだから。",
+            "availability": "verified_display",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473",
+            "alignment": {
+              "method": "database_storage_id_and_matching_table_layout",
+              "semantic_review": "pending"
+            },
+            "internal_hint": "プロローグ_ED_エピローグ / [エピローグ] ナミィ / 表示項目",
+            "hint_origin": "English build database.project internal labels",
+            "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+          },
+          "translation": "漫长的旅途结束后，回到故乡时，\r\nKeyton的坟墓已经建好了。\r\n那是信使乌鸦联络网中的伙伴们，\r\n送给Keyton最后的礼物。\r\n\r\n庆祝<PLAYER>与Nami平安归来后，\r\n朋友们聚在一起，为Keyton举行葬礼。\r\n\r\n祭奠Keyton的熊熊火焰照亮夜空……\r\n\r\n一位自称Keyton好友的男子，\r\n请<PLAYER>与Nami喝了一杯，并与他们交谈。\r\n<PAGE>\r\n“Keyton总是用信使乌鸦，\r\n向我们夸耀你的事呢，Nami。”\r\n\r\n“所以，你和Keyton果然在一起过……”\r\n\r\nMemoria看向Nami。\r\n但Nami只是凝视火焰，没有承认，也没有否认。\r\n\r\n当<PLAYER>为没能救下Keyton而道歉时，\r\nNami却缓缓摇头。\r\n\r\n“或许，这就是他的命运吧。”\r\n<PAGE>\r\n“我不能永远做个孩子。\r\n即使他不在了，我也必须活下去。”\r\n\r\n说完，Nami摘下颈间的吊坠，\r\n将它投入熊熊燃烧的火焰。\r\n\r\n随后……\r\nKeyton的信使乌鸦，\r\n从她肩头振翅飞起。\r\n\r\n漆黑的信使乌鸦，\r\n很快便消失在夜色之中。\r\n<PAGE>\r\n“他……又踏上旅途了。\r\n我也该跟随他的脚步了。”\r\n“跟随他？你难道想……？”\r\n\r\n面对Memoria担忧的神情，\r\nNami露出了淡淡的笑容。\r\n\r\n“别傻了。我会活下去，连他的份一起。”\r\n“可你一个人，真的没问题吗？”\r\n“别看我这样，我很懂得应付世事呢。”\r\n“嗯，我知道。你可是个顽强的丫头。”\r\n“真过分啊，Memoria。”\r\n<PAGE>\r\n在那之后……\r\n没有人知道她去了哪里。\r\n\r\n但大家相信，\r\n她一定仍在坚强地活着。\r\n\r\n毕竟……\r\n她曾许诺，会带着自己与Keyton的那一份，\r\n一起坚强地活下去。",
+          "translation_state": "llm_translated",
+          "source_sha256": "5cbdf3a43b565f2042ebd2b28233ad4316a790b22cbccbe5c49161dc5bff863e"
         }
       ]
     },
@@ -5829,7 +6081,8 @@
         "message/data/event/skill/udb1_372_cole_skilltalk_gossip.txt/8",
         "message/data/event/skill/udb1_372_cole_skilltalk_gossip.txt/13",
         "message/data/event/skill/udb1_99_fairy_skilltalk_friend.txt/4",
-        "message/data/event/timer/udb24_162_cole_timerev.txt/0"
+        "message/data/event/timer/udb24_162_cole_timerev.txt/0",
+        "db/72/43/1"
       ],
       "question": "Cole的新专名译法，已对照实际日文。",
       "review_batch": "0011",
@@ -6349,6 +6602,26 @@
           "translation": "Cole似乎有话想说。\r\n过会儿去和他谈谈吧。",
           "translation_state": "llm_translated",
           "source_sha256": "93053e9948b14de88fea2a386d8e7ecd02282fed379b7336c1ebc9b65df64d44"
+        },
+        {
+          "id": "db/72/43/1",
+          "source": " The journey's end was also the end of a mission.\r\n\r\n And so, there was a man bringing his own mission\r\n to an end.\r\n\r\n That night, Cole was enveloped in a soft light.\r\n\r\n\"Seems my time has come...\"\r\n\r\n Even as he lay in <PLAYER>'s arms, his body\r\n gave off light and began to fade away. Cole\r\n melted into stardust that danced in the air\r\n and rose toward the heavens.\r\n<PAGE>\r\n\"Wh-What is this, Cole? Are you a ninja?\"\r\n\r\n\"If he was a ninja, he could have saved his family.\"\r\n\r\n\"After I abandoned my family to escape, I was\r\n attacked by bandits before I even had time to\r\n regret my mistake. I took a direct hit to the\r\n heart. It was fatal. But it barely even hurt and\r\n did nothing to ease my guilt.\"\r\n\r\n\"Fatal? You mean...\"\r\n\r\n Cole gazed up at the stars with misty eyes...\r\n<PAGE>\r\n\"After that, I remained in this world,\r\n unable to pass on.\"\r\n\r\n\"So, what...? You're a ghost?\"\r\n\r\n\"Is it even more surprising than being a ninja?\r\n Sorry for keeping it a secret. But now I can\r\n rest in peace... <PLAYER>, thank you for\r\n everything.\"\r\n\r\n With those final words, Cole burst into\r\n innumerable drops of light and disappeared.\r\n<PAGE>\r\n\"Find your family up there and be happy!\r\n But don't you start drinking too much again!\"\r\n\r\n Memoria whispered as together with\r\n <PLAYER> and watched the lights\r\n dance up to join the stars.",
+          "japanese": {
+            "text": "旅の終わりは使命の終わり。\r\n\r\nそしてここに、\r\n自分の使命を終えようとしている男の姿があった。\r\n\r\nその夜……、\r\nコールは優しい光に包まれていた。\r\n\r\n「どうやら迎えが来たようだ」\r\n\r\n<PLAYER>の腕の中で\r\n発光する彼の身体が少しずつ透き通っていく。\r\n\r\n彼の身体からたくさんの光の粉が舞い上がり、\r\n天を目指して立ち昇っていく。\r\n<PAGE>\r\n「な、なんなのコール、これって忍術？」\r\n\r\n「ニンジャだったら、家族を救えたかもな」\r\n\r\n「俺は家族を残して１人で逃げた後、\r\n後悔する暇もなく山賊に襲われた」\r\n\r\n「そして心臓を一突きされた。即死だったな。\r\nでも痛みが少ない分、罪悪感も薄れなかった」\r\n\r\n「即死って……」\r\n\r\nコールは星空を見上げたまま遠い目をした。\r\n<PAGE>\r\n「その結果、俺は成仏できないまま、こうして\r\nこの世界に留まったんだ」\r\n\r\n「じゃあ……あんたは幽霊だったの？」\r\n\r\n「ニンジャより衝撃的な事実だったか？\r\n最後まで隠しといて悪かったな」\r\n\r\n「でもこれで安心して逝けそうだ……\r\n<PLAYER>、世話になったな」\r\n\r\nそう言い残すと……\r\nコールは無数の光の粒となって消滅したのだった。\r\n<PAGE>\r\n「向こうで家族と幸せになってね、\r\nでも、お酒はほどほどにするんだよ」\r\n\r\nメモリアは<PLAYER>と一緒に、\r\n光が舞う満天の星空を見上げながらつぶやいた。",
+            "availability": "verified_display",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473",
+            "alignment": {
+              "method": "database_storage_id_and_matching_table_layout",
+              "semantic_review": "pending"
+            },
+            "internal_hint": "プロローグ_ED_エピローグ / [エピローグ] コール / 表示項目",
+            "hint_origin": "English build database.project internal labels",
+            "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+          },
+          "translation": "旅途的终点，也是使命的终点。\r\n\r\n此刻，有一位男子，\r\n正要为自己的使命画上句号。\r\n\r\n那天夜里，Cole被柔和的光芒包围。\r\n\r\n“看来，是时候了……”\r\n\r\n即使躺在<PLAYER>怀中，\r\n他的身体仍散发着光芒，渐渐变得透明。\r\nCole化作点点星屑，在空中飞舞，升向天际。\r\n<PAGE>\r\n“这、这是怎么回事，Cole？你是忍者吗？”\r\n\r\n“要真是忍者，我就能救下家人了。”\r\n\r\n“我抛下家人独自逃走，\r\n还没来得及后悔，就遭到山贼袭击。\r\n心脏被直接刺中，当场毙命。\r\n但几乎感觉不到疼痛，\r\n心中的罪恶感也丝毫没有减轻。”\r\n\r\n“当场毙命？你是说……”\r\n\r\nCole目光迷离，仰望着星空……\r\n<PAGE>\r\n“在那之后，我便无法安息，\r\n一直留在这个世界。”\r\n\r\n“所以……你是幽灵？”\r\n\r\n“比起忍者，这个真相更让你吃惊吗？\r\n抱歉，一直瞒着你们。\r\n不过，现在我终于能够安心离去了……\r\n<PLAYER>，多谢你一直以来的照顾。”\r\n\r\n留下最后的话语后，\r\nCole化作无数光点，消失了。\r\n<PAGE>\r\n“到了那边，要和家人幸福地生活啊！\r\n不过，别再喝太多酒了！”\r\n\r\nMemoria与<PLAYER>一起，\r\n仰望着光点飞向繁星的夜空，轻声说道。",
+          "translation_state": "llm_translated",
+          "source_sha256": "86119342caf2bba79fa145cc5fec5dc0a4880b64c64ecbd63c8e35d7d8793c94"
         }
       ]
     },
@@ -6385,7 +6658,8 @@
         "message/data/event/skill/udb1_374_merril_skilltalk.txt/0",
         "message/data/event/skill/udb1_374_merril_skilltalk_gossip.txt/0",
         "message/data/event/skill/udb1_99_fairy_skilltalk_friend.txt/9",
-        "message/data/event/timer/udb24_164_merril_timerev.txt/0"
+        "message/data/event/timer/udb24_164_merril_timerev.txt/0",
+        "db/72/45/1"
       ],
       "question": "Merril的新专名译法，已对照实际日文。",
       "review_batch": "0011",
@@ -7051,6 +7325,26 @@
           "translation": "Merril似乎有话想说。\r\n过会儿去和她谈谈吧。",
           "translation_state": "llm_translated",
           "source_sha256": "8c7e9932d788f5c212ed9c77143d428ffdcd0596cf840960ef371abe84e5e731"
+        },
+        {
+          "id": "db/72/45/1",
+          "source": " It was her first rest in awhile.\r\n\r\n <PLAYER> and the others rounded out their\r\n journey with a feast. But even as she relished\r\n some grilled meat, Merril let out a sigh.\r\n\r\n\"In the end... without The Book of the Unrivalled\r\n I'll never be a match for <PLAYER>.\"\r\n\r\n\"We're trying to enjoy a meal here.\"\r\n It has been a long time she last rested.\r\n\r\n Memoria quipped more out of habit.\r\n<PAGE>\r\n Over their long travels, this conversation had\r\n become commonplace.\r\n\r\n\"Never mind. I'm talking to myself.\"\r\n\r\n Traveling made people stronger. On this\r\n adventure, <PLAYER> had become a hero and\r\n levelled up in various ways.\r\n\r\n As their assistant, Memoria knew this very well.\r\n But the one to understand it more than anyone\r\n was the mercenary, Merril.\r\n<PAGE>\r\n That night, as <PLAYER> was asleep in bed,\r\n a bewitching shadow slipped into the room.\r\n <PLAYER> immediately awoke at its\r\n presence. <PLAYER> knew immediately \r\n that the shadow was Merril.\r\n\r\n In the dark, <PLAYER> felt Merril approach from\r\n behind. The shadow came around to\r\n stand in front of them.\r\n\r\n But then...\r\n Soundlessly, the shadow withdrew\r\n and she left the room without further incident.\r\n<PAGE>\r\n The next morning, <PLAYER> noticed a letter\r\n next to their bed. It was from Merril; she had\r\n left it behind the night before.\r\n\r\n In the letter, she let them know that she left\r\n to journey alone.\r\n\r\n\"She's so awkward, for a supposed assassin.\r\n You could see her enter the room a mile away.\"\r\n\r\n At the very end of the letter, she left a\r\n terrible drawing in thanks. This also seemed to\r\n suit her very well.\r\n<PAGE>\r\n Memoria yawned and looked at\r\n <PLAYER> sleepily.\r\n\r\n\"If she finds the Book of the Unrivalled and\r\n comes back, what will you do?\"\r\n\r\n In response to Memoria's question,\r\n <PLAYER> scratched their head.\r\n\r\n\"Sorry, that was kind of rude.\r\n It's obvious anyway, isn't it?\"\r\n<PAGE>\r\n Merril was sure to someday soon find the\r\n Book of the Unrivalled and\r\n return to <PLAYER>.\r\n\r\n Regardless of whether they would\r\n become her \"rival\"...\r\n <PLAYER> looked forward to seeing her\r\n again.\r\n\r\n\r\n",
+          "japanese": {
+            "text": "久しぶりの休息。\r\n\r\n旅の締め括りにごちそうが載ったテーブルを囲む\r\n<PLAYER>たち。\r\nそんな中、生焼けの肉を頬ばっていたメアルが、\r\nため息をついた。\r\n\r\n「はぁっ……やっぱり『絶倫の書』がないと、\r\n<PLAYER>の相手は務まりそうもないわ」\r\n\r\n「食事中に突然、なんの話してんの？」\r\n\r\nメモリアが条件反射のように突っ込む。\r\n<PAGE>\r\nでもこの長い旅で、\r\nこんな会話にもすっかり慣れてしまった。\r\n\r\n「何でもないよ、こっちのはなし」\r\n\r\n旅は人を強くする。\r\n今回の冒険で、<PLAYER>も勇者として\r\nかなりレベルアップしただろう。\r\n\r\nそれは世話役であるメモリアもよくわかっていた。\r\nでも、その成長を誰よりも理解しているのは\r\n傭兵メアルなのかもしれない。\r\n<PAGE>\r\n旅の終わりに訪れた宿の布団に包まれて\r\n安らかな寝息を立てる<PLAYER>。\r\n\r\nそこにしなやかで妖艶な黒い影が現れた。\r\n<PLAYER>はすぐその気配に気づく。\r\n影はゆっくりと<PLAYER>に近づいてくる。\r\n気配でわかる。影の正体はメアルだ。\r\n\r\n闇の中でメアルを背中に感じていると、やがて\r\nその影は、横たわる<PLAYER>の前で止まった。\r\n\r\nそして……、\r\nなにごともないまま遠ざかり、\r\nついに彼女は部屋から居なくなったのだった。\r\n<PAGE>\r\n翌朝……、\r\n<PLAYER>はベッド脇の置き手紙に気がつく。\r\nメアルからだ。彼女は昨夜これを置きにきたらしい。\r\n\r\n手紙には、彼女が１人で旅立ったことが記されていた。\r\n\r\n「水臭いなぁ、でも彼女らしいかも。\r\n暗殺者なのに、手紙置きにきたの\r\nバレちゃうってところもね」\r\n\r\n手紙の最後には、口には出せないほど下世話で、\r\nへたくそな絵が描かれていたが、\r\nそんなところも彼女らしかった。\r\n<PAGE>\r\nメモリアがひとつあくびをしてから、\r\n寝ぼけ眼で<PLAYER>に聞いた。\r\n\r\n「もし彼女が絶倫の書を見つけてもどってきたら、\r\nあなたは相手をするの？」\r\n\r\nメモリアの質問に困った<PLAYER>は頭をかく。\r\n\r\n「ゴメンね、野暮な質問しちゃって、\r\nそんなの決まってるよね」\r\n<PAGE>\r\nメアルのことだからきっと、\r\n近いうちに絶倫の書を手に入れて\r\n<PLAYER>の元に戻ってくるだろう。\r\n\r\n相手にするかしないかはともかく……、\r\n<PLAYER>はその日が来るのを、\r\n楽しみに待つことにしたのだった。",
+            "availability": "verified_display",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473",
+            "alignment": {
+              "method": "database_storage_id_and_matching_table_layout",
+              "semantic_review": "pending"
+            },
+            "internal_hint": "プロローグ_ED_エピローグ / [エピローグ] メアル / 表示項目",
+            "hint_origin": "English build database.project internal labels",
+            "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+          },
+          "translation": "这是久违的休憩。\r\n\r\n<PLAYER>一行围坐在丰盛的餐桌旁，\r\n为旅途画上句号。\r\n可即便正享用着烤肉，Merril仍叹了口气。\r\n\r\n“唉……果然，没有绝伦之书，\r\n我就永远做不了<PLAYER>的对手。”\r\n\r\n“我们可是在吃饭呢。”\r\n这确实是她久违的休憩。\r\n\r\nMemoria近乎习惯性地吐槽道。\r\n<PAGE>\r\n在漫长的旅途中，\r\n这样的对话，早已成了家常便饭。\r\n\r\n“没什么，我自言自语罢了。”\r\n\r\n旅行会让人成长。\r\n这次冒险中，<PLAYER>作为勇者，\r\n也在许多方面得到了提升。\r\n\r\n身为助手，Memoria自然十分清楚。\r\n但最理解这份成长的人，\r\n或许正是佣兵Merril。\r\n<PAGE>\r\n那天夜里，<PLAYER>正安睡在床上，\r\n一个妖娆的黑影悄然潜入房中。\r\n<PLAYER>立刻察觉气息，醒了过来。\r\n<PLAYER>也立刻知道，那道身影就是Merril。\r\n\r\n黑暗中，<PLAYER>感到Merril从背后靠近。\r\n她绕到面前，停下脚步。\r\n\r\n然而……\r\n黑影却又无声地退去，\r\n什么也没发生，她便离开了房间。\r\n<PAGE>\r\n第二天清晨，<PLAYER>发现床边留着一封信。\r\n那是Merril昨夜留下的。\r\n\r\n信中说，她已经独自踏上旅途。\r\n\r\n“真是个别扭的家伙，明明是个刺客，\r\n进屋时的动静却大得让人一眼就能发现。”\r\n\r\n信的末尾，还画着一幅糟糕的画，表示感谢。\r\n这一点，也很有她的风格。\r\n<PAGE>\r\nMemoria打了个哈欠，\r\n睡眼惺忪地望向<PLAYER>。\r\n\r\n“要是她找到了绝伦之书，回来以后，\r\n你会怎么办？”\r\n\r\n面对Memoria的提问，\r\n<PLAYER>有些困扰地挠了挠头。\r\n\r\n“抱歉，问了个不识趣的问题。\r\n答案不是明摆着嘛。”\r\n<PAGE>\r\n以Merril的性子，想必用不了多久，\r\n就会找到绝伦之书，回到<PLAYER>身边。\r\n\r\n至于会不会成为她的“对手”……\r\n<PLAYER>决定，先好好期待重逢的那一天。",
+          "translation_state": "llm_translated",
+          "source_sha256": "fa7c621984d60ff981a3d847696cb5848dbc18d4ee00aa31f276809195fc4e54"
         }
       ]
     },
@@ -7094,7 +7388,8 @@
         "message/data/event/skill/udb1_376_albert_skilltalk_gossip.txt/1",
         "message/data/event/skill/udb1_376_albert_skilltalk_gossip.txt/10",
         "message/data/event/skill/udb1_99_fairy_skilltalk_friend.txt/13",
-        "message/data/event/timer/udb24_166_albert_timerev.txt/0"
+        "message/data/event/timer/udb24_166_albert_timerev.txt/0",
+        "db/72/47/1"
       ],
       "question": "Aerdou的新专名译法，已对照实际日文。",
       "review_batch": "0011",
@@ -7958,6 +8253,26 @@
           "translation": "Aerdou似乎有话想说。\r\n过会儿去和他谈谈吧。",
           "translation_state": "llm_translated",
           "source_sha256": "d38f248077c5a228923154ba81f1629b192f5420c55f3aabfb6b05cd9b77f686"
+        },
+        {
+          "id": "db/72/47/1",
+          "source": " After returning to their homeland, <PLAYER>\r\n found that all that remained was the land devastated\r\n by the Shine Raid and the graves of thousands\r\n of victims.\r\n\r\n\"Do you intend to rebuild your country in such\r\n a desolate place?\"\r\n\r\n <PLAYER> replied with a silent nod.\r\n\r\n\"And, can you truly welcome me there?\"\r\n\r\n <PLAYER> also replied to this with a nod.\r\n<PAGE>\r\n Aerdou's curse was to be the strongest knight\r\n in the world, only for every country he\r\n served to end in ruins.\r\n\r\n Even so, <PLAYER> was willing to accept\r\n his loyalty. It was the obvious choice.\r\n\r\n The reason was simple, this man they had\r\n overcome many trials with was no longer a knight\r\n of despair and destruction. He was a beacon of\r\n hope for all.\r\n<PAGE>\r\n <PLAYER> had a realization...\r\n\r\n All journeys eventually come to an end.\r\n Just as all countries brought up must eventually fall.\r\n History was nothing more than those stories\r\n written over and over.\r\n\r\n Yet the world, now, was overflowing with hope.\r\n\r\n After the ruin, a new country will be built.\r\n After the journey, a new adventure awaited.\r\n<PAGE>\r\n Years later, when the kingdom was rebuilt,\r\n Aerdou, the strongest royal knight,\r\n would stand as <PLAYER>'s right-hand man.\r\n\r\n And centuries after that, the kingdom would\r\n still exist and the curse that followed Aerdou\r\n for so long would not return.\r\n\r\n In the records of the knights,\r\n surely, this would be written:\r\n\r\n Aerdou, strongest in the world...\r\n The Knight of Absolute Hope.\r\n\r\n\r\n",
+          "japanese": {
+            "text": "故郷に戻ってきた<PLAYER>を待っていたのは、\r\nシャインレイドによって荒廃した大地と\r\n数千もの犠牲者たちが眠る墓地だけだった。\r\n\r\n「あなたはこの絶望の地に再び国をつくるのか？」\r\n\r\nエアドーの問いに、\r\n<PLAYER>は黙ったままうなずく。\r\n\r\n「あなたはその新しい王国に……、\r\n本当に我を迎え入れようと言うのか？」\r\n\r\n<PLAYER>はそれにも黙ってうなずく。\r\n<PAGE>\r\n世界最強でありながら仕えた王国が必ず滅ぶ。\r\nそんなジンクスを持った騎士、エアドー。\r\n\r\n<PLAYER>はそんな彼の忠誠を受け入れた。\r\nそれは<PLAYER>にとって当然の決断だった。\r\n\r\n何故なら、この冒険を共に乗り越えた今の彼は\r\n絶対絶望騎士などではなく、\r\nこの世界にとっての希望なのだから。\r\n<PAGE>\r\n<PLAYER>は思う。\r\n\r\n旅立ちの時があれば必ず終わりが訪れ、\r\n国が生まれれば、いずれ滅びる。\r\n歴史書につづられている記録は、\r\nその繰り返しに過ぎない。\r\n\r\nでも世界は、希望に満ちている。\r\n\r\n滅びの後にはまた新しい国が生まれ……、\r\n旅の終わりにはまた新しい冒険が待っているからだ。\r\n<PAGE>\r\n数年後、この地に王国が再建された時、\r\nエアドーは世界最強の宮廷騎士として\r\n<PLAYER>の右腕となっているだろう。\r\n\r\nそれから何十年もの間、国は滅びることなく、\r\n長きに続いたエアドーのジンクスは、\r\n彼のいまわの際に最期を迎えるのだ。\r\n\r\nやがて騎士年鑑の記録は、\r\nこう書き換えられるに違いない。\r\n\r\n世界最強の絶対希望騎士エアドー\r\n\r\nここにありと。",
+            "availability": "verified_display",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473",
+            "alignment": {
+              "method": "database_storage_id_and_matching_table_layout",
+              "semantic_review": "pending"
+            },
+            "internal_hint": "プロローグ_ED_エピローグ / [エピローグ] エアドー / 表示項目",
+            "hint_origin": "English build database.project internal labels",
+            "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+          },
+          "translation": "回到故乡后，等待着<PLAYER>的，\r\n只有被光之灾厄摧毁的大地，\r\n以及埋葬着数千名受害者的墓地。\r\n\r\n“你打算在这样荒凉的地方，重建国家吗？”\r\n\r\n<PLAYER>默默点头。\r\n\r\n“而且，你真的愿意迎接我来到这里吗？”\r\n\r\n<PLAYER>依旧点了点头。\r\n<PAGE>\r\nAerdou虽是世界最强的骑士，\r\n却背负着每一个效忠的国家都会灭亡的诅咒。\r\n\r\n即便如此，<PLAYER>仍然愿意接受他的忠诚。\r\n这是理所当然的选择。\r\n\r\n理由很简单。\r\n一同跨越无数考验后，\r\n眼前的他，早已不再是绝望与毁灭的骑士，\r\n而是所有人的希望之光。\r\n<PAGE>\r\n<PLAYER>忽然明白……\r\n\r\n任何旅途，终有结束之时。\r\n正如所有兴起的国家，终将迎来衰亡。\r\n所谓历史，不过是这些故事不断重演。\r\n\r\n但如今的世界，却充满了希望。\r\n\r\n毁灭之后，会有新的国家诞生。\r\n旅途结束后，也有新的冒险在等待。\r\n<PAGE>\r\n几年后，王国重建完成时，\r\n最强的宫廷骑士Aerdou，\r\n将作为<PLAYER>的得力助手，站在身旁。\r\n\r\n此后数十年间，王国始终未曾灭亡。\r\n长期纠缠着Aerdou的诅咒，\r\n终于在他临终之时，迎来了终结。\r\n\r\n骑士名录上，想必会这样记载：\r\n\r\n世界最强的Aerdou……\r\n绝对希望骑士。",
+          "translation_state": "llm_translated",
+          "source_sha256": "818dfdd560e50b9e27d30c67172db1171fcc076a8ef0f44632485449e30f57b0"
         }
       ]
     },
@@ -8057,7 +8372,8 @@
         "message/data/event/skill/udb1_377_coco_muddy_skilltalk_gossip.txt/25",
         "message/data/event/skill/udb1_377_coco_muddy_skilltalk_gossip.txt/26",
         "message/data/event/skill/udb1_99_fairy_skilltalk_friend.txt/15",
-        "message/data/event/timer/udb24_167_coco_muddy_timerev.txt/0"
+        "message/data/event/timer/udb24_167_coco_muddy_timerev.txt/0",
+        "db/72/48/1"
       ],
       "question": "Coco的新专名译法，已对照实际日文。",
       "review_batch": "0011",
@@ -10193,6 +10509,26 @@
           "translation": "Coco与Muddy似乎有话想说。\r\n过会儿去和他们谈谈吧。",
           "translation_state": "llm_translated",
           "source_sha256": "6cef9b2d6b56766c0d19d8f27c7928338ed50caab6afd994e3a70c5f9791cc05"
+        },
+        {
+          "id": "db/72/48/1",
+          "source": " Once the world had recovered from destruction,\r\n Coco and Muddy made a home in\r\n <PLAYER>'s new kingdom.\r\n\r\n However, Muddy was still a monster\r\n and Coco was still just a little girl.\r\n\r\n Muddy would scold Coco when she did\r\n something wrong. But, unlike in the past, she\r\n would not cower in fear. She knew, now, that\r\n he did so out of love.\r\n\r\n\"Muddy is my papa! He really is!\"\r\n<PAGE>\r\n But the world was not always so welcoming\r\n to this family made of a bandit's daughter and\r\n a monster.\r\n\r\n There would always be those who feared bandits\r\n and non-humans. There would always be people\r\n who looked at them strangely.\r\n\r\n Even so, the pair decided to keep living in the\r\n castle town of <PLAYER>'s kingdom.\r\n\r\n They were happy as long as they lived their lives\r\n quietly without causing trouble to others.\r\n<PAGE>\r\n Then, one day, a young boy called out to Coco,\r\n who until then, had no friends.\r\n\r\n With mischievous eyes, and making sure\r\n to keep his distance, the boy called out to her,\r\n\r\n\"Your dad is freaking huge!\"\r\n\r\n Coco was used to hearing insults like this.\r\n\r\n\"So what?\"\r\n\r\n At which the boy grimaced and shyly added,\r\n<PAGE>\r\n \"Well, I think he looks pretty cool.\r\n My dad's a good salesman, but he's a\r\n total weakling!\"\r\n\r\n\"...\"\r\n\r\n\"Hey, do you wanna come play with us?\"\r\n\r\n\"Sure, I guess.\"\r\n\r\n As long as they lived,\r\n each day would bring them new joy.\r\n\r\n\r\n",
+          "japanese": {
+            "text": "世界の滅亡は回避され、ツチクレとココは\r\n<PLAYER>が再建した新しい国で生活を始めた。\r\n\r\n新しい生活が始まっても、\r\nツチクレはやはりニンゲンではないし、\r\nココもやんちゃなままだ。\r\n\r\nツチクレは、ココが悪いことをする度に彼女を叱る。\r\nでもココは昔のようにツチクレを怖がったりはしない。\r\nそれは彼女がツチクレの愛情を感じているからだ。\r\n\r\n「ツチクレはココのパパ。本当のパパだよ」\r\n<PAGE>\r\nしかし必ずしも、世間が山賊の娘と魔物の親子を\r\n暖かい目で見守ってくれるわけではない。\r\n\r\n山賊の血や人でない者におびえる民は、\r\nどこにでも存在する。\r\nだからそんな人たちの白い目にさらされることもある。\r\n\r\nそれでも２人は<PLAYER>が治める王国の\r\n城下町に今でも住んでいる。\r\n\r\n人に迷惑を掛けず、本人たちさえ幸せなら、\r\nそれでいいのだから。\r\n<PAGE>\r\nそんなある日……、\r\n友だちがいなかったココに、１人の少年が声をかける。\r\n\r\n意地悪そうな目つきのその少年は、\r\n距離を置きながらココに向かって叫んだ。\r\n\r\n「お前のオヤジ、バカでかくてごっついよな！」\r\n\r\nでもココにとって、そんな悪口はもう慣れっこだ。\r\n\r\n「だからなによ？」\r\n\r\nすると少年は少し気まずそうにしてから、\r\n今度は照れくさそうに言った。\r\n<PAGE>\r\n「でも強そうでカッコイイなって思ってさ。\r\nうちの父ちゃん、商売は上手いけど\r\n腕っぷしは、からっきしダメなんだ」\r\n\r\n「…………」\r\n\r\n「なあ、よかったら俺たちと一緒に遊ばないか？」\r\n\r\n「うん……いいよ、別に」\r\n\r\n生きている限り……、\r\n世界は今日も幸せを運んでくる。",
+            "availability": "verified_display",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473",
+            "alignment": {
+              "method": "database_storage_id_and_matching_table_layout",
+              "semantic_review": "pending"
+            },
+            "internal_hint": "プロローグ_ED_エピローグ / [エピローグ] ココとツチクレ / 表示項目",
+            "hint_origin": "English build database.project internal labels",
+            "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+          },
+          "translation": "世界从毁灭中恢复后，\r\nCoco与Muddy在<PLAYER>的新王国安了家。\r\n\r\n但Muddy依然是魔物，\r\nCoco也依然只是个小女孩。\r\n\r\nCoco做错事时，Muddy仍会责备她。\r\n然而，她已不再像过去那样害怕，\r\n因为如今她知道，那是出于爱。\r\n\r\n“Muddy就是我的爸爸！真正的爸爸！”\r\n<PAGE>\r\n然而，对这个由山贼之女与魔物组成的家庭，\r\n世人并非总是怀着善意。\r\n\r\n无论哪里，总会有人畏惧山贼与非人之物，\r\n也总会有人投来异样的目光。\r\n\r\n即便如此，两人仍决定继续住在\r\n<PLAYER>王国的城下町。\r\n\r\n只要不打扰别人，安安静静地生活，\r\n他们便已经感到幸福。\r\n<PAGE>\r\n有一天，一个男孩向一直没有朋友的Coco搭话。\r\n\r\n男孩带着顽皮的目光，刻意保持着距离，\r\n朝她喊道：\r\n\r\n“你爸也太大只了吧！”\r\n\r\n这样的挖苦，Coco早已习以为常。\r\n\r\n“那又怎么样？”\r\n\r\n男孩的神情有些尴尬，随后羞涩地补充道：\r\n<PAGE>\r\n“不过，我觉得他挺帅的。\r\n我爸很会做生意，可打起架来，\r\n就完全不行了！”\r\n\r\n“……”\r\n\r\n“喂，要不要来和我们一起玩？”\r\n\r\n“嗯……也行吧。”\r\n\r\n只要还活着，\r\n每一天，都会带来新的快乐。",
+          "translation_state": "llm_translated",
+          "source_sha256": "9167453d19f7f890afd2e4f6df9bba45ad78efae41bb177c4c85d7f0db1dc50e"
         }
       ]
     },
@@ -10219,7 +10555,8 @@
         "choice/data/event/object/udb22_74_cheated_altar_ev_talk.txt/3442",
         "message/data/event/skill/udb1_379_olga_skilltalk.txt/0",
         "message/data/event/skill/udb1_99_fairy_skilltalk_friend.txt/19",
-        "message/data/event/timer/udb24_169_olga_timerev.txt/0"
+        "message/data/event/timer/udb24_169_olga_timerev.txt/0",
+        "db/72/50/1"
       ],
       "question": "Olga的新专名译法，已对照实际日文。",
       "review_batch": "0011",
@@ -10668,6 +11005,26 @@
           "translation": "Olga似乎有话想说。\r\n过会儿去和她谈谈吧。",
           "translation_state": "llm_translated",
           "source_sha256": "9cf2dc3eca548f4f571429ae2b1ae47ed4f815ebed6524fdadbdc4e48f41c938"
+        },
+        {
+          "id": "db/72/50/1",
+          "source": " When their quest ended, <PLAYER> \r\n and Olga went on a journey to find the Golden City.\r\n But the Golden City was at the very end of the\r\n East, which was also the beginning of the West,\r\n where the calamity of light had begun.\r\n\r\n\"How? That the shinin' city be only a memory...\"\r\n\r\n The Golden City, El Dorado, was now reduced\r\n to a mountain of white rubble by the Shine Raid.\r\n\r\n\"Ain't this jus' my luck? Almost makes ya\r\n wanna hate the world jus' for bein' round.\"\r\n<PAGE>\r\n Olga looked older in her disappointment. But\r\n even so, she gripped a large piece of the rubble\r\n and stood back up with youthful energy.\r\n\r\n\"Even so, I made a vow to that ol' coot that I\r\n would be the best merchant in the world. If the\r\n Golden City's gone, we jus' have to build it over.\"\r\n\r\n She tossed the rubble aside\r\n and laughed raucously at the scene before her.\r\n\r\n\"But aren't you a little old to be starting now?\"\r\n Memoria asked.\r\n<PAGE>\r\n\"Jus' who do ya think I am, lil' lady? Young\r\n <PLAYER> is gonna build a whole country!\r\n An' I've lived much longer than they have,\r\n ya don't think I can build a glittery city or two?\"\r\n\r\n\"She's right. For Olga, it'll be no trouble at all!\"\r\n\r\n <PLAYER> made a new promise with Olga that\r\n by the dawn of <PLAYER>'s rebuilt country, this\r\n old pioneer would have rebuilt the golden city,\r\n and they would support each other forever.\r\n\r\n They owed her that much for all she has done.\r\n<PAGE>\r\n\"As a token of me thanks, I'll even make a\r\n headstone for ya. A fab one, o' course!\"\r\n\r\n Ten years later...\r\n\r\n Olga succeeded in rebuilding El Dorado. And, as\r\n promised, she also completed two gorgeous\r\n headstones standing several meters tall.\r\n\r\n\"Now, 'bout time I got movin' on me own grave.\"\r\n\r\n Olga murmured to herself as she looked\r\n over <PLAYER>'s and the old man's graves.",
+          "japanese": {
+            "text": "使命の旅が終わり……<PLAYER>とオールは\r\n約束通り黄金郷を探し当てる。\r\n\r\nしかし黄金郷があったのは東の最果てであると同時に\r\n光の災厄が放たれた西のはじまりの地でもあった。\r\n\r\n「なんてこった、黄金郷が夢の跡になってるとは……」\r\n\r\n黄金郷エルドラドはシャインレイドによって、\r\nすでに荒廃したガレキの山と化していた。\r\n\r\n「皮肉な話だ……まさに人生そのものだ。\r\n世界が丸いことをこれほど恨んだ日はないよ」\r\n<PAGE>\r\n気のせいか、オールが老け込んだように見えた。\r\nそれでも彼女は大地から巨大なガレキをつかむと、\r\n年齢にそぐわない頑丈な足腰で立ち上がった。\r\n\r\n「でもあたしは愛するじいさんと約束したんだ。\r\n世界一の商人になるってね。\r\n黄金郷が消えたのなら、また作ればいいだけのことさ」\r\n\r\n彼女はそう言い放ってガレキの欠片を放り投げると、\r\n景気よく「がっはっは！」と笑った。\r\n\r\n「でもさぁ、その年ではじめて間に合うの？」\r\n\r\nメモリアがオールにたずねる。\r\n<PAGE>\r\n「お嬢ちゃん、あたしを誰だと思ってるんだい？\r\n若い<PLAYER>が国を再建しようとしてるんだ。\r\nあたしほどの人生経験者が黄金郷のひとつやふたつ、\r\n作れなくてどうするってんだ？」\r\n\r\n「そうだね、オールなら楽勝だよね」\r\n\r\n<PLAYER>は、オールと新しい約束を交わす。\r\n\r\n<PLAYER>が新しい国を再建した暁には、\r\nこの老いた開拓者が黄金郷を再建できるよう\r\n永久支援していくことを。\r\n\r\n仲間になってくれた彼女には、それだけの恩がある。\r\n<PAGE>\r\n「ならお礼に、あんたにも墓をつくってやるよ。\r\nもちろんゴージャスな墓をね！」\r\n\r\nそれから１０年後……、\r\n\r\nオールはエルドラドの再建に成功する。\r\nそして約束どおり、彼女は全長数十メートルを超える\r\n２つのゴージャスな墓を完成させていた。\r\n\r\n「さて、そろそろ自分の墓をつくっても良い頃かね」\r\n\r\nオールはじいちゃんと<PLAYER>の墓を満足げ\r\nに見つめながら、そんなことをつぶやいたのだった。",
+            "availability": "verified_display",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473",
+            "alignment": {
+              "method": "database_storage_id_and_matching_table_layout",
+              "semantic_review": "pending"
+            },
+            "internal_hint": "プロローグ_ED_エピローグ / [エピローグ] オール / 表示項目",
+            "hint_origin": "English build database.project internal labels",
+            "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+          },
+          "translation": "使命完成后，<PLAYER>与Olga\r\n踏上了寻找黄金乡的旅程。\r\n但黄金乡位于最东方的尽头，\r\n同时也正是光之灾厄降临的西方起点。\r\n\r\n“怎么会……那金灿灿的城市，竟只剩一场旧梦……”\r\n\r\n黄金乡El Dorado，\r\n早已被光之灾厄化为苍白的瓦砾之山。\r\n\r\n“我这运气可真够‘好’的！\r\n简直让人连世界是圆的这件事，都想恨上一回。”\r\n<PAGE>\r\n失望之下，Olga似乎苍老了几分。\r\n但即便如此，她仍抓起一大块瓦砾，\r\n以不输年轻人的力气重新站起。\r\n\r\n“可我答应过那个老头子，要成为世界第一商人。\r\n既然黄金乡没了，就再建一个好了！”\r\n\r\n她将瓦砾扔到一旁，\r\n望着眼前的景象，放声大笑。\r\n\r\n“不过，你这把年纪才开始，不会太晚了吗？”\r\nMemoria问道。\r\n<PAGE>\r\n“小丫头，你以为我是谁？\r\n年纪轻轻的<PLAYER>都要重建一个国家了！\r\n我活了这么多年，难道还建不起一两座黄金乡？”\r\n\r\n“没错。对Olga来说，肯定不在话下！”\r\n\r\n<PLAYER>与Olga立下新的约定：\r\n待<PLAYER>的国家重建之时，\r\n这位年迈的开拓者也要重建黄金乡，\r\n此后双方将永远互相扶持。\r\n\r\n她帮了自己那么多，这份恩情，值得如此回报。\r\n<PAGE>\r\n“作为谢礼，我连你的墓碑也一块儿造了吧。\r\n当然，肯定豪华得不得了！”\r\n\r\n十年后……\r\n\r\nOlga成功重建了El Dorado。\r\n也履行了诺言，造好了两座高达数十米的豪华墓碑。\r\n\r\n“好了，也该着手造我自己的墓了。”\r\n\r\nOlga望着<PLAYER>与老人的坟墓，\r\n如此喃喃自语。",
+          "translation_state": "llm_translated",
+          "source_sha256": "d37b453117de4fca728735b69cc846265881610b8606e846715f2956f92f54d5"
         }
       ]
     },
@@ -10890,7 +11247,9 @@
         "message/data/event/mes/main/ms005c01p02/ms005c01p02-04.txt/0",
         "message/data/event/mes/main/ms006c03/ms006c03-01.txt/0",
         "message/data/event/mes/main/ms006c03/ms006c03-03.txt/0",
-        "message/data/event/mes/main/ms006c03/ms006c03-12.txt/0"
+        "message/data/event/mes/main/ms006c03/ms006c03-12.txt/0",
+        "db/72/12/1",
+        "db/72/38/1"
       ],
       "source_sha256s": {
         "db/71/93/1": "3a403066ffa4eead37191d14aac85c7e08e4176af6fccea9ceecacbe2e0bb7a1",
@@ -11160,6 +11519,46 @@
           "translation": " 他们听见了\\c[51]Creatoire\\c[0]的声音。\r\n\r\n“透过这面\\c[52]Vision Glass\\c[0]，\r\n 你可以看见被你的记忆拯救的平行世界。\r\n 虽比不上无所不在的神之视角，\r\n 却也能随时眺望它们。\r\n\r\n 重建世界需要时间，\r\n 但这一切都值得。因为这个世界\r\n 属于新的统治者\\c[50]<PLAYER>\\c[0]。\r\n\r\n 于是，他们亲手培育自己王国的\r\n 崭新旅程，就此拉开帷幕。",
           "translation_state": "llm_translated",
           "source_sha256": "c258c3fcaf787cbaff734ca7ced5bab2da176e7923be7f5489374e3ec5e30d4d"
+        },
+        {
+          "id": "db/72/12/1",
+          "source": " A familiar old man appeared before the wounded\r\n \\c[50]<PLAYER>\\c[0] and the others.\r\n\r\n It was the mysterious sage who had led\r\n \\c[50]<PLAYER>\\c[0] to this place.\r\n\r\n\"My true identity is \\c[51]Creatoire\\c[0]\r\n the Maker. Put simply, I am the one who\r\n created you.\"\r\n\r\n The old man was enveloped with light...\r\n Then it dissipated to reveal a god.\r\n<PAGE>\r\n\"Our Hero, \\c[50]<PLAYER>\\c[0].\r\n Thanks to you, \\c[51]Pluton\\c[0] has been defeated,\r\n the \\c[52]Shine Raid\\c[0] has disappeared,\r\n and peace has come to this world.\r\n\r\n Now I no longer need fear that my wonderful\r\n parallel worlds will be ruined.\"\r\n\r\n The term, \"parallel worlds\", was unfamiliar.\r\n\r\n\"Ah. In that case, allow me to show\r\n you something.\"\r\n<PAGE>\r\n \\c[51]Creatoire\\c[0] reached out his hands\r\n and a universe-like space appeared.\r\n\r\n\"This is the dimension you exist in.\r\n You could call this a gods-eye view of it.\"\r\n\r\n In the universe-like space,\r\n countless worlds began to appear.\r\n And then, as if through a microscope,\r\n they peered into a world to see...\r\n\r\n A view that seemed incredibly like\r\n the adventures they had experienced.\r\n<PAGE>\r\n\"These are all parallel universes.\r\n I exercise influence bit by bit\r\n to create countless parallel worlds.\r\n Behold! For beauty such as these are\r\n surely the pinnacle of artistry!\"\r\n\r\n \\c[50]<PLAYER>\\c[0] did as was told and\r\n peered down into the different worlds.\r\n\r\n While in each the arrangement of the land\r\n and towns differed, there was always a\r\n King \\c[51]Konrath\\c[0], and a person like\r\n \\c[50]<PLAYER>\\c[0].\r\n<PAGE>\r\n Not only that, but the people and friends\r\n they'd met along their journeys could also\r\n be seen in every world.\r\n\r\n\"\\c[51]Pluton\\c[0] was banished from heaven\r\n as punishment for his sin, and in revenge\r\n he tried to destroy all this beauty.\r\n It is a rule in heavens that gods cannot\r\n take an active role in a world after it's\r\n created. So I couldn't do anything directly.\r\n\r\n \\c[51]Pluton\\c[0], had no problem breaking the rules.\r\n That's what led to his banishment.\r\n<PAGE>\r\n Everything after that, you already know. He sent\r\n a light monster into my beautiful, artistic worlds.\r\n Every world was affected by the \\c[52]Shine Raid\\c[0]\r\n and many were destroyed.\r\n\r\n That's why I entrusted peace in all worlds\r\n to you.\r\n\r\n You, \\c[51]Konrath\\c[0], and\r\n \\c[51]Memoria\\c[0] are all children I created\r\n to keep the worlds in control.\r\n You are golems I made.\"\r\n<PAGE>\r\n A golem created by a god?\r\n Even hearing this, \\c[50]<PLAYER>\\c[0]\r\n feel any different from other people.\r\n\r\n\"\\c[50]<PLAYER>\\c[0], have you never\r\n had the feeling you had lived a past life?\r\n ... yes, that's right.\r\n It wasn't just a feeling, it was a memory.\r\n\r\n When you died while on your travels,\r\n \\c[51]Memoria\\c[0] would call forth the\r\n memories from the \\c[50]<PLAYER>\\c[0]s\r\n before you.\"\r\n<PAGE>\r\n \\c[51]Memoria\\c[0] could only shake her\r\n head in surprise.\r\n\r\n\"Unfortunately, many times you collapsed in the\r\n middle of your mission and those worlds were\r\n destroyed by \\c[52]Shine Raid\\c[0]...\r\n\r\n But if we transferred the memories of\r\n failed \\c[50]<PLAYER>\\c[0]s to other\r\n parallel worlds, we thought...\r\n\r\n ...the chances of one of you overcoming\r\n space and time to succeed would increase.\"\r\n<PAGE>\r\n \\c[50]<PLAYER>\\c[0] felt strange, knowing\r\n that their memories had crossed over\r\n many parallel worlds.\r\n\r\n Even though it had happened to them,\r\n they didn't feel as though they could\r\n understand it.\r\n\r\n\"And now, here, you have completed\r\n your mission.\r\n Let us immediately send your memories\r\n to the \\c[50]<PLAYER>\\c[0]s in the other\r\n parallel worlds.\"\r\n<PAGE>\r\n Their own memories would save other worlds...\r\n That thought made \\c[50]<PLAYER>\\c[0] feel\r\n that all the hardship had been worth it.\r\n\r\n\"As someone who has defeated a god\r\n you more than a human or golem.\r\n You even overcame the Fallen Angel.\r\n\r\n As a reward, I'd like for you to become a\r\n god like me. What do you think?\"\r\n\r\n However, \\c[50]<PLAYER>\\c[0]\r\n shook their head.\r\n<PAGE>\r\n \\c[50]<PLAYER>\\c[0] had somewhere to go\r\n to already. The home they had protected.\r\n\r\n\"Even after defeating a god you choose to\r\n be human... I see. In that case, you may\r\n return to your world.\"\r\n\r\n Brilliant light enveloped \\c[50]<PLAYER>\\c[0]\r\n and the others. Before they knew it,\r\n \\c[50]<PLAYER>\\c[0] was in front of the\r\n castle they called home holding a crystal.\r\n When \\c[50]<PLAYER>\\c[0] looked into it,\r\n they could see the whole land.\r\n<PAGE>\r\n They could hear, \\c[51]Creatoire\\c[0]'s voice.\r\n\r\n\"Look. Those are parallel worlds saved by your\r\n memories. It's not quite as good as god's eye,\r\n but use this \\c[52]Vision Glass\\c[0]\r\n to view all the worlds. Please accept it.\"\r\n\r\n Rebuilding would still take time.\r\n But there were new things to do...\r\n\r\n And so, the curtain rises on the new ruler:\r\n \\c[50]<PLAYER>\\c[0]'s quest to create\r\n a new kingdom.",
+          "japanese": {
+            "text": "満身創痍の\\c[50]<PLAYER>\\c[0]たちの前に\r\n見覚えのある老人の姿が現れた。\r\n\r\nそれは\\c[50]<PLAYER>\\c[0]たちをこの場所へ導いた\r\n謎の賢者だった。\r\n\r\n「ワシの正体は創造神\\c[51]クレイニャ\\c[0]。\r\n簡単に言えば、そなたたちの創造主じゃ」\r\n\r\nすると老人は光に包まれ、やがて……\r\n威光を放つ神の姿へと形を変えた。\r\n\r\n\r\n\r\n<PAGE>\r\n「勇者\\c[50]<PLAYER>\\c[0]よ、\r\nそなたのおかげで冥王は滅び\r\n\\c[52]シャインレイド\\c[0]も消滅し、\r\n世界に誠の平和が訪れた。\r\n\r\nこれでワシの芸術的な並行世界が\r\n破壊される心配もなくなったわけじゃ」\r\n\r\n並行世界……聞きなれない言葉だ。\r\n\r\n「うむ、\r\nならばそなたにこれを見せてやろう」\r\n\r\n\r\n<PAGE>\r\n\\c[51]クレイニャ\\c[0]が腕を伸ばして手をかざすと、\r\n何もない場所に宇宙のような空間が広がった。\r\n\r\n「これはそなたたちが存在する次元空間……\r\nいわゆる神の視点というヤツじゃ」\r\n\r\n宇宙のようなその空間には\r\n何万もの無数の世界が存在していた。\r\n\r\nさらに顕微鏡をのぞき込むように\r\n世界の中をのぞいてみると……、\r\n\r\nそこにはこれまで冒険してきた舞台と\r\n非常に近しい光景が広がっていた。\r\n<PAGE>\r\n「これらはすべて同時に存在する並行世界じゃ。\r\n\r\nワシは自らの世界に少しずつ影響を与え、\r\n無数の並行世界を生みだしているのじゃ。\r\n\r\n見よ！　これこそまさに美の極み、\r\n最高の芸術作品と言えよう」\r\n\r\n\\c[50]<PLAYER>\\c[0]は促されるままに\r\nさまざまな並行世界をのぞき込んだ。\r\n\r\nすると地形や町の配置に違いがあるにせよ……、\r\nどの世界にも国王\\c[51]コンラス\\c[0]が治める王国があり、\r\nそこには\\c[50]<PLAYER>\\c[0]の姿もあった。\r\n<PAGE>\r\nさらにこれまで出会った人々や仲間たちが\r\nどの世界にも存在しているのが垣間見えた。\r\n\r\n「ところが冥王\\c[51]プルートン\\c[0]は、重い罪で\r\nワシに天界から追放されたことを逆恨みし、\r\nこの芸術品を破壊しようと目論みおった。\r\n\r\n一度創造した世界は神が直接手を触れては\r\nならないという天界のルールによって、\r\nワシが手出しできないことをいいことにな。\r\n\r\nあやつは昔から天界のルールを無視し続けておった。\r\nだから追放されたのだ。\r\n\r\n<PAGE>\r\nそこから先は知ってのとおりじゃ。\r\n\r\nあやつはワシの芸術的世界に\r\n光の化け物を送り込んできたのじゃ。\r\n\r\nあの\\c[52]シャインレイド\\c[0]によって\r\nすべての並行世界が影響を受け滅びようとしていた。\r\n\r\nだからワシは、\r\nそなたに世界の平和を託したのじゃ。\r\n\r\n何故ならば、そなたや\\c[51]コンラス\\c[0]、そして\\c[51]メモリア\\c[0]は\r\n世界を管理するために生まれた神のおとし子……、\r\nワシが創造した最高傑作のゴーレムだからじゃ」\r\n<PAGE>\r\n自分が……神の作りしゴーレム？\r\nそれでも\\c[50]<PLAYER>\\c[0]は自分が他の人たちと\r\nどこが違うのか、まるで想像がつかなかった。\r\n\r\n「\\c[50]<PLAYER>\\c[0]よ、何度も自分がよみがえる……、\r\nそんな感覚に陥ったことはないか？\r\n\r\n……ああ、そうじゃ。\r\nそれは錯覚ではない。事実じゃ。\r\n\r\n旅の途中でそなたが死んでしまったとき、\r\n\\c[51]メモリア\\c[0]にはそれまでの\\c[50]<PLAYER>\\c[0]の記憶を\r\n持ち帰らせていたのじゃ。」\r\n<PAGE>\r\n\\c[51]メモリア\\c[0]の方を振り向くと、目を丸くして\r\n心底驚いた様子で首を横に振っている。\r\n\r\n「残念ながら、そなたが使命半ばで倒れた世界は\r\n\\c[52]シャインレイド\\c[0]に滅ぼされてしまったが……、\r\n\r\n他の並行世界にいる\\c[50]<PLAYER>\\c[0]へ\r\n亡きそなたが経験した記憶を移植すれば、\r\n\r\n時空を超えて、使命を果たせる可能性が\r\n格段に高まると思ったからじゃ」\r\n<PAGE>\r\n\\c[50]<PLAYER>\\c[0]は自分の記憶だけが\r\n幾重もの並行世界を旅していることを知って\r\n不思議な気持ちになった。\r\n\r\n自分のことでありながら、\r\nとても頭では理解できそうもなかった。\r\n\r\n「そしてそなたはついにこの使命を全うしたのだ。\r\n\r\nそなたのこの記憶はすぐに\r\n他の並行世界にいる\\c[50]<PLAYER>\\c[0]に伝えよう。\r\n\r\nさすれば残りの並行世界も\r\n同じように救われることだろう」\r\n<PAGE>\r\n自分の記憶が他の世界も救う……。\r\n\\c[50]<PLAYER>\\c[0]はそう考えると、\r\nこれまでの苦労がさらに報われる気がした。\r\n\r\n「神を倒したそなたは、\r\nもはや人とならぶゴーレムではない。\r\nなにせ堕天の神を倒したのだからな。\r\n\r\n褒美としてそなたにはワシと共に天界にのぼり、\r\n神として生きる道を与えようと思うが如何かな？」\r\n\r\nしかし\\c[50]<PLAYER>\\c[0]は首を横に振った。\r\n<PAGE>\r\n\\c[50]<PLAYER>\\c[0]には帰る場所があった。\r\nそれはやっと守れた自分の故郷だった。\r\n\r\n「神を倒しても人の道を進むか……\r\nわかった、ならばそなたの世界へ戻るがよい」\r\n\r\nまばゆいばかりの光が\\c[50]<PLAYER>\\c[0]たちを包む。\r\n\r\nそして視界が戻ってきたとき……、\r\n\\c[50]<PLAYER>\\c[0]は故郷の城の前に立っていた。\r\nその手には大きな水晶が握らされていた。\r\n\r\n\\c[50]<PLAYER>\\c[0]が水晶をのぞいてみると、\r\nその中には天空から見下ろす大地が広がっていた。\r\n<PAGE>\r\n頭上から\\c[51]クレイニャ\\c[0]の声が聞こえる。\r\n\r\n「そこに見えるのは、\r\nそなたの記憶が救った他の並行世界じゃ。\r\n\r\n次元を見渡せる神の視点とまではいかないが、\r\n『\\c[52]伝書ガラス\\c[0]』を通して世界中を眺められる。\r\n\r\n褒美じゃ、その水晶を受け取るがよい」\r\n\r\nこの世界の復興にはまだまだ時間がかかる。\r\nでも自分の世界ならやりがいもあるだろう。\r\n\r\nこれから……、\r\n\\c[50]<PLAYER>\\c[0]王の新しい国づくりが幕を開ける。",
+            "availability": "verified_display",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473",
+            "alignment": {
+              "method": "database_storage_id_and_matching_table_layout",
+              "semantic_review": "pending"
+            },
+            "internal_hint": "プロローグ_ED_エピローグ / [エンド] 冥王プルートン撃破 / 表示項目",
+            "hint_origin": "English build database.project internal labels",
+            "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+          },
+          "translation": "伤痕累累的\\c[50]<PLAYER>\\c[0]一行面前，\r\n出现了一位似曾相识的老人。\r\n\r\n他正是将\\c[50]<PLAYER>\\c[0]\r\n引导到此地的神秘贤者。\r\n\r\n“我的真实身份，是创世神\\c[51]Creatoire\\c[0]。\r\n说得简单些，我就是你们的创造者。”\r\n\r\n老人被光芒笼罩……\r\n待光芒散去，显现出了一位神明的身姿。\r\n<PAGE>\r\n“勇者\\c[50]<PLAYER>\\c[0]啊。\r\n多亏了你，\\c[51]Pluton\\c[0]已被击败，\r\n\\c[52]光之灾厄\\c[0]也已消失，\r\n和平终于降临这个世界。\r\n\r\n如今，我再也不必担心，\r\n那些美妙的平行世界会遭到毁灭了。”\r\n\r\n平行世界……这是一个陌生的词。\r\n\r\n“嗯，既然如此，\r\n就让我给你看一样东西吧。”\r\n<PAGE>\r\n\\c[51]Creatoire\\c[0]伸出双手，\r\n一片宛如宇宙的空间随之展开。\r\n\r\n“这就是你们所处的次元空间。\r\n也可以说，这是神明眼中的世界。”\r\n\r\n在那宇宙般的空间中，\r\n无数个世界逐渐浮现。\r\n随后，如同透过显微镜一般，\r\n他们向其中一个世界望去……\r\n\r\n呈现在眼前的景象，\r\n与他们经历过的冒险竟是如此相似。\r\n<PAGE>\r\n“这些都是同时存在的平行世界。\r\n我一点点地施加影响，\r\n创造出了无数个平行世界。\r\n看吧！如此美景，\r\n堪称艺术的极致！”\r\n\r\n\\c[50]<PLAYER>\\c[0]依言\r\n向各个不同的世界望去。\r\n\r\n尽管地形与城镇的位置各不相同，\r\n每一个世界里，都有\\c[51]Konrath\\c[0]国王，\r\n也都有另一个\\c[50]<PLAYER>\\c[0]。\r\n<PAGE>\r\n不仅如此，旅途中遇到的人们与伙伴，\r\n也都存在于每一个世界中。\r\n\r\n“\\c[51]Pluton\\c[0]因犯下重罪而被逐出天界。\r\n他心怀怨恨，企图摧毁这一切美景。\r\n天界有一条规则：世界一旦被创造出来，\r\n神明便不得再直接干预。\r\n所以，我无法亲自出手。\r\n\r\n而\\c[51]Pluton\\c[0]从来不把规则放在眼里。\r\n他也正是因此才被逐出天界。\r\n<PAGE>\r\n之后发生的事，你已经知道了。\r\n他把光之怪物送进了我这些美丽的世界。\r\n\\c[52]光之灾厄\\c[0]波及了所有世界，\r\n许多世界都因此毁灭。\r\n\r\n正因如此，我才将所有世界的和平\r\n托付给了你。\r\n\r\n你、\\c[51]Konrath\\c[0]，还有\\c[51]Memoria\\c[0]，\r\n都是我为了管理世界而创造的孩子。\r\n你们都是我创造的魔像。”\r\n<PAGE>\r\n自己竟是神明创造的魔像？\r\n即使听到这些，\\c[50]<PLAYER>\\c[0]\r\n仍无法想象自己与其他人究竟有何不同。\r\n\r\n“\\c[50]<PLAYER>\\c[0]啊，你是否曾有过\r\n自己经历过另一段人生的感觉？\r\n……没错。\r\n那并非错觉，而是记忆。\r\n\r\n每当你在旅途中死去，\r\n\\c[51]Memoria\\c[0]便会带回\r\n先前那些\\c[50]<PLAYER>\\c[0]的记忆。”\r\n<PAGE>\r\n\\c[51]Memoria\\c[0]惊讶得睁大了眼睛，\r\n只是一个劲地摇头。\r\n\r\n“遗憾的是，许多时候你未能完成使命，\r\n那些世界也随之被\\c[52]光之灾厄\\c[0]毁灭……\r\n\r\n但若将失败的\\c[50]<PLAYER>\\c[0]的记忆，\r\n传递给其他平行世界中的你，\r\n我们便认为……\r\n\r\n……你们跨越时空、最终完成使命的可能，\r\n就会大大增加。”\r\n<PAGE>\r\n得知自己的记忆曾跨越无数平行世界，\r\n\\c[50]<PLAYER>\\c[0]心中涌起一种奇妙的感觉。\r\n\r\n明明是发生在自己身上的事，\r\n却又令人难以理解。\r\n\r\n“而如今，你终于完成了使命。\r\n让我们立刻将你的记忆，\r\n传给其他平行世界中的\r\n\\c[50]<PLAYER>\\c[0]吧。”\r\n<PAGE>\r\n自己的记忆，能够拯救其他世界……\r\n想到这里，\\c[50]<PLAYER>\\c[0]觉得，\r\n一路以来的艰辛都变得更加值得。\r\n\r\n“能够击败神明的你，\r\n已经超越了凡人与魔像。\r\n你甚至战胜了堕天使。\r\n\r\n作为奖赏，我愿让你成为与我一样的神。\r\n你意下如何？”\r\n\r\n然而，\\c[50]<PLAYER>\\c[0]摇了摇头。\r\n<PAGE>\r\n\\c[50]<PLAYER>\\c[0]已有想要回去的地方。\r\n那就是自己终于守护住的故乡。\r\n\r\n“即便战胜神明，你仍选择作为人活下去……\r\n我明白了。那么，回到你的世界去吧。”\r\n\r\n耀眼的光芒笼罩了\\c[50]<PLAYER>\\c[0]一行。\r\n回过神时，\\c[50]<PLAYER>\\c[0]\r\n已经站在故乡的城堡前，手中握着一块水晶。\r\n\\c[50]<PLAYER>\\c[0]向水晶中望去，\r\n看见了俯瞰大地的景象。\r\n<PAGE>\r\n\\c[51]Creatoire\\c[0]的声音传来。\r\n\r\n“看吧。那是因你的记忆而获救的平行世界。\r\n虽然还比不上神明的视野，\r\n但借助这块\\c[52]传讯水晶\\c[0]，\r\n你便能纵览各个世界。请收下它吧。”\r\n\r\n重建这个世界，还需要很长的时间。\r\n不过，也有了新的目标……\r\n\r\n于是，新王\\c[50]<PLAYER>\\c[0]\r\n建设全新王国的征途，就此拉开帷幕。",
+          "translation_state": "llm_translated",
+          "source_sha256": "679e5c9de6219668298ba6c9d894d71f6b2d5454667239c9a6cc0fae884c7a73"
+        },
+        {
+          "id": "db/72/38/1",
+          "source": " Here was the end of the journey east, the\r\n source of the Shine Raid's destructive force.\r\n\r\n\"<PLAYER>, could it be...\"\r\n\r\n Upon seeing the figure, Memoria's usually\r\n cheerful voice was small and shaky.\r\n\r\n They knew what she wanted to say. If they had\r\n gone once around the whole world chased by\r\n the light, then this world was. <PLAYER> was\r\n certain. Here, today, their journey would come\r\n to an end.\r\n<PAGE>\r\n After leaving the castle they'd been born and\r\n raised in, they'd walked so far. They'd overcome\r\n many dangers. But it wasn't all hardship as they\r\n also knew the joy of traveling with friends. Now,\r\n from the fallen angel, they'd heard the truth.\r\n\r\n They didn't have the means to attack the giant\r\n deep within the light. But that didn't mean they\r\n had to go willingly into the light. Nor would they\r\n go east to escape into the empty world.\r\n\r\n <PLAYER> faced the light head on, weapon\r\n at the ready.\r\n<PAGE>\r\n\r\n\r\n\r\n\r\n From beyond the wall of white light\r\n they caught a glimpse of a giant, alien face.\r\n\r\n\r\n\r\n\r\n<PAGE>\r\n That was the Zeukrees Alma had spoken of.\r\n The barren view of their homeland burned into\r\n their minds. It was the enemy before them that\r\n had done that.\r\n\r\n They had to defeat him, no matter what.\r\n\r\n <PLAYER> wasn't nervous. This wasn't because\r\n of their ego as a hero, but anyone who'd\r\n overcome the trials they'd faced would feel just\r\n the same. The path they'd come down would be\r\n their foundation. That's why they could take on\r\n the greatest enemy they'd ever faced now.\r\n<PAGE>\r\n The servant of Pluton, who held as much power\r\n as Creatoire, was sure to be strong. It was only\r\n logical and based on the face they'd caught a\r\n glimpse of, at full height it must be tall enough\r\n to pierce the heavens. It wasn't an enemy for a\r\n mere human to take on.\r\n\r\n\"<PLAYER>... I believe in you!\r\n Please, you have to win!\"\r\n\r\n They nodded in response to Memoria's\r\n support. And then, <PLAYER> took off running\r\n to face the destroyer of their the world.",
+          "japanese": {
+            "text": "ここは東に向かう旅の終着点であり、\r\nシャインレイドが放たれたすべての始まりの地だ。\r\n\r\n「……<PLAYER>、もしかして……」\r\n\r\n<PLAYER>同様に眼前の光景を目にした\r\nメモリアが、いつもは元気な声を弱々しく震わせた。\r\n\r\n彼女の言いたいことはわかる。\r\n光に追われ世界を一周したということは、この世界は……。\r\n\r\n<PLAYER>は確信した。\r\n今日、ここで、自分の旅は終わる。\r\n<PAGE>\r\n生まれ育った城を旅立ってからこれまで、\r\n気が遠くなるほど長い距離を歩いてきた。\r\n\r\n色々なことがあった。幾度も命の危機を乗り越えた。\r\n苦しみだけじゃない、仲間と歩む喜びもあった。\r\n\r\nそして宿敵だと思っていた堕天使から、真実を聞いた。\r\n\r\n光の奥の巨人を攻撃する術は、遂に得られないままだった。\r\nそれでもただ光に飲まれるわけにはいかない。\r\nむろん東に進み、何もない世界を逃げ続けるわけにも。\r\n\r\nだから<PLAYER>は光に向き直り、武器を構える。\r\n<PAGE>\r\n\r\n\r\n\r\n\r\n\r\n\r\nそして立ち向かった白い光の壁の向こうに、\r\n無機質な、巨大な顔を垣間見た。\r\n\r\n\r\n\r\n\r\n\r\n<PAGE>\r\nあれが、アルマの言っていた巨人シュクリス。\r\n背後に広がる、荒れ果てた故郷が頭から離れない。\r\nその光景を作り出したのは目の前の敵だ。\r\n\r\nなんとしても倒さねばならない。\r\n思わず武器を持つ手に力が入る。\r\n\r\nしかし<PLAYER>は震えていない。\r\n勇者だからと慢心するつもりはないが、\r\nこれほど長き道のりを旅し、戦い抜いた者はそういまい。\r\n\r\n歩んだ道が、この身の支えとなる。\r\nだから過去最高に強大な敵を前にしても、戦える。\r\n<PAGE>\r\n世界の創造神と同程度の力を持つ冥王のしもべ。\r\nさぞ強敵だろう。だからなんだ。\r\n\r\n一瞬見えた顔の大きさから考えて、\r\nあれの全容は天を衝くほどの巨人なのだろう。\r\n人の身で挑む相手ではない。だからなんだ。\r\n\r\n「<PLAYER>……頑張って！\r\n　お願い、勝って！」\r\n\r\nメモリアの声援に、首肯を返す。\r\nそして<PLAYER>は、\r\n世界を滅ぼし尽くした敵に向かって駆け出した。",
+            "availability": "verified_display",
+            "origin": "Steam Japanese content depot 409003",
+            "version": "Steam build 1527978; JP manifest 6676882424485310473",
+            "alignment": {
+              "method": "database_storage_id_and_matching_table_layout",
+              "semantic_review": "pending"
+            },
+            "internal_hint": "プロローグ_ED_エピローグ / [エピローグ] 世界の果て（10000km アルマ登場しない・ / 表示項目",
+            "hint_origin": "English build database.project internal labels",
+            "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
+          },
+          "translation": "这里既是东行旅途的终点，\r\n也是光之灾厄释放毁灭之力的起点。\r\n\r\n“<PLAYER>，难道说……”\r\n\r\n看见眼前的景象，\r\n平日里开朗的Memoria声音变得微弱而颤抖。\r\n\r\n主角明白她想说什么。\r\n若是在光芒追赶下绕了世界一周，\r\n那这个世界岂不是……\r\n<PLAYER>确信，今天，就在这里，旅途将迎来终结。\r\n<PAGE>\r\n离开自幼长大的城堡后，已经走了那么远。\r\n经历过无数险境，也不全然只有艰辛，\r\n因为身旁还有与伙伴同行的喜悦。\r\n如今，更从堕天使口中得知了真相。\r\n\r\n尽管始终未能找到攻击光芒深处巨人的办法，\r\n也绝不能就这样任由光芒将自己吞没。\r\n更不能继续向东，逃入空无一物的世界。\r\n\r\n<PLAYER>正面迎向光芒，举起了武器。\r\n<PAGE>\r\n\r\n在白色光壁的另一侧，\r\n他们瞥见了一张巨大而冰冷的异形面孔。\r\n\r\n<PAGE>\r\n那正是Alma提起的巨人Zeukrees。\r\n故乡荒芜的景象，深深烙在脑海中。\r\n而造成这一切的，正是眼前的敌人。\r\n\r\n无论如何，都必须将它击败。\r\n\r\n<PLAYER>并不紧张。\r\n这并非身为勇者的傲慢，\r\n而是任何走过这般艰险旅途的人，都会拥有的信念。\r\n走过的道路，正是支撑自己的力量。\r\n所以，如今也能迎战有史以来最强大的敌人。\r\n<PAGE>\r\n身为与Creatoire同样强大的Pluton的仆从，\r\n这巨人必定是个强敌。\r\n从刚才瞥见的面孔大小判断，\r\n它的完整身躯恐怕足以直刺苍穹。\r\n那绝非一介凡人能够挑战的敌手。\r\n\r\n“<PLAYER>……我相信你！\r\n拜托了，一定要赢！”\r\n\r\n主角向Memoria点头回应。\r\n随后，<PLAYER>迈步奔向\r\n那个毁灭了整个世界的敌人。",
+          "translation_state": "llm_translated",
+          "source_sha256": "53bc6aa1af46457836fd0943f687b719d90f34a329364fcc5d47f2777441b217"
         }
       ]
     },

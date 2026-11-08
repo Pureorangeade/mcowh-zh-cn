@@ -1,9 +1,9 @@
 {
   "version": "working English/Japanese/Chinese editor",
   "browser": "Microsoft Edge headless, isolated profile",
-  "entries": 12204,
-  "llm_entries": 12084,
-  "japanese_entries": 11951,
+  "entries": 12238,
+  "llm_entries": 12118,
+  "japanese_entries": 11985,
   "checks": [
     "page loads",
     "English and Japanese read-only",
@@ -26,12 +26,14 @@
     "abbreviation locked",
     "invalid controls blocked",
     "unfinished draft retained after reload",
+    "new prologue English/Japanese/Chinese body and story category visible",
     "source-version difference flagged with its question and retained English meaning",
     "menu action separator corruption rejected by visible editor and export",
     "pending terminology overrides completed-model status",
     "pending question evidence shown in editor"
   ],
   "screenshot": "editor.png",
-  "llm_draft_entries": 12084,
-  "pending_check_fixture": "isolated in-page fixture; no real unanswered questions"
+  "llm_draft_entries": 12118,
+  "pending_check_fixture": "isolated in-page fixture; no real unanswered questions",
+  "patch_version": "0.3.4-story-compat"
 }

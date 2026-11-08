@@ -102,7 +102,7 @@ def database_display(table, column, field):
     if table == 71:
         return column == 1
     if table == 72:
-        return field in {'タイトル', '説明（エクストラ用）'}
+        return field in {'タイトル', '説明（エクストラ用）', '表示項目'}
     return bool(re.search('名前|名$|説明|メッセ|ﾒｯｾ|文章|二つ名|パーツ名|コメント|死因|強化名', field)) and not re.search('ファイル|BGM|コード|フラグ|アイコン|メモ', field)
 
 

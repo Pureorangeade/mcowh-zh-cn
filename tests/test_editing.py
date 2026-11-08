@@ -18,7 +18,7 @@ from PIL import Image
 
 
 class EditingTests(unittest.TestCase):
-    def test_only_requested_panel_and_menu_syntax_differs_from_frozen_030(self):
+    def test_only_authorized_panel_menu_story_and_book_changes_differ_from_frozen_030(self):
         import zipfile
         from editing import load_edits
         with zipfile.ZipFile(ROOT/'dist/MCOWH-zh-CN-0.3.0-llm-review-source.zip') as z:
@@ -31,8 +31,9 @@ class EditingTests(unittest.TestCase):
         self.assertTrue(set(fields['terms']).isdisjoint({'HP','ST','EN','Lv','Exp','WT'}))
         changed={r['id'] for r in self.records if current.get(r['id'],{}).get('translation',r['translation'])!=before.get(r['id'],r['translation'])}
         menus=json.loads((ROOT/'translations/menu-command-fields.json').read_text('utf8'))['fields']
-        self.assertEqual(changed,set(fields['fields'])|set(menus))
-        self.assertEqual(len(changed),41)
+        story=json.loads((ROOT/'translations/llm-batches/0069-text.json').read_text('utf8'))
+        self.assertEqual(changed,set(fields['fields'])|set(menus)|set(story))
+        self.assertEqual(len(changed),82)
 
     @classmethod
     def setUpClass(cls):
@@ -65,7 +66,7 @@ class EditingTests(unittest.TestCase):
             self.assertEqual(apply_policy([row])[0],row)
 
     def test_editor_catalogue_is_complete_unique_and_source_bound(self):
-        self.assertEqual(len(self.records),12204)
+        self.assertEqual(len(self.records),12238)
         self.assertEqual(len(self.by_id),len(self.records))
         for r in self.records:
             self.assertEqual(r['source_sha256'],digest(r['source']))

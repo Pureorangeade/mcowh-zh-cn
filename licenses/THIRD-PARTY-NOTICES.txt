@@ -1,3 +1,5 @@
 Chinese glyphs: Noto Sans SC. Copyright 2014-2021 Adobe, Reserved Font Name Source. SIL OFL 1.1. Only generated Chinese glyph data is added.
 Runtime: CPython 3.12, python-lz4 4.3.2 and its LZ4 C library, Tcl/Tk 8.6. See the accompanying license files.
 The game and its original assets belong to their respective rights holders. This technical demo reconstructs modified resources from the player's original files.
+
+Development common-event reader: tools/common_events.py adapts the WOLF event/command format reader from wolftrans (elizagamedev and contributors), Mozilla Public License 2.0. See wolftrans-MPL-2.0.txt. Source for this file is included in the source ZIP and at https://github.com/Pureorangeade/mcowh-zh-cn/blob/main/tools/common_events.py . Upstream: https://github.com/elizagamedev/wolftrans . The player installer does not import this development-only reader.

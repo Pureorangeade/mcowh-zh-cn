@@ -1,0 +1,49 @@
+{
+  "schema": 1,
+  "batch": "0069",
+  "confirmed_in_chat": true,
+  "decisions": [
+    {
+      "topic": "db/72/32/1:重聚",
+      "decision": "按日文：巡视重建后的世界，与旧友重聚"
+    },
+    {
+      "topic": "Vision Glass",
+      "decision": "采用传讯水晶"
+    },
+    {
+      "topic": "The Book of the Unrivaled / Unrivalled",
+      "decision": "统一采用绝伦之书；同步已有7段对话"
+    },
+    {
+      "topic": "db/72/46/1:Ask Dad / チチキトク",
+      "decision": "按日文采用父亲病危"
+    },
+    {
+      "topic": "db/72/47/1:Aerdou",
+      "decision": "按日文采用数十年未亡、诅咒终结于临终"
+    },
+    {
+      "topic": "db/72/51/1:Alma身世",
+      "decision": "按日文采用天界没有父母兄弟"
+    },
+    {
+      "topic": "db/72/57/1:占术研究目标",
+      "decision": "按日文采用旅途开始时受托的目标"
+    },
+    {
+      "topic": "db/72/36/1:老人台词",
+      "decision": "按日文采用经历不能就此沉沦于永恒之梦"
+    },
+    {
+      "topic": "db/72/62/1:幻兽猎人",
+      "decision": "按日文采用遗迹森林，蝎尾狮格挡反击"
+    },
+    {
+      "topic": "db/72/50/1:墓碑高度",
+      "decision": "按日文采用数十米"
+    }
+  ],
+  "personal_names": "保留英文",
+  "game_testing_owner": "user"
+}

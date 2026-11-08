@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "checked_date": "2026-11-07",
+  "checked_date": "2026-11-08",
   "usable": true,
   "origin": "Steam Japanese content depot 409003",
   "version": "Steam build 1527978; JP manifest 6676882424485310473",
@@ -46,9 +46,9 @@
       "Japanese_utf8": 72
     }
   },
-  "aligned_entries": 11951,
+  "aligned_entries": 11985,
   "by_kind": {
-    "database": 5479,
+    "database": 5513,
     "message": 5661,
     "choice": 650,
     "button": 118,

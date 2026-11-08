@@ -2,9 +2,9 @@
   "schema": 1,
   "method": "current_online_chat_llm",
   "separate_api_called": false,
-  "total_entries": 12204,
+  "total_entries": 12238,
   "counts": {
-    "llm_translated": 12084,
+    "llm_translated": 12118,
     "retained_original": 7,
     "retained_english": 50,
     "retained_command": 63
@@ -39,7 +39,7 @@
     "0027": 141,
     "0028": 132,
     "0029": 150,
-    "0030": 100,
+    "0030": 93,
     "0031": 235,
     "0032": 104,
     "0033": 125,
@@ -76,11 +76,12 @@
     "0064": 388,
     "0065": 12,
     "0067": 29,
-    "0068": 12
+    "0068": 12,
+    "0069": 41
   },
   "unresolved_questions": [],
   "final_review_issue_count": 22,
-  "final_review_entry_count": 483,
+  "final_review_entry_count": 498,
   "deferred_final_issues": [
     {
       "id": "name-zeukrees",
@@ -114,7 +115,9 @@
         "message/data/event/skill/udb1_99_fairy_skilltalk_sp_wepon.txt/9",
         "message/data/event/skill/udb1_99_fairy_skilltalk_zeukrees.txt/6",
         "message/data/event/skill/udb1_99_fairy_skilltalk_zeukrees.txt/9",
-        "message/data/event/skill/udb1_99_fairy_skilltalk_zeukrees.txt/14"
+        "message/data/event/skill/udb1_99_fairy_skilltalk_zeukrees.txt/14",
+        "db/72/34/1",
+        "db/72/38/1"
       ],
       "context": "Zeukrees, the giant of light; sword made from a part of its body.",
       "question": "光之巨人 Zeukrees 的中文专名如何处理？未经确认不自行音译。",
@@ -195,7 +198,12 @@
         "message/data/event/timer/udb24_100_dimension_lord_delete_1h.txt/0",
         "message/data/event/timer/udb24_117_dimension_lord_before_3h.txt/0",
         "message/data/event/timer/udb24_80_dimension_area_start.txt/2",
-        "message/data/event/timer/udb24_97_dimension_lord_delete_3h.txt/0"
+        "message/data/event/timer/udb24_97_dimension_lord_delete_3h.txt/0",
+        "db/72/10/1",
+        "db/72/12/1",
+        "db/72/34/1",
+        "db/72/38/1",
+        "db/72/51/1"
       ],
       "context": "Wings made into Lightwing Spear; Dream Sword was created to defeat Pluton.",
       "question": "Pluton 的角色或怪物中文名如何处理？",
@@ -299,7 +307,8 @@
         "message/data/event/skill/udb1_375_baldur_skilltalk_gossip.txt/11",
         "message/data/event/skill/udb1_375_baldur_skilltalk_gossip.txt/14",
         "message/data/event/skill/udb1_99_fairy_skilltalk_friend.txt/11",
-        "message/data/event/timer/udb24_165_baldur_timerev.txt/0"
+        "message/data/event/timer/udb24_165_baldur_timerev.txt/0",
+        "db/72/46/1"
       ],
       "question": "Baldur 的中文角色名如何处理？已核对实际日文バルドフ。",
       "decision": "用户选择暂保留英文专名，标记最后终审。",
@@ -363,7 +372,9 @@
         "message/data/event/skill/udb1_373_draco_skilltalk_gossip.txt/15",
         "message/data/event/skill/udb1_373_draco_skilltalk_gossip.txt/21",
         "message/data/event/skill/udb1_99_fairy_skilltalk_friend.txt/6",
-        "message/data/event/timer/udb24_163_draco_timerev.txt/0"
+        "message/data/event/timer/udb24_163_draco_timerev.txt/0",
+        "db/72/44/1",
+        "db/72/61/1"
       ],
       "question": "Draco 的中文角色名如何处理？已核对实际日文ドラコ。",
       "decision": "用户选择暂保留英文专名，标记最后终审。",
@@ -544,7 +555,9 @@
         "message/data/event/skill/udb1_371_nami_skilltalk_gossip.txt/0",
         "message/data/event/skill/udb1_371_nami_skilltalk_gossip.txt/5",
         "message/data/event/skill/udb1_99_fairy_skilltalk_friend.txt/2",
-        "message/data/event/timer/udb24_161_nami_timerev.txt/0"
+        "message/data/event/timer/udb24_161_nami_timerev.txt/0",
+        "db/72/41/1",
+        "db/72/42/1"
       ],
       "question": "Nami的新专名译法，已对照实际日文。",
       "review_batch": "0011",
@@ -618,7 +631,8 @@
         "message/data/event/skill/udb1_372_cole_skilltalk_gossip.txt/8",
         "message/data/event/skill/udb1_372_cole_skilltalk_gossip.txt/13",
         "message/data/event/skill/udb1_99_fairy_skilltalk_friend.txt/4",
-        "message/data/event/timer/udb24_162_cole_timerev.txt/0"
+        "message/data/event/timer/udb24_162_cole_timerev.txt/0",
+        "db/72/43/1"
       ],
       "question": "Cole的新专名译法，已对照实际日文。",
       "review_batch": "0011",
@@ -672,7 +686,8 @@
         "message/data/event/skill/udb1_374_merril_skilltalk.txt/0",
         "message/data/event/skill/udb1_374_merril_skilltalk_gossip.txt/0",
         "message/data/event/skill/udb1_99_fairy_skilltalk_friend.txt/9",
-        "message/data/event/timer/udb24_164_merril_timerev.txt/0"
+        "message/data/event/timer/udb24_164_merril_timerev.txt/0",
+        "db/72/45/1"
       ],
       "question": "Merril的新专名译法，已对照实际日文。",
       "review_batch": "0011",
@@ -751,7 +766,8 @@
         "message/data/event/skill/udb1_376_albert_skilltalk_gossip.txt/1",
         "message/data/event/skill/udb1_376_albert_skilltalk_gossip.txt/10",
         "message/data/event/skill/udb1_99_fairy_skilltalk_friend.txt/13",
-        "message/data/event/timer/udb24_166_albert_timerev.txt/0"
+        "message/data/event/timer/udb24_166_albert_timerev.txt/0",
+        "db/72/47/1"
       ],
       "question": "Aerdou的新专名译法，已对照实际日文。",
       "review_batch": "0011",
@@ -904,7 +920,8 @@
         "message/data/event/skill/udb1_377_coco_muddy_skilltalk_gossip.txt/25",
         "message/data/event/skill/udb1_377_coco_muddy_skilltalk_gossip.txt/26",
         "message/data/event/skill/udb1_99_fairy_skilltalk_friend.txt/15",
-        "message/data/event/timer/udb24_167_coco_muddy_timerev.txt/0"
+        "message/data/event/timer/udb24_167_coco_muddy_timerev.txt/0",
+        "db/72/48/1"
       ],
       "question": "Coco的新专名译法，已对照实际日文。",
       "review_batch": "0011",
@@ -948,7 +965,8 @@
         "choice/data/event/object/udb22_74_cheated_altar_ev_talk.txt/3442",
         "message/data/event/skill/udb1_379_olga_skilltalk.txt/0",
         "message/data/event/skill/udb1_99_fairy_skilltalk_friend.txt/19",
-        "message/data/event/timer/udb24_169_olga_timerev.txt/0"
+        "message/data/event/timer/udb24_169_olga_timerev.txt/0",
+        "db/72/50/1"
       ],
       "question": "Olga的新专名译法，已对照实际日文。",
       "review_batch": "0011",
@@ -1153,7 +1171,9 @@
         "message/data/event/mes/main/ms005c01p02/ms005c01p02-04.txt/0",
         "message/data/event/mes/main/ms006c03/ms006c03-01.txt/0",
         "message/data/event/mes/main/ms006c03/ms006c03-03.txt/0",
-        "message/data/event/mes/main/ms006c03/ms006c03-12.txt/0"
+        "message/data/event/mes/main/ms006c03/ms006c03-12.txt/0",
+        "db/72/12/1",
+        "db/72/38/1"
       ],
       "source_sha256s": {
         "db/71/93/1": "3a403066ffa4eead37191d14aac85c7e08e4176af6fccea9ceecacbe2e0bb7a1",
@@ -1973,8 +1993,8 @@
       ]
     }
   ],
-  "japanese_display_entries": 11951,
-  "japanese_internal_hint_entries": 5482,
+  "japanese_display_entries": 11985,
+  "japanese_internal_hint_entries": 5516,
   "full_retranslation_complete": false,
   "game_files_modified": false
 }

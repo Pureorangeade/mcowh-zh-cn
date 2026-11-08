@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "patch_version": "0.3.3-menu-fix",
+  "patch_version": "0.3.4-story-compat",
   "installation_state": "installed",
   "installed_content_verified": true,
   "original_backups_verified": true,
-  "bundle_sha256": "f76effb177e0244f6523bf12bfc8287816880ca86b0f8fd178cce4b039d8daba",
+  "bundle_sha256": "16eeb6239c7bab0ad78070a6ba6e01bb1f47b1c205a6226f1dcdeba2c2a49008",
   "files": [
     {
       "path": "MC_OneWayHeroics.exe",
@@ -16,13 +16,13 @@
       "path": "D3D11/Data/archive.bin",
       "patch_target": true,
       "state": "patched",
-      "sha256": "ccd0070c504429faf032ac554935dc6e2ca7671a8adee88cf95ee9fbb92c1326"
+      "sha256": "ba58248a870d319776fb91fccc0be301eedcab16b55d2287a3753a48646d2b4a"
     },
     {
       "path": "D3D11/Data/data0000.bin",
       "patch_target": true,
       "state": "patched",
-      "sha256": "22c566cf90ce8beb2153a16bc2bb90330903109efd8474f2ca37d7c2d8500ca3"
+      "sha256": "dc57c39386f9906287119eae3a380adbd4338c229d0c0e3f65e612fe11e392df"
     },
     {
       "path": "D3D11/Data/data0100.bin",
@@ -34,13 +34,13 @@
       "path": "D3D11/Data/data0200.bin",
       "patch_target": true,
       "state": "patched",
-      "sha256": "eb6c1a81256e4988ea63f851b59c828da16ae6b58c72a69a731ad237e9410c78"
+      "sha256": "980a0e06c7b57f6091d5f956a52835564529cba3be91f5fd6bada1b1cbe05314"
     },
     {
       "path": "D3D11/Data/data0500.bin",
       "patch_target": true,
       "state": "patched",
-      "sha256": "b8a3541d5cb6298db84a01f400e01a151317b1ccc2ab0f29f2b99438017e255d"
+      "sha256": "089f5d408c4f8b54c1af3841d3e5402c6a34f5acc61c32979cb6e6e485caffbc"
     },
     {
       "path": "D3D11/Data/data1103.bin",
@@ -162,12 +162,12 @@
     {
       "name": "d3d11/data/basicdata/database.dat",
       "matches": true,
-      "sha256": "bf54eb6676d8fbb255b0bd80c02a8d9185049fae6879e58318cf50cad1f67ee4"
+      "sha256": "a07d0fef850fcff3f8ed463eba8467de80e05188987f4e8e0524c381ac123d5c"
     },
     {
       "name": "d3d11/data/event/event.pack",
       "matches": true,
-      "sha256": "727a6fdf05c1c5360c62c7c4cdb13266cd255805803296d4977884812d5882be"
+      "sha256": "7f014835afebddd85a70d59ce8a33af57dc81b42595024d41b3cfbd450b9f270"
     },
     {
       "name": "d3d11/data/uiscript/uiscript.pack",
@@ -1127,42 +1127,47 @@
     {
       "name": "d3d11/common/text/win32-skip-std-b-24.fgen.phyre",
       "matches": true,
-      "sha256": "919205f177c91544dcd3ec20699c35d958bf7c670049f62103dc0935f0efdf05"
+      "sha256": "93ab09dc842b5c99653eb686575437918d93e4c7d985436e97e75dddca3181dd"
     },
     {
       "name": "d3d11/common/text/win32-seurat-pro-m-14.fgen.phyre",
       "matches": true,
-      "sha256": "f7efdbe399de2dcd084ec71f2bb575531a6c4f19dadac1eaf0256f8097dc171b"
+      "sha256": "079e6d7fd61a971727bbd41efb8103ffc5b997b867b24dc3c44e67b52706881d"
     },
     {
       "name": "d3d11/common/text/win32-skip-std-d-16.fgen.phyre",
       "matches": true,
-      "sha256": "93c9fc2cd562beda7ef82c324a2f96fa464fbbad8d88db2b640e8b6a8fb1c9a8"
+      "sha256": "9175c5f76f0fc16e6a563dac007d183cbb98d8defbbb8f542d86e9716d6068c9"
     },
     {
       "name": "d3d11/common/text/win32-skip-std-b-18.fgen.phyre",
       "matches": true,
-      "sha256": "e0ac67c8216422173fef7c530cb2117828023039c795574c8b12a6a2b1e5ebd6"
+      "sha256": "826d4f8e0554290431e55b58081338d0959c6d2c22c06ce83da4e6a0af4430f5"
     },
     {
       "name": "d3d11/common/text/win32-seurat-pro-db-12.fgen.phyre",
       "matches": true,
-      "sha256": "6f320448c43f40319a80ce340185a1adab3182cb2ae87d378659198f00d6cdc4"
+      "sha256": "1530ff5babf37d6e0b6b3e98bcdfcfb2d7ce722d5cefd98a99236e91c516ffb0"
     },
     {
       "name": "d3d11/common/text/win32-skip-std-b-20.fgen.phyre",
       "matches": true,
-      "sha256": "1f3e2c07fa3933cab40ad169ae778fa89506a61665126f111f57e24942ff1045"
+      "sha256": "9327d18777bf88d29aae3af095205936e35236a4374c01b3ba2599d3d1cdcdc3"
     },
     {
       "name": "d3d11/common/text/win32-seurat-pro-m-20.fgen.phyre",
       "matches": true,
-      "sha256": "cc4755271e1a5ef2ae0e07ee30a15c095619b2d76270028798544fa00b39cc56"
+      "sha256": "b3e3532f1572179ac9432d35ecaef69f7f54abea26763b8c3d47bff22396080b"
     },
     {
       "name": "d3d11/common/text/win32-seurat-pro-m-16.fgen.phyre",
       "matches": true,
-      "sha256": "6b6e6d0397ea402a0b595f0b98a5887d3f46005b047a30a88fb9224ad93ce48c"
+      "sha256": "092ee1b692e11f6271bf6463ee2748239ecbdfc831ac5c40ce8a317644abc886"
+    },
+    {
+      "name": "d3d11/data/basicdata/commonevent.dat",
+      "matches": true,
+      "sha256": "5d130581d32d2db3a0126cef50632551aa82b755db05b21aab6e606dd4b152a1"
     }
   ],
   "fonts": [
