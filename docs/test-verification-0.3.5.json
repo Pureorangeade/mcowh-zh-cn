@@ -1,0 +1,11 @@
+{
+  "version": "0.3.5-trophy-fix",
+  "test_command": "python -m unittest discover -s tests -v",
+  "exit_code": 0,
+  "tests": 71,
+  "seconds": 46.447,
+  "passed": true,
+  "new_predicate_operand_cases": 3456,
+  "prior_bug_reproduced_offline": true,
+  "game_started": false
+}

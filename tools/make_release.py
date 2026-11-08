@@ -10,11 +10,11 @@ from release_config import PATCH_VERSION, RELEASE_FOLDER
 
 PLAYER_README = f"""Mystery Chronicle: One Way Heroics 简体中文补丁 {PATCH_VERSION}
 
-本版补译34段序章、结局与后日谈正文（154页），逐段对照实际日文。
-加入通关标识的旧英文职业记录兼容，以及开局旧英文死因的显示兼容。
-原菜单动作修复及19项人物属性译名继承0.3.3；187张文字图、HUD和已有字形不变。
-人名暂留英文。按用户决定统一“绝伦之书”，同步7段旧对话。
-新增字库字符只做追加，不重画原字形。实际游戏内显示仍待用户验收。
+本版只修正海盗／风来人等职业的通关标识查询。
+0.3.4仅转换了局部记录，实际标识条件仍查旧英文全局记录；本版纠正查询变量。
+三个函数的45个条件、72个变量操作数改查已转换的局部记录，不改存档。
+其余201项资源与0.3.4一致，包括全部译文、字体、文字图、序章／结尾和旧死因兼容。
+人名暂留英文；菜单动作修复及19项人物属性译名继续保留。
 
 仅支持Steam英文版build 1527978。Steam语言请设为English并等待下载完成。
 
@@ -28,7 +28,7 @@ patch.mcpatch必须与安装程序放在同一目录。
 需还原时，退出游戏，再用本安装器“还原原版”。
 重建和备份占数GB空间，请在游戏盘及系统临时目录留足空间。
 
-请重点检查已有海盗／风来人的通关标识、序章书页及开局旧死因。
+请重点复验已有海盗／风来人的通关标识。其他问题用户已反馈解决。
 无需重新通关或故意死亡，具体步骤见USER_TEST.md。
 旧死因中的未知或有歧义怪物名可能仍保留英文；原始记录不被直接编辑。
 F18—F21仍按既有决定保留，见FINAL_REVIEW.md。
@@ -40,7 +40,7 @@ F18—F21仍按既有决定保留，见FINAL_REVIEW.md。
 修改自动存浏览器草稿，完成后“导出修订”，交回JSON合入并重建补丁。
 编辑器不会直接修改游戏。详见EDITING.md。
 
-更新范围、用户决定及离线证据见RELEASE_0.3.4.md、STORY_0069.md、
+当前变更见RELEASE_0.3.5.md、trophy-query-diff.json；继承内容见STORY_0069.md、
 user-decisions-0069.json、story-0069-diff.json、runtime-compat-proof.json、
 release-verification.json及isolated-install-audit.json。
 SHA256SUMS.txt记录包内文件哈希，第三方声明见licenses。
@@ -62,7 +62,7 @@ def main():
     for name in ["QA.md", "release-verification.json", "USER_TEST.md", "manual-verification.json", "EDITING.md",
                  "llm-editor-verification.json", "isolated-install-audit.json", "release-text-verification.json", "FINAL_REVIEW.md", "final-review-queue.json",
                  "USER_REVIEW_0065.md", "user-review-0065-verification.json", "PERSONAL_NAMES_0064.md", "personal-name-registry.json",
-                 "RELEASE_0.3.4.md", "STORY_0069.md", "test-verification-0.3.4.json", "user-decisions-0069.json", "story-0069-diff.json", "runtime-compat-proof.json", "RELEASE_0.3.3.md", "MENU_FIX_0068.md", "menu-0068-diff.json", "RELEASE_0.3.2.md", "PANEL_ONLY_0067.md", "panel-only-0067-diff.json", "DEATH_TEXT_FOLLOWUP.md"]:
+                 "RELEASE_0.3.5.md", "trophy-query-diff.json", "test-verification-0.3.5.json", "RELEASE_0.3.4.md", "STORY_0069.md", "test-verification-0.3.4.json", "user-decisions-0069.json", "story-0069-diff.json", "runtime-compat-proof.json", "RELEASE_0.3.3.md", "MENU_FIX_0068.md", "menu-0068-diff.json", "RELEASE_0.3.2.md", "PANEL_ONLY_0067.md", "panel-only-0067-diff.json", "DEATH_TEXT_FOLLOWUP.md"]:
         shutil.copy2(PROJECT / "docs" / name, release / name)
     for source in (PROJECT / "licenses").iterdir():
         if source.is_file():

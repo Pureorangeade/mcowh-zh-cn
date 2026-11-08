@@ -1,6 +1,6 @@
 {
-  "version": "0.3.4-story-compat",
-  "baseline": "0.3.3-menu-fix",
+  "version": "0.3.5-trophy-fix",
+  "baseline": "0.3.4-story-compat",
   "matches": true,
   "by_kind": {
     "database": 5516,
@@ -19,7 +19,8 @@
   "images_identical_to_033": true,
   "existing_glyph_metrics_and_pixels_identical_to_033": true,
   "runtime_compatibility_implemented": true,
-  "death_variable_runtime_issue_fixed": "awaiting_user_in_game_verification",
+  "death_variable_runtime_issue_fixed": "user_reports_other_034_issues_resolved",
+  "trophy_badges_runtime_verified": false,
   "runtime_display_verified": false,
   "game_started": false,
   "actual_game_or_save_files_modified": false

@@ -30,7 +30,7 @@ def main():
     results = []
     steps = [("verify", bundle)]
     for previous_bundle in [PROJECT / "dist/MCOWH-zh-CN-0.3.0-llm-review/patch.mcpatch",
-                            PROJECT / "dist/MCOWH-zh-CN-0.3.3-menu-fix/patch.mcpatch"]:
+                            PROJECT / "dist/MCOWH-zh-CN-0.3.4-story-compat/patch.mcpatch"]:
         if previous_bundle.exists():
             steps += [("install", previous_bundle), ("restore", bundle)]
     steps += [("install", bundle), ("install", bundle), ("restore", bundle)]

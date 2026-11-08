@@ -52,14 +52,15 @@ def main():
         if menu_entries(source) is not None:
             validate_menu_commands(source,actual[key]);menus+=1
     stories=[r for r in records if r['id'].startswith('db/72/') and r['id'].endswith('/1')]
-    report={'version':PATCH_VERSION,'baseline':'0.3.3-menu-fix','matches':True,
+    report={'version':PATCH_VERSION,'baseline':'0.3.4-story-compat','matches':True,
         'by_kind':dict(checked),'database_display_records_checked':checked['database'],
         'all_database_menu_rows_checked':menus,'new_story_bodies':len(stories),
         'story_pages':sum(r['source'].count('<PAGE>')+1 for r in stories),
         'all_story_japanese_sources_verified':all(r['japanese']['availability']=='verified_display' for r in stories),
         'approved_panel_fields_checked':29,'menu_syntax_fix_fields':12,
         'images_identical_to_033':True,'existing_glyph_metrics_and_pixels_identical_to_033':True,
-        'runtime_compatibility_implemented':True,'death_variable_runtime_issue_fixed':'awaiting_user_in_game_verification',
+        'runtime_compatibility_implemented':True,'death_variable_runtime_issue_fixed':'user_reports_other_034_issues_resolved',
+        'trophy_badges_runtime_verified':False,
         'runtime_display_verified':False,'game_started':False,'actual_game_or_save_files_modified':False}
     (PROJECT/'docs/release-text-verification.json').write_text(json.dumps(report,ensure_ascii=False,indent=2),encoding='utf8')
     print(json.dumps(report,ensure_ascii=False))

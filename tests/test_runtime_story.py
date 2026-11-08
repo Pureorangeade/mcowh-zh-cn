@@ -57,7 +57,7 @@ class RuntimeStoryTests(unittest.TestCase):
         for raw in [self.raw[:-1],self.raw+b'x',b'bad header']:
             with self.assertRaises((ValueError,AssertionError,IndexError)):parse(raw)
 
-    def test_english_and_chinese_badges_work_for_all_classes_and_difficulties(self):
+    def test_local_aliases_normalize_all_classes_and_difficulties(self):
         for eid in [741,806,846]:
             cmds=self.inserted(eid,4)
             for en,zh,row in self.proof['class_aliases']:

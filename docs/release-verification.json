@@ -1,68 +1,68 @@
 {
-  "version": "0.3.4-story-compat",
-  "executable_sha256": "b20e81d6901e68975fddd6a88bcc229a7f9d6deb15a4d9ac882147a23cb6bfb6",
-  "bundle_sha256": "16eeb6239c7bab0ad78070a6ba6e01bb1f47b1c205a6226f1dcdeba2c2a49008",
+  "version": "0.3.5-trophy-fix",
+  "executable_sha256": "8e99d30817f6d61f0c521dc95a5bf343df486a7d2a7752586b208ce6bdb37b77",
+  "bundle_sha256": "91e7a18d125717c42695bfcbfaabec54eb5225bf932396cb5737090cfd8588a5",
   "test_fixture": "Minimal original files required by patch; game executable not launched",
-  "test_fixture_path": "D:\\Steam\\steamapps\\common\\Mystery Chronicle One Way Heroics\\_zh_patch\\work\\release-test-0.3.4-story-compat",
+  "test_fixture_path": "D:\\Steam\\steamapps\\common\\Mystery Chronicle One Way Heroics\\_zh_patch\\work\\release-test-0.3.5-trophy-fix",
   "actual_game_modified": false,
   "runtime_display_verified": false,
   "results": [
     {
       "action": "verify",
-      "package_version": "0.3.4-story-compat",
+      "package_version": "0.3.5-trophy-fix",
       "exit_code": 0,
       "message": "差分包重建验证通过。",
-      "seconds": 9.44
+      "seconds": 9.2
     },
     {
       "action": "install",
       "package_version": "0.3.0-llm-review",
       "exit_code": 0,
       "message": "汉化技术演示补丁已安装。",
-      "seconds": 16.66
+      "seconds": 16.44
     },
     {
       "action": "restore",
-      "package_version": "0.3.4-story-compat",
+      "package_version": "0.3.5-trophy-fix",
       "exit_code": 0,
       "message": "已还原原版，文件哈希与备份一致。",
-      "seconds": 6.75
-    },
-    {
-      "action": "install",
-      "package_version": "0.3.3-menu-fix",
-      "exit_code": 0,
-      "message": "汉化技术演示补丁已安装。",
-      "seconds": 15.45
-    },
-    {
-      "action": "restore",
-      "package_version": "0.3.4-story-compat",
-      "exit_code": 0,
-      "message": "已还原原版，文件哈希与备份一致。",
-      "seconds": 6.62
+      "seconds": 6.58
     },
     {
       "action": "install",
       "package_version": "0.3.4-story-compat",
       "exit_code": 0,
       "message": "汉化技术演示补丁已安装。",
-      "seconds": 15.48,
+      "seconds": 15.5
+    },
+    {
+      "action": "restore",
+      "package_version": "0.3.5-trophy-fix",
+      "exit_code": 0,
+      "message": "已还原原版，文件哈希与备份一致。",
+      "seconds": 6.53
+    },
+    {
+      "action": "install",
+      "package_version": "0.3.5-trophy-fix",
+      "exit_code": 0,
+      "message": "汉化技术演示补丁已安装。",
+      "seconds": 15.39,
       "resource_audit": true
     },
     {
       "action": "install",
-      "package_version": "0.3.4-story-compat",
+      "package_version": "0.3.5-trophy-fix",
       "exit_code": 0,
       "message": "相同版本的补丁已经安装。",
-      "seconds": 3.11
+      "seconds": 3.16
     },
     {
       "action": "restore",
-      "package_version": "0.3.4-story-compat",
+      "package_version": "0.3.5-trophy-fix",
       "exit_code": 0,
       "message": "已还原原版，文件哈希与备份一致。",
-      "seconds": 6.88
+      "seconds": 6.52
     }
   ]
 }
