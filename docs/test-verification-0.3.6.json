@@ -1,0 +1,9 @@
+{
+  "version": "0.3.6-fps-compat",
+  "command": "python -m unittest discover -s tests -v",
+  "exit_code": 0,
+  "tests": 76,
+  "seconds": 48.469,
+  "passed": true,
+  "game_started": false
+}

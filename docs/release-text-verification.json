@@ -1,6 +1,6 @@
 {
-  "version": "0.3.5-trophy-fix",
-  "baseline": "0.3.4-story-compat",
+  "version": "0.3.6-fps-compat",
+  "baseline": "0.3.5-trophy-fix",
   "matches": true,
   "by_kind": {
     "database": 5516,

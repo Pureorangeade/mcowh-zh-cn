@@ -11,6 +11,7 @@ from pathlib import Path, PurePosixPath
 import shutil
 
 from resources import GAME, PROJECT, sha256
+from game_compat import require_executable
 
 
 def game_running():
@@ -86,8 +87,7 @@ def operation(action: str, game: Path, build: Path, baseline: dict):
     backup = game / ".mcowh-zh-backup"
     journal = backup / "state.json"
     exe = game / "MC_OneWayHeroics.exe"
-    if not exe.is_file() or sha256(exe) != originals["MC_OneWayHeroics.exe"]["sha256"]:
-        raise ValueError("不支持的游戏主程序版本。")
+    require_executable(exe, originals["MC_OneWayHeroics.exe"]["sha256"])
     backup.mkdir(exist_ok=True)
     # Lock survives process termination as a file but the OS releases its byte lock.
     lock = (backup / "lock").open("a+b")

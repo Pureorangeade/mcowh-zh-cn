@@ -52,7 +52,7 @@ def main():
         if menu_entries(source) is not None:
             validate_menu_commands(source,actual[key]);menus+=1
     stories=[r for r in records if r['id'].startswith('db/72/') and r['id'].endswith('/1')]
-    report={'version':PATCH_VERSION,'baseline':'0.3.4-story-compat','matches':True,
+    report={'version':PATCH_VERSION,'baseline':'0.3.5-trophy-fix','matches':True,
         'by_kind':dict(checked),'database_display_records_checked':checked['database'],
         'all_database_menu_rows_checked':menus,'new_story_bodies':len(stories),
         'story_pages':sum(r['source'].count('<PAGE>')+1 for r in stories),

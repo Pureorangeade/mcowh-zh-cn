@@ -1,16 +1,17 @@
 {
   "schema": 1,
-  "patch_version": "0.3.5-trophy-fix",
+  "patch_version": "0.3.6-fps-compat",
   "installation_state": "installed",
   "installed_content_verified": true,
   "original_backups_verified": true,
-  "bundle_sha256": "91e7a18d125717c42695bfcbfaabec54eb5225bf932396cb5737090cfd8588a5",
+  "bundle_sha256": "e8980359905e0f6a030907a9815f1b7c4381d88f85323ae07160a1e502796f25",
   "files": [
     {
       "path": "MC_OneWayHeroics.exe",
       "patch_target": false,
       "state": "original",
-      "sha256": "d0e7cb34119313a61bef149517d29b3adb886c37456d21b2c2301a38338f1e5e"
+      "sha256": "d0e7cb34119313a61bef149517d29b3adb886c37456d21b2c2301a38338f1e5e",
+      "profile": "original"
     },
     {
       "path": "D3D11/Data/archive.bin",

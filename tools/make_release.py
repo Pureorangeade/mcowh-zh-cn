@@ -10,13 +10,13 @@ from release_config import PATCH_VERSION, RELEASE_FOLDER
 
 PLAYER_README = f"""Mystery Chronicle: One Way Heroics 简体中文补丁 {PATCH_VERSION}
 
-本版只修正海盗／风来人等职业的通关标识查询。
-0.3.4仅转换了局部记录，实际标识条件仍查旧英文全局记录；本版纠正查询变量。
-三个函数的45个条件、72个变量操作数改查已转换的局部记录，不改存档。
-其余201项资源与0.3.4一致，包括全部译文、字体、文字图、序章／结尾和旧死因兼容。
-人名暂留英文；菜单动作修复及19项人物属性译名继续保留。
+本版新增对用户60帧补丁1.0.0的安装、还原和状态识别兼容。
+汉化只改资源包，60帧补丁只改主程序；两种安装顺序均可，单独卸载不影响另一补丁。
+本汉化安装器不会写入主程序，不会安装或卸载60帧。帧率补丁仍用你自己的工具管理。
+全部202项资源与0.3.5一致，含通关标识查询修复、序章／结尾及旧死因兼容。
+人名暂留英文，字体、文字图、菜单动作与19项人物属性译名不变。
 
-仅支持Steam英文版build 1527978。Steam语言请设为English并等待下载完成。
+仅支持Steam英文版build 1527978。兼容已验证的原版及60帧主程序。Steam语言请设为English并等待下载完成。
 
 安装或升级
 1. 退出游戏，完整解压ZIP到可写目录。
@@ -28,7 +28,7 @@ patch.mcpatch必须与安装程序放在同一目录。
 需还原时，退出游戏，再用本安装器“还原原版”。
 重建和备份占数GB空间，请在游戏盘及系统临时目录留足空间。
 
-请重点复验已有海盗／风来人的通关标识。其他问题用户已反馈解决。
+使用本版安装器管理汉化，可保留已安装的60帧补丁；旧安装器可能仍拒绝该主程序。
 无需重新通关或故意死亡，具体步骤见USER_TEST.md。
 旧死因中的未知或有歧义怪物名可能仍保留英文；原始记录不被直接编辑。
 F18—F21仍按既有决定保留，见FINAL_REVIEW.md。
@@ -40,7 +40,8 @@ F18—F21仍按既有决定保留，见FINAL_REVIEW.md。
 修改自动存浏览器草稿，完成后“导出修订”，交回JSON合入并重建补丁。
 编辑器不会直接修改游戏。详见EDITING.md。
 
-当前变更见RELEASE_0.3.5.md、trophy-query-diff.json；继承内容见STORY_0069.md、
+当前兼容范围见RELEASE_0.3.6.md、fps-compat-diff.json及fps-compat-verification.json；
+继承内容见RELEASE_0.3.5.md、STORY_0069.md、
 user-decisions-0069.json、story-0069-diff.json、runtime-compat-proof.json、
 release-verification.json及isolated-install-audit.json。
 SHA256SUMS.txt记录包内文件哈希，第三方声明见licenses。
@@ -56,13 +57,18 @@ def main():
         raise ValueError("Executable differs from verified release")
     if sha256(release / "patch.mcpatch") != record["bundle_sha256"]:
         raise ValueError("Bundle differs from verified release")
+    compatibility = json.loads((PROJECT / "docs/fps-compat-verification.json").read_text("utf8"))
+    if (compatibility.get("version") != PATCH_VERSION or not compatibility.get("all_passed")
+            or compatibility.get("standalone_exe_sha256") != record["executable_sha256"]
+            or compatibility.get("bundle_sha256") != record["bundle_sha256"]):
+        raise ValueError("FPS compatibility evidence differs from this release")
     (release / "使用说明.txt").write_text(PLAYER_README, encoding="utf-8-sig")
     from editor_data import export_editor
     export_editor(release / '汉化译文编辑器.html')
     for name in ["QA.md", "release-verification.json", "USER_TEST.md", "manual-verification.json", "EDITING.md",
                  "llm-editor-verification.json", "isolated-install-audit.json", "release-text-verification.json", "FINAL_REVIEW.md", "final-review-queue.json",
                  "USER_REVIEW_0065.md", "user-review-0065-verification.json", "PERSONAL_NAMES_0064.md", "personal-name-registry.json",
-                 "RELEASE_0.3.5.md", "trophy-query-diff.json", "test-verification-0.3.5.json", "RELEASE_0.3.4.md", "STORY_0069.md", "test-verification-0.3.4.json", "user-decisions-0069.json", "story-0069-diff.json", "runtime-compat-proof.json", "RELEASE_0.3.3.md", "MENU_FIX_0068.md", "menu-0068-diff.json", "RELEASE_0.3.2.md", "PANEL_ONLY_0067.md", "panel-only-0067-diff.json", "DEATH_TEXT_FOLLOWUP.md"]:
+                 "RELEASE_0.3.6.md", "fps-compat-diff.json", "fps-compat-verification.json", "test-verification-0.3.6.json", "RELEASE_0.3.5.md", "trophy-query-diff.json", "test-verification-0.3.5.json", "RELEASE_0.3.4.md", "STORY_0069.md", "test-verification-0.3.4.json", "user-decisions-0069.json", "story-0069-diff.json", "runtime-compat-proof.json", "RELEASE_0.3.3.md", "MENU_FIX_0068.md", "menu-0068-diff.json", "RELEASE_0.3.2.md", "PANEL_ONLY_0067.md", "panel-only-0067-diff.json", "DEATH_TEXT_FOLLOWUP.md"]:
         shutil.copy2(PROJECT / "docs" / name, release / name)
     for source in (PROJECT / "licenses").iterdir():
         if source.is_file():

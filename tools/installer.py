@@ -75,7 +75,7 @@ def gui(bundle: Path):
     frame = ttk.Frame(root, padding=24)
     frame.pack(fill="both", expand=True)
     ttk.Label(frame, text=f"简体中文补丁 · {PATCH_VERSION}", font=("Microsoft YaHei UI", 16, "bold")).pack(anchor="w")
-    ttk.Label(frame, text="适用 Steam 英文版 build 1527978。修复使用、快捷栏等菜单配置；保留0.3.2的19项属性译名。\n人名暂留英文，游戏内效果待验收；从旧版升级请先还原原版，再安装。", padding=(0, 10)).pack(anchor="w")
+    ttk.Label(frame, text="适用 Steam 英文版 build 1527978，兼容你的60帧补丁1.0.0。\n安装或还原汉化保留当前帧率；从旧版升级请先还原原版，再安装。", padding=(0, 10)).pack(anchor="w")
     ttk.Label(frame, text="游戏目录").pack(anchor="w")
     games = find_games()
     path = tk.StringVar(value=str(games[0]) if games else "")

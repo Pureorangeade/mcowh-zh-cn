@@ -8,6 +8,7 @@ import zipfile
 from delta import create, apply
 from resources import Archive, GAME, PROJECT, rebuild, sha256
 from install_local import safe_path
+from game_compat import EXE_NAME, require_executable
 from release_config import PATCH_VERSION, SUPPORTED_PATCH_VERSIONS, RELEASE_FOLDER
 
 
@@ -51,6 +52,9 @@ def metadata(bundle: Path):
 def prepare(bundle: Path, game: Path, output: Path):
     manifest = metadata(bundle)
     for original in manifest["baseline"]["files"]:
+        if original["path"] == EXE_NAME:
+            require_executable(safe_path(game.resolve(), EXE_NAME), original["sha256"])
+            continue
         if sha256(safe_path(game.resolve(), original["path"])) != original["sha256"]:
             raise ValueError(f"原版文件已修改或版本不符：{original['path']}")
     archive = Archive(game)

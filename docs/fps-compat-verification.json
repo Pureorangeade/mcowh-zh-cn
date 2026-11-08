@@ -1,0 +1,1331 @@
+{
+  "version": "0.3.6-fps-compat",
+  "standalone_exe_sha256": "aea8d2f277662183be6bf386dc2395cf3e2a2241ee94f7a09620a8ea5fa501cb",
+  "bundle_sha256": "e8980359905e0f6a030907a9815f1b7c4381d88f85323ae07160a1e502796f25",
+  "fps_core_source_sha256": "e3212a93c785dab70e4854ccf35780fed6d5e39cdbf006915b29c4a44d5d3902",
+  "fixture": "D:\\Steam\\steamapps\\common\\Mystery Chronicle One Way Heroics\\_zh_patch\\work\\fps-test-0.3.6-fps-compat",
+  "actual_game_modified": false,
+  "game_started": false,
+  "all_passed": true,
+  "steps": [
+    {
+      "tool": "user_fps_core",
+      "action": "install",
+      "localized_resources_preserved": false,
+      "passed": true
+    },
+    {
+      "tool": "standalone_zh_exe",
+      "action": "verify",
+      "bundle": "0.3.6-fps-compat",
+      "exe_sha256_unchanged": "001ade6dde612c93968009ac71a62070b1222e69bbe07f6201c0d1c942211548",
+      "passed": true
+    },
+    {
+      "tool": "standalone_zh_exe",
+      "action": "install",
+      "bundle": "0.3.5-trophy-fix",
+      "exe_sha256_unchanged": "001ade6dde612c93968009ac71a62070b1222e69bbe07f6201c0d1c942211548",
+      "passed": true
+    },
+    {
+      "tool": "standalone_zh_exe",
+      "action": "restore",
+      "bundle": "0.3.6-fps-compat",
+      "exe_sha256_unchanged": "001ade6dde612c93968009ac71a62070b1222e69bbe07f6201c0d1c942211548",
+      "passed": true
+    },
+    {
+      "tool": "standalone_zh_exe",
+      "action": "install",
+      "bundle": "0.3.6-fps-compat",
+      "exe_sha256_unchanged": "001ade6dde612c93968009ac71a62070b1222e69bbe07f6201c0d1c942211548",
+      "passed": true
+    },
+    {
+      "tool": "standalone_zh_exe",
+      "action": "install",
+      "bundle": "0.3.6-fps-compat",
+      "exe_sha256_unchanged": "001ade6dde612c93968009ac71a62070b1222e69bbe07f6201c0d1c942211548",
+      "passed": true
+    },
+    {
+      "tool": "user_fps_core",
+      "action": "restore",
+      "localized_resources_preserved": true,
+      "passed": true
+    },
+    {
+      "tool": "standalone_zh_exe",
+      "action": "install",
+      "bundle": "0.3.6-fps-compat",
+      "exe_sha256_unchanged": "d0e7cb34119313a61bef149517d29b3adb886c37456d21b2c2301a38338f1e5e",
+      "passed": true
+    },
+    {
+      "tool": "user_fps_core",
+      "action": "install",
+      "localized_resources_preserved": true,
+      "passed": true
+    },
+    {
+      "tool": "standalone_zh_exe",
+      "action": "restore",
+      "bundle": "0.3.6-fps-compat",
+      "exe_sha256_unchanged": "001ade6dde612c93968009ac71a62070b1222e69bbe07f6201c0d1c942211548",
+      "passed": true
+    },
+    {
+      "tool": "user_fps_core",
+      "action": "restore",
+      "localized_resources_preserved": false,
+      "passed": true
+    },
+    {
+      "tool": "standalone_zh_exe",
+      "action": "install",
+      "bundle": "0.3.6-fps-compat",
+      "exe_sha256_unchanged": "d0e7cb34119313a61bef149517d29b3adb886c37456d21b2c2301a38338f1e5e",
+      "passed": true
+    },
+    {
+      "tool": "user_fps_core",
+      "action": "install",
+      "localized_resources_preserved": true,
+      "passed": true
+    },
+    {
+      "tool": "standalone_zh_exe",
+      "action": "restore",
+      "bundle": "0.3.6-fps-compat",
+      "exe_sha256_unchanged": "001ade6dde612c93968009ac71a62070b1222e69bbe07f6201c0d1c942211548",
+      "passed": true
+    },
+    {
+      "tool": "user_fps_core",
+      "action": "restore",
+      "localized_resources_preserved": false,
+      "passed": true
+    }
+  ],
+  "resource_audit": {
+    "schema": 1,
+    "patch_version": "0.3.6-fps-compat",
+    "installation_state": "installed",
+    "installed_content_verified": true,
+    "original_backups_verified": true,
+    "bundle_sha256": "e8980359905e0f6a030907a9815f1b7c4381d88f85323ae07160a1e502796f25",
+    "files": [
+      {
+        "path": "MC_OneWayHeroics.exe",
+        "patch_target": false,
+        "state": "compatible",
+        "sha256": "001ade6dde612c93968009ac71a62070b1222e69bbe07f6201c0d1c942211548",
+        "profile": "user_60fps_v1.0.0"
+      },
+      {
+        "path": "D3D11/Data/archive.bin",
+        "patch_target": true,
+        "state": "patched",
+        "sha256": "a7d1ead9295653fc52c06edcf4c937969beaa5d1d78db1495e751f57b71c6c35"
+      },
+      {
+        "path": "D3D11/Data/data0000.bin",
+        "patch_target": true,
+        "state": "patched",
+        "sha256": "dc57c39386f9906287119eae3a380adbd4338c229d0c0e3f65e612fe11e392df"
+      },
+      {
+        "path": "D3D11/Data/data0100.bin",
+        "patch_target": true,
+        "state": "patched",
+        "sha256": "c62c795a93b8035d48e150ef3c6b78ce05a07f250da32fe4aecb465e931a724b"
+      },
+      {
+        "path": "D3D11/Data/data0200.bin",
+        "patch_target": true,
+        "state": "patched",
+        "sha256": "a377bf25673015e37ceafce9e92ed71bf929dc6249b7f7cef3981a02031ee52c"
+      },
+      {
+        "path": "D3D11/Data/data0500.bin",
+        "patch_target": true,
+        "state": "patched",
+        "sha256": "089f5d408c4f8b54c1af3841d3e5402c6a34f5acc61c32979cb6e6e485caffbc"
+      },
+      {
+        "path": "D3D11/Data/data1103.bin",
+        "patch_target": true,
+        "state": "patched",
+        "sha256": "140acfdefdc7dcbedcd2b6b5c7e741975cd9bce9df5099036bad9b2a150bb6ed"
+      },
+      {
+        "path": "D3D11/Data/data1104.bin",
+        "patch_target": true,
+        "state": "patched",
+        "sha256": "d680d57c242dc1a279eda62dd632bd212cfbcff02f19445550cc853a17d282cc"
+      },
+      {
+        "path": "D3D11/Data/data1105.bin",
+        "patch_target": true,
+        "state": "patched",
+        "sha256": "6daf14df1a2a5b3d4ab2fd7eb9f70bd6dab68eeff529146d5c142e9bbb9ac0d3"
+      },
+      {
+        "path": "D3D11/Data/data1106.bin",
+        "patch_target": true,
+        "state": "patched",
+        "sha256": "8ed6a027a0aff393119519d62705ec5119f57414bcdbdb84e4fba0764c8a8c48"
+      },
+      {
+        "path": "D3D11/Data/data1107.bin",
+        "patch_target": true,
+        "state": "patched",
+        "sha256": "dea09cc5d308802a9830c4b2055c4bb4e9eb894a1e901c0247fd8e547d2f3354"
+      },
+      {
+        "path": "D3D11/Data/data1108.bin",
+        "patch_target": true,
+        "state": "patched",
+        "sha256": "149e6f3c8b39b3bb2de0127764daf2ea3d62435a38d8e222fcbd53296ce5966a"
+      },
+      {
+        "path": "D3D11/Data/data1109.bin",
+        "patch_target": true,
+        "state": "patched",
+        "sha256": "e20c48d93e302daad090939932c8516a572bca867e2c6b4c89a28af8bf875ab3"
+      },
+      {
+        "path": "D3D11/Data/data1200.bin",
+        "patch_target": true,
+        "state": "patched",
+        "sha256": "546235327b81a83318843fc266da858c99e4ca3e85f56894cfa8e9edaa9075f0"
+      }
+    ],
+    "backups": [
+      {
+        "path": "D3D11/Data/archive.bin",
+        "state": "original",
+        "sha256": "9bd8e16b4b307f835e59ebb07bb2587732bb0877acc399dc3d3512cb3fa9ff12"
+      },
+      {
+        "path": "D3D11/Data/data0000.bin",
+        "state": "original",
+        "sha256": "806f36fd590b8da6ab85b555e9e0f552184cdd1a9559b1b1382998d9eae73a76"
+      },
+      {
+        "path": "D3D11/Data/data0100.bin",
+        "state": "original",
+        "sha256": "7eaa2ae2e0849904b1b84e2225d46c79157c334d5ce2ec469847ec04d0588e8c"
+      },
+      {
+        "path": "D3D11/Data/data0200.bin",
+        "state": "original",
+        "sha256": "2f7bd17a8406f0829179002bb6da1e8f0703dfdb82ed618484d8635ab56c18ee"
+      },
+      {
+        "path": "D3D11/Data/data0500.bin",
+        "state": "original",
+        "sha256": "cfcb88e8f3c506d5adb9b6d1b0b31b44168459cfbda1b595f898ca85b55af325"
+      },
+      {
+        "path": "D3D11/Data/data1103.bin",
+        "state": "original",
+        "sha256": "5d52650ccefd7fd6477d9db7916d332172e21861f2a72e00ff5952eb2ce3eb1d"
+      },
+      {
+        "path": "D3D11/Data/data1104.bin",
+        "state": "original",
+        "sha256": "41c42d0afe0c913c51cef23680dfe1d4c717330adc851f4dc717e929a917e3fd"
+      },
+      {
+        "path": "D3D11/Data/data1105.bin",
+        "state": "original",
+        "sha256": "64bde7dc2b31c3a721e95a921599509ccbdb30f7cbbd84f2a38d925af3de2ac7"
+      },
+      {
+        "path": "D3D11/Data/data1106.bin",
+        "state": "original",
+        "sha256": "c4be23f56c06f983fc0535a57a9c7b200a69b13be22f3741e6037aed6f8c9dfe"
+      },
+      {
+        "path": "D3D11/Data/data1107.bin",
+        "state": "original",
+        "sha256": "705c077acce3b0817bb42125260aaef6391eb8604fb1bdab74656e7c97d2b826"
+      },
+      {
+        "path": "D3D11/Data/data1108.bin",
+        "state": "original",
+        "sha256": "b6d459172d8b51cb8fa126b114996c55bda8154b1482b17caec8d2629a8d466f"
+      },
+      {
+        "path": "D3D11/Data/data1109.bin",
+        "state": "original",
+        "sha256": "8ecb24ca10487d8274086d1be63f0b1b2a6313b0c8ebfad6ffbfcce55c951290"
+      },
+      {
+        "path": "D3D11/Data/data1200.bin",
+        "state": "original",
+        "sha256": "894d441c734914c53127716061c9c8a96cdf9485542ad53ceb0722366dde27de"
+      }
+    ],
+    "resources": [
+      {
+        "name": "d3d11/data/basicdata/database.dat",
+        "matches": true,
+        "sha256": "a07d0fef850fcff3f8ed463eba8467de80e05188987f4e8e0524c381ac123d5c"
+      },
+      {
+        "name": "d3d11/data/event/event.pack",
+        "matches": true,
+        "sha256": "7f014835afebddd85a70d59ce8a33af57dc81b42595024d41b3cfbd450b9f270"
+      },
+      {
+        "name": "d3d11/data/uiscript/uiscript.pack",
+        "matches": true,
+        "sha256": "47c7a0c05f9a222988403480c56f1cc920a5eacece68b2da79c7713ac8270177"
+      },
+      {
+        "name": "d3d11/data/text_dict.bin",
+        "matches": true,
+        "sha256": "fe8afbe2ea57e3d5f398c03908b1989f26ca186cfcae474e29319b5375e97fd8"
+      },
+      {
+        "name": "d3d11/data/error_code_dict.bin",
+        "matches": true,
+        "sha256": "46f350947850cc1118e3a5dc7d8b3840f279a4be469e8e2d50de4200f2773219"
+      },
+      {
+        "name": "d3d11/data/basicdata/cdatabase.dat",
+        "matches": true,
+        "sha256": "b54ba67ee8da5cc1436271c7685523b80bbf3cc8bdf113145d8e303c04cc7caa"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/common/text/tx_buy.png.phyre",
+        "matches": true,
+        "sha256": "500acb0e20a6f7914348df51fe0d61b1247313960f6d6c849846e7f04a9fa3af"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/common/text/tx_clear.png.phyre",
+        "matches": true,
+        "sha256": "46d40f89bd6a0f7ba2e250e71f04bb576e94ff81d3739d209def6db399294cfb"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/common/text/tx_type.png.phyre",
+        "matches": true,
+        "sha256": "633baf5e3dc59465e50b117ad050145b6d808f14e6fa670f57fb558d648a9e2f"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/common/text/tx_wt_01.png.phyre",
+        "matches": true,
+        "sha256": "3df3f06d4bb3c2142faab784ce35c5c7edde38d19725cb02a0b3e2dcb9c449dc"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/common/text/tx_turn.png.phyre",
+        "matches": true,
+        "sha256": "b36e935cd4666bdbd333e9ddce6b7c252472b344ac26c0c1c361e99c35b325dd"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/common/text/tx_performance.png.phyre",
+        "matches": true,
+        "sha256": "cb8a1d0fa7a09cf516b854c6b68046821e9ab08a8eb48d1be1ee39ce569bcb33"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/common/text/tx_details.png.phyre",
+        "matches": true,
+        "sha256": "2cd5b0b4c9b5c061009f26e679a8b7cedf4f7e451ac3eb4f457fe34c33e0d55e"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/common/text/tx_select.png.phyre",
+        "matches": true,
+        "sha256": "d3af9e2ef33256c659e5e51f20dd23a50820f99441c6d3d7c83e8b5ff1b5312b"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/common/text/tx_status.png.phyre",
+        "matches": true,
+        "sha256": "b3ece984aa95fa9275f517e643f7629868e84cee89e7ad64602ab64cd3dc4705"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/common/text/tx_perks.png.phyre",
+        "matches": true,
+        "sha256": "8f802a0f461106f9541b68120d7c11527be73485fd855e278b5eb2b9b858b036"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/common/text/tx_return.png.phyre",
+        "matches": true,
+        "sha256": "d14d9b22bb7d021cf3c9d7509b8afa3a81d08ac32955f7f08a14ef4c3cc74263"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/common/text/tx_gift.png.phyre",
+        "matches": true,
+        "sha256": "14926fe4029628d959b399036856d5e3e58117d3e959c893d5434045d7acac2a"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/common/text/tx_attention.png.phyre",
+        "matches": true,
+        "sha256": "7cb8268c7db10624550d41ee8437a1dfd95de101dcdfaa23a61a9a3dad1287a9"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/common/text/tx_dialog.png.phyre",
+        "matches": true,
+        "sha256": "0c5f0f80cbde8bd85444fecbb675ff3277a3ba225251499b2a36b5b9b5660d40"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/common/text/tx_sell.png.phyre",
+        "matches": true,
+        "sha256": "0bdb6bbd670836b33056744bfe2144abe84bf67cf610bd6b777b87a84b3ff520"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/common/text/tx_ability.png.phyre",
+        "matches": true,
+        "sha256": "1383b7b7771df8ba3d24b512c7ea6b811801d728f130d3d541e8895a7b41c11c"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/common/text/tx_platform.png.phyre",
+        "matches": true,
+        "sha256": "756ea68c59e68896e0f5dfe9d1b9a28a4c1bad32b3f1d3a59c84a0883f364eca"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/common/text/tx_new.png.phyre",
+        "matches": true,
+        "sha256": "83baebc35e839f82a98a1b649b8d6a5ed665786b8493d95e63238bf039192e16"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/common/text/tx_cost.png.phyre",
+        "matches": true,
+        "sha256": "0baeeb4e8ad126521f970b5dc5654df62769729ab28f0bcc4d736908badb0c8f"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/common/text/tx_enchant.png.phyre",
+        "matches": true,
+        "sha256": "dc93c30ce5ba3388018a324ccdfbc68442fc2f930609ea29e4a3d9fc4f770552"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/common/text/tx_world.png.phyre",
+        "matches": true,
+        "sha256": "ec53956cbf55640450e2d1f28e1c377db832b9b54d5d6c36cdcb4fb155df019a"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/common/text/tx_silver.png.phyre",
+        "matches": true,
+        "sha256": "a49229065da462e7c70c235e9f39c201eb6a8f11e40a96b5f24ded1b87ca6243"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/common/text/tx_party.png.phyre",
+        "matches": true,
+        "sha256": "fb844bd7066f317817e97ef7c2c59338ce3de49ef421faaf610d91dc709ad47a"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/common/text/tx_wt.png.phyre",
+        "matches": true,
+        "sha256": "1e69089cc3ee1077841e88bf2b36d3b318237d080dbd8a8b7fb958fb2e647c95"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/common/text/tx_list.png.phyre",
+        "matches": true,
+        "sha256": "b114de5a81c637506e03e62566a85d5c3436feb3cf69743bbac09a47d7cb724e"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/common/text/tx_equipment.png.phyre",
+        "matches": true,
+        "sha256": "a7865cbee3fa116f5ef2aa2744634ca60074859b1428c9d5c893aa14dd5cd43a"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/common/text/tx_quantity.png.phyre",
+        "matches": true,
+        "sha256": "d9a525d60e9bc730d7e8562d0ce8e56d0237640e7fc5f3234493000168422f56"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/common/text/tx_condition.png.phyre",
+        "matches": true,
+        "sha256": "ac01bae5d7e040692b3f3a06e26548314cf5f750cf7f351d10d3f4ea790d8f38"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ex/class_data/tx_grade_0.png.phyre",
+        "matches": true,
+        "sha256": "5ee001f4f9e35728f52b2d621dd882ff001b7ede0e7b6619d071998fb5df0991"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ex/class_data/tx_grade_5.png.phyre",
+        "matches": true,
+        "sha256": "ec7e06b4d71ff042b8ba108f7417836f0fcd6889df755df525090ed557f39565"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ex/class_data/tx_grade_4.png.phyre",
+        "matches": true,
+        "sha256": "5148d60ffc9d79e31720b38a82f1fce13e6f2fa5532e5848363a32c312cc93f2"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ex/class_data/tx_grade_3.png.phyre",
+        "matches": true,
+        "sha256": "22f0f56850cdcd534140c88a3cda53a80ee77dda9beef2ccc2ae11c8cbb63e67"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ex/class_data/tx_grade_2.png.phyre",
+        "matches": true,
+        "sha256": "7412613df83e7301a9303d19fb5575e6480ab20358239fe6fea386f342397787"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ex/class_data/tx_grade_1.png.phyre",
+        "matches": true,
+        "sha256": "0e5d2b098f613118a34397a5f3073aac578215ae590c6ffe0192b2ba93a3d944"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/game_main/tx_distance02.png.phyre",
+        "matches": true,
+        "sha256": "c49d646d9d13d4576f9a4e3b314cbfbd1f62a38eb604a2c16d902934a88fca6d"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/game_main/tx_km.png.phyre",
+        "matches": true,
+        "sha256": "40433e28291690aa2f4a6e3ecb177ce16d3f4e0f058f3260eccd1cec11edf702"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/game_main/tx_distance.png.phyre",
+        "matches": true,
+        "sha256": "e2bc1ab42c99fd77369fdd86ef674750dc7ccec9c0b7dd827160fb83ec7079cf"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/game_main/tx_day.png.phyre",
+        "matches": true,
+        "sha256": "3be55257c1d7a57e964f57dbec4d6bdd5e0bd434a2b2877916ebad5b93d77265"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/game_menu/tx_equip.png.phyre",
+        "matches": true,
+        "sha256": "032a269741f4dc813064deaa510504cea17c189b06952e1105c0642338b81de8"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/game_menu/tx_buy.png.phyre",
+        "matches": true,
+        "sha256": "11ed3d7f87f19f2c5b17e6f4d4260dcd738d3cfc9c05bf9213d95331174ac39a"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/game_menu/tx_system.png.phyre",
+        "matches": true,
+        "sha256": "1f46552506ca9c29a2ec3fb7029626845d198a02039801c976a9123045448c41"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/game_menu/tx_item2.png.phyre",
+        "matches": true,
+        "sha256": "f9197c654fa1187b595d9c6035fd18a1c4902179efdee9f0740cab8123a21213"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/game_menu/tx_reward.png.phyre",
+        "matches": true,
+        "sha256": "20f298adea86745064f0805c55da9088d87844d19075306e61835690f691d98f"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/game_menu/tx_foot2.png.phyre",
+        "matches": true,
+        "sha256": "1d7c286f5fec10b3336ee9c13a2d0302be1dc03f811c852df552bdf8fe9b4605"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/game_menu/tx_item.png.phyre",
+        "matches": true,
+        "sha256": "726077deb7c4ca395d9062d3c6e946ac3f75f9c3d934d4190b10fb544838f347"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/game_menu/tx_log.png.phyre",
+        "matches": true,
+        "sha256": "575d2a6ed6163fa05d3709ceacc62bf50e90261e7a534b3cdbbb474ff3c5f2a7"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/game_menu/tx_depot.png.phyre",
+        "matches": true,
+        "sha256": "3e0baf9fca795361a2fa2256010d3efa8284ba7bc3e3068c3257648eaa0a57e7"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/game_menu/tx_status.png.phyre",
+        "matches": true,
+        "sha256": "3f0db7e3def7d4ee7a0e312e7740f02a136bf80592a7b93dae69af06822fc571"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/game_menu/tx_not.png.phyre",
+        "matches": true,
+        "sha256": "39c5d68d51c1c841d8eb1ec7376f7c2ab66bc6efd96cbda4ec61f94e743f62e6"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/game_menu/tx_foot.png.phyre",
+        "matches": true,
+        "sha256": "31049ed61ffcc56d718b3c56a5969c51d715535696eeb1cfd66c9e0ab1c47a12"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/game_menu/tx_skill.png.phyre",
+        "matches": true,
+        "sha256": "c6e1c9befd721e6980a97f771d61cf02fb1da64af123a73a4337d8313b735948"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/game_menu/tx_baggage.png.phyre",
+        "matches": true,
+        "sha256": "986ff61895fdb53dbb5c8d80aa3c9fb9e6ba973abd5a7604380d25bc447a35cd"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/class_tx/tx_04_b.png.phyre",
+        "matches": true,
+        "sha256": "985374062c78fa87d66e6a0a69f0110e9ff33dfffa2a7b94e77c3b8c8895ba32"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/keyboard/tx_cancel_def.png.phyre",
+        "matches": true,
+        "sha256": "1ef9974062c94e285b6d1cf447047f90556b1fc4f56e36811c22b2344e1541be"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/tx_world_mini.png.phyre",
+        "matches": true,
+        "sha256": "9f0cc2b08334b52f18bc5cc414cfc70f0ce4e53d587e78de4db409e86ac59cdb"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/class_tx/tx_14_s.png.phyre",
+        "matches": true,
+        "sha256": "f31aa2bbb16e5f7516484a84a6b8322552bd72784e7b4d91ef3f4565f48e0f16"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/tx_difficulty.png.phyre",
+        "matches": true,
+        "sha256": "30608e499c341dc66a94816ece96514e30f81355ea5fa98b10f7e7cb9117486f"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/tx_demolition.png.phyre",
+        "matches": true,
+        "sha256": "6556704823fde6c133e8be93d89c0e904848dcb6669dd8c268b667d03ff6781c"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/class_tx/tx_24_b.png.phyre",
+        "matches": true,
+        "sha256": "ca6ead6e2f9a477c97f4bcc2776376c5510b1c43c857d80ebe31a2b23589bbc3"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/tx_movie.png.phyre",
+        "matches": true,
+        "sha256": "4b27e6d7978836c3a02f446109d73ba2ba08bb91695dc44cd38341ea2270ae53"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/tx_build.png.phyre",
+        "matches": true,
+        "sha256": "c6fe891fc0cbee8b9029cc2e5340ee644f4d8690cc71602795df42d6e7fd6cfa"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/tx_cross.png.phyre",
+        "matches": true,
+        "sha256": "d79f880f4930488c33b0d0c26d753b7565c4a0737ff1ebcbf74ec3f28801b966"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/tx_search.png.phyre",
+        "matches": true,
+        "sha256": "3adaef774dee9abf49c012cc3576e15b60e46f3a77343e1f2f5d3ec96847311e"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/class_tx/tx_05_b.png.phyre",
+        "matches": true,
+        "sha256": "9c28691f36ab913b487bc9cd702d924733836161d05fc05d8bf7072e6a6f36cb"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/tx_twitter.png.phyre",
+        "matches": true,
+        "sha256": "27d6f4bdce236072a4fac4ebf3fa67d4bfc2e3dfe01e4f24b5c89015c21f8cae"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/tx_point.png.phyre",
+        "matches": true,
+        "sha256": "437d68e4ddd4d62d506e9248d4f24cacf4e3032a4a3b8dbdfe728e3161357d58"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/tx_upload.png.phyre",
+        "matches": true,
+        "sha256": "de4d8be040fbc7688ce731706249ebd0e78310789cfd793e9bb2112e36c98ecd"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/class_tx/tx_15_s.png.phyre",
+        "matches": true,
+        "sha256": "50aad5ad4a08d46e0d0ef0b8a2035b3b425fbac84bc9da528c26fd53ebc3d203"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/class_tx/tx_25_b.png.phyre",
+        "matches": true,
+        "sha256": "b9d56ed18a241597102eb90dcad70cc9bfdaf79babd85a9e64ca32a1795129c6"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/tx_exchange.png.phyre",
+        "matches": true,
+        "sha256": "c99eb42fa436b61e186a2d28bba0a58e78b114f21e37683afaf35cfbb694bd25"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/tx_set.png.phyre",
+        "matches": true,
+        "sha256": "1014e080395b36bf526bf5e45a8f6fe777ba8325ec4acb541807114743f8637f"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/tx_playback.png.phyre",
+        "matches": true,
+        "sha256": "d08f9c10784865de1aa454ba1e61f7735e9368592b3f56e61a8bc82488e37a12"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/class_tx/tx_06_b.png.phyre",
+        "matches": true,
+        "sha256": "2a310cfcdcee15b46543192326d0f30f8660119a304c3701c737b8968be63e55"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/tx_controller.png.phyre",
+        "matches": true,
+        "sha256": "e8205cd6553dacaa13ceb548b7f3f18a414882af4b282d12c3bf60a64f00ded5"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/tx_download.png.phyre",
+        "matches": true,
+        "sha256": "edbcc06737546915ff14ee41fa20eeb40a4f5c54dcfbe6542073c92f17b83607"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/tx_depot.png.phyre",
+        "matches": true,
+        "sha256": "ec1340e3d8378684ec744f33956c2f6855027c094ff20808e89c1c1dc5e47e77"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/class_tx/tx_16_s.png.phyre",
+        "matches": true,
+        "sha256": "1dcb1153ffd04f093f8e358a1b1b1301da8569cf31464bf509cfd3ee4f6ece94"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/class_tx/tx_10_b.png.phyre",
+        "matches": true,
+        "sha256": "62ba562245e16f7e64e6bac4acb4704eef78455f71a0031a4d9f39f46a7737eb"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/tx_perks.png.phyre",
+        "matches": true,
+        "sha256": "d4146bc6d4c9607388c64fbe761e7cd11b6b202d703371930393366505897514"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/tx_ex.png.phyre",
+        "matches": true,
+        "sha256": "d57cef11044cce91ce25602f865bc00ef39a6d77b655d366f6ea6a265b5404e3"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/class_tx/tx_20_s.png.phyre",
+        "matches": true,
+        "sha256": "3938584b2c29032d57b9c73941e22d3048956daf62d9d5188c9ed6ab15ad5c33"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/class_tx/tx_07_b.png.phyre",
+        "matches": true,
+        "sha256": "028733c3cae1e63f62cdafcec6e3b6cdce84c0361a8a6add14aead5a7e619e2f"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/tx_record.png.phyre",
+        "matches": true,
+        "sha256": "3f4f41e8b44261b449dc92a45c025e94cd7c4b9b3f817a8a2466891a64cd7928"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/class_tx/tx_01_s.png.phyre",
+        "matches": true,
+        "sha256": "60761d8e604a2b864568faeee8833e263f92d657b156e0860131d61bbd95e11e"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/class_tx/tx_17_s.png.phyre",
+        "matches": true,
+        "sha256": "b0ceda21720270df765379708c06272ee6077f46cc2215191f52aa45bfcf6f83"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/class_tx/tx_11_b.png.phyre",
+        "matches": true,
+        "sha256": "01496b5e8153596a53ab5e4a3252288ea21af8eedab6838826208c2d61f0555c"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/tx_comment.png.phyre",
+        "matches": true,
+        "sha256": "3bdc5f0af574f264b280374e7c86b94ff8f00456fff178cf2b127c3bcd524b27"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/tx_operation_b.png.phyre",
+        "matches": true,
+        "sha256": "41cc5ecbe1364c56f701ef3549bac6b3c44a8e83006a6a1a79215422e8f98946"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/keyboard/tx_random_select.png.phyre",
+        "matches": true,
+        "sha256": "d5e3f8a7623fb7589b8ee5a1ad6d97855628825af114c873f6c6de1df675f0b7"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/tx_replay.png.phyre",
+        "matches": true,
+        "sha256": "b4405ed9e2ee984bbdee7964dc47af75453235c37c64338ae3364ad9285e94c6"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/class_tx/tx_21_s.png.phyre",
+        "matches": true,
+        "sha256": "c4b4ee115d58bda9b7ab7f9566b463dc692101870d0f57fbca6745e40d302432"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/class_tx/tx_08_b.png.phyre",
+        "matches": true,
+        "sha256": "524ef05f4c4fa25f86cd81805767b6334bf6bafe68b12067bfb633f48cf98d35"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/keyboard/tx_delete_select.png.phyre",
+        "matches": true,
+        "sha256": "9350e2e5617379fc0b03661fd289b717184f65132bfd0190b2a076b121b179cc"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/class_tx/tx_02_s.png.phyre",
+        "matches": true,
+        "sha256": "e42101c49430d5c010e682e9b7947c5f6070672bd8cce421e29db7d02ef23630"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/class_tx/tx_18_s.png.phyre",
+        "matches": true,
+        "sha256": "88e8c5a1e0dff267581af0221bc74727f5bd9bc63a52a5a4d989f6eb120fd838"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/tx_castle.png.phyre",
+        "matches": true,
+        "sha256": "0832f0f1635778de17f8f01387cc0912c85c4bb1413d70b9dceccf5d53d7a18e"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/class_tx/tx_12_b.png.phyre",
+        "matches": true,
+        "sha256": "0f4cfd20be4738a37fd240082d217c19055a58aa1285560eb08ef260f2eefaf5"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/tx_vs.png.phyre",
+        "matches": true,
+        "sha256": "bc5163ef1edf0ab9dca5e19b6141b57127da0bbb3013d59ead553daa8ed5f603"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/tx_special.png.phyre",
+        "matches": true,
+        "sha256": "ab814797abf204da20aa89dfe7f96ce6a9d7e72bcfd24879e940ee6a27a8e233"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/tx_offcampaign.png.phyre",
+        "matches": true,
+        "sha256": "93b15c5856d0bae9ad4b7d829c9256ee28653b25b3f6e92a3f44846ece67ac12"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/class_tx/tx_22_s.png.phyre",
+        "matches": true,
+        "sha256": "a677bf3109de818017207cb39b641edb840d4ae7ee565ce9e964cacb6704a8e2"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/tx_special2.png.phyre",
+        "matches": true,
+        "sha256": "6ded0872ef5236faf49afe4ffedfe637e5038fb6798f4829168c0a9b88c8e713"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/class_tx/tx_09_b.png.phyre",
+        "matches": true,
+        "sha256": "ac55e0f0027d2b29dec0cf4e6f9875dacbed9a1bab8ecc25823c4cfff52a8445"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/keyboard/tx_delete_def.png.phyre",
+        "matches": true,
+        "sha256": "ab17d55f6fcc6e05c4fa1885c876f1760b58f114f79c6f9b9f9a8920f4740b1c"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/keyboard/tx_fix_def.png.phyre",
+        "matches": true,
+        "sha256": "243dcf713b72a1cb798af2e8f16ce3363d525f273d8cedd0a132ce9ed0ca7d64"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/tx_epilogue.png.phyre",
+        "matches": true,
+        "sha256": "802bb22d973e6c8f4ca8bbb517da1a12d6f9ed51b3311c8defdaa2167cd952c9"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/keyboard/tx_key_small_letter_off.png.phyre",
+        "matches": true,
+        "sha256": "4a815aa449a6b4d6c8e707d2837055913c8bc45f18d73826a094a07cd3715208"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/tx_sound.png.phyre",
+        "matches": true,
+        "sha256": "1ce197c5b3374f99aa7d25579e3b5b5f55d686f1641a3b61a526bf79e374dd27"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/class_tx/tx_03_s.png.phyre",
+        "matches": true,
+        "sha256": "27089b48d8533e47ed1f80d4cb07b7bfc173b231cf58ff57d5a8df8db1ceae90"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/class_tx/tx_19_s.png.phyre",
+        "matches": true,
+        "sha256": "28420c278e4df3b8076aad607c338b63265143be53960b72100ad1bacb992dd0"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/tx_operation_a.png.phyre",
+        "matches": true,
+        "sha256": "33a52f74bac967302d649b1e0e905ba5442c5572efd318f056ebc2f5afc8fe2d"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/class_tx/tx_13_b.png.phyre",
+        "matches": true,
+        "sha256": "b025c79f1a799adbb93716490a5825543eceab25189710d0ecbc547ff5cdd3d4"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/tx_system.png.phyre",
+        "matches": true,
+        "sha256": "4ff4631691f9d93fcfc22504a91f48d511ec41eff73404d34e4c5dc8ea79dee9"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/tx_name.png.phyre",
+        "matches": true,
+        "sha256": "24d11431c2b75e65f69eba709c17c16af98ddada0e3e00746bed23e011cb21d8"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/class_tx/tx_23_s.png.phyre",
+        "matches": true,
+        "sha256": "483207bd3bdd128b5b169bc8f40fe4f3964eaf169a031c65bf78b44fbdfe99a6"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/tx_newclass.png.phyre",
+        "matches": true,
+        "sha256": "47d7bce65b3d9a6cbdfe19d0c77149702eb890c72036094ee62947209ee34490"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/tx_bgm.png.phyre",
+        "matches": true,
+        "sha256": "19c8331e28b5e8cb22c8279e0cc3c0217b5fc16265196b29bf11eaef5023a2d5"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/tx_chara.png.phyre",
+        "matches": true,
+        "sha256": "1878d5bc249ff7418559623ab8e233d2a4bcc42e6057d21c7557ebae7fcecd1b"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/class_tx/tx_04_s.png.phyre",
+        "matches": true,
+        "sha256": "0512afc128aea9366a5417001934dffbd461485f92f200cff761c60439ec0ffd"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/class_tx/tx_14_b.png.phyre",
+        "matches": true,
+        "sha256": "11bd0466afd2eeb7ad691a9d2032571271974839a27d42f12d2708d0823e92c7"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/tx_operate.png.phyre",
+        "matches": true,
+        "sha256": "4ad40ca10a1eca25e4744cc2de59be5ca5846a96f4818e333f88d9d1f9959b7f"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/tx_load.png.phyre",
+        "matches": true,
+        "sha256": "4268b839d0c772ccafedd4c1154f128c97cd86ad0b95f4c467226a3eb8202a35"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/keyboard/tx_key_small_letter.png.phyre",
+        "matches": true,
+        "sha256": "d4a122daf8e394f09c457176c70d91e2fabc6402496b793163c1f3b4ab1181aa"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/tx_appoint.png.phyre",
+        "matches": true,
+        "sha256": "dad0d6c6870043da26a2ca1d0ed9993947e3e4d7c391dc838716fd0f8a3cc4fa"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/tx_history.png.phyre",
+        "matches": true,
+        "sha256": "9f006fe274ccdea9a48ea6acc683f692959bc42b4477434b0cd15ad78ba17dad"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/class_tx/tx_24_s.png.phyre",
+        "matches": true,
+        "sha256": "5559118436f06eb8c50a3ebe7a887cc6165ea03de45bf03b0569fdfaaf7f4a5f"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/tx_wait.png.phyre",
+        "matches": true,
+        "sha256": "b2b62ca75dfe148e88420e5e565f81a8287f2497d689ce0d58bb1f93e9d0e987"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/tx_campaign.png.phyre",
+        "matches": true,
+        "sha256": "86771377ddc60d652d22f996c2df54f6d929e2e3ed6affa22be86e5200133519"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/tx_recorder.png.phyre",
+        "matches": true,
+        "sha256": "5cdb406e75dc5cf4c90fe6734600790b899b3f8cee4687dcaab7d1285d61c143"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/tx_medal.png.phyre",
+        "matches": true,
+        "sha256": "c82fb6e3443a126cacbd5b1adde7ebf0200c7a36ab93e2f5bbae7f17223709fd"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/class_tx/tx_05_s.png.phyre",
+        "matches": true,
+        "sha256": "e9c7dbcd71f1e94f08ef143e7e47238e961fba152430bda0551413050ebc2582"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/tx_option.png.phyre",
+        "matches": true,
+        "sha256": "59c75a7dfe1ca804ff228c4d05217f04d4c31c995de5026fd7c3f6023b84d2fe"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/class_tx/tx_15_b.png.phyre",
+        "matches": true,
+        "sha256": "b9a58538e151091c9a4f5d986ef565fbe290ba524d095bb33ddf897124868806"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/tx_resident.png.phyre",
+        "matches": true,
+        "sha256": "782dbee746ad4ff03b254fc1bf092287b54334e369aa8542871c330d611a0cbd"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/class_tx/tx_25_s.png.phyre",
+        "matches": true,
+        "sha256": "cfbd3d4bbe39dd00f37f9d9521642dc095a3f73ca0637439c75eca12cf769be8"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/tx_result.png.phyre",
+        "matches": true,
+        "sha256": "da4c4a7defd3e6531bfbed71b2a78123250670bcd0cb9d415c3d4d138c3625c1"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/class_tx/tx_06_s.png.phyre",
+        "matches": true,
+        "sha256": "d5f68cfad752d6678ab42c9a45b6d94ccf837f4bd048a7fe5f7a7c6173f10723"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/tx_limit.png.phyre",
+        "matches": true,
+        "sha256": "467b09c60b6f056f7aa77238cc25d059031c916f93519fc621829d2d5bc1b6ef"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/tx_keyboard.png.phyre",
+        "matches": true,
+        "sha256": "f3f8fbfb7dff93d77ac73a130ac58f2355f4162b353b8a3bba75d33927fc60e9"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/class_tx/tx_16_b.png.phyre",
+        "matches": true,
+        "sha256": "4475c2774c9d16d312af3f33f2ee119c2f7b374a3edcc3f0f875faf5d33b9df1"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/tx_ready.png.phyre",
+        "matches": true,
+        "sha256": "b53aae3d1f08486856d6e4400403abe4f94442ee6738ce5710e27dcb48cfc38e"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/tx_save.png.phyre",
+        "matches": true,
+        "sha256": "728ed9fc6dc1828bb6719addd3cf003ca6886d1818646390e1f602df8f352ca1"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/class_tx/tx_10_s.png.phyre",
+        "matches": true,
+        "sha256": "2308613985a968f2147e3b12424577fdecd74fa676e78d4b8b50295c19b65196"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/tx_memory.png.phyre",
+        "matches": true,
+        "sha256": "dc67df4966018445a07bd8e66986cd7f17474ffec24cfaee64c812dae238e0fb"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/class_tx/tx_20_b.png.phyre",
+        "matches": true,
+        "sha256": "360d2d30604a9dae34a347a2d8b1add99e7fc43b9480b6a5f35c651dfb357f89"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/class_tx/tx_07_s.png.phyre",
+        "matches": true,
+        "sha256": "7cda10b2ba4dbe4a9962f468e64e0b13f6bb9718ca968b9da6e1f5373c345485"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/class_tx/tx_01_b.png.phyre",
+        "matches": true,
+        "sha256": "697afca2368a206264aaa08cb760fb27ce4eefc426e839c9da4404fd57035c04"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/class_tx/tx_17_b.png.phyre",
+        "matches": true,
+        "sha256": "6df6737919eb68e1142ee9fe36616a2f3aadefcbe1d81a3e6a6942d3aaee70e4"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/tx_data.png.phyre",
+        "matches": true,
+        "sha256": "b17d94bfa25dff47ee27a52e59c6b4880513df9fa3c8b3c39b4f759bf07ba721"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/tx_picture.png.phyre",
+        "matches": true,
+        "sha256": "31a026ccf3bb8e825291b34c1cc98911295653e20fcbc9a8168cb63af5ce7f1a"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/class_tx/tx_11_s.png.phyre",
+        "matches": true,
+        "sha256": "94e52e1eba65326d48a0cb44ec0b56d63faa0ea27446e1597cfd781a01d67189"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/keyboard/tx_fix_select.png.phyre",
+        "matches": true,
+        "sha256": "68247b24d6d026661a6e1ff82a963951dee16b40fc6f6d29723e1ee16465faf6"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/class_tx/tx_21_b.png.phyre",
+        "matches": true,
+        "sha256": "1f15711782699b6c86599f7bc3674455e0b2a30356235d9376d71029cc97ded1"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/tx_class.png.phyre",
+        "matches": true,
+        "sha256": "bbbc7cb37ec90028bc09f8c80b0bf8cb1effc6358a84f8358747e52136428f87"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/class_tx/tx_08_s.png.phyre",
+        "matches": true,
+        "sha256": "1f068164c7a5d41538b90b782ad1a1baed05e75e21ae8fb57a5405a63226d067"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/class_tx/tx_02_b.png.phyre",
+        "matches": true,
+        "sha256": "21348cf5024354ccbef3eea093f4a561ff15ca7371c92701c2f1411955e0c5b0"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/class_tx/tx_18_b.png.phyre",
+        "matches": true,
+        "sha256": "1a081791086e456f7812ee37aaf70d277a7b9166f36f9c887407858bd2d6a784"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/tx_world.png.phyre",
+        "matches": true,
+        "sha256": "cb380f90dbd4e7b50761512dba45292fa7f66664bd5a751fabee53e6396a3cec"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/tx_random.png.phyre",
+        "matches": true,
+        "sha256": "071dfc67a6f2a80c0f76f2f1de441b2b07b94780c2e864d0736242abab562c00"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/class_tx/tx_12_s.png.phyre",
+        "matches": true,
+        "sha256": "63026a34bb78b1545e524a375e436f9b1ffbd955bfca97fd1d4b84f077360aee"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/keyboard/tx_random_def.png.phyre",
+        "matches": true,
+        "sha256": "cadffec993f0cc9fbee8c0db114c8d7b3bf515fac0e600adbc87257cf2f37d8f"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/class_tx/tx_22_b.png.phyre",
+        "matches": true,
+        "sha256": "ef8e712305654bb10349676d393eea8971076035f69384c35d27978eacf000ae"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/tx_winner.png.phyre",
+        "matches": true,
+        "sha256": "000c116484b58fba9f7f9b33405192eeeec799a39ec2d106406ab8b5e389b75a"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/keyboard/tx_cancel_select.png.phyre",
+        "matches": true,
+        "sha256": "57cf681634af567af625e0071b6e2b41875001e6d957d47f6574a33708bd7308"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/tx_newperks.png.phyre",
+        "matches": true,
+        "sha256": "62dd3866ad589688073bf2d0886162f02d931dc20b27b5ffe926f29588e763ec"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/tx_playback02.png.phyre",
+        "matches": true,
+        "sha256": "3b2439aa75a09e80216b32ef9c15beeb04a1e4f7cd211c89cc8df46c45342931"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/class_tx/tx_09_s.png.phyre",
+        "matches": true,
+        "sha256": "ca93e96db723f3ec3f65bbee644ce4c9673c29befc6587d43043c1788b75a178"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/tx_vs2.png.phyre",
+        "matches": true,
+        "sha256": "78012096284fee98f9c4e779b0f8478dddde9ac962a2eebec33a0081c7c58df5"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/class_tx/tx_03_b.png.phyre",
+        "matches": true,
+        "sha256": "230c41ed60c3a24cbb3dd0f75648acfdd46e4820ae3a7bd9345bf0b4f2cfc94e"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/class_tx/tx_19_b.png.phyre",
+        "matches": true,
+        "sha256": "5f1b0139cde8a0fdbe9f8b50824be04da9d5a656a0e2bb23a693ab2964b574ea"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/class_tx/tx_13_s.png.phyre",
+        "matches": true,
+        "sha256": "b8678b374ea8dc58bdd76eb81bbf013d8dd365373f3ae7026065170ec8426303"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/tx_replay02.png.phyre",
+        "matches": true,
+        "sha256": "ce70f47a2a13a67982e83a582d5512c822e256508df4de0fcf66f00a5634b7c4"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/ready/class_tx/tx_23_b.png.phyre",
+        "matches": true,
+        "sha256": "005843916e4207369dba4c536a55c6848e499b4b8919e3fd838073226bd160f3"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/result/tx_totalget_stone_vs.png.phyre",
+        "matches": true,
+        "sha256": "76a271eb48e7defd1d1dac26800119e65da9c37e234aa9295aa7ab98c2b56793"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/result/tx_stoneunit_s.png.phyre",
+        "matches": true,
+        "sha256": "fba6a2c8bce82efef3ba4a8909ccf16595e45114057dc6fd68966ae757d2260c"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/result/tx_stoneunit_l.png.phyre",
+        "matches": true,
+        "sha256": "751202b8c92754ce5443afc4ed00a3f5752de7d606f88c0e7ff88685e4854fed"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/result/tx_totalget_stone.png.phyre",
+        "matches": true,
+        "sha256": "fcf5989d218194e3d181ec515e5552494ae1fc1590c0f57d4ae00464929f1b03"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/title/tx_exit.png.phyre",
+        "matches": true,
+        "sha256": "442a505307f54caf68f7f900ec5feaff36791e44d2686a3e084934586565b992"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/title/tx_start.png.phyre",
+        "matches": true,
+        "sha256": "50ff537a7c6b54c8d62b7bf61c7c74d2bf28f8e66cb11b77c861ceb4ae9e3297"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/title/tx_press_steam.png.phyre",
+        "matches": true,
+        "sha256": "fbb6cecdc683f844c08c783a1a831d349b2b72ba1297daf6e394bd38e6e4ef51"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/title/tx_new.png.phyre",
+        "matches": true,
+        "sha256": "d78cb474c0d9ff8cdb8e75e690a426160f2c4b0fa009ed31bc6ac308b6d54024"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/title/tx_press.png.phyre",
+        "matches": true,
+        "sha256": "ae7ed4f258e2d298440fa264b924643f70d36b2131c4200169bb3385206b34ad"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/title/tx_option.png.phyre",
+        "matches": true,
+        "sha256": "f58386065876df4a28866d6cee4004591896e467bc04370aacb4869e5773d131"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/title/tx_vs.png.phyre",
+        "matches": true,
+        "sha256": "c178966a8dd13b3825904b0d2d0e25cdca4e877045b284190d6311112f29e626"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/title/tx_extra.png.phyre",
+        "matches": true,
+        "sha256": "a7ec405a3015160e5154f26ba2ac421c5253cdecfe15f4463f099693db802c76"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/title/tx_continue.png.phyre",
+        "matches": true,
+        "sha256": "0b9d958230030dbd3d4b36826c20a2b7dcdba05e6ddcbad04f186479fffeacbe"
+      },
+      {
+        "name": "d3d11/data/systemgra/sc_ui/title/tx_playable.png.phyre",
+        "matches": true,
+        "sha256": "bc5ec94abed0e110ff3e99c0e657544b297aaee5339e8fb09df8ca38f5fa341b"
+      },
+      {
+        "name": "d3d11/common/text/win32-skip-std-b-24.fgen.phyre",
+        "matches": true,
+        "sha256": "93ab09dc842b5c99653eb686575437918d93e4c7d985436e97e75dddca3181dd"
+      },
+      {
+        "name": "d3d11/common/text/win32-seurat-pro-m-14.fgen.phyre",
+        "matches": true,
+        "sha256": "079e6d7fd61a971727bbd41efb8103ffc5b997b867b24dc3c44e67b52706881d"
+      },
+      {
+        "name": "d3d11/common/text/win32-skip-std-d-16.fgen.phyre",
+        "matches": true,
+        "sha256": "9175c5f76f0fc16e6a563dac007d183cbb98d8defbbb8f542d86e9716d6068c9"
+      },
+      {
+        "name": "d3d11/common/text/win32-skip-std-b-18.fgen.phyre",
+        "matches": true,
+        "sha256": "826d4f8e0554290431e55b58081338d0959c6d2c22c06ce83da4e6a0af4430f5"
+      },
+      {
+        "name": "d3d11/common/text/win32-seurat-pro-db-12.fgen.phyre",
+        "matches": true,
+        "sha256": "1530ff5babf37d6e0b6b3e98bcdfcfb2d7ce722d5cefd98a99236e91c516ffb0"
+      },
+      {
+        "name": "d3d11/common/text/win32-skip-std-b-20.fgen.phyre",
+        "matches": true,
+        "sha256": "9327d18777bf88d29aae3af095205936e35236a4374c01b3ba2599d3d1cdcdc3"
+      },
+      {
+        "name": "d3d11/common/text/win32-seurat-pro-m-20.fgen.phyre",
+        "matches": true,
+        "sha256": "b3e3532f1572179ac9432d35ecaef69f7f54abea26763b8c3d47bff22396080b"
+      },
+      {
+        "name": "d3d11/common/text/win32-seurat-pro-m-16.fgen.phyre",
+        "matches": true,
+        "sha256": "092ee1b692e11f6271bf6463ee2748239ecbdfc831ac5c40ce8a317644abc886"
+      },
+      {
+        "name": "d3d11/data/basicdata/commonevent.dat",
+        "matches": true,
+        "sha256": "781bfbec2e6ab2abdee87ba19ea7c1a7a9b3ec4d681fb3137c2193af2a61e9de"
+      }
+    ],
+    "fonts": [
+      {
+        "name": "d3d11/common/text/win32-skip-std-b-24.fgen.phyre",
+        "missing_characters": "",
+        "covers_demo_text": true
+      },
+      {
+        "name": "d3d11/common/text/win32-seurat-pro-m-14.fgen.phyre",
+        "missing_characters": "",
+        "covers_demo_text": true
+      },
+      {
+        "name": "d3d11/common/text/win32-skip-std-d-16.fgen.phyre",
+        "missing_characters": "",
+        "covers_demo_text": true
+      },
+      {
+        "name": "d3d11/common/text/win32-skip-std-b-18.fgen.phyre",
+        "missing_characters": "",
+        "covers_demo_text": true
+      },
+      {
+        "name": "d3d11/common/text/win32-seurat-pro-db-12.fgen.phyre",
+        "missing_characters": "",
+        "covers_demo_text": true
+      },
+      {
+        "name": "d3d11/common/text/win32-skip-std-b-20.fgen.phyre",
+        "missing_characters": "",
+        "covers_demo_text": true
+      },
+      {
+        "name": "d3d11/common/text/win32-seurat-pro-m-20.fgen.phyre",
+        "missing_characters": "",
+        "covers_demo_text": true
+      },
+      {
+        "name": "d3d11/common/text/win32-seurat-pro-m-16.fgen.phyre",
+        "missing_characters": "",
+        "covers_demo_text": true
+      }
+    ],
+    "runtime_display_verified": false,
+    "runtime_test_owner": "user",
+    "note": "Read-only audit. In-game display and layout remain unverified."
+  },
+  "final_original_files_verified": true
+}

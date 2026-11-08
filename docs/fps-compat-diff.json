@@ -1,0 +1,80 @@
+{
+  "version": "0.3.6-fps-compat",
+  "baseline": "0.3.5-trophy-fix",
+  "unchanged_resource_count": 202,
+  "all_output_bin_hashes_identical": true,
+  "output_files": [
+    {
+      "path": "D3D11/Data/archive.bin",
+      "size": 558756,
+      "sha256": "a7d1ead9295653fc52c06edcf4c937969beaa5d1d78db1495e751f57b71c6c35"
+    },
+    {
+      "path": "D3D11/Data/data0000.bin",
+      "size": 30027344,
+      "sha256": "dc57c39386f9906287119eae3a380adbd4338c229d0c0e3f65e612fe11e392df"
+    },
+    {
+      "path": "D3D11/Data/data0100.bin",
+      "size": 18976,
+      "sha256": "c62c795a93b8035d48e150ef3c6b78ce05a07f250da32fe4aecb465e931a724b"
+    },
+    {
+      "path": "D3D11/Data/data0200.bin",
+      "size": 10091200,
+      "sha256": "a377bf25673015e37ceafce9e92ed71bf929dc6249b7f7cef3981a02031ee52c"
+    },
+    {
+      "path": "D3D11/Data/data0500.bin",
+      "size": 1064672,
+      "sha256": "089f5d408c4f8b54c1af3841d3e5402c6a34f5acc61c32979cb6e6e485caffbc"
+    },
+    {
+      "path": "D3D11/Data/data1103.bin",
+      "size": 399754080,
+      "sha256": "140acfdefdc7dcbedcd2b6b5c7e741975cd9bce9df5099036bad9b2a150bb6ed"
+    },
+    {
+      "path": "D3D11/Data/data1104.bin",
+      "size": 1084049504,
+      "sha256": "d680d57c242dc1a279eda62dd632bd212cfbcff02f19445550cc853a17d282cc"
+    },
+    {
+      "path": "D3D11/Data/data1105.bin",
+      "size": 1421392,
+      "sha256": "6daf14df1a2a5b3d4ab2fd7eb9f70bd6dab68eeff529146d5c142e9bbb9ac0d3"
+    },
+    {
+      "path": "D3D11/Data/data1106.bin",
+      "size": 739840,
+      "sha256": "8ed6a027a0aff393119519d62705ec5119f57414bcdbdb84e4fba0764c8a8c48"
+    },
+    {
+      "path": "D3D11/Data/data1107.bin",
+      "size": 5217712,
+      "sha256": "dea09cc5d308802a9830c4b2055c4bb4e9eb894a1e901c0247fd8e547d2f3354"
+    },
+    {
+      "path": "D3D11/Data/data1108.bin",
+      "size": 5090304,
+      "sha256": "149e6f3c8b39b3bb2de0127764daf2ea3d62435a38d8e222fcbd53296ce5966a"
+    },
+    {
+      "path": "D3D11/Data/data1109.bin",
+      "size": 15539216,
+      "sha256": "e20c48d93e302daad090939932c8516a572bca867e2c6b4c89a28af8bf875ab3"
+    },
+    {
+      "path": "D3D11/Data/data1200.bin",
+      "size": 49440,
+      "sha256": "546235327b81a83318843fc266da858c99e4ca3e85f56894cfa8e9edaa9075f0"
+    }
+  ],
+  "compatibility": {
+    "original_sha256": "d0e7cb34119313a61bef149517d29b3adb886c37456d21b2c2301a38338f1e5e",
+    "user_60fps_v1.0.0_sha256": "001ade6dde612c93968009ac71a62070b1222e69bbe07f6201c0d1c942211548",
+    "installer_writes_executable": false
+  },
+  "actual_game_or_save_files_modified": false,
+  "game_started": false
+}

@@ -13,6 +13,7 @@ from fonts import inspect
 from install_local import safe_path
 from resources import Archive, GAME, PROJECT, sha256
 from release_config import RELEASE_FOLDER
+from game_compat import EXE_NAME, executable_state
 
 
 def file_state(path: Path, original_hash: str, patched_hash: str | None = None):
@@ -31,7 +32,7 @@ def file_state(path: Path, original_hash: str, patched_hash: str | None = None):
 def installation_state(rows):
     guards = [row for row in rows if not row["patch_target"]]
     targets = [row for row in rows if row["patch_target"]]
-    if not guards or not targets or any(row["state"] != "original" for row in guards):
+    if not guards or not targets or any(row["state"] not in {"original", "compatible"} for row in guards):
         return "unsupported_or_incomplete"
     states = {row["state"] for row in targets}
     if states == {"patched"}:
@@ -51,8 +52,9 @@ def audit(game: Path, bundle: Path):
     for entry in manifest["baseline"]["files"]:
         path = entry["path"]
         target = patched.get(path)
-        files.append({"path": path, "patch_target": target is not None,
-                      **file_state(safe_path(game, path), entry["sha256"], target["sha256"] if target else None)})
+        status = (executable_state(safe_path(game, path), entry["sha256"]) if path == EXE_NAME
+                  else file_state(safe_path(game, path), entry["sha256"], target["sha256"] if target else None))
+        files.append({"path": path, "patch_target": target is not None, **status})
     state = installation_state(files)
     originals = {f["path"]: f for f in manifest["baseline"]["files"]}
     backups = [{"path": path, **file_state(safe_path(game / ".mcowh-zh-backup", path), originals[path]["sha256"])}
