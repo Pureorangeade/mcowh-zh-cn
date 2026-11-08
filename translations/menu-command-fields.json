@@ -1,0 +1,113 @@
+{
+  "schema": 1,
+  "date": "2026-11-08",
+  "batch": "0068",
+  "baseline": "0.3.2-panel-only",
+  "scope": "12 menu syntax corrections only; all other 0.3.2 resources and text unchanged.",
+  "fields": {
+    "db/54/469/0": {
+      "source": "\\c[4]<C>Return to last screen, -1\r\n",
+      "source_sha256": "5975114e834123ecf4c035f22f85a3e607ef4af5827c92e238d321f85508a8d8",
+      "baseline_032_translation": "\\c[4]<C>返回上一画面，-1\r\n",
+      "translation": "\\c[4]<C>返回上一画面, -1\r\n",
+      "japanese": "\\c[4]<C>一つ前に戻る,-1\r\n",
+      "reason": "Restore original ASCII comma, spacing, action ID and line endings; translate label only."
+    },
+    "db/54/952/0": {
+      "source": "Pick up, 100002",
+      "source_sha256": "0f4f2915516849c7c55775a26fdec6b7d03aa94fcc6b3368eb4d2fee6a4197d0",
+      "baseline_032_translation": "拾取，100002",
+      "translation": "拾取, 100002",
+      "japanese": "拾う,100002",
+      "reason": "Restore original ASCII comma, spacing, action ID and line endings; translate label only."
+    },
+    "db/54/970/0": {
+      "source": "Equip, 100000\r\n",
+      "source_sha256": "117cf9ca8484e641efa27bb739517c080f5ba16ad2032fe87e950c040935a51a",
+      "baseline_032_translation": "装备，100000\r\n",
+      "translation": "装备, 100000\r\n",
+      "japanese": "装備,100000\r\n",
+      "reason": "Restore original ASCII comma, spacing, action ID and line endings; translate label only."
+    },
+    "db/54/971/0": {
+      "source": "Throw, 200000\r\n",
+      "source_sha256": "bc6b627eba880e4d3ed5e770325fcac03558665614d4d4e5329e2b84e642d248",
+      "baseline_032_translation": "投掷，200000\r\n",
+      "translation": "投掷, 200000\r\n",
+      "japanese": "投げる,200000\r\n",
+      "reason": "Restore original ASCII comma, spacing, action ID and line endings; translate label only."
+    },
+    "db/54/972/0": {
+      "source": "Pick up, 100002\r\n",
+      "source_sha256": "27e49a5a97f4dbd84ea1b1af270f17f739883de156637a772842e943fb6b04bb",
+      "baseline_032_translation": "拾取，100002\r\n",
+      "translation": "拾取, 100002\r\n",
+      "japanese": "拾う,100002\r\n",
+      "reason": "Restore original ASCII comma, spacing, action ID and line endings; translate label only."
+    },
+    "db/54/973/0": {
+      "source": "Throw, 200003\r\n",
+      "source_sha256": "a2447bf7356092274aa17936ae9f9b0530628fb003f4585aea47987ca81e514c",
+      "baseline_032_translation": "投掷，200003\r\n",
+      "translation": "投掷, 200003\r\n",
+      "japanese": "投げる,200003\r\n",
+      "reason": "Restore original ASCII comma, spacing, action ID and line endings; translate label only."
+    },
+    "db/54/974/0": {
+      "source": "Unequip, 100001",
+      "source_sha256": "3236d51eedd13019dbeb73d99a1080380a24697d2e338f25b4b2d5ce9b665871",
+      "baseline_032_translation": "卸下，100001",
+      "translation": "卸下, 100001",
+      "japanese": "装備解除,100001",
+      "reason": "Restore original ASCII comma, spacing, action ID and line endings; translate label only."
+    },
+    "db/54/975/0": {
+      "source": "Drop, 200001\r\n",
+      "source_sha256": "1eb3c0b1ead44db77567edc4358f12925b60c686507109d8d360ef4cc0af9dcc",
+      "baseline_032_translation": "丢弃，200001\r\n",
+      "translation": "丢弃, 200001\r\n",
+      "japanese": "置く,200001\r\n",
+      "reason": "Restore original ASCII comma, spacing, action ID and line endings; translate label only."
+    },
+    "db/54/976/0": {
+      "source": "Shortcut, 400000\r\n",
+      "source_sha256": "2dbfaf4c6bcdcad9db177fe7ca420196402d67c318d00786b4169070ba4c1df5",
+      "baseline_032_translation": "快捷栏，400000\r\n",
+      "translation": "快捷栏, 400000\r\n",
+      "japanese": "登録/解除,400000\r\n",
+      "reason": "Restore original ASCII comma, spacing, action ID and line endings; translate label only."
+    },
+    "db/54/977/0": {
+      "source": "Use, 500000\r\n",
+      "source_sha256": "6120b8e233415b1bb73f9fce3ebeca033e6dd9e82ebfae0040dbe2d18d58b217",
+      "baseline_032_translation": "使用，500000\r\n",
+      "translation": "使用, 500000\r\n",
+      "japanese": "使う,500000\r\n",
+      "reason": "Restore original ASCII comma, spacing, action ID and line endings; translate label only."
+    },
+    "db/54/978/0": {
+      "source": "Talk, 500000\r\n",
+      "source_sha256": "c7ac79a70faf2b4cc261529e9c4b6ee2b7da6465284a98a79f8067afe4fb201e",
+      "baseline_032_translation": "交谈，500000\r\n",
+      "translation": "交谈, 500000\r\n",
+      "japanese": "話す,500000\r\n",
+      "reason": "Restore original ASCII comma, spacing, action ID and line endings; translate label only."
+    },
+    "db/55/4/0": {
+      "source": "Cancel, 2\r\nContinue, -1",
+      "source_sha256": "d62975fa5a28d8b0bcc8a3bd532234ba6398f8ece73fbc97ca4aabcdf0a40688",
+      "baseline_032_translation": "取消，2\r\n继续，-1",
+      "translation": "取消, 2\r\n继续, -1",
+      "japanese": "終了する,2\r\nまだ続ける,-1",
+      "reason": "Restore original ASCII comma, spacing, action ID and line endings; translate label only."
+    }
+  },
+  "already_valid_menu_entry_ids": [
+    "db/62/1/1",
+    "db/62/3/1",
+    "db/62/4/1",
+    "db/62/5/1",
+    "db/62/42/1",
+    "db/62/51/1"
+  ]
+}

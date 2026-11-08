@@ -27,6 +27,7 @@
     "invalid controls blocked",
     "unfinished draft retained after reload",
     "source-version difference flagged with its question and retained English meaning",
+    "menu action separator corruption rejected by visible editor and export",
     "pending terminology overrides completed-model status",
     "pending question evidence shown in editor"
   ],

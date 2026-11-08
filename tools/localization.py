@@ -5,6 +5,7 @@ numbers. Machine output cannot edit commands, filenames or numeric data.
 """
 import hashlib
 import re
+from menu_syntax import validate_menu_commands
 
 PATH = re.compile(r"(?:[A-Za-z_]+/){1,}|\.(?:png|jpg|jpeg|dds|phyre|at9|ogg|wav|mid|txt|dat|bin|csv|mps)\b", re.I)
 LATIN = re.compile(r"[A-Za-z]")
@@ -54,6 +55,7 @@ def controls(text):
 
 
 def validate(source, target, *, single_argument=False, preserve_linebreaks=True):
+    validate_menu_commands(source,target)
     if '\0' in target:
         raise ValueError('NUL inside translated text')
     if runtime_placeholders(source)!=runtime_placeholders(target):

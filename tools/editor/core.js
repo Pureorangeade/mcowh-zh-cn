@@ -31,9 +31,24 @@ function tokens(text) {
   }
   return result;
 }
+function menuEntries(text) {
+  const lines=text.match(/[^\r\n]*(?:\r\r?\n|\r|\n|$)/g)||[], rows=[];
+  if(lines[lines.length-1]==='')lines.pop();
+  for(const line of lines){
+    const match=/^([^,\r\n]+)(,[ \t]*[+-]?[0-9]+[ \t]*(?:\r\r?\n|\r|\n)?)$/.exec(line);
+    if(!match)return null;
+    rows.push([match[1],match[2]]);
+  }
+  return rows.length?rows:null;
+}
 function validateEdit(item, target) {
   if (typeof target !== 'string' || !target.trim() || target.length > 40000) return '译文不能为空或过长。';
   if (target.includes('\0')) return '译文中有无效的空字符。';
+  const menu=menuEntries(item.source);
+  if(menu){
+    const translated=menuEntries(target);
+    if(!translated||JSON.stringify(menu.map(r=>r[1]))!==JSON.stringify(translated.map(r=>r[1])))return '菜单配置中的英文逗号、空格、内部编号和换行必须保持原样，只能修改选项文字。';
+  }
   const placeholders=t=>[...t.matchAll(/(?<![A-Za-z0-9_])(?:Lvnum|num)(?![A-Za-z0-9_])/g)].map(m=>m[0]);
   if(JSON.stringify(placeholders(item.source))!==JSON.stringify(placeholders(target)))return 'num 或 Lvnum 是运行时替换标记，请保留原样。';
   if (item.locked && target !== item.source) return item.internal_command?'此条为程序指令，必须保留原样。':'此条按你的偏好保留英文缩写。';
@@ -90,4 +105,4 @@ function restoreDraft(payload, byId) {
   }
   return edits;
 }
-if (typeof module !== 'undefined') module.exports = {tokens, validateEdit, normalizeInput, parseRevision, restoreDraft, parseReviewDecisions};
+if (typeof module !== 'undefined') module.exports = {tokens, validateEdit, normalizeInput, parseRevision, restoreDraft, parseReviewDecisions, menuEntries};

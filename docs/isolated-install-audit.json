@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "patch_version": "0.3.2-panel-only",
+  "patch_version": "0.3.3-menu-fix",
   "installation_state": "installed",
   "installed_content_verified": true,
   "original_backups_verified": true,
-  "bundle_sha256": "b5b7a8b86dd2a02f1d783c1b31f0aadbcbac4bd47e358b1c48ee645153e2debf",
+  "bundle_sha256": "f76effb177e0244f6523bf12bfc8287816880ca86b0f8fd178cce4b039d8daba",
   "files": [
     {
       "path": "MC_OneWayHeroics.exe",
@@ -16,7 +16,7 @@
       "path": "D3D11/Data/archive.bin",
       "patch_target": true,
       "state": "patched",
-      "sha256": "b0545a390af8ca205d577f177b4555224f959b0ab0b49a9d1791cf2d4b7f2173"
+      "sha256": "ccd0070c504429faf032ac554935dc6e2ca7671a8adee88cf95ee9fbb92c1326"
     },
     {
       "path": "D3D11/Data/data0000.bin",
@@ -34,7 +34,7 @@
       "path": "D3D11/Data/data0200.bin",
       "patch_target": true,
       "state": "patched",
-      "sha256": "a864982156146df0e449fa134971cbf0c0801ace8040bf7a1becaf209f3c1271"
+      "sha256": "eb6c1a81256e4988ea63f851b59c828da16ae6b58c72a69a731ad237e9410c78"
     },
     {
       "path": "D3D11/Data/data0500.bin",
@@ -162,7 +162,7 @@
     {
       "name": "d3d11/data/basicdata/database.dat",
       "matches": true,
-      "sha256": "5cb175c0b51cc391abdd65fdbd0b70a00af1dca1c8a6c1c0c424f2386b3a366a"
+      "sha256": "bf54eb6676d8fbb255b0bd80c02a8d9185049fae6879e58318cf50cad1f67ee4"
     },
     {
       "name": "d3d11/data/event/event.pack",

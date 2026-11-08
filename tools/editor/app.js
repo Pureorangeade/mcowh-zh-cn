@@ -63,7 +63,7 @@ function select(item) {
   $('reviewNote').textContent=(deferredEntry(item)?'整条暂缓：保留中文草稿；合入后构建使用英文原文。':'')+pendingFor(item).map(q=>'待你判断：'+q.question+' 候选稿保留，尚未记录为用户决定。').join(' ')+issuesFor(item).map(q=>q.scope==='source_difference'?'英日差异：'+q.question+' 当前沿用英文版含义，留待最后终审。':'术语 '+q.term+' 暂保留英文，留待最后终审。').join(' ');
   $('section').textContent=item.category;$('state').textContent=stateLabel(item);
   $('location').textContent=item.location+'\n'+item.id;
-  $('controlTokens').textContent='需保留：'+(tokens(item.source).join('  ')||'无控制标记');
+  $('controlTokens').textContent='需保留：'+(tokens(item.source).join('  ')||'无控制标记')+(menuEntries(item.source)?'；菜单配置：保留末尾英文逗号、空格、编号和换行，只修改选项文字。':'');
   updateValidation();refreshPreview();rowList();
 }
 function updateValidation() {

@@ -99591,12 +99591,12 @@
       "id": "db/54/469/0",
       "source_sha256": "5975114e834123ecf4c035f22f85a3e607ef4af5827c92e238d321f85508a8d8",
       "source": "\\c[4]<C>Return to last screen, -1\r\n",
-      "translation": "\\c[4]<C>返回上一画面，-1\r\n",
-      "previous_translation": "\\c[4]<C>返回到最后一个屏幕, -1\r\n",
+      "translation": "\\c[4]<C>返回上一画面, -1\r\n",
+      "previous_translation": "\\c[4]<C>返回上一画面，-1\r\n",
       "translation_method": "current_online_chat_llm",
       "review_status": "llm_translated",
       "human_reviewed": false,
-      "batch": "0016",
+      "batch": "0068",
       "japanese_check": {
         "text": "\\c[4]<C>一つ前に戻る,-1\r\n",
         "availability": "verified_display",
@@ -99610,7 +99610,8 @@
         "hint_origin": "English build database.project internal labels",
         "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
       },
-      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "supersedes_batch": "0016"
     },
     {
       "id": "db/54/470/0",
@@ -102241,12 +102242,12 @@
       "id": "db/54/952/0",
       "source_sha256": "0f4f2915516849c7c55775a26fdec6b7d03aa94fcc6b3368eb4d2fee6a4197d0",
       "source": "Pick up, 100002",
-      "translation": "拾取，100002",
-      "previous_translation": "接电话 100002",
+      "translation": "拾取, 100002",
+      "previous_translation": "拾取，100002",
       "translation_method": "current_online_chat_llm",
       "review_status": "llm_translated",
       "human_reviewed": false,
-      "batch": "0016",
+      "batch": "0068",
       "japanese_check": {
         "text": "拾う,100002",
         "availability": "verified_display",
@@ -102260,18 +102261,19 @@
         "hint_origin": "English build database.project internal labels",
         "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
       },
-      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "supersedes_batch": "0016"
     },
     {
       "id": "db/54/970/0",
       "source_sha256": "117cf9ca8484e641efa27bb739517c080f5ba16ad2032fe87e950c040935a51a",
       "source": "Equip, 100000\r\n",
-      "translation": "装备，100000\r\n",
-      "previous_translation": "艾维普 Equip, 100000\r\n",
+      "translation": "装备, 100000\r\n",
+      "previous_translation": "装备，100000\r\n",
       "translation_method": "current_online_chat_llm",
       "review_status": "llm_translated",
       "human_reviewed": false,
-      "batch": "0016",
+      "batch": "0068",
       "japanese_check": {
         "text": "装備,100000\r\n",
         "availability": "verified_display",
@@ -102285,18 +102287,19 @@
         "hint_origin": "English build database.project internal labels",
         "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
       },
-      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "supersedes_batch": "0016"
     },
     {
       "id": "db/54/971/0",
       "source_sha256": "bc6b627eba880e4d3ed5e770325fcac03558665614d4d4e5329e2b84e642d248",
       "source": "Throw, 200000\r\n",
-      "translation": "投掷，200000\r\n",
-      "previous_translation": "丢 200000\r\n",
+      "translation": "投掷, 200000\r\n",
+      "previous_translation": "投掷，200000\r\n",
       "translation_method": "current_online_chat_llm",
       "review_status": "llm_translated",
       "human_reviewed": false,
-      "batch": "0016",
+      "batch": "0068",
       "japanese_check": {
         "text": "投げる,200000\r\n",
         "availability": "verified_display",
@@ -102310,18 +102313,19 @@
         "hint_origin": "English build database.project internal labels",
         "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
       },
-      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "supersedes_batch": "0016"
     },
     {
       "id": "db/54/972/0",
       "source_sha256": "27e49a5a97f4dbd84ea1b1af270f17f739883de156637a772842e943fb6b04bb",
       "source": "Pick up, 100002\r\n",
-      "translation": "拾取，100002\r\n",
-      "previous_translation": "接电话 100002\r\n",
+      "translation": "拾取, 100002\r\n",
+      "previous_translation": "拾取，100002\r\n",
       "translation_method": "current_online_chat_llm",
       "review_status": "llm_translated",
       "human_reviewed": false,
-      "batch": "0016",
+      "batch": "0068",
       "japanese_check": {
         "text": "拾う,100002\r\n",
         "availability": "verified_display",
@@ -102335,18 +102339,19 @@
         "hint_origin": "English build database.project internal labels",
         "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
       },
-      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "supersedes_batch": "0016"
     },
     {
       "id": "db/54/973/0",
       "source_sha256": "a2447bf7356092274aa17936ae9f9b0530628fb003f4585aea47987ca81e514c",
       "source": "Throw, 200003\r\n",
-      "translation": "投掷，200003\r\n",
-      "previous_translation": "丢 200003\r\n",
+      "translation": "投掷, 200003\r\n",
+      "previous_translation": "投掷，200003\r\n",
       "translation_method": "current_online_chat_llm",
       "review_status": "llm_translated",
       "human_reviewed": false,
-      "batch": "0016",
+      "batch": "0068",
       "japanese_check": {
         "text": "投げる,200003\r\n",
         "availability": "verified_display",
@@ -102360,18 +102365,19 @@
         "hint_origin": "English build database.project internal labels",
         "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
       },
-      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "supersedes_batch": "0016"
     },
     {
       "id": "db/54/974/0",
       "source_sha256": "3236d51eedd13019dbeb73d99a1080380a24697d2e338f25b4b2d5ce9b665871",
       "source": "Unequip, 100001",
-      "translation": "卸下，100001",
-      "previous_translation": "解开 100001",
+      "translation": "卸下, 100001",
+      "previous_translation": "卸下，100001",
       "translation_method": "current_online_chat_llm",
       "review_status": "llm_translated",
       "human_reviewed": false,
-      "batch": "0016",
+      "batch": "0068",
       "japanese_check": {
         "text": "装備解除,100001",
         "availability": "verified_display",
@@ -102385,18 +102391,19 @@
         "hint_origin": "English build database.project internal labels",
         "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
       },
-      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "supersedes_batch": "0016"
     },
     {
       "id": "db/54/975/0",
       "source_sha256": "1eb3c0b1ead44db77567edc4358f12925b60c686507109d8d360ef4cc0af9dcc",
       "source": "Drop, 200001\r\n",
-      "translation": "丢弃，200001\r\n",
-      "previous_translation": "放下枪 200001\r\n",
+      "translation": "丢弃, 200001\r\n",
+      "previous_translation": "丢弃，200001\r\n",
       "translation_method": "current_online_chat_llm",
       "review_status": "llm_translated",
       "human_reviewed": false,
-      "batch": "0016",
+      "batch": "0068",
       "japanese_check": {
         "text": "置く,200001\r\n",
         "availability": "verified_display",
@@ -102410,18 +102417,19 @@
         "hint_origin": "English build database.project internal labels",
         "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
       },
-      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "supersedes_batch": "0016"
     },
     {
       "id": "db/54/976/0",
       "source_sha256": "2dbfaf4c6bcdcad9db177fe7ca420196402d67c318d00786b4169070ba4c1df5",
       "source": "Shortcut, 400000\r\n",
-      "translation": "快捷栏，400000\r\n",
-      "previous_translation": "快捷键 400000\r\n",
+      "translation": "快捷栏, 400000\r\n",
+      "previous_translation": "快捷栏，400000\r\n",
       "translation_method": "current_online_chat_llm",
       "review_status": "llm_translated",
       "human_reviewed": false,
-      "batch": "0016",
+      "batch": "0068",
       "japanese_check": {
         "text": "登録/解除,400000\r\n",
         "availability": "verified_display",
@@ -102435,18 +102443,19 @@
         "hint_origin": "English build database.project internal labels",
         "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
       },
-      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "supersedes_batch": "0016"
     },
     {
       "id": "db/54/977/0",
       "source_sha256": "6120b8e233415b1bb73f9fce3ebeca033e6dd9e82ebfae0040dbe2d18d58b217",
       "source": "Use, 500000\r\n",
-      "translation": "使用，500000\r\n",
-      "previous_translation": "使用, 500000\r\n",
+      "translation": "使用, 500000\r\n",
+      "previous_translation": "使用，500000\r\n",
       "translation_method": "current_online_chat_llm",
       "review_status": "llm_translated",
       "human_reviewed": false,
-      "batch": "0016",
+      "batch": "0068",
       "japanese_check": {
         "text": "使う,500000\r\n",
         "availability": "verified_display",
@@ -102460,18 +102469,19 @@
         "hint_origin": "English build database.project internal labels",
         "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
       },
-      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "supersedes_batch": "0016"
     },
     {
       "id": "db/54/978/0",
       "source_sha256": "c7ac79a70faf2b4cc261529e9c4b6ee2b7da6465284a98a79f8067afe4fb201e",
       "source": "Talk, 500000\r\n",
-      "translation": "交谈，500000\r\n",
-      "previous_translation": "说吧 500000\r\n",
+      "translation": "交谈, 500000\r\n",
+      "previous_translation": "交谈，500000\r\n",
       "translation_method": "current_online_chat_llm",
       "review_status": "llm_translated",
       "human_reviewed": false,
-      "batch": "0016",
+      "batch": "0068",
       "japanese_check": {
         "text": "話す,500000\r\n",
         "availability": "verified_display",
@@ -102485,7 +102495,8 @@
         "hint_origin": "English build database.project internal labels",
         "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
       },
-      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "supersedes_batch": "0016"
     },
     {
       "id": "db/55/0/0",
@@ -102516,12 +102527,12 @@
       "id": "db/55/4/0",
       "source_sha256": "d62975fa5a28d8b0bcc8a3bd532234ba6398f8ece73fbc97ca4aabcdf0a40688",
       "source": "Cancel, 2\r\nContinue, -1",
-      "translation": "取消，2\r\n继续，-1",
-      "previous_translation": "取消 。 2\r\n继续说1",
+      "translation": "取消, 2\r\n继续, -1",
+      "previous_translation": "取消，2\r\n继续，-1",
       "translation_method": "current_online_chat_llm",
       "review_status": "llm_translated",
       "human_reviewed": false,
-      "batch": "0016",
+      "batch": "0068",
       "japanese_check": {
         "text": "終了する,2\r\nまだ続ける,-1",
         "availability": "verified_display",
@@ -102535,7 +102546,8 @@
         "hint_origin": "English build database.project internal labels",
         "note": "已从日版显示资源提取，按结构对齐；英日含义差异仍需逐条核对。 内部标签可能来自旧版本，仅供查证。"
       },
-      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call."
+      "provenance": "Authored entry by entry in the current online chat model. English display text and available Japanese context checked; absent Japanese originals explicitly recorded. No separate API or local machine translation model call.",
+      "supersedes_batch": "0016"
     },
     {
       "id": "db/55/32/0",

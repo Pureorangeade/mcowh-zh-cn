@@ -1,5 +1,5 @@
 {
-  "version": "0.3.2-panel-only",
+  "version": "0.3.3-menu-fix",
   "baseline": "0.3.0-llm-review",
   "database_display_records_checked": 5482,
   "approved_panel_fields_checked": 29,
@@ -13,5 +13,7 @@
     "db/58/157/1": "连击率",
     "db/58/159/1": "鉴定率"
   },
-  "death_variable_runtime_issue_fixed": false
+  "death_variable_runtime_issue_fixed": false,
+  "menu_syntax_fix_fields": 12,
+  "display_menu_templates_checked": 18
 }

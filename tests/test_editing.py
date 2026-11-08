@@ -18,7 +18,7 @@ from PIL import Image
 
 
 class EditingTests(unittest.TestCase):
-    def test_only_requested_panel_text_differs_from_frozen_030(self):
+    def test_only_requested_panel_and_menu_syntax_differs_from_frozen_030(self):
         import zipfile
         from editing import load_edits
         with zipfile.ZipFile(ROOT/'dist/MCOWH-zh-CN-0.3.0-llm-review-source.zip') as z:
@@ -30,8 +30,9 @@ class EditingTests(unittest.TestCase):
         self.assertEqual(fields['terms']['MOV'],'移速')
         self.assertTrue(set(fields['terms']).isdisjoint({'HP','ST','EN','Lv','Exp','WT'}))
         changed={r['id'] for r in self.records if current.get(r['id'],{}).get('translation',r['translation'])!=before.get(r['id'],r['translation'])}
-        self.assertEqual(changed,set(fields['fields']))
-        self.assertEqual(len(changed),29)
+        menus=json.loads((ROOT/'translations/menu-command-fields.json').read_text('utf8'))['fields']
+        self.assertEqual(changed,set(fields['fields'])|set(menus))
+        self.assertEqual(len(changed),41)
 
     @classmethod
     def setUpClass(cls):

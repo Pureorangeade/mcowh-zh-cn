@@ -1,6 +1,6 @@
 # 开发与本地构建
 
-开发工具使用Python 3.12和requirements.txt列出的依赖，编辑器核心检查使用Node.js。发行程序在Windows通过PyInstaller打包，玩家不需要这些依赖。
+当前发行版为0.3.3-menu-fix。Python 3.12及依赖：
 
 ```powershell
 python -m venv .venv
@@ -9,46 +9,33 @@ python -m pip install -r requirements.txt
 node tests/editor_core.test.js
 ```
 
-仓库不含原游戏资源、本机备份或存档。历史开发记录中的绝对路径、build、work、dist和截图位置属于原开发环境，不是干净克隆后自动具备的内容。相关原始资源测试需要自行准备合法的Steam英文版build 1527978；日文正文对照来源为日语资源depot 409003。不要把原游戏数据提交到仓库。
+仓库不含原游戏资源或存档。部分工具默认GAME为仓库上一级目录，可将源码放入游戏目录下的_zh_patch；构建和安装测试始终使用隔离副本，不写回实际游戏。work/baseline.json可从profiles/steam-1527978.json复制，原版英文build 1527978资源需由开发者本机提供。
 
-当前Python工具以所在仓库为PROJECT，部分读取GAME默认指向PROJECT的上一级目录。可将源码放在游戏目录下的_zh_patch文件夹中；支持--game或--source参数的工具也可显式指定隔离副本。构建和测试应始终使用隔离目录，不将产物直接写回实际游戏，也不修改存档。
+## 当前0.3.3构建
 
-## 0.3.2最小构建的输入
-
-本版必须复用冻结0.3.0资源，不能重新渲染字体、图片或重译整库。需要：
-
-1. work/baseline.json：Steam英文版文件哈希基线，已公开在profiles/steam-1527978.json；复制到work后使用。
-2. work/clean-fixture：与基线匹配的英文原版隔离副本，包含安装器需要的13个资源文件和原版可执行文件；这些文件由开发者本机提供。
-3. dist/MCOWH-zh-CN-0.3.0-llm-review.zip及对应-source.zip：冻结0.3.0发布包，哈希记录见docs/package-verification-0.3.0.json。
-4. dist/MCOWH-zh-CN-0.3.0-llm-review/patch.mcpatch：上述玩家ZIP中的差分包。
-5. build/0.3.0-llm-review：用冻结差分包及干净英文副本重建的旧版资源。bundle.prepare提供重建入口，产物不需安装到游戏。
-
-Releases中的MCOWH-development-baseline-0.3.0.zip包含第3项的两个冻结旧ZIP，将其解压到dist，再从旧玩家ZIP取出patch.mcpatch到第4项路径。它只包含旧发布差分和源码，不含原游戏BIN；第2项原版资源仍需开发者自行提供。这些输入不等同于GitHub自动生成的源码ZIP，不要自行猜造基线。
-
-重建第5项示例（先确认项目根目录下的work/clean-fixture与profiles基线匹配）：
+需要work/clean-fixture中的干净英文副本，以及冻结0.3.2玩家ZIP和-source.zip，哈希见docs/package-verification-0.3.2.json。可从GitHub历史v0.3.2-panel-only Release下载两个原始附件到dist；从玩家ZIP取出patch.mcpatch，放入dist/MCOWH-zh-CN-0.3.2-panel-only/。
 
 ```powershell
-python -c "import sys; from pathlib import Path; sys.path.insert(0,'tools'); from bundle import prepare; prepare(Path('dist/MCOWH-zh-CN-0.3.0-llm-review/patch.mcpatch'),Path('work/clean-fixture'),Path('build/0.3.0-llm-review'))"
-```
-
-准备完输入后：
-
-```powershell
-python tools/build_panel_only.py
+python -c "import sys; from pathlib import Path; sys.path.insert(0,'tools'); from bundle import prepare; prepare(Path('dist/MCOWH-zh-CN-0.3.2-panel-only/patch.mcpatch'),Path('work/clean-fixture'),Path('build/0.3.2-panel-only'))"
+python tools/build_menu_fix.py
 python tools/verify_panel_only.py
 python tools/bundle.py
-python -m unittest discover -s tests -q
-node tests/editor_core.test.js
 ```
 
-完整测试还依赖此前解包的work/extracted、图片索引/原图和本机Noto Sans SC字体。tests/editor_browser.test.js使用Windows Edge隔离无头配置；无这些输入时不能宣称完整测试通过。
+build_menu_fix.py只改冻结0.3.2中的12个菜单配置字段；不重新渲染字体、图片或重译。build_panel_only.py保留为0.3.2历史构建入口，在当前版本会拒绝运行，以免漏掉菜单修复。
 
-打包独立程序：
+完整测试还需work/extracted原始字体/数据库/脚本、work/textures的原始图片和索引，以及Noto Sans SC字体；tests/editor_browser.test.js使用Windows Edge隔离无头配置。测试对比冻结0.3.0源码，需取得历史Release中的MCOWH-development-baseline-0.3.0.zip并将其中两个旧ZIP放入dist。缺少本机输入时不能宣称完整测试通过。
 
 ```powershell
-python -m PyInstaller --noconfirm --onefile --windowed --name MCOWH_Chinese_Patch --distpath dist/MCOWH-zh-CN-0.3.2-panel-only --workpath build/pyinstaller-0.3.2 --specpath build tools/installer.py
+python -m unittest discover -s tests -q
+node tests/editor_core.test.js
+python tools/editor_data.py
+node tests/editor_browser.test.js
+python -m PyInstaller --noconfirm --onefile --windowed --name MCOWH_Chinese_Patch --distpath dist/MCOWH-zh-CN-0.3.3-menu-fix --workpath build/pyinstaller-0.3.3 --specpath build tools/installer.py
 python tools/verify_release.py
 python tools/make_release.py
 ```
 
-verify_release在work隔离目录中验证安装和还原，不启动游戏。具备冻结0.3.0、0.3.1差分包时，会覆盖这两版的还原兼容性。发布前确认版本号、差分和EXE哈希匹配验证记录，再上传玩家ZIP和SHA256校验文件到Release。不要将原游戏BIN、EXE或展开后的字体/图片上传。
+独立EXE在work/release-test-0.3.3-menu-fix验证安装与还原；具备冻结0.3.0和0.3.2差分包时覆盖这两版还原兼容性。发布前核对EXE、差分、生成的玩家ZIP与验证记录，源码及玩家分发包均不包含原游戏BIN或存档。玩家无需这些开发依赖。
+
+菜单模板中的ASCII逗号、其后空格、整数动作编号和行结束符属于程序格式。只翻译标签；Python导入/构建及编辑器导出均拒绝破坏这些字段。详见MENU_FIX_0068.md。

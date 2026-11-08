@@ -92,12 +92,26 @@ class LlmWorkflowTests(unittest.TestCase):
         from editing import base_catalogue,validate_edits,load_edits
         from localization import digest
         records=base_catalogue();by_id={r['id']:r for r in records}
+        current=load_edits(records)
+        menu_fixes=json.loads((ROOT/'translations/menu-command-fields.json').read_text('utf8'))['fields']
         paths=sorted((ROOT/'translations/llm-batches').glob('[0-9][0-9][0-9][0-9].json'))
         self.assertGreaterEqual(len(paths),4)
         batches={}
         for path in paths:
             payload=json.loads(path.read_text('utf8'))
-            changes=validate_edits(payload,records)
+            # Preserve the known-broken historical drafts for provenance. Only
+            # their documented, superseded menu suffixes are repaired in a copy
+            # when applying the stricter validator introduced in batch 0068.
+            validation_payload={**payload,'entries':[]}
+            for edit in payload['entries']:
+                fix=menu_fixes.get(edit['id'])
+                if fix and edit['translation']==fix['baseline_032_translation']:
+                    self.assertLess(payload['batch'],'0068')
+                    self.assertEqual(current[edit['id']]['batch'],'0068')
+                    validation_payload['entries'].append({**edit,'translation':fix['translation']})
+                else:validation_payload['entries'].append(edit)
+            validate_edits(validation_payload,records)
+            changes={e['id']:e for e in payload['entries']}
             batches[payload['batch']]=changes
             if payload.get('authored_text_sha256'):
                 text_path=path.with_name(path.stem+'-text.json')

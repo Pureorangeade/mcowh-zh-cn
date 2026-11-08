@@ -9,6 +9,8 @@ from resources import Archive, PROJECT, rebuild, sha256
 
 
 def main():
+    if PATCH_VERSION!='0.3.2-panel-only':
+        raise ValueError('Use build_menu_fix.py for the current release; this builder is frozen to 0.3.2.')
     pinned = json.loads((PROJECT/'docs/package-verification-0.3.0.json').read_text('utf8'))
     for key in ['player_zip', 'source_zip']:
         assert sha256(PROJECT/'dist'/pinned[key]) == pinned[key+'_sha256']

@@ -4806,5 +4806,13 @@
       "note": "Outside the requested minimal patch; $dead remains unchanged from 0.3.0.",
       "evidence_doc": "docs/DEATH_TEXT_FOLLOWUP.md"
     }
-  ]
+  ],
+  "menu_syntax_fix_0068": {
+    "status": "implemented",
+    "baseline": "0.3.2-panel-only",
+    "batch": "0068",
+    "fixed_fields": 12,
+    "policy_file": "translations/menu-command-fields.json",
+    "rule": "Translate menu label only; preserve ASCII comma, spacing, signed action ID and row ending. Old malformed menu drafts are superseded, never exempt current imports."
+  }
 }

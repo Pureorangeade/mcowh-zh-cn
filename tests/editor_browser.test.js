@@ -26,6 +26,13 @@ class CDP{
   await client.value("select(byId.get('db/58/140/1'))");
   assert.equal(await client.value("document.getElementById('target').value"),'力量');
   assert.equal(await client.value("document.getElementById('target').readOnly"),false);
+  await client.value("select(byId.get('db/54/977/0'))");
+  assert.equal(await client.value("document.getElementById('target').value"),'使用, 500000\n');
+  await client.value("document.getElementById('target').value='使用，500000\\n';saveInput();document.getElementById('export').click()");
+  assert.ok((await client.value("document.getElementById('validation').textContent")).includes('英文逗号'));
+  assert.ok((await client.value("document.getElementById('message').textContent")).startsWith('暂不能导出'));
+  await client.value("document.getElementById('reset').click()");
+  assert.equal(await client.value("validateEdit(current,translated(current))"),'');
   await client.value("select(byId.get('db/6/35/0'))");
   assert.equal(await client.value("document.getElementById('japanese').value"),'堕天の羽根');
   assert.ok((await client.value("document.getElementById('japaneseHint').textContent")).includes('魔王の心臓'));
@@ -108,6 +115,7 @@ class CDP{
   const report={version:'working English/Japanese/Chinese editor',browser:'Microsoft Edge headless, isolated profile',entries:12204,llm_entries:modelCount,japanese_entries:japaneseCount,checks:['page loads','English and Japanese read-only','actual Japanese display source visible','remaining missing Japanese original explicit','internal Japanese hint separated from display original','internal command readonly and preserved','user-resolved phrase translated and removed from final-review filter','confirmed current-version item removed from final-review filter','final-review mark exported and survives reload','final-review filter','cancel deferral preserves Chinese draft','LLM-only filter','translation provenance retained on export','older empty cache preserves new embedded translations','reset restores embedded LLM translation','user edit distinguished from LLM translation','edit and export JSON','browser draft reload','abbreviation locked','invalid controls blocked','unfinished draft retained after reload'],screenshot:'editor.png'};
   report.checks.push('source-version difference flagged with its question and retained English meaning');
   report.llm_draft_entries=modelDraftCount;
+  report.checks.push('menu action separator corruption rejected by visible editor and export');
   report.checks.push('pending terminology overrides completed-model status','pending question evidence shown in editor');
   report.pending_check_fixture=syntheticPending?'isolated in-page fixture; no real unanswered questions':'current pending questions, including reload';
   fs.writeFileSync(path.join(folder,'report.json'),JSON.stringify(report,null,2));

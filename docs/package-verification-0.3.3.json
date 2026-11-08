@@ -1,0 +1,18 @@
+{
+  "version": "0.3.3-menu-fix",
+  "date": "2026-11-08",
+  "baseline": "0.3.2-panel-only",
+  "player_zip": "MCOWH-zh-CN-0.3.3-menu-fix.zip",
+  "player_zip_bytes": 24192183,
+  "player_zip_sha256": "8b8232bd31c9090948967b59fab807fdb4a15e9b216c5e5321ba9fe11eaacbd7",
+  "source_zip": "MCOWH-zh-CN-0.3.3-menu-fix-source.zip",
+  "source_zip_sha256": "b6b135ac260b476b9bc798d073e29e736d540d3f47be0526063f4c5d4bac77bc",
+  "all_player_file_hashes_verified": 32,
+  "source_canonical_batches": 67,
+  "packaged_editor_matches_verified_working_editor": true,
+  "changed_database_fields": 12,
+  "other_200_resource_payloads_identical_to_032": true,
+  "original_030_and_032_packages_preserved": true,
+  "actual_game_modified": false,
+  "runtime_display_verified": false
+}
